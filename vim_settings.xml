@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489711349397">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="24" />
-        <mark key="^" line="78" column="24" />
-        <mark key="." line="78" column="24" />
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489716990197">
+        <mark key="'" line="191" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="190" column="27" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489709379737">
+      <file name="/Dummy.txt" timestamp="1489716997211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -19,6 +19,10 @@
         <mark key="^" line="129" column="38" />
         <mark key="." line="129" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1489716627457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Solution-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489716616502" />
       <file name="$USER_HOME$/AndroidStudioProjects/LayoutPractice/app/src/main/java/com/example/james/layoutpractice/MainActivity.java" timestamp="1483309899987">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -27,35 +31,64 @@
     </filemarks>
     <jumps>
       <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
+      <jump line="123" column="12" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
+      <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IERlY2xhcmUgYSBWZWN0b3IyIHRvIGhvbGQgdGhlIGJhbGwncyB0YXJnZXQgcG9zaXRpb24K</text>
-      </register>
       <register name="&quot;" type="4">
         <text>f</text>
       </register>
+      <register name="-" type="4">
+        <text>, screenY)</text>
+      </register>
+      <register name="/" type="4">
+        <text>TODO</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IERlY2xhcmUgYSBib29sZWFuIHRvIGhvbGQgd2hldGhlciB0aGUgYmFsbCBpcyBmb2xsb3dpbmcgc29tZXRoaW5nIChhbmQgc2V0IGl0IHRvIGZhbHNlKQo=</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXNldCB0aGUgZm9sbG93aW5nIGZsYWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5uLmFuaW1hdGUoKS5zY2FsZVgoMC41Zikuc2NhbGVZKDAuNWYpLnJvdGF0aW9uKDE4MDBmKS5zZXREdXJhdGlvbigyMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiB3ZSdyZSBmb2xsb3dpbmcsIHRoZW4gdXBkYXRlIHRoZSB0YXJnZXQgcG9zaXRpb24gKHJlbWVtYmVyIHRvIHVucHJvamVjdCB0aGUgdG91Y2ggbG9jYXRpb24pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2V0IHRoZSBmb2xsb3dpbmcgZmxhZwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2V0IHRoZSB0YXJnZXQgcG9zaXRpb24K</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgoKCgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgdGhlIHZlbG9jaXR5IHRvIHRoYXQgdmVjdG9yIHRpbWVzIHRoZSBGT0xMT1dfTVVMVElQTElFUgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>f</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>TODO</last-search>
+      <last-offset />
+      <last-pattern>TODO</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>TODO</entry>
+      </history-search>
       <history-cmd>
         <entry>2w</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -73,6 +106,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
