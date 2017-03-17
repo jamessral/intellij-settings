@@ -7,25 +7,4 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="comma" second-keystroke="t" />
   </action>
-  <action id="VimWindowClose">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="c" />
-  </action>
-  <action id="VimWindowDown">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="j" />
-  </action>
-  <action id="VimWindowLeft">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="h" />
-  </action>
-  <action id="VimWindowRight">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="l" />
-  </action>
-  <action id="VimWindowSplitHorizontal">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="s" />
-  </action>
-  <action id="VimWindowSplitVertical">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="v" />
-  </action>
-  <action id="VimWindowUp">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="k" />
-  </action>
 </keymap>
