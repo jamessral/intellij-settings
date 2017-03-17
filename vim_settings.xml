@@ -10,7 +10,7 @@
         <mark key="^" line="190" column="27" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489716997211">
+      <file name="/Dummy.txt" timestamp="1489717777014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -19,10 +19,16 @@
         <mark key="^" line="129" column="38" />
         <mark key="." line="129" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" timestamp="1489717771199">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="111" column="31" />
+        <mark key="]" line="112" column="17" />
+        <mark key="." line="112" column="17" />
+        <mark key="^" line="112" column="17" />
+      </file>
       <file name="/a.dummy" timestamp="1489716627457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Solution-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489716616502" />
       <file name="$USER_HOME$/AndroidStudioProjects/LayoutPractice/app/src/main/java/com/example/james/layoutpractice/MainActivity.java" timestamp="1483309899987">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -33,13 +39,17 @@
       <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
       <jump line="123" column="12" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
       <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
+      <jump line="110" column="48" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
+      <jump line="89" column="8" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>, screenY)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -80,7 +90,7 @@
       <last-offset />
       <last-pattern>TODO</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
