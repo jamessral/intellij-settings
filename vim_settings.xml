@@ -10,7 +10,7 @@
         <mark key="^" line="190" column="27" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489788899438">
+      <file name="/Dummy.txt" timestamp="1489790184258">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -22,10 +22,28 @@
       <file name="/a.dummy" timestamp="1489716627457">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesGame.java" timestamp="1489789140623">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1489790487529">
+        <mark key="'" line="19" column="86" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="61" column="34" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/DifficultyScreen.java" timestamp="1489780279848">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="57" />
+        <mark key="^" line="25" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489781147825">
         <mark key="[" line="15" column="0" />
@@ -33,12 +51,23 @@
         <mark key="^" line="68" column="31" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489789705131">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="12" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" timestamp="1489717832765">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="111" column="31" />
         <mark key="]" line="112" column="17" />
         <mark key="." line="112" column="17" />
         <mark key="^" line="112" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Icicle.java" timestamp="1489789133485">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489780268213">
         <mark key="[" line="15" column="30" />
@@ -81,13 +110,14 @@
       <jump line="89" column="8" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
+      <jump line="19" column="86" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Player.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>Color.WHITE</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -96,31 +126,31 @@
         <text>Constants.BACKGROUND_COLOR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIHJlbmRlciBmdW5jdGlvbiB0aGF0IHRha2VzIGEgU2hhcGVSZW5kZXJlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIucnVudGltZS5yZWZsZWN0Lm9wdC5Db25zdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETzogY2FsbCBzZXRTY3JlZW4oKSB3aXRoIGEgbmV3IEljaWNsZXNTY3JlZW4oKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSBhIHJlbmRlciBmdW5jdGlvbiB0aGF0IGFjY2VwdHMgYSBTaGFwZVJlbmRlcmVyIGFuZCBkb2VzIHRoZSBhY3R1YWwgZHJhd2luZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhbiBFeHRlbmRWaWV3cG9ydAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIFBsYXllciAoY29tcGxldGUgUGxheWVyLmphdmEgZmlyc3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDYWxsIHJlbmRlcigpIG9uIHRoZSBwbGF5ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXNldCB0aGUgcGxheWVyICh1c2luZyBpbml0KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIHRoZSBwbGF5ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IHRoZSBpY2ljbGUgdXNpbmcgdGhlIHNpemUgY29uc3RhbnRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -166,6 +196,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
