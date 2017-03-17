@@ -1,16 +1,4 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ActivateAndroidMonitorToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-    <keyboard-shortcut first-keystroke="comma" second-keystroke="n" />
-  </action>
-  <action id="ActivateTODOToolWindow" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-    <keyboard-shortcut first-keystroke="comma" second-keystroke="t" />
-  </action>
   <action id="VimWindowClose">
     <keyboard-shortcut first-keystroke="space" second-keystroke="c" />
   </action>
