@@ -19,6 +19,14 @@
         <mark key="^" line="129" column="38" />
         <mark key="." line="129" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1489716627457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/DifficultyScreen.java" timestamp="1489780279848">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" timestamp="1489717832765">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="111" column="31" />
@@ -26,8 +34,11 @@
         <mark key="." line="112" column="17" />
         <mark key="^" line="112" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1489716627457">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489780268213">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/LayoutPractice/app/src/main/java/com/example/james/layoutpractice/MainActivity.java" timestamp="1483309899987">
         <mark key="[" line="21" column="0" />
@@ -58,37 +69,37 @@
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETzogU2V0IHVwIERpZmZpY3VsdHlTY3JlZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgY29sb3Igb2YgdGhlIGljaWNsZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgd2lkdGggb2YgdGhlIGljaWNsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgaGVpZ2h0IG9mIHRoZSBpY2ljbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBHZXQgdGhlIGFjY2VsZXJvbWV0ZXIgcmVhZGluZyBmb3IgdGhlIHkgYXhpcwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgYmFja2dyb3VuZCBjb2xvciBvZiB0aGUgd29ybGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgd29ybGQgc2l6ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBHZXQgdGhlIGFjY2VsZXJvbWV0ZXIgcmVhZGluZyBmb3IgdGhlIHggYXhpcyAocmVtZW1iZXIgdGhhdCB0aGUgcmVhZGluZyB3aWxsIGJlIHJlbGF0aXZlIHRvIHRoZSBwb3J0cmFpdCBkZXZpY2Ugb3JpZW50YXRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IERlY2xhcmUgYSBib29sZWFuIHRvIGhvbGQgd2hldGhlciB0aGUgYmFsbCBpcyBmb2xsb3dpbmcgc29tZXRoaW5nIChhbmQgc2V0IGl0IHRvIGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXNldCB0aGUgZm9sbG93aW5nIGZsYWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
