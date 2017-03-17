@@ -34,6 +34,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.10-Exercise-AccelerometerMovement/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489777104389">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="45" />
+        <mark key="^" line="102" column="45" />
+        <mark key="." line="102" column="45" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
@@ -49,37 +55,37 @@
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">YWNjZWwg</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IERlY2xhcmUgYSBib29sZWFuIHRvIGhvbGQgd2hldGhlciB0aGUgYmFsbCBpcyBmb2xsb3dpbmcgc29tZXRoaW5nIChhbmQgc2V0IGl0IHRvIGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXNldCB0aGUgZm9sbG93aW5nIGZsYWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiB3ZSdyZSBmb2xsb3dpbmcsIHRoZW4gdXBkYXRlIHRoZSB0YXJnZXQgcG9zaXRpb24gKHJlbWVtYmVyIHRvIHVucHJvamVjdCB0aGUgdG91Y2ggbG9jYXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBHZXQgdGhlIGFjY2VsZXJvbWV0ZXIgcmVhZGluZyBmb3IgdGhlIHkgYXhpcwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBHZXQgdGhlIGFjY2VsZXJvbWV0ZXIgcmVhZGluZyBmb3IgdGhlIHggYXhpcyAocmVtZW1iZXIgdGhhdCB0aGUgcmVhZGluZyB3aWxsIGJlIHJlbGF0aXZlIHRvIHRoZSBwb3J0cmFpdCBkZXZpY2Ugb3JpZW50YXRpb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2V0IHRoZSBmb2xsb3dpbmcgZmxhZwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IERlY2xhcmUgYSBib29sZWFuIHRvIGhvbGQgd2hldGhlciB0aGUgYmFsbCBpcyBmb2xsb3dpbmcgc29tZXRoaW5nIChhbmQgc2V0IGl0IHRvIGZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2V0IHRoZSB0YXJnZXQgcG9zaXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXNldCB0aGUgZm9sbG93aW5nIGZsYWcK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgoKCgo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiB3ZSdyZSBmb2xsb3dpbmcsIHRoZW4gdXBkYXRlIHRoZSB0YXJnZXQgcG9zaXRpb24gKHJlbWVtYmVyIHRvIHVucHJvamVjdCB0aGUgdG91Y2ggbG9jYXRpb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgdGhlIHZlbG9jaXR5IHRvIHRoYXQgdmVjdG9yIHRpbWVzIHRoZSBGT0xMT1dfTVVMVElQTElFUgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
