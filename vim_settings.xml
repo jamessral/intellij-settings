@@ -27,6 +27,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489780743638">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="69" column="31" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" timestamp="1489717832765">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="111" column="31" />
@@ -47,6 +53,12 @@
       </file>
       <file name="/fragment.java" timestamp="1489779823224">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Icicle.java" timestamp="1489781028064">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.10-Exercise-AccelerometerMovement/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489777261591">
         <mark key="[" line="107" column="36" />
@@ -69,37 +81,40 @@
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Color.WHITE</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
+      <register name="0" type="4">
+        <text>Constants.BACKGROUND_COLOR</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETzogU2V0IHVwIERpZmZpY3VsdHlTY3JlZW4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgY29sb3Igb2YgdGhlIGljaWNsZXMK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgd2lkdGggb2YgdGhlIGljaWNsZQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbi55ID0gcG9zLnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgaGVpZ2h0IG9mIHRoZSBpY2ljbGUK</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbi54ID0gcG9zLng7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgYmFja2dyb3VuZCBjb2xvciBvZiB0aGUgd29ybGQK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0cnVjdG9yIHRoYXQgc2V0cyB0aGUgcG9zaXRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0YW50IGZvciB0aGUgd29ybGQgc2l6ZQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGNvbnN0cnVjdG9yIHRoYXQgc2V0cyB0aGUgcG9zaXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIFZlY3RvcjIgcG9zaXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IERpc3Bvc2Ugb2YgdGhlIFNoYXBlUmVuZGVyZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IHRoZSBJY2ljbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -142,6 +157,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
