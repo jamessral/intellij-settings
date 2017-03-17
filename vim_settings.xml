@@ -10,7 +10,7 @@
         <mark key="^" line="190" column="27" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489790184258">
+      <file name="/Dummy.txt" timestamp="1489790973413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -18,6 +18,12 @@
         <mark key="]" line="129" column="38" />
         <mark key="^" line="129" column="38" />
         <mark key="." line="129" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1489791133170">
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="41" column="47" />
+        <mark key="^" line="40" column="86" />
       </file>
       <file name="/a.dummy" timestamp="1489716627457">
         <mark key="[" line="0" column="0" />
@@ -69,6 +75,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489791043923">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489780268213">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="56" />
@@ -80,6 +92,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790724596">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="49" column="7" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/LayoutPractice/app/src/main/java/com/example/james/layoutpractice/MainActivity.java" timestamp="1483309899987">
         <mark key="[" line="21" column="0" />
@@ -117,40 +135,40 @@
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICsgQ29uc3RhbnRzLlBMQVlFUl9IRUFEX1JBRElVUw==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="4">
-        <text>Constants.BACKGROUND_COLOR</text>
+        <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24ueCA8IDApIHsKICAgICAgICAgICAgcG9zaXRpb24ueCA9IDA7CiAgICAgICAgfSBlbHNlIGlmIChwb3NpdGlvbi54ID4gQ29uc3RhbnRzLldPUkxEX1NJWkUgLSBDb25zdGFudHMuUExBWUVSX0hFQURfUkFESVVTKSB7CiAgICAgICAgICAgIHBvc2l0aW9uLnggPSBDb25zdGFudHMuV09STERfU0laRSAtIENvbnN0YW50cy5QTEFZRVJfSEVBRF9SQURJVVMKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIucnVudGltZS5yZWZsZWN0Lm9wdC5Db25zdDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSBhIHJlbmRlciBmdW5jdGlvbiB0aGF0IGFjY2VwdHMgYSBTaGFwZVJlbmRlcmVyIGFuZCBkb2VzIHRoZSBhY3R1YWwgZHJhd2luZwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIFBsYXllciAoY29tcGxldGUgUGxheWVyLmphdmEgZmlyc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb24ueCA9IENvbnN0YW50cy5XT1JMRF9TSVpFIC0gQ29uc3RhbnRzLlBMQVlFUl9IRUFEX1JBRElVUwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDYWxsIHJlbmRlcigpIG9uIHRoZSBwbGF5ZXIK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHBvc2l0aW9uLnggPiBDb25zdGFudHMuV09STERfU0laRSAtIENvbnN0YW50cy5QTEFZRVJfSEVBRF9SQURJVVMpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXNldCB0aGUgcGxheWVyICh1c2luZyBpbml0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb24ueSA9IENvbnN0YW50cy5XT1JMRF9TSVpFOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIHRoZSBwbGF5ZXIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24ueSA8IENvbnN0YW50cy5XT1JMRF9TSVpFKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21wbGV0ZSB0aGlzIGZ1bmN0aW9uIHRvIGVuc3VyZSB0aGUgcGxheWVyIGlzIHdpdGhpbiB0aGUgdmlld3BvcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgR2R4LmlucHV0LmlzS2V5UHJlc3NlZCgpIHRvIG1vdmUgdGhlIHBsYXllciBpbiB0aGUgYXBwcm9wcmlhdGUgZGlyZWN0aW9uIHdoZW4gYW4gYXJyb3cga2V5IGlzIHByZXNzZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
