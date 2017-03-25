@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470151657">
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="84" />
+        <mark key="." line="37" column="84" />
+        <mark key="^" line="37" column="84" />
+      </file>
       <file name="/Dummy.txt" timestamp="1490411835418">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,7 +159,7 @@
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgQ29uc3RhbnRzLlBMQVlFUl9IRUFEX1JBRElVUyAqIDI=</text>
+        <text>IZE + Constants.PLAYER_HEAD_RADIUS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0aWNcPg==</text>
@@ -242,6 +248,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
