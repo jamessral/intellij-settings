@@ -93,7 +93,7 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490473275674">
+      <file name="/Dummy.txt" timestamp="1490561454533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489780268213">
@@ -148,6 +148,18 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="36" column="40" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1490561511374">
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490561716197">
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="80" />
+        <mark key="." line="54" column="80" />
+        <mark key="^" line="54" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1490471876927">
         <mark key="[" line="57" column="23" />
@@ -205,7 +217,7 @@
         <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>== 0f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -214,31 +226,31 @@
         <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24ueCA8IDApIHsKICAgICAgICAgICAgcG9zaXRpb24ueCA9IDA7CiAgICAgICAgfSBlbHNlIGlmIChwb3NpdGlvbi54ID4gQ29uc3RhbnRzLldPUkxEX1NJWkUgLSBDb25zdGFudHMuUExBWUVSX0hFQURfUkFESVVTKSB7CiAgICAgICAgICAgIHBvc2l0aW9uLnggPSBDb25zdGFudHMuV09STERfU0laRSAtIENvbnN0YW50cy5QTEFZRVJfSEVBRF9SQURJVVMKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDaGVjayBpZiB0aGUgcGxheWVyIHdhcyBoaXQgYnkgYW4gaWNpY2xlLiBJZiBzbywgcmVzZXQgdGhlIGljaWNsZXMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBFbmQgcmVtb3ZhbCBzZXNzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBMb29wIG92ZXIgaWNpY2xlcywgY2hlY2tpbmcgaWYgdGhlIHBvaW50IG9mIGFueSBpY2ljbGUgaXMgd2l0aGluIHRoZSBwbGF5ZXIncyBoZWFkCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW1vdmUgYW55IGljaWNsZSBjb21wbGV0ZWx5IG9mZiB0aGUgYm90dG9tIG9mIHRoZSBzY3JlZW4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBFbmQgcmVtb3ZhbCBzZXNzaW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW5kZXIgSWNpY2xlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVcGRhdGUgSWNpY2xlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXNldCBpY2ljbGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW1vdmUgYW55IGljaWNsZSBjb21wbGV0ZWx5IG9mZiB0aGUgYm90dG9tIG9mIHRoZSBzY3JlZW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGljaWNsZXMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW5kZXIgSWNpY2xlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -249,7 +261,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxlXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
