@@ -107,7 +107,13 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491342786860">
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/build.gradle" timestamp="1491343690086">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491344409446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489780268213">
@@ -158,6 +164,12 @@
         <mark key="]" line="12" column="46" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="12" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="25" />
+        <mark key="^" line="74" column="25" />
+        <mark key="." line="74" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470620533">
         <mark key="[" line="34" column="0" />
@@ -222,6 +234,7 @@
       <jump line="20" column="19" filename="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicle.java" />
       <jump line="15" column="22" filename="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicle.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicle.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -233,7 +246,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>seconds</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -242,28 +255,28 @@
         <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24ueCA8IDApIHsKICAgICAgICAgICAgcG9zaXRpb24ueCA9IDA7CiAgICAgICAgfSBlbHNlIGlmIChwb3NpdGlvbi54ID4gQ29uc3RhbnRzLldPUkxEX1NJWkUgLSBDb25zdGFudHMuUExBWUVSX0hFQURfUkFESVVTKSB7CiAgICAgICAgICAgIHBvc2l0aW9uLnggPSBDb25zdGFudHMuV09STERfU0laRSAtIENvbnN0YW50cy5QTEFZRVJfSEVBRF9SQURJVVMKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgZ2V0S2V5RnJhbWUoKSB0byBnZXQgdGhlIHJpZ2h0IGZyYW1lIGZyb20gdGhlIHdhbGsgbG9vcAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEaXNwb3NlIG9mIHRoZSBBc3NldE1hbmFnZXIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21wdXRlIHRoZSBlbGFwc2VkIHRpbWUgaW4gc2Vjb25kcyBzaW5jZSBzdGFydFRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmbG9hdCBzY2FsZVksIGZsb2F0IHJvdGF0aW9uLCBpbnQgc3JjWCwgaW50IHNyY1ksIGludCBzcmNXaWR0aCwgaW50IHNyY0hlaWdodCwgYm9vbGVhbiBmbGlwWCwgYm9vbGVhbiBmbGlwWSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkcmF3IChUZXh0dXJlIHRleHR1cmUsIGZsb2F0IHgsIGZsb2F0IHksIGZsb2F0IG9yaWdpblgsIGZsb2F0IG9yaWdpblksIGZsb2F0IHdpZHRoLCBmbG9hdCBoZWlnaHQsIGZsb2F0IHNjYWxlWCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2UgV0FMS19MT09QX0ZSQU1FX0RVUkFUSU9OCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBIaW50LCB5b3UgbmVlZCB0byB1c2UgdGhlIHNvbWV3aGF0IGhvcnJpZmljIHZlcnNpb24gb2YgZHJhdyB3aXRoIHNpZ25hdHVyZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIHdhbGtMb29wIHdpdGggYSBuZXcgYW5pbWF0aW9uIGluIExPT1BfUElOR1BPTkcgbW9kZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IHRoZSBzdGFuZGluZyByaWdodCBBdGxhc1JlZ2lvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBQb3B1bGF0ZSB5b3VyIEF0bGFzUmVnaW9uIHVzaW5nIGZpbmRSZWdpb24oKSBvbiB5b3VyIEF0bGFzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgd2Fsay0zLXJpZ2h0LnBuZyB0byB3YWxrTG9vcFRleHR1cmVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
