@@ -9,6 +9,12 @@
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.04-Exercise-TextureDrawing/core/src/com/udacity/gamedev/texturedrawing/TextureDrawing.java" timestamp="1491341455797">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="45" />
+        <mark key="^" line="38" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.10-Exercise-AccelerometerMovement/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489777261591">
         <mark key="[" line="107" column="36" />
         <mark key="]" line="107" column="42" />
@@ -95,7 +101,7 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491340441804">
+      <file name="/Dummy.txt" timestamp="1491341128932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489780268213">
@@ -209,8 +215,13 @@
       <register name="&quot;" type="4">
         <text>f</text>
       </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="65535" code="9" mods="0" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text>ApplicationType()</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -219,31 +230,31 @@
         <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24ueCA8IDApIHsKICAgICAgICAgICAgcG9zaXRpb24ueCA9IDA7CiAgICAgICAgfSBlbHNlIGlmIChwb3NpdGlvbi54ID4gQ29uc3RhbnRzLldPUkxEX1NJWkUgLSBDb25zdGFudHMuUExBWUVSX0hFQURfUkFESVVTKSB7CiAgICAgICAgICAgIHBvc2l0aW9uLnggPSBDb25zdGFudHMuV09STERfU0laRSAtIENvbnN0YW50cy5QTEFZRVJfSEVBRF9SQURJVVMKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaC5kcmF3Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFJ1biB0aGUgRGVza3RvcCBhcHAgYW5kIGZpbmQgeW91ciBsb2cgbWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBFbmQgdGhlIHNwcml0ZSBiYXRjaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFJ1biB0aGUgQW5kcm9pZCBhcHAgYW5kIGZpbmQgeW91ciBsb2cgbWVzc2FnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgR2R4LmFwcCB0byBsb2cgdGhlIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUaGVuIHRyeSBjZW50ZXJpbmcgdGhlIGxvZ28K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgR2R4LmFwcCB0byBmaW5kIHdoYXQgQXBwbGljYXRpb25UeXBlIHdlJ3JlIHJ1bm5pbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEdpdmUgeW91ciBBcHBsaWNhdGlvbkxpc3RlbmVyIGEgbG9nIFRBRwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXJzdCBqdXN0IGRyYXcgdGhlIHVkYWNpdHkgbG9nbyBhdCBMT0dPX1NJWkUgaW4gdGhlIGJvdHRvbSBsZWZ0IG9mIHRoZSBzY3JlZW4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDaGVjayBpZiB0aGUgcGxheWVyIHdhcyBoaXQgYnkgYW4gaWNpY2xlLiBJZiBzbywgcmVzZXQgdGhlIGljaWNsZXMuCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">KGJhdGNoLCBsb2dvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBCZWdpbiB0aGUgc3ByaXRlIGJhdGNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
