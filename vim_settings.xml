@@ -43,6 +43,12 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492975503548">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.03-Exercise-FileLoading/core/src/com/udacity/gamedev/fileloading/FileLoading.java" timestamp="1491340319666">
         <mark key="'" line="2" column="7" />
         <mark key="[" line="65" column="51" />
@@ -239,11 +245,6 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/README.md" timestamp="1491345137982">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1491347218102">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -268,7 +269,13 @@
         <mark key="^" line="60" column="68" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492975265214">
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492975937736">
+        <mark key="[" line="80" column="80" />
+        <mark key="]" line="82" column="99" />
+        <mark key="^" line="82" column="99" />
+        <mark key="." line="82" column="99" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1492976169274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
@@ -308,6 +315,12 @@
         <mark key="^" line="18" column="64" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1492976219136">
+        <mark key="[" line="131" column="64" />
+        <mark key="]" line="131" column="29" />
+        <mark key="^" line="131" column="29" />
+        <mark key="." line="131" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="25" />
@@ -337,11 +350,6 @@
         <mark key="]" line="15" column="55" />
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
-      </file>
-      <file name="/fragment.java" timestamp="1491345120337">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -384,40 +392,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKGZhY2luZyA9PSk=</text>
+        <text>walkingRight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24ueCA8IDApIHsKICAgICAgICAgICAgcG9zaXRpb24ueCA9IDA7CiAgICAgICAgfSBlbHNlIGlmIChwb3NpdGlvbi54ID4gQ29uc3RhbnRzLldPUkxEX1NJWkUgLSBDb25zdGFudHMuUExBWUVSX0hFQURfUkFESVVTKSB7CiAgICAgICAgICAgIHBvc2l0aW9uLnggPSBDb25zdGFudHMuV09STERfU0laRSAtIENvbnN0YW50cy5QTEFZRVJfSEVBRF9SQURJVVMKICAgICAgICB9</text>
+        <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZWxlY3QgdGhlIGNvcnJlY3Qgc3ByaXRlIGJhc2VkIG9uIGZhY2luZywganVtcFN0YXRlLCBhbmQgd2Fsa1N0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uID0gQXNzZXRzLmluc3RhbmNlLmdpZ2FHYWxBc3NldHMud2Fsa2luZ0xlZnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgd2Fsa1N0YXRlIHRvIFdBTEtJTkcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2VsZWN0IHRoZSBjb3JyZWN0IGZyYW1lIGZyb20gdGhlIHdhbGtpbmcgbGVmdCBhbmltYXRpb24K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgd2Fsa1N0YXRlIHRvIFdBTEtJTkcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2V0IHdhbGtTdGF0ZSB0byBTVEFORElORwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogQ2FsY3VsYXRlIGhvdyBsb25nIHdlJ3ZlIGJlZW4gd2Fsa2luZyBpbiBzZWNvbmRzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIHdhbGtTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2VsZWN0IHRoZSBjb3JyZWN0IGZyYW1lIGZyb20gdGhlIHdhbGtpbmcgcmlnaHQgYW5pbWF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBXQUxLSU5HLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogQ2FsY3VsYXRlIGhvdyBsb25nIHdlJ3ZlIGJlZW4gd2Fsa2luZyBpbiBzZWNvbmRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
