@@ -56,6 +56,19 @@
         <mark key="^" line="69" column="48" />
         <mark key="." line="65" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492979775507">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492980027384">
+        <mark key="'" line="91" column="16" />
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="14" />
+        <mark key="^" line="91" column="14" />
+        <mark key="." line="91" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesGame.java" timestamp="1489781166825">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -281,7 +294,7 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492979401770">
+      <file name="/Dummy.txt" timestamp="1492980080603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
@@ -332,6 +345,12 @@
         <mark key="]" line="131" column="29" />
         <mark key="^" line="131" column="29" />
         <mark key="." line="131" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Platform.java" timestamp="1492980071189">
+        <mark key="[" line="23" column="108" />
+        <mark key="]" line="23" column="109" />
+        <mark key="." line="23" column="109" />
+        <mark key="^" line="23" column="110" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
         <mark key="[" line="74" column="0" />
@@ -393,6 +412,7 @@
       <jump line="157" column="14" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
       <jump line="24" column="11" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
       <jump line="153" column="20" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="91" column="16" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -404,7 +424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>ninePatchRegion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -413,31 +433,31 @@
         <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW5kZXIgYWxsIHBsYXRmb3JtcyBpbiB0aGUgcGxhdGZvcm0gYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaC5iZWdpbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYSB0ZXN0IHBsYXRmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFBsYXRmb3JtIHBsYXRmb3JtIDogcGxhdGZvcm1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYSB0ZXN0IHBsYXRmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IHRoZSBwbGF0Zm9ybSB1c2luZyB0aGUgTmluZVBhdGNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogRmluZCB0aGUgQXRsYXNSZWdpb24gaG9sZGluZyB0aGUgcGxhdGZvcm0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIHRoZSBwbGF0Zm9ybSBhcnJheQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhbiBBcnJheSBvZiBQbGF0Zm9ybXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBtZW1iZXJzIGZvciB0aGUgcGxhdGZvcm0gdG9wLCBib3R0b20sIGxlZnQgZWRnZSwgcmlnaHQgZWRnZSwgd2lkdGgsIGFuZCBoZWlnaHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVHVybiB0aGF0IEF0bGFzUmVnaW9uIGludG8gYSBOaW5lUGF0Y2ggdXNpbmcgdGhlIGVkZ2UgY29uc3RhbnQgeW91IGRlZmluZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJlci5ib3gobGVmdCwgdG9wLCAwLCB3aWR0aCwgaGVpZ2h0LCAxZik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
