@@ -143,6 +143,12 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="12" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.01-Exercise-BasicPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492979460258">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="43" />
+        <mark key="." line="19" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490561716197">
         <mark key="[" line="54" column="51" />
         <mark key="]" line="54" column="80" />
@@ -275,7 +281,7 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492976169274">
+      <file name="/Dummy.txt" timestamp="1492979401770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
@@ -308,6 +314,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="47" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.01-Exercise-BasicPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Platform.java" timestamp="1492979295864">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491346733342">
         <mark key="[" line="15" column="0" />
@@ -392,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>walkingRight</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -401,31 +413,31 @@
         <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uID0gQXNzZXRzLmluc3RhbmNlLmdpZ2FHYWxBc3NldHMud2Fsa2luZ0xlZnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW5kZXIgYWxsIHBsYXRmb3JtcyBpbiB0aGUgcGxhdGZvcm0gYXJyYXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2VsZWN0IHRoZSBjb3JyZWN0IGZyYW1lIGZyb20gdGhlIHdhbGtpbmcgbGVmdCBhbmltYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYSB0ZXN0IHBsYXRmb3JtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYSB0ZXN0IHBsYXRmb3JtCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogQ2FsY3VsYXRlIGhvdyBsb25nIHdlJ3ZlIGJlZW4gd2Fsa2luZyBpbiBzZWNvbmRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIHRoZSBwbGF0Zm9ybSBhcnJheQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2VsZWN0IHRoZSBjb3JyZWN0IGZyYW1lIGZyb20gdGhlIHdhbGtpbmcgcmlnaHQgYW5pbWF0aW9uCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhbiBBcnJheSBvZiBQbGF0Zm9ybXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBtZW1iZXJzIGZvciB0aGUgcGxhdGZvcm0gdG9wLCBib3R0b20sIGxlZnQgZWRnZSwgcmlnaHQgZWRnZSwgd2lkdGgsIGFuZCBoZWlnaHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogQ2FsY3VsYXRlIGhvdyBsb25nIHdlJ3ZlIGJlZW4gd2Fsa2luZyBpbiBzZWNvbmRzCg==</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJlci5ib3gobGVmdCwgdG9wLCAwLCB3aWR0aCwgaGVpZ2h0LCAxZik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
