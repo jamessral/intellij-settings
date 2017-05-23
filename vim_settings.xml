@@ -162,6 +162,12 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.5.03-Exercise-OnPatrol/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1495502650035">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="32" />
@@ -341,6 +347,13 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
+      <file name="D:/Github/ud406/2.5.03-Exercise-OnPatrol/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" timestamp="1495502964047">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="39" />
+        <mark key="." line="41" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.04-Exercise-AddDebugPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492981973909">
         <mark key="[" line="41" column="40" />
         <mark key="]" line="41" column="41" />
@@ -399,7 +412,7 @@
         <mark key="^" line="91" column="14" />
         <mark key="." line="91" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495502200451">
+      <file name="/Dummy.txt" timestamp="1495502900054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -534,6 +547,9 @@
       <jump line="43" column="0" filename="D:/Github/ud406/2.5.01-Exercise-EnemySprites/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
       <jump line="40" column="66" filename="D:/Github/ud406/2.5.01-Exercise-EnemySprites/core/src/com/udacity/gamedev/gigagal/Level.java" />
       <jump line="94" column="0" filename="D:/Github/ud406/2.5.02-Exercise-AnEnemyWithClass/core/src/com/udacity/gamedev/gigagal/Level.java" />
+      <jump line="16" column="7" filename="D:/Github/ud406/2.5.03-Exercise-OnPatrol/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" />
+      <jump line="44" column="0" filename="D:/Github/ud406/2.5.03-Exercise-OnPatrol/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" />
+      <jump line="55" column="0" filename="D:/Github/ud406/2.5.03-Exercise-OnPatrol/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -554,34 +570,34 @@
         <text encoding="base64">ICAgICAgICBwbGF0Zm9ybXMuYWRkKG5ldyBQbGF0Zm9ybSgyODAsIDYwLCA5LCA5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIERpcmVjdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21wbGV0ZSByZW5kZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIERlbGF5ZWRSZW1vdmFsQXJyYXkgb2YgZW5lbWllcwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiB0aGUgZW5lbXkgaWYgb2ZmIHRoZSByaWdodCBzaWRlIG9mIHRoZSBwbGF0Zm9ybSwgc2V0IHRoZSBlbmVteSBtb3ZpbmcgYmFjayB0byB0aGUgbGVmdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYW4gZW5lbXkgc2l0dGluZyBvbiBlbmVteVBsYXRmb3JtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGVuZW1pZXMgYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgYWxzbyBwcm9iYWJseSBwdXQgdGhlIGVuZW15IGJhY2sgb24gdGhlIGVkZ2Ugb2YgdGhlIHBsYXRmb3JtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW5kZXIgdGhlIGVuZW1pZXMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiB0aGUgZW5lbXkgaXMgb2ZmIHRoZSBsZWZ0IHNpZGUgb2YgdGhlIHBsYXRmb3JtLCBzZXQgdGhlIGVuZW15IG1vdmluZyBiYWNrIHRvIHRoZSByaWdodAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVcGRhdGUgdGhlIGVuZW1pZXMgKGRvZXNuJ3QgZG8gYW55dGhpbmcgeWV0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2V0cy5pbnN0YW5jZS5lbmVteUFzc2V0cy5lbmVteSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2luZyB0aGUgZGVsdGEgdGltZSBhbmQgdGhlIG5ld2x5IGNyZWF0ZWQgZW5lbXkgbW92ZW1lbnQgc3BlZWQgY29uc3RhbnQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -602,6 +618,7 @@
         <entry>wa</entry>
         <entry>ew</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
