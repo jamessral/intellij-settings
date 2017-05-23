@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1495492142391">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="30" column="44" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.10-Exercise-AccelerometerMovement/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489777261591">
         <mark key="[" line="107" column="36" />
         <mark key="]" line="107" column="42" />
@@ -179,6 +185,12 @@
         <mark key="]" line="19" column="48" />
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1495492160860">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="36" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490561716197">
         <mark key="[" line="54" column="51" />
@@ -454,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new OrthographicCamera(Constants.WORLD_SIZE, Constants.WORLD_SIZE);</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -463,31 +475,31 @@
         <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnaWdhR2FsLnBvc2l0aW9uLnNldCgxNSwgMzApOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVcGRhdGUgdGhlIENoYXNlQ2FtCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwb3NpdGlvbi55IC0gQ29uc3RhbnRzLkdJR0FHQUxfRVlFX0hFSUdIVCA8IDApIHsKICAgICAgICAgICAgICAgIGp1bXBTdGF0ZSA9IEp1bXBTdGF0ZS5HUk9VTkRFRDsKICAgICAgICAgICAgICAgIHBvc2l0aW9uLnkgPSBDb25zdGFudHMuR0lHQUdBTF9FWUVfSEVJR0hUOwogICAgICAgICAgICAgICAgdmVsb2NpdHkueSA9IDA7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogUmVtb3ZlIHRoZSBncm91bmQhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGNoYXNlQ2FtLCBnZXR0aW5nIHRoZSBDYW1lcmEgZnJvbSB0aGUgVmlld3BvcnQgYW5kIEdpZ2FHYWwgZnJvbSB0aGUgTGV2ZWwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgcG9zaXRpb24gYmFzZWQgb24gdGhlIHN1cHBsaWVkIHBvc2l0aW9uCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIENoYXNlQ2FtCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgR2lnYUdhbChmbG9hdCBzdGFydFgsIGZsb2F0IHN0YXJ0WSk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFNldCB0aGUgY2FtZXJhJ3MgcG9zaXRpb24gdG8gR2lnYUdhbCdzIHBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IE1ha2UgdGhlIGNvbnN0cnVjdG9yIHRha2UgYSBzcGF3biBwb3NpdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYW1lcmEubG9va0F0KGdpZ2FHYWwucG9zaXRpb24ueCwgZ2lnYUdhbC5wb3NpdGlvbi55LCAwZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNYWtlIHN1cmUgR2lnYUdhbCBzcGF3bnMgb24gYSBwbGF0Zm9ybQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFjY2VwdCBhbmQgaW5pdGlhbGl6ZSB0aGUgY2FtZXJhIGFuZCBHaWdhR2FsIGluc3RhbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
