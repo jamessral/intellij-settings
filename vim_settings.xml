@@ -124,6 +124,13 @@
         <mark key="^" line="20" column="53" />
         <mark key="." line="24" column="62" />
       </file>
+      <file name="D:/Github/ud406/2.5.02-Exercise-AnEnemyWithClass/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1495502184940">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="65" column="45" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790724596">
         <mark key="[" line="48" column="29" />
         <mark key="]" line="49" column="7" />
@@ -392,7 +399,7 @@
         <mark key="^" line="91" column="14" />
         <mark key="." line="91" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495501674087">
+      <file name="/Dummy.txt" timestamp="1495502200451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -418,6 +425,12 @@
         <mark key="]" line="50" column="68" />
         <mark key="." line="50" column="68" />
         <mark key="^" line="50" column="68" />
+      </file>
+      <file name="D:/Github/ud406/2.5.02-Exercise-AnEnemyWithClass/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" timestamp="1495502192871">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="95" />
       </file>
       <file name="D:/Github/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1495496906852">
         <mark key="[" line="36" column="34" />
@@ -520,6 +533,7 @@
       <jump line="113" column="4" filename="D:/Github/ud406/2.5.01-Exercise-EnemySprites/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
       <jump line="43" column="0" filename="D:/Github/ud406/2.5.01-Exercise-EnemySprites/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
       <jump line="40" column="66" filename="D:/Github/ud406/2.5.01-Exercise-EnemySprites/core/src/com/udacity/gamedev/gigagal/Level.java" />
+      <jump line="94" column="0" filename="D:/Github/ud406/2.5.02-Exercise-AnEnemyWithClass/core/src/com/udacity/gamedev/gigagal/Level.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -531,7 +545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>enemy</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -540,31 +554,31 @@
         <text encoding="base64">ICAgICAgICBwbGF0Zm9ybXMuYWRkKG5ldyBQbGF0Zm9ybSgyODAsIDYwLCA5LCA5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIucnVudGltZS5BdHRyaWJ1dGVBY2Nlc3NvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUaHJvdyBhbiBlbmVteSBvbiB0aGUgc2NyZWVuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21wbGV0ZSByZW5kZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIERlbGF5ZWRSZW1vdmFsQXJyYXkgb2YgZW5lbWllcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGVuZW15QXNzZXRzCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYW4gZW5lbXkgc2l0dGluZyBvbiBlbmVteVBsYXRmb3JtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGVuZW1pZXMgYXJyYXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBFbmVteUFzc2V0cyBtZW1iZXIgKGRlZmluZWQgYXQgdGhlIGJvdHRvbSBvZiB0aGUgZmlsZS4gU3RhcnQgdGhlcmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZW5kZXIgdGhlIGVuZW1pZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogU2F2ZSB0aGUgZW5lbXkgc3ByaXRlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVcGRhdGUgdGhlIGVuZW1pZXMgKGRvZXNuJ3QgZG8gYW55dGhpbmcgeWV0KQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgQXRsYXNSZWdpb24gZm9yIHRoZSBlbmVteQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2V0cy5pbnN0YW5jZS5lbmVteUFzc2V0cy5lbmVteSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -628,6 +642,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
