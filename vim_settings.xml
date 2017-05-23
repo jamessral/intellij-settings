@@ -3,6 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Github/ud406/2.4.05-Exercise-DebugCameraControls/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1495498361974">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+        <mark key="." line="42" column="51" />
+      </file>
+      <file name="D:/Github/ud406/2.4.05-Exercise-DebugCameraControls/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1495498243416">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/build.gradle" timestamp="1491345905646">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="27" />
@@ -204,6 +217,12 @@
         <mark key="^" line="36" column="40" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.4.05-Exercise-DebugCameraControls/core/src/com/udacity/gamedev/gigagal/util/ChaseCam.java" timestamp="1495498371694">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490472156254">
         <mark key="[" line="28" column="90" />
         <mark key="]" line="28" column="109" />
@@ -353,7 +372,7 @@
         <mark key="^" line="91" column="14" />
         <mark key="." line="91" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495497719874">
+      <file name="/Dummy.txt" timestamp="1495498289235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -476,6 +495,7 @@
       <jump line="91" column="16" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
       <jump line="11" column="0" filename="D:/Github/ud406/2.4.03-Exercise-AddAKillPlane/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
       <jump line="42" column="0" filename="D:/Github/ud406/2.4.03-Exercise-AddAKillPlane/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
+      <jump line="27" column="0" filename="D:/Github/ud406/2.4.05-Exercise-DebugCameraControls/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -487,7 +507,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -496,31 +516,31 @@
         <text encoding="base64">ICAgICAgICBwbGF0Zm9ybXMuYWRkKG5ldyBQbGF0Zm9ybSgyODAsIDYwLCA5LCA5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNYWtlIGEgbW9yZSBpbnRlcmVzdGluZyBsZXZlbCEK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNYWtlIHN1cmUgdGhhdCB0aGUgY2FtZXJhIHVwZGF0ZSBjYWxsIGlzIGdldHRpbmcgdGhlIGRlbHRhIHRpbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0RnJhbWVQb3NpdGlvbiA9IG5ldyBWZWN0b3IyKHNwYXduTG9jYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiBmb2xsb3dpbmcsIHVwZGF0ZSB0aGUgY2FtZXJhJ3MgcG9zaXRpb24gdG8gbWF0Y2ggdGhlIHRhcmdldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUb2dnbGUgdGhlIGZvbGxvd2luZyBmbGFnIHdoZW4gc3BhY2ViYXIgaXMgcHJlc3NlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiBHaWdhR2FsIGlzIGJlbG93IHRoZSBraWxsIHBsYW5lLCBjYWxsIGluaXQoKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFjY2VwdCBhIGZsb2F0IHRpbWUgZGVsdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IAogICAgICAgIC8vIFRPRE86IFNldCBqdW1wU3RhdGUgdG8gRkFMTElORwoKCiAgICAgICAgLy8gVE9ETzogU2V0IEZhY2luZyB0byBSSUdIVAoKCiAgICAgICAgLy8gVE9ETzogU2V0IHdhbGtTdGF0ZSB0byBTVEFORElORwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgR0cgYmFjayB0byBoZXIgc3Bhd25Mb2NhdGlvbgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gVE9ETzogSWYgbm90IGZvbGxvd2luZywgY2hlY2sgaWYgR2R4LmlucHV0LmlzS2V5UHJlc3NlZChLZXlzLkEpCgoKICAgICAgICAvLyBUT0RPOiBJZiBzbywgbW92ZSB0aGUgY2FtZXJhIGluIHRoZSAteCBkaXJlY3Rpb24gYnkgZGVsdGEgKiBjYW1lcmEgbW92ZSBzcGVlZAoKCiAgICAgICAgLy8gVE9ETzogTW92ZSB0aGUgY2FtZXJhIHJpZ2h0IGlmIEQgaXMgcHJlc3NlZAoKCiAgICAgICAgLy8gVE9ETzogTW92ZSB0aGUgY2FtZXJhIHVwIGlmIFcgaXMgcHJlc3NlZAoKCiAgICAgICAgLy8gVE9ETzogTW92ZSB0aGUgY2FtZXJhIGRvd24gaWYgUyBpcyBwcmVzc2VkCgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0RnJhbWVQb3NpdGlvbiA9IG5ldyBWZWN0b3IyKHNwYXduTG9jYXRpb24pOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBjYW1lcmEucG9zaXRpb24ueCA9IHRhcmdldC5wb3NpdGlvbi54OwogICAgICAgIGNhbWVyYS5wb3NpdGlvbi55ID0gdGFyZ2V0LnBvc2l0aW9uLnk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -542,6 +562,7 @@
       <history-cmd>
         <entry>2w</entry>
         <entry>wa</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
