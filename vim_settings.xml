@@ -162,6 +162,12 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.5.04-Exercise-BouncyAntiGravity/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" timestamp="1495503555595">
+        <mark key="[" line="48" column="105" />
+        <mark key="]" line="48" column="105" />
+        <mark key="^" line="48" column="105" />
+        <mark key="." line="48" column="105" />
+      </file>
       <file name="D:/Github/ud406/2.5.03-Exercise-OnPatrol/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1495502650035">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -235,6 +241,12 @@
         <mark key="]" line="19" column="28" />
         <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="28" />
+      </file>
+      <file name="D:/Github/ud406/2.5.04-Exercise-BouncyAntiGravity/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1495503093895">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="49" column="51" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490472156254">
         <mark key="[" line="28" column="90" />
@@ -412,7 +424,7 @@
         <mark key="^" line="91" column="14" />
         <mark key="." line="91" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495502900054">
+      <file name="/Dummy.txt" timestamp="1495503449520">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -561,7 +573,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
@@ -570,22 +582,22 @@
         <text encoding="base64">ICAgICAgICBwbGF0Zm9ybXMuYWRkKG5ldyBQbGF0Zm9ybSgyODAsIDYwLCA5LCA5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIERpcmVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB5ID0gcGxhdGZvcm1Ub3AgKyBlbmVteUNlbnRlciArIGJvYkFtcGxpdHVkZSAqIGJvYk11bHRpcGxpZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBib2JNdWx0aXBsaWVyID0gMSArIHNpbigyIFBJIGVsYXBzZWRUaW1lIC8gcGVyaW9kKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiB0aGUgZW5lbXkgaWYgb2ZmIHRoZSByaWdodCBzaWRlIG9mIHRoZSBwbGF0Zm9ybSwgc2V0IHRoZSBlbmVteSBtb3ZpbmcgYmFjayB0byB0aGUgbGVmdAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWd1cmUgb3V0IHdoZXJlIGluIHRoZSBib2IgY3ljbGUgd2UncmUgYXQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgYWxzbyBwcm9iYWJseSBwdXQgdGhlIGVuZW15IGJhY2sgb24gdGhlIGVkZ2Ugb2YgdGhlIHBsYXRmb3JtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiB0aGUgZW5lbXkgaXMgb2ZmIHRoZSBsZWZ0IHNpZGUgb2YgdGhlIHBsYXRmb3JtLCBzZXQgdGhlIGVuZW15IG1vdmluZyBiYWNrIHRvIHRoZSByaWdodAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgdGhlIGVuZW15IHZlcnRpY2FsIHBvc2l0aW9uCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -594,10 +606,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2luZyB0aGUgZGVsdGEgdGltZSBhbmQgdGhlIG5ld2x5IGNyZWF0ZWQgZW5lbXkgbW92ZW1lbnQgc3BlZWQgY29uc3RhbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -617,8 +629,8 @@
         <entry>2w</entry>
         <entry>wa</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
