@@ -424,7 +424,7 @@
         <mark key="^" line="91" column="14" />
         <mark key="." line="91" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495503449520">
+      <file name="/Dummy.txt" timestamp="1495504262031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -514,6 +514,12 @@
         <mark key="." line="54" column="80" />
         <mark key="^" line="54" column="80" />
       </file>
+      <file name="D:/Github/ud406/2.5.05-Challenge-RectanglesCollidingWithCircles/core/src/com/udacity/gamedev/rectanglecirclecollision/RectangleCircleCollisionScreen.java" timestamp="1495504230530">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="111" column="45" />
+        <mark key="." line="111" column="45" />
+        <mark key="^" line="111" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1490471923890">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="25" column="43" />
@@ -582,25 +588,25 @@
         <text encoding="base64">ICAgICAgICBwbGF0Zm9ybXMuYWRkKG5ldyBQbGF0Zm9ybSgyODAsIDYwLCA5LCA5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB5ID0gcGxhdGZvcm1Ub3AgKyBlbmVteUNlbnRlciArIGJvYkFtcGxpdHVkZSAqIGJvYk11bHRpcGxpZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBib2JNdWx0aXBsaWVyID0gMSArIHNpbigyIFBJIGVsYXBzZWRUaW1lIC8gcGVyaW9kKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWd1cmUgb3V0IHdoZXJlIGluIHRoZSBib2IgY3ljbGUgd2UncmUgYXQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjdGFuZ2xlLikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21wbGV0ZSB0aGlzIGZ1bmN0aW9uIQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB5ID0gcGxhdGZvcm1Ub3AgKyBlbmVteUNlbnRlciArIGJvYkFtcGxpdHVkZSAqIGJvYk11bHRpcGxpZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgdGhlIGVuZW15IHZlcnRpY2FsIHBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBib2JNdWx0aXBsaWVyID0gMSArIHNpbigyIFBJIGVsYXBzZWRUaW1lIC8gcGVyaW9kKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaWd1cmUgb3V0IHdoZXJlIGluIHRoZSBib2IgY3ljbGUgd2UncmUgYXQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
