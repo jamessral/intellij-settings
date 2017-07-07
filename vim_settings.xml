@@ -137,6 +137,9 @@
         <mark key="^" line="55" column="68" />
         <mark key="." line="55" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/pom.xml" timestamp="1499445757298">
+        <mark key="'" line="23" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" timestamp="1489717832765">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="111" column="31" />
@@ -455,6 +458,8 @@
       <jump line="24" column="11" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
       <jump line="153" column="20" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
       <jump line="91" column="16" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
+      <jump line="23" column="9" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -469,7 +474,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlXD4=</text>
+        <text>java</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
@@ -506,17 +511,18 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlXD4=</last-search>
+      <last-search>java</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlXD4=</last-pattern>
+      <last-pattern>java</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>TODO</entry>
         <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
         <entry encoding="base64">XDxlXD4=</entry>
+        <entry>java</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
