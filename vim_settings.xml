@@ -83,6 +83,12 @@
         <mark key="^" line="69" column="48" />
         <mark key="." line="65" column="51" />
       </file>
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1499644080252">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="12" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492980027384">
         <mark key="'" line="91" column="16" />
         <mark key="[" line="91" column="8" />
@@ -201,11 +207,11 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499641550283">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="25" />
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499644069523">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1495492160860">
         <mark key="[" line="36" column="35" />
@@ -488,6 +494,7 @@
       <jump line="29" column="49" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="49" column="44" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -499,54 +506,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>.isCloseRequested(</text>
       </register>
       <register name="/" type="4">
         <text>web-service</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuRGlzcGxheU1vZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJzLndpdGhGb3J3YXJkQ29tcGF0aWJsZSh0cnVlKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGphbWVzc3JhbCBvbiA3LzkvMTcuCiAqLw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5zY2VuZS5pbWFnZS5QaXhlbEZvcm1hdDsK</text>
       </register>
-      <register name="3" type="4">
-        <text>sourceCompatibility = 1.8
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwbGF5LnNldEQK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuKjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuRGlzcGxheTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>import java.awt.*;
-
-/**
- * Created by James on 7/9/2017.
- */</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
- * Created by James on 7/9/2017.
- */</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnaWdhR2FsLnBvc2l0aW9uLnNldCgxNSwgMzApOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuRGlzcGxheTsK</text>
+      </register>
+      <register name="9" type="4">
+        <text>/**
+ * Created by jamessral on 7/9/17.
+ */</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
