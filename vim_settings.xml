@@ -201,6 +201,12 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499641550283">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1495492160860">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="37" />
@@ -493,7 +499,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>web-service</text>
@@ -501,7 +507,13 @@
       <register name="0" type="4">
         <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhdHRyaWJzLndpdGhGb3J3YXJkQ29tcGF0aWJsZSh0cnVlKTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGphbWVzc3JhbCBvbiA3LzkvMTcuCiAqLw==</text>
+      </register>
+      <register name="3" type="4">
         <text>sourceCompatibility = 1.8
 
 repositories {
@@ -512,35 +524,29 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBEaXNwbGF5LnNldEQK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuRGlzcGxheTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>import java.awt.*;
 
 /**
  * Created by James on 7/9/2017.
  */</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
  * Created by James on 7/9/2017.
  */</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBnaWdhR2FsLnBvc2l0aW9uLnNldCgxNSwgMzApOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwb3NpdGlvbi55IC0gQ29uc3RhbnRzLkdJR0FHQUxfRVlFX0hFSUdIVCA8IDApIHsKICAgICAgICAgICAgICAgIGp1bXBTdGF0ZSA9IEp1bXBTdGF0ZS5HUk9VTkRFRDsKICAgICAgICAgICAgICAgIHBvc2l0aW9uLnkgPSBDb25zdGFudHMuR0lHQUdBTF9FWUVfSEVJR0hUOwogICAgICAgICAgICAgICAgdmVsb2NpdHkueSA9IDA7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
