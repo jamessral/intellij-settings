@@ -83,10 +83,10 @@
         <mark key="^" line="69" column="48" />
         <mark key="." line="65" column="51" />
       </file>
-      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1499644080252">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1499644958665">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492980027384">
@@ -207,8 +207,8 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499644069523">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499644935785">
+        <mark key="'" line="15" column="13" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -456,6 +456,9 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
+      <file name="/fragment.java" timestamp="1499645217046">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
@@ -495,6 +498,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="49" column="44" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -506,7 +510,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.isCloseRequested(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>web-service</text>
