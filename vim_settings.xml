@@ -359,6 +359,10 @@
       <file name="/Dummy.txt" timestamp="1495491709915">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1499706175983">
+        <mark key="'" line="169" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/SecureControllerTests.java" timestamp="1499706429837" />
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="25" column="57" />
@@ -499,6 +503,7 @@
       <jump line="49" column="44" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
       <jump line="15" column="13" filename="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
+      <jump line="169" column="29" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
