@@ -298,10 +298,12 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
-      <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499637717670">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499809675676">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="44" />
+        <mark key="." line="66" column="44" />
+        <mark key="^" line="66" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1495492142391">
         <mark key="[" line="46" column="0" />
@@ -346,6 +348,12 @@
         <mark key="]" line="65" column="51" />
         <mark key="^" line="69" column="48" />
         <mark key="." line="65" column="51" />
+      </file>
+      <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1499809776596">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492980027384">
         <mark key="'" line="91" column="16" />
@@ -476,6 +484,8 @@
       <jump line="29" column="49" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="49" column="44" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
+      <jump line="78" column="8" filename="D:/GameDev/LWJGL/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
+      <jump line="90" column="0" filename="D:/GameDev/LWJGL/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -487,7 +497,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new DisplayMode</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>web-service</text>
@@ -496,37 +506,33 @@
         <text encoding="base64">aWYgKGp1bXBTdGF0ZSA9PSBKdW1wU3RhdGUuR1JPVU5ERUQgJiYgd2Fsa1N0YXRlICE9IFdhbGtTdGF0ZS5XQUxLSU5HKQogICAgICAgICAgICB3YWxrU3RhcnRUaW1lID0gVGltZVV0aWxzLm5hbm9UaW1lKCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwbGF5LnNldEQK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSgpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuRGlzcGxheTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>import java.awt.*;
-
-/**
- * Created by James on 7/9/2017.
- */</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
- * Created by James on 7/9/2017.
- */</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnaWdhR2FsLnBvc2l0aW9uLnNldCgxNSwgMzApOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSgpIHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">CgkJLy8gUnVuIHRoZSByZW5kZXJpbmcgbG9vcCB1bnRpbCB0aGUgdXNlciBoYXMgYXR0ZW1wdGVkIHRvIGNsb3NlCgkJLy8gdGhlIHdpbmRvdyBvciBoYXMgcHJlc3NlZCB0aGUgRVNDQVBFIGtleS4KCQl3aGlsZSAoICFnbGZ3V2luZG93U2hvdWxkQ2xvc2Uod2luZG93KSApIHsKCQkJZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUIHwgR0xfREVQVEhfQlVGRkVSX0JJVCk7IC8vIGNsZWFyIHRoZSBmcmFtZWJ1ZmZlcgoKCQkJZ2xmd1N3YXBCdWZmZXJzKHdpbmRvdyk7IC8vIHN3YXAgdGhlIGNvbG9yIGJ1ZmZlcnMKCgkJCS8vIFBvbGwgZm9yIHdpbmRvdyBldmVudHMuIFRoZSBrZXkgY2FsbGJhY2sgYWJvdmUgd2lsbCBvbmx5IGJlCgkJCS8vIGludm9rZWQgZHVyaW5nIHRoaXMgY2FsbC4KCQkJZ2xmd1BvbGxFdmVudHMoKTsKCQl9</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwb3NpdGlvbi55IC0gQ29uc3RhbnRzLkdJR0FHQUxfRVlFX0hFSUdIVCA8IDApIHsKICAgICAgICAgICAgICAgIGp1bXBTdGF0ZSA9IEp1bXBTdGF0ZS5HUk9VTkRFRDsKICAgICAgICAgICAgICAgIHBvc2l0aW9uLnkgPSBDb25zdGFudHMuR0lHQUdBTF9FWUVfSEVJR0hUOwogICAgICAgICAgICAgICAgdmVsb2NpdHkueSA9IDA7CiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogUmVtb3ZlIHRoZSBncm91bmQhCg==</text>
+      <register name="9" type="4">
+        <text>/**
+ * Created by James on 7/11/2017.
+ */</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
