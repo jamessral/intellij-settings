@@ -1,6 +1,9 @@
 <scheme name="Gruvbox Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="FuraCode Nerd Font" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
@@ -524,9 +527,6 @@
         <option name="BACKGROUND" value="5e5339" />
       </value>
     </option>
-    <option name="ELIXIR_BIT">
-      <value />
-    </option>
     <option name="ELIXIR_MACRO_CALL">
       <value>
         <option name="FOREGROUND" value="fb4934" />
@@ -772,9 +772,6 @@
         <option name="FOREGROUND" value="689d6a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="PY.KEYWORD_ARGUMENT">
-      <value />
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
