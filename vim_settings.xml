@@ -254,7 +254,7 @@
         <mark key="^" line="73" column="20" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" timestamp="1502737354180">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" timestamp="1502737561292">
         <mark key="'" line="30" column="31" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -485,7 +485,7 @@
  */</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -515,6 +515,7 @@
         <entry>noh</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
