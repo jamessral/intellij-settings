@@ -75,6 +75,12 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
+      <file name="D:/GameDev/LWJGL/LWJGLTutorial/pom.xml" timestamp="1502746300134">
+        <mark key="'" line="120" column="9" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="118" column="11" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1492976219136">
         <mark key="[" line="131" column="64" />
         <mark key="]" line="131" column="29" />
@@ -122,6 +128,12 @@
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1499706175983">
         <mark key="'" line="169" column="29" />
+      </file>
+      <file name="D:/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1502748397278">
+        <mark key="[" line="60" column="44" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="44" />
+        <mark key="^" line="48" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492979775507">
         <mark key="[" line="29" column="0" />
@@ -429,6 +441,7 @@
       <jump line="83" column="31" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/tracker/TrackerSectionPlayerController.java" />
       <jump line="89" column="94" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/tracker/TrackerSectionPlayerController.java" />
       <jump line="68" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" />
+      <jump line="120" column="9" filename="D:/GameDev/LWJGL/LWJGLTutorial/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -440,7 +453,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -449,36 +462,34 @@
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuRGlzcGxheU1vZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5zY2VuZS5pbWFnZS5QaXhlbEZvcm1hdDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaW5pdCgpIHsKCiAgICB9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuKjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5zY2VuZS5pbWFnZS5QaXhlbEZvcm1hdDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuKjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5vcGVuZ2wuRGlzcGxheTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
- * Created by jamessral on 7/9/17.
- */</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -504,10 +515,10 @@
       <history-cmd>
         <entry>2w</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>noh</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -545,6 +556,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
