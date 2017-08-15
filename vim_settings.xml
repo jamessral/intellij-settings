@@ -507,7 +507,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwuXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -568,6 +568,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
