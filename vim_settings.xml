@@ -231,8 +231,11 @@
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" timestamp="1499710155813">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" timestamp="1502909010494">
         <mark key="'" line="68" column="29" />
+        <mark key="[" line="388" column="0" />
+        <mark key="]" line="388" column="0" />
+        <mark key="." line="388" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
         <mark key="[" line="17" column="0" />
@@ -269,6 +272,7 @@
         <mark key="^" line="73" column="20" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceService.java" timestamp="1502908427611" />
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" timestamp="1502737561292">
         <mark key="'" line="30" column="31" />
         <mark key="[" line="1" column="0" />
@@ -505,34 +509,34 @@
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlcuKjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdsZndUZXJqa2RkCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkNhbGxiYWNrcy4qOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubHdqZ2wuZ2xmdy5DYWxsYmFja3MuKjsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgY2xhc3MgU2VxdWVuY2VCYWNrZ3JvdW5kSW1hZ2VSZXF1ZXN0IGV4dGVuZHMgQmFzZVJlcXVlc3QgewoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAicGF0aCIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHBhdGg7CgoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAidHlwZSIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHR5cGU7CgoJCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSJzaXplIiwgcmVxdWlyZWQgPSB0cnVlKQoJCXB1YmxpYyBsb25nIHNpemU7Cgl9CgoJQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJVcGxvYWQiKQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdsZndUZXJqa2RkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkNhbGxiYWNrcy4qOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCkK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubHdqZ2wuZ2xmdy5DYWxsYmFja3MuKjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5zY2VuZS5pbWFnZS5QaXhlbEZvcm1hdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -564,12 +568,12 @@
         <entry>2w</entry>
         <entry>wa</entry>
         <entry>noh</entry>
-        <entry>vs</entry>
-        <entry>w</entry>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>nohighlight</entry>
         <entry>highlight</entry>
+        <entry>q</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -610,6 +614,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>meta pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
