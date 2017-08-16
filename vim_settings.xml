@@ -78,6 +78,12 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" timestamp="1502829501762">
         <mark key="'" line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" timestamp="1502909270858">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesGame.java" timestamp="1489781166825">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -162,6 +168,12 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" timestamp="1499446431472">
         <mark key="'" line="226" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemService.java" timestamp="1502909814096">
+        <mark key="[" line="7" column="140" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="138" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489789705131">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="46" />
@@ -231,11 +243,11 @@
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" timestamp="1502909010494">
-        <mark key="'" line="68" column="29" />
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="388" column="0" />
-        <mark key="." line="388" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" timestamp="1502909124666">
+        <mark key="'" line="387" column="0" />
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
         <mark key="[" line="17" column="0" />
@@ -260,11 +272,6 @@
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
-      </file>
-      <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499637717670">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1491347218102">
         <mark key="[" line="74" column="0" />
@@ -489,6 +496,7 @@
       <jump line="144" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
       <jump line="145" column="35" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
       <jump line="172" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
+      <jump line="387" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,7 +508,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mn(name=&quot;source_id&quot;, nullable=true, updatable=false)</text>
+        <text>NotFoundException</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -509,31 +517,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlcuKjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSBkZWxldGVCYWNrZ3JvdW5kSW1hZ2UoQ29udGVudEl0ZW0gY29udGVudEl0ZW0pIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgY2xhc3MgU2VxdWVuY2VCYWNrZ3JvdW5kSW1hZ2VSZXF1ZXN0IGV4dGVuZHMgQmFzZVJlcXVlc3QgewoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAicGF0aCIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHBhdGg7CgoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAidHlwZSIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHR5cGU7CgoJCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSJzaXplIiwgcmVxdWlyZWQgPSB0cnVlKQoJCXB1YmxpYyBsb25nIHNpemU7Cgl9CgoJQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJVcGxvYWQiKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuTm90Rm91bmRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdsZndUZXJqa2RkCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSB1cGRhdGVCYWNrZ3JvdW5kSW1hZ2UoU3RyaW5nIGNvbnRlbnRJdGVtSWQsICkgdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkNhbGxiYWNrcy4qOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuU2VydmljZUV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubHdqZ2wuZ2xmdy5DYWxsYmFja3MuKjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSBjcmVhdGUoQ29udGVudEl0ZW0gY29udGVudEl0ZW0pIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwogICAgcHVibGljIENvbnRlbnRJdGVtIHVwZGF0ZShDb250ZW50SXRlbSBjb250ZW50SXRlbSkgdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uOwogICAgcHVibGljIHZvaWQgZGVsZXRlKFN0cmluZyBjb250ZW50SXRlbUlkKSB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb247CiAgICBwdWJsaWMgQ29udGVudEl0ZW0gZ2V0KFN0cmluZyBjb250ZW50SXRlbUlkKSB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb247CiAgICAKICAgIA==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgY2xhc3MgU2VxdWVuY2VCYWNrZ3JvdW5kSW1hZ2VSZXF1ZXN0IGV4dGVuZHMgQmFzZVJlcXVlc3QgewoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAicGF0aCIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHBhdGg7CgoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAidHlwZSIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHR5cGU7CgoJCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSJzaXplIiwgcmVxdWlyZWQgPSB0cnVlKQoJCXB1YmxpYyBsb25nIHNpemU7Cgl9CgoJQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJVcGxvYWQiKQ==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
+        <text encoding="base64">ICAgIGdsZndUZXJqa2RkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -572,6 +580,7 @@
         <entry>nohighlight</entry>
         <entry>highlight</entry>
         <entry>q</entry>
+        <entry>vs find CourseService.java</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
