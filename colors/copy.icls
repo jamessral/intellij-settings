@@ -1,12 +1,19 @@
-<scheme name="Material Theme - DefaultJames" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.5" />
+<scheme name="copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-08-16T12:09:13</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2.3.0.8</property>
+    <property name="modified">2017-08-16T12:09:45</property>
+    <property name="originalScheme">Material Theme - DefaultJames</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="FuraCode Nerd Font" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -17,7 +24,6 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
