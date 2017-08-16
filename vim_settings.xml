@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" timestamp="1499454154230">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" timestamp="1502910618838">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1495492142391">
@@ -114,6 +114,13 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" timestamp="1502910778026">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="50" column="54" />
+        <mark key="]" line="50" column="54" />
+        <mark key="^" line="50" column="54" />
+        <mark key="." line="50" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.03-Exercise-ComingInForALanding/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492980466739">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -168,11 +175,11 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" timestamp="1499446431472">
         <mark key="'" line="226" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemService.java" timestamp="1502909814096">
-        <mark key="[" line="7" column="140" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="138" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemService.java" timestamp="1502909859117">
+        <mark key="[" line="8" column="81" />
+        <mark key="]" line="8" column="90" />
+        <mark key="^" line="8" column="90" />
+        <mark key="." line="8" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489789705131">
         <mark key="[" line="12" column="45" />
@@ -428,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
       <jump line="123" column="12" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
       <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" />
       <jump line="110" column="48" filename="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" />
@@ -460,7 +466,6 @@
       <jump line="23" column="9" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="226" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="29" column="49" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="49" column="44" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
@@ -497,6 +502,39 @@
       <jump line="145" column="35" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
       <jump line="172" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
       <jump line="387" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" />
+      <jump line="222" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="181" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="172" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="158" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="139" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="126" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="331" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="318" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="247" column="16" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="231" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="210" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="191" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="182" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="197" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="323" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="338" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="354" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="376" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="100" column="16" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="147" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="165" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="174" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="183" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="202" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="221" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="232" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="324" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="402" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="30" column="19" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
+      <jump line="47" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -508,49 +546,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NotFoundException</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>Key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlcuKjsK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50SXRlbS5zZXRCYWNrZ3JvdW5kSW1hZ2VLZXkobnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSBkZWxldGVCYWNrZ3JvdW5kSW1hZ2UoQ29udGVudEl0ZW0gY29udGVudEl0ZW0pIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuTm90Rm91bmRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZW50SXRlbSBjb250ZW50SXRlbSA9IGNvbnRlbnRJdGVtUmVwb3NpdG9yeS5nZXRPbmUoY29udGVudEl0ZW1JZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSB1cGRhdGVCYWNrZ3JvdW5kSW1hZ2UoU3RyaW5nIGNvbnRlbnRJdGVtSWQsICkgdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50SXRlbVJlcG9zaXRvcnkgPSBkZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuU2VydmljZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSBjcmVhdGUoQ29udGVudEl0ZW0gY29udGVudEl0ZW0pIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwogICAgcHVibGljIENvbnRlbnRJdGVtIHVwZGF0ZShDb250ZW50SXRlbSBjb250ZW50SXRlbSkgdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uOwogICAgcHVibGljIHZvaWQgZGVsZXRlKFN0cmluZyBjb250ZW50SXRlbUlkKSB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb247CiAgICBwdWJsaWMgQ29udGVudEl0ZW0gZ2V0KFN0cmluZyBjb250ZW50SXRlbUlkKSB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb247CiAgICAKICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC53cy5TZXJ2aWNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSBkZWxldGVCYWNrZ3JvdW5kSW1hZ2UoQ29udGVudEl0ZW0gY29udGVudEl0ZW0pIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuTm90Rm91bmRFeGNlcHRpb247Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgY2xhc3MgU2VxdWVuY2VCYWNrZ3JvdW5kSW1hZ2VSZXF1ZXN0IGV4dGVuZHMgQmFzZVJlcXVlc3QgewoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAicGF0aCIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHBhdGg7CgoJCUBOb3ROdWxsCgkJQE5vdEVtcHR5CgkJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAidHlwZSIsIHJlcXVpcmVkID0gdHJ1ZSkKCQlwdWJsaWMgU3RyaW5nIHR5cGU7CgoJCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSJzaXplIiwgcmVxdWlyZWQgPSB0cnVlKQoJCXB1YmxpYyBsb25nIHNpemU7Cgl9CgoJQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJVcGxvYWQiKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZW50SXRlbSB1cGRhdGVCYWNrZ3JvdW5kSW1hZ2UoU3RyaW5nIGNvbnRlbnRJdGVtSWQsICkgdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsZndUZXJqa2RkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuU2VydmljZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>Key</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>Key</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -571,6 +609,14 @@
         <entry encoding="base64">IA==</entry>
         <entry>\</entry>
         <entry>image</entry>
+        <entry>getContentItemById</entry>
+        <entry>getUserById(</entry>
+        <entry>auditEntity</entry>
+        <entry>User auditE</entry>
+        <entry>updateAvatar</entry>
+        <entry>Path</entry>
+        <entry>Type</entry>
+        <entry>Key</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
