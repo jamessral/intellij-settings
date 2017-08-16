@@ -3,17 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470151657">
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="84" />
-        <mark key="." line="37" column="84" />
-        <mark key="^" line="37" column="84" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" timestamp="1499454154230">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.04-Exercise-TextureDrawing/core/src/com/udacity/gamedev/texturedrawing/TextureDrawing.java" timestamp="1491341455797">
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="38" column="45" />
-        <mark key="." line="38" column="45" />
-        <mark key="^" line="38" column="43" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1495492142391">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="30" column="44" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.10-Exercise-AccelerometerMovement/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489777261591">
         <mark key="[" line="107" column="36" />
@@ -27,13 +24,6 @@
         <mark key="^" line="28" column="109" />
         <mark key="." line="28" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.07-Exercise-FollowTheFinger/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489716990197">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="190" column="27" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.06-Exercise-LoadA9Patch/core/src/com/udacity/gamedev/ninepatch/NinePatchDemo.java" timestamp="1491342247699">
         <mark key="[" line="50" column="67" />
         <mark key="]" line="50" column="68" />
@@ -43,43 +33,24 @@
       <file name="/a.dummy" timestamp="1489716627457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1489790487529">
-        <mark key="'" line="19" column="86" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="61" column="34" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.01-Exercise-ChaseCamera/core/src/com/udacity/gamedev/gigagal/util/ChaseCam.java" timestamp="1495491609142">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicle.java" timestamp="1490472122211">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491345131010">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="7" />
-      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/util/AppConfig.java" timestamp="1502803336696" />
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790724596">
         <mark key="[" line="48" column="29" />
         <mark key="]" line="49" column="7" />
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1490412129382">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-        <mark key="." line="15" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/README.md" timestamp="1491345137982">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/build.gradle" timestamp="1499640756103">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/build.gradle" timestamp="1491345905646">
         <mark key="[" line="11" column="28" />
@@ -87,12 +58,26 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.03-Exercise-FileLoading/core/src/com/udacity/gamedev/fileloading/FileLoading.java" timestamp="1491340319666">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="65" column="51" />
-        <mark key="]" line="65" column="51" />
-        <mark key="^" line="69" column="48" />
-        <mark key="." line="65" column="51" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492975503548">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1499644958665">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492979775507">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" timestamp="1502829501762">
+        <mark key="'" line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesGame.java" timestamp="1489781166825">
         <mark key="[" line="7" column="0" />
@@ -100,30 +85,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491346961930">
-        <mark key="'" line="58" column="70" />
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="55" column="14" />
-        <mark key="^" line="55" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1491347218102">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="73" column="20" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1490471923890">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="43" />
-        <mark key="." line="25" column="43" />
-        <mark key="^" line="25" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="32" />
-        <mark key="^" line="44" column="32" />
-        <mark key="." line="44" column="32" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.04-Exercise-AddDebugPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492981973909">
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="41" />
+        <mark key="^" line="41" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1489791133170">
         <mark key="[" line="41" column="46" />
@@ -137,14 +103,17 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/build.gradle" timestamp="1491343690086">
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/CourseData.java" timestamp="1502816271783">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491347230656">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.03-Exercise-ComingInForALanding/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492980466739">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489780268213">
         <mark key="[" line="15" column="30" />
@@ -152,12 +121,14 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.09-Exercise-BubbleLevel/core/src/com/udacity/gamedev/bubblelevel/BubbleLevelScreen.java" timestamp="1489717832765">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="111" column="31" />
-        <mark key="]" line="112" column="17" />
-        <mark key="." line="112" column="17" />
-        <mark key="^" line="112" column="17" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.08-Exercise-JumpingSprites/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492974596278">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="68" />
+        <mark key="^" line="55" column="68" />
+        <mark key="." line="55" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/pom.xml" timestamp="1499454672076">
+        <mark key="'" line="49" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.07-Exercise-Animations/core/src/com/udacity/gamedev/animations/Animations.java" timestamp="1491343095125">
         <mark key="[" line="71" column="84" />
@@ -165,23 +136,17 @@
         <mark key="^" line="71" column="84" />
         <mark key="." line="71" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="57" />
-        <mark key="^" line="25" column="57" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.08-Exercise-JumpingSprites/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974415027">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="62" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
-        <mark key="[" line="129" column="19" />
-        <mark key="]" line="129" column="38" />
-        <mark key="^" line="129" column="38" />
-        <mark key="." line="129" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/screens/GameplayScreen.java" timestamp="1491344902211">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.05-Exercise-LeftAndRightMovement/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492971951380">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="56" />
       </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
@@ -195,17 +160,216 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" timestamp="1499446431472">
+        <mark key="'" line="226" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489789705131">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="46" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="12" column="46" />
       </file>
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499644935785">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.01-Exercise-BasicPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492979460258">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="43" />
+        <mark key="." line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1495492160860">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="60" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490561716197">
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="80" />
+        <mark key="." line="54" column="80" />
+        <mark key="^" line="54" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1490471876927">
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="^" line="57" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1490411522262">
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489781147825">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="68" column="31" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/tracker/TrackerSectionPlayerController.java" timestamp="1499709859733">
+        <mark key="'" line="89" column="94" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.04-Exercise-TextureDrawing/core/src/com/udacity/gamedev/texturedrawing/TextureDrawing.java" timestamp="1491341455797">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="45" />
+        <mark key="^" line="38" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470151657">
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="84" />
+        <mark key="." line="37" column="84" />
+        <mark key="^" line="37" column="84" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" timestamp="1499710155813">
+        <mark key="'" line="68" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/CourseCollection.java" timestamp="1502816311103" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="18" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.07-Exercise-SetUpJumping/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974292701">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="62" />
+        <mark key="^" line="20" column="53" />
+        <mark key="." line="24" column="62" />
+      </file>
+      <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/pom.xml" timestamp="1502738712159">
+        <mark key="'" line="83" column="9" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491345131010">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499637717670">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1491347218102">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="73" column="20" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" timestamp="1502737561292">
+        <mark key="'" line="30" column="31" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1490471923890">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="43" />
+        <mark key="." line="25" column="43" />
+        <mark key="^" line="25" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492974969262">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="60" column="68" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1500150540554">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492975937736">
+        <mark key="[" line="80" column="80" />
+        <mark key="]" line="82" column="99" />
+        <mark key="^" line="82" column="99" />
+        <mark key="." line="82" column="99" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1499706175983">
+        <mark key="'" line="169" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500908276362">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="57" />
+        <mark key="^" line="25" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.06-Exercise-FacingDirection/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492972250541">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="68" />
+        <mark key="." line="50" column="68" />
+        <mark key="^" line="50" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/screens/GameplayScreen.java" timestamp="1491344902211">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
+        <mark key="[" line="129" column="19" />
+        <mark key="]" line="129" column="38" />
+        <mark key="^" line="129" column="38" />
+        <mark key="." line="129" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.03-Exercise-ComingInForALanding/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1492981476957">
+        <mark key="[" line="111" column="64" />
+        <mark key="]" line="111" column="64" />
+        <mark key="^" line="111" column="64" />
+        <mark key="." line="111" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.01-Exercise-BasicPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Platform.java" timestamp="1492979295864">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="26" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491346733342">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="18" column="64" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1492976219136">
+        <mark key="[" line="131" column="64" />
+        <mark key="]" line="131" column="29" />
+        <mark key="^" line="131" column="29" />
+        <mark key="." line="131" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.01-Exercise-ChaseCamera/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1495491697872">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Platform.java" timestamp="1492980071189">
+        <mark key="[" line="23" column="108" />
+        <mark key="]" line="23" column="109" />
+        <mark key="." line="23" column="109" />
+        <mark key="^" line="23" column="110" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
         <mark key="[" line="74" column="0" />
@@ -225,29 +389,18 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490561716197">
-        <mark key="[" line="54" column="51" />
-        <mark key="]" line="54" column="80" />
-        <mark key="." line="54" column="80" />
-        <mark key="^" line="54" column="80" />
+      <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1502741005870">
+        <mark key="'" line="42" column="30" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+        <mark key="^" line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="60" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="10" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1490471876927">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="30" />
-        <mark key="." line="57" column="30" />
-        <mark key="^" line="57" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1490411522262">
-        <mark key="[" line="48" column="22" />
-        <mark key="]" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="48" column="26" />
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.06-Exercise-FacingDirection/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492972213987">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489791043923">
         <mark key="[" line="15" column="55" />
@@ -255,16 +408,8 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1491345120337">
+      <file name="/fragment.java" timestamp="1499645217046">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489781147825">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="68" column="31" />
-        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -286,6 +431,47 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicle.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/build.gradle" />
       <jump line="59" column="70" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
+      <jump line="59" column="4" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.05-Exercise-LeftAndRightMovement/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.06-Exercise-FacingDirection/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.07-Exercise-SetUpJumping/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.07-Exercise-SetUpJumping/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="104" column="11" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.08-Exercise-JumpingSprites/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="107" column="61" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.08-Exercise-JumpingSprites/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="22" column="29" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="157" column="14" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="24" column="11" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="153" column="20" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="91" column="16" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
+      <jump line="23" column="9" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
+      <jump line="226" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
+      <jump line="29" column="49" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
+      <jump line="49" column="44" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" />
+      <jump line="169" column="29" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" />
+      <jump line="130" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" />
+      <jump line="86" column="43" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/tracker/TrackerSectionPlayerController.java" />
+      <jump line="83" column="31" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/tracker/TrackerSectionPlayerController.java" />
+      <jump line="89" column="94" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/tracker/TrackerSectionPlayerController.java" />
+      <jump line="68" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" />
+      <jump line="43" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" />
+      <jump line="220" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" />
+      <jump line="30" column="31" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" />
+      <jump line="83" column="9" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/pom.xml" />
+      <jump line="9" column="0" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" />
+      <jump line="35" column="30" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" />
+      <jump line="47" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="113" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="34" column="49" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="42" column="61" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="75" column="55" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="106" column="21" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="108" column="15" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="114" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -297,62 +483,79 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>mn(name=&quot;source_id&quot;, nullable=true, updatable=false)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlXD4=</text>
+        <text>\</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24ueCA8IDApIHsKICAgICAgICAgICAgcG9zaXRpb24ueCA9IDA7CiAgICAgICAgfSBlbHNlIGlmIChwb3NpdGlvbi54ID4gQ29uc3RhbnRzLldPUkxEX1NJWkUgLSBDb25zdGFudHMuUExBWUVSX0hFQURfUkFESVVTKSB7CiAgICAgICAgICAgIHBvc2l0aW9uLnggPSBDb25zdGFudHMuV09STERfU0laRSAtIENvbnN0YW50cy5QTEFZRVJfSEVBRF9SQURJVVMKICAgICAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlcuKjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsZndUZXJqa2RkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IHRoZSBzdGFuZGluZyByaWdodCBBdGxhc1JlZ2lvbgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkNhbGxiYWNrcy4qOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubHdqZ2wuZ2xmdy5DYWxsYmFja3MuKjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBHZHguZ2wuZ2xDbGVhcihHTDIwLkdMX0NPTE9SX0NMRUFSX1ZBTFVFKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5URVhUVVJFX0FUTEFTCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5zY2VuZS5pbWFnZS5QaXhlbEZvcm1hdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXNlIGF0bGFzLmZpbmRSZWdpb24oKSB0byBpbml0aWFsaXplIHRoZSBzdGFuZGluZyByaWdodCBBdGxhc1JlZ2lvbgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC51dGlsLkRpc3BsYXk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlXD4=</last-search>
+      <last-search>\</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlXD4=</last-pattern>
+      <last-pattern>\</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>TODO</entry>
         <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
         <entry encoding="base64">XDxlXD4=</entry>
+        <entry>java</entry>
+        <entry>jpa</entry>
+        <entry>mvc</entry>
+        <entry>web-service</entry>
+        <entry>replay</entry>
+        <entry>start</entry>
+        <entry encoding="base64">XDwuXD4=</entry>
+        <entry>Version</entry>
+        <entry>}</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>\</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
         <entry>wa</entry>
+        <entry>noh</entry>
+        <entry>vs</entry>
         <entry>w</entry>
+        <entry>sp</entry>
+        <entry>q</entry>
+        <entry>nohighlight</entry>
+        <entry>highlight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -390,6 +593,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
