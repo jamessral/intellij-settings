@@ -300,6 +300,9 @@
       <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1500150540554">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" timestamp="1502897731888">
+        <mark key="'" line="145" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492975937736">
         <mark key="[" line="80" column="80" />
         <mark key="]" line="82" column="99" />
@@ -474,6 +477,13 @@
       <jump line="114" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="117" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="13" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/dto/org/OrganizationResponse.java" />
+      <jump line="41" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
+      <jump line="129" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
+      <jump line="130" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
+      <jump line="137" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
+      <jump line="143" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
+      <jump line="144" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
+      <jump line="145" column="35" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,7 +498,7 @@
         <text>mn(name=&quot;source_id&quot;, nullable=true, updatable=false)</text>
       </register>
       <register name="/" type="4">
-        <text>\</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlcuKjsK</text>
@@ -525,11 +535,11 @@
       </register>
     </registers>
     <search>
-      <last-search>\</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>\</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -547,6 +557,7 @@
         <entry>}</entry>
         <entry encoding="base64">IA==</entry>
         <entry>\</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
