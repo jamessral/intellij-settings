@@ -75,8 +75,8 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" timestamp="1502912307141">
-        <mark key="'" line="108" column="46" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" timestamp="1502912588278">
+        <mark key="'" line="107" column="34" />
         <mark key="[" line="107" column="73" />
         <mark key="]" line="107" column="12" />
         <mark key="^" line="107" column="12" />
@@ -290,7 +290,6 @@
         <mark key="^" line="73" column="20" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceService.java" timestamp="1502908427611" />
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/group/GroupsServiceImpl.java" timestamp="1502737561292">
         <mark key="'" line="30" column="31" />
         <mark key="[" line="1" column="0" />
@@ -337,8 +336,12 @@
       <file name="/Dummy.txt" timestamp="1500908276362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1502911023495">
-        <mark key="'" line="61" column="12" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1502913051756">
+        <mark key="'" line="283" column="25" />
+        <mark key="[" line="164" column="5" />
+        <mark key="]" line="168" column="49" />
+        <mark key="^" line="168" column="49" />
+        <mark key="." line="168" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
         <mark key="[" line="25" column="38" />
@@ -442,12 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="29" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
-      <jump line="157" column="14" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
-      <jump line="24" column="11" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
-      <jump line="153" column="20" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
-      <jump line="91" column="16" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
-      <jump line="23" column="9" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="226" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="29" column="49" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
@@ -540,8 +537,14 @@
       <jump line="102" column="27" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="103" column="30" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="106" column="38" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
-      <jump line="107" column="38" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="108" column="46" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="107" column="34" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="38" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
+      <jump line="155" column="22" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
+      <jump line="278" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
+      <jump line="58" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
+      <jump line="168" column="49" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
+      <jump line="283" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -556,7 +559,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICJDb250ZW50IGJhY2tncm91bmQgaW1hZ2Uga2V5IiwgcmVxdWlyZWQgPSBmYWxzZSkKICAgICAgICBwdWJsaWMgU3RyaW5nIGtleTs=</text>
@@ -593,27 +596,16 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
-        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
-        <entry encoding="base64">XDxlXD4=</entry>
-        <entry>java</entry>
-        <entry>jpa</entry>
-        <entry>mvc</entry>
-        <entry>web-service</entry>
-        <entry>replay</entry>
-        <entry>start</entry>
-        <entry encoding="base64">XDwuXD4=</entry>
         <entry>Version</entry>
         <entry>}</entry>
-        <entry encoding="base64">IA==</entry>
         <entry>\</entry>
         <entry>image</entry>
         <entry>getContentItemById</entry>
@@ -629,6 +621,10 @@
         <entry>type</entry>
         <entry>key</entry>
         <entry>create</entry>
+        <entry>CoruseCreateRequ</entry>
+        <entry>CourseCreateRequ</entry>
+        <entry>create(</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
