@@ -1,8 +1,8 @@
 <scheme name="Tomorrow Night Grey Plus" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="SauceCodePro Nerd Font" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="SauceCodePro Nerd Font" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="7b7e80" />
@@ -568,24 +568,6 @@
       <value>
         <option name="FOREGROUND" value="de935f" />
       </value>
-    </option>
-    <option name="SCOPE_KEY_All">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Non-Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Problems">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Production">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Tests">
-      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
