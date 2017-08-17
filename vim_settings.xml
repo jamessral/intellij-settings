@@ -293,6 +293,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.6.01-Exercise-AssetRoundup/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1502991130402">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1491347218102">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -339,10 +345,17 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.6.01-Exercise-AssetRoundup/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1502991520958">
+        <mark key="'" line="73" column="42" />
+        <mark key="[" line="76" column="82" />
+        <mark key="]" line="77" column="34" />
+        <mark key="^" line="77" column="34" />
+        <mark key="." line="77" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1499706175983">
         <mark key="'" line="169" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502913204277">
+      <file name="/Dummy.txt" timestamp="1502991488679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1502981703550">
@@ -471,8 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="9" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/pom.xml" />
-      <jump line="9" column="0" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" />
       <jump line="35" column="30" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" />
       <jump line="47" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="113" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -571,6 +582,8 @@
       <jump line="142" column="126" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" />
       <jump line="143" column="128" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" />
       <jump line="127" column="45" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.6.01-Exercise-AssetRoundup/core/src/com/udacity/gamedev/gigagal/Level.java" />
+      <jump line="73" column="42" filename="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.6.01-Exercise-AssetRoundup/core/src/com/udacity/gamedev/gigagal/Level.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -582,41 +595,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>_CENTER</text>
       </register>
       <register name="/" type="4">
         <text>Size</text>
       </register>
       <register name="0" type="4">
-        <text>assertThat(updateResponse.getBody().getSequence().getBackgroundImageSize()).isEqualTo(updateRequest.thumbnailImageSize);
-		assertThat(updateResponse.getBody().getSequence().getBackgroundImageType()).isEqualTo(updateRequest.thumbnailImageType);</text>
+        <text encoding="base64">IFV0aWxzLmRyYXdUZXh0dXJlUmVnaW9uKGJhdGNoLAogICAgICAgICAgICAgICAgQXNzZXRzLmluc3RhbmNlLnBvd2VydXBBc3NldHMucG93ZXJ1cCwKICAgICAgICAgICAgICAgIG5ldyBWZWN0b3IyKDIwLCAwKSwKICAgICAgICAgICAgICAgIENvbnN0YW50cy5QT1dFUlVQX0NFTlRFUik7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhlIGNvbnN0YW50cyB3ZSd2ZSBhZGRlZCBmb3IgdGhlIHBvd2VydXBzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhlIGNvbnN0YW50cyB3ZSd2ZSBhZGRlZCBmb3IgdGhlIGV4cGxvc2lvbnMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhlIGNvbnN0YW50cyB3ZSd2ZSBhZGRlZCBmb3IgdGhlIGJ1bGxldHMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlS2V5KGQuZ2V0QmFja2dyb3VuZEltYWdlS2V5KCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlUGF0aChjb3Vyc2UuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VQYXRoKGRhdGEuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsKCQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoZGF0YS5nZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUZXN0IGRyYXcgdGhlIGZpcnN0IGZyCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">YW1lIG9mIHRoZSBleHBsb3Npb24KCgogICAgICAgIC8vIFRPRE86IFRlc3QgZHJhdyB0aGUgc2Vjb25kIGZyYW1lIG9mIHRoZSBleHBsb3Npb24KCgogICAgICAgIC8vIFRPRE86IFRlc3QgZHJhdyB0aGUgdGhpcmQgZnJhbWUgb2YgdGhlIGV4cGxvc2lvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUZXN0IGRyYXcgdGhlIHBvd2VydXAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NldHMuQnVsbGV0QXNzZXRzLiAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXIoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGJ1bGxldEFzc2V0cywgZXhwbG9zaW9uQXNzZXRzLCBhbmQgcG93ZXJ1cEFzc2V0cwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBpbnN0YW5jZXMgb2YgQnVsbGV0QXNzZXRzLCBFeHBsb3Npb25Bc3NldHMsIGFuZCBQb3dlcnVwQXNzZXRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -629,7 +641,7 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -716,6 +728,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
