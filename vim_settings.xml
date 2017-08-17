@@ -111,6 +111,12 @@
         <mark key="^" line="8" column="90" />
         <mark key="." line="8" column="90" />
       </file>
+      <file name="D:/Github/ud406/2.5.07-Exercise-Knockback/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1502932287651">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="^" line="201" column="69" />
+        <mark key="." line="198" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Icicle.java" timestamp="1489781181749">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -300,6 +306,12 @@
         <mark key="^" line="107" column="12" />
         <mark key="." line="107" column="12" />
       </file>
+      <file name="D:/Github/ud406/2.5.07-Exercise-Knockback/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1502932086961">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="71" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1490561511374">
         <mark key="[" line="50" column="12" />
         <mark key="]" line="50" column="37" />
@@ -364,7 +376,7 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500908276362">
+      <file name="/Dummy.txt" timestamp="1502932301288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -562,7 +574,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.getPosition()</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -571,31 +583,31 @@
         <text encoding="base64">ICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICJDb250ZW50IGJhY2tncm91bmQgaW1hZ2Uga2V5IiwgcmVxdWlyZWQgPSBmYWxzZSkKICAgICAgICBwdWJsaWMgU3RyaW5nIGtleTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdkeC5hcHAubG9nKHRoaXMuVEFHLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgR2lnYUdhbCdzIHZlcnRpY2FsIHNwZWVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogSWYgR2lnYUdhbCBvdmVybGFwcyBhbiBlbmVteSwgbG9nIHRoZSBkaXJlY3Rpb24gZnJvbSB3aGljaCBzaGUgaGl0IGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gWW91J2xsIHdhbnQgdG8gZGVmaW5lIGFuIGVuZW15IGNvbGxpc2lvbiByYWRpdXMgY29uc3RhbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogRGVmaW5lIGVuZW15IGJvdW5kaW5nIHJlY3RhbmdsZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgR2lnYUdhbCdzIGhvcml6b250YWwgc3BlZWQgKGluIHRoZSBjb3JyZWN0IGRpcmVjdGlvbikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEZWZpbmUgR2lnYUdhbCBib3VuZGluZyByZWN0YW5nbGUK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBWZWN0b3IyIGNvbnN0YW50IGZvciBrbm9ja2JhY2sgdmVsb2NpdHkgKDIwMCwgMjAwIHdvcmtzIHdlbGwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2UgR2lnYUdhbCdzIGNvbnN0YW50cyBmb3IgaGVpZ2h0IGFuZCBzdGFuY2Ugd2lkdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdkeC5hcHAubG9nKHRoaXMuVEFHLCApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
