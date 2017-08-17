@@ -376,7 +376,7 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502932301288">
+      <file name="/Dummy.txt" timestamp="1502932586301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -384,6 +384,12 @@
         <mark key="]" line="129" column="38" />
         <mark key="^" line="129" column="38" />
         <mark key="." line="129" column="38" />
+      </file>
+      <file name="D:/Github/ud406/2.5.08-Exercise-RecoilingInTerror/core/src/com/udacity/gamedev/gigagal/util/Enums.java" timestamp="1502932444859">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/CourseData.java" timestamp="1502816271783">
         <mark key="[" line="27" column="13" />
@@ -437,6 +443,13 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="D:/Github/ud406/2.5.08-Exercise-RecoilingInTerror/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1502932578608">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="201" column="30" />
+        <mark key="]" line="201" column="38" />
+        <mark key="^" line="201" column="38" />
+        <mark key="." line="201" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/pom.xml" timestamp="1499454672076">
         <mark key="'" line="49" column="44" />
       </file>
@@ -463,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="29" column="49" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
       <jump line="49" column="44" filename="$USER_HOME$/workspace/understory-platform/pom.xml" />
@@ -563,6 +574,8 @@
       <jump line="58" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
       <jump line="168" column="49" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
       <jump line="283" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
+      <jump line="80" column="34" filename="D:/Github/ud406/2.5.08-Exercise-RecoilingInTerror/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
+      <jump line="113" column="0" filename="D:/Github/ud406/2.5.08-Exercise-RecoilingInTerror/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -574,7 +587,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>FALLING</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -583,31 +596,31 @@
         <text encoding="base64">ICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICJDb250ZW50IGJhY2tncm91bmQgaW1hZ2Uga2V5IiwgcmVxdWlyZWQgPSBmYWxzZSkKICAgICAgICBwdWJsaWMgU3RyaW5nIGtleTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgR2lnYUdhbCdzIHZlcnRpY2FsIHNwZWVkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgUkVDT0lMSU5HIGp1bXAgc3RhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEaXNhYmxlIGxlZnQvcmlnaHQgbW92ZW1lbnQgaWYgUkVDT0lMSU5HCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiBaZXJvIGhvcml6b250YWwgdmVsb2NpdHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiBaZXJvIGhvcml6b250YWwgdmVsb2NpdHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgR2lnYUdhbCdzIGhvcml6b250YWwgc3BlZWQgKGluIHRoZSBjb3JyZWN0IGRpcmVjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogSWYgR2lnYUdhbCBpcyBub3QgUkVDT0lMSU5HLCBzZXQgRkFMTElORyBqdW1wIHN0YXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogSWYgR2lnYUdhbCBpcyBub3QgUkVDT0lMSU5HLCBzZXQgRkFMTElORyBqdW1wIHN0YXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBWZWN0b3IyIGNvbnN0YW50IGZvciBrbm9ja2JhY2sgdmVsb2NpdHkgKDIwMCwgMjAwIHdvcmtzIHdlbGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdkeC5hcHAubG9nKHRoaXMuVEFHLCApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganVtcFN0YXRlID0gRW51bXMuSnVtcFN0YXRlLkZBTExJTkc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
