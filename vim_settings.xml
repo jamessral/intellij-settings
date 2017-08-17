@@ -345,11 +345,12 @@
       <file name="/Dummy.txt" timestamp="1502913204277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1502981703550">
-        <mark key="'" line="289" column="52" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="0" />
-        <mark key="." line="374" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1502984269491">
+        <mark key="'" line="381" column="32" />
+        <mark key="[" line="381" column="33" />
+        <mark key="]" line="381" column="49" />
+        <mark key="." line="381" column="49" />
+        <mark key="^" line="381" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
         <mark key="[" line="25" column="38" />
@@ -387,11 +388,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceServiceImpl.java" timestamp="1502983613315">
-        <mark key="[" line="156" column="9" />
-        <mark key="]" line="157" column="4" />
-        <mark key="^" line="157" column="4" />
-        <mark key="." line="157" column="4" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceServiceImpl.java" timestamp="1502983938614">
+        <mark key="[" line="194" column="105" />
+        <mark key="]" line="195" column="65" />
+        <mark key="^" line="195" column="65" />
+        <mark key="." line="195" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491346733342">
         <mark key="[" line="15" column="0" />
@@ -466,7 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="9" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/pom.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" />
       <jump line="35" column="30" filename="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" />
       <jump line="47" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -566,6 +566,7 @@
       <jump line="142" column="126" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" />
       <jump line="143" column="128" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" />
       <jump line="127" column="45" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" />
+      <jump line="377" column="32" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -577,7 +578,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Size</text>
@@ -587,31 +588,31 @@
 		assertThat(updateResponse.getBody().getSequence().getBackgroundImageType()).isEqualTo(updateRequest.thumbnailImageType);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7Cg==</text>
+        <text encoding="base64">CQlpZiAocy5nZXRCYWNrZ3JvdW5kSW1hZ2VTaXplKCkgIT0gbnVsbCkgc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShzLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7Cg==</text>
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlS2V5KGQuZ2V0QmFja2dyb3VuZEltYWdlS2V5KCkpOwo=</text>
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlUGF0aChjb3Vyc2UuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsK</text>
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlS2V5KGQuZ2V0QmFja2dyb3VuZEltYWdlS2V5KCkpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlUGF0aChjb3Vyc2UuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VQYXRoKGRhdGEuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsKCQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoZGF0YS5nZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlTdHJpbmcgdGh1bWJuYWlsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CQlTdHJpbmcgdGh1bWJuYWlsUGF0aCA9IHVwZGF0ZVJlcXVlc3QudGh1bWJuYWlsSW1hZ2VQYXRoOwoJCVN0cmluZyB0aHVtYm5haWw=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
