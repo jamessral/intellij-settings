@@ -1354,6 +1354,9 @@
         <option name="FOREGROUND" value="ff6b68" />
       </value>
     </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value />
+    </option>
     <option name="Label">
       <value>
         <option name="FOREGROUND" value="eeffff" />
