@@ -442,6 +442,11 @@
         <mark key="^" line="140" column="125" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.6.01-Exercise-AssetRoundup/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1502990439658">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1502741005870">
         <mark key="'" line="42" column="30" />
         <mark key="[" line="29" column="0" />
@@ -587,31 +592,31 @@
 		assertThat(updateResponse.getBody().getSequence().getBackgroundImageType()).isEqualTo(updateRequest.thumbnailImageType);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhlIGNvbnN0YW50cyB3ZSd2ZSBhZGRlZCBmb3IgdGhlIHBvd2VydXBzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhlIGNvbnN0YW50cyB3ZSd2ZSBhZGRlZCBmb3IgdGhlIGV4cGxvc2lvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlS2V5KGQuZ2V0QmFja2dyb3VuZEltYWdlS2V5KCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhlIGNvbnN0YW50cyB3ZSd2ZSBhZGRlZCBmb3IgdGhlIGJ1bGxldHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlUGF0aChjb3Vyc2UuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsK</text>
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VQYXRoKGRhdGEuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsKCQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoZGF0YS5nZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlS2V5KGQuZ2V0QmFja2dyb3VuZEltYWdlS2V5KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdGh1bWJuYWlsCg==</text>
+        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlUGF0aChjb3Vyc2UuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQlTdHJpbmcgdGh1bWJuYWlsUGF0aCA9IHVwZGF0ZVJlcXVlc3QudGh1bWJuYWlsSW1hZ2VQYXRoOwoJCVN0cmluZyB0aHVtYm5haWw=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VQYXRoKGRhdGEuZ2V0QmFja2dyb3VuZEltYWdlUGF0aCgpKTsKCQlzZXF1ZW5jZS5zZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoZGF0YS5nZXRCYWNrZ3JvdW5kSW1hZ2VLZXkoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlU2l6ZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVNpemUoKSk7CgkJc2VxdWVuY2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZShkYXRhLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -628,7 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry>getContentItemById</entry>
         <entry>getUserById(</entry>
         <entry>auditEntity</entry>
