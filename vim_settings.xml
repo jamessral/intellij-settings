@@ -387,11 +387,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceServiceImpl.java" timestamp="1502981610346">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="187" column="40" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceServiceImpl.java" timestamp="1502983613315">
+        <mark key="[" line="156" column="9" />
+        <mark key="]" line="157" column="4" />
+        <mark key="^" line="157" column="4" />
+        <mark key="." line="157" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491346733342">
         <mark key="[" line="15" column="0" />
@@ -577,7 +577,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>Size</text>
@@ -628,7 +628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry>getContentItemById</entry>
         <entry>getUserById(</entry>
         <entry>auditEntity</entry>
