@@ -210,12 +210,11 @@
         <mark key="." line="36" column="37" />
         <mark key="^" line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" timestamp="1503001199076">
-        <mark key="'" line="127" column="45" />
-        <mark key="[" line="179" column="61" />
-        <mark key="]" line="179" column="69" />
-        <mark key="^" line="179" column="69" />
-        <mark key="." line="179" column="69" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" timestamp="1503066925718">
+        <mark key="[" line="87" column="61" />
+        <mark key="]" line="87" column="69" />
+        <mark key="^" line="87" column="69" />
+        <mark key="." line="87" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
         <mark key="[" line="10" column="41" />
@@ -293,7 +292,7 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ContentItem.java" timestamp="1503001599317">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ContentItem.java" timestamp="1503066568119">
         <mark key="'" line="81" column="4" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -442,12 +441,12 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" timestamp="1503001086878">
-        <mark key="'" line="142" column="126" />
-        <mark key="[" line="142" column="59" />
-        <mark key="]" line="142" column="67" />
-        <mark key="^" line="142" column="67" />
-        <mark key="." line="142" column="67" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" timestamp="1503066117635">
+        <mark key="'" line="91" column="126" />
+        <mark key="[" line="93" column="72" />
+        <mark key="]" line="93" column="72" />
+        <mark key="^" line="93" column="80" />
+        <mark key="." line="93" column="72" />
       </file>
       <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1502741005870">
         <mark key="'" line="42" column="30" />
@@ -584,7 +583,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Background</text>
+        <text>Thumbnail</text>
       </register>
       <register name="/" type="4">
         <text>HEAD</text>
@@ -605,19 +604,19 @@
         <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjODcxNGI1M2MwOTVjMDU4NmE1ZDljNGU5NTliYTg4NTVmOGNkNWE0Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlDb3Vyc2UgY291cnNlID0gbmV3IENvdXJzZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlDb3Vyc2UgY291cnNlID0gdmVyc2lvbi5nZXRDb3Vyc2UoKS5jb3B5KCk7Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlVHlwZSh2ZXJzaW9uLmdldENvdXJzZSgpLmdldEJhY2tncm91bmRJbWFnZVR5cGUoKSk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjODcxNGI1M2MwOTVjMDU4NmE1ZDljNGU5NTliYTg4NTVmOGNkNWE0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -634,7 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUserById(</entry>
         <entry>auditEntity</entry>
         <entry>User auditE</entry>
         <entry>updateAvatar</entry>
