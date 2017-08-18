@@ -95,6 +95,12 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" timestamp="1503075681798">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.04-Exercise-AddDebugPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492981973909">
         <mark key="[" line="41" column="40" />
         <mark key="]" line="41" column="41" />
@@ -158,6 +164,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="16" column="62" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Playground/Android/Connect3/app/src/main/res/layout/activity_main.xml" timestamp="1503076296311">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.05-Exercise-LeftAndRightMovement/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492971951380">
         <mark key="[" line="17" column="55" />
@@ -355,7 +366,7 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1499706175983">
         <mark key="'" line="169" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502991488679">
+      <file name="/Dummy.txt" timestamp="1503076349902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1502981703550">
@@ -595,40 +606,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_CENTER</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>Size</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IFV0aWxzLmRyYXdUZXh0dXJlUmVnaW9uKGJhdGNoLAogICAgICAgICAgICAgICAgQXNzZXRzLmluc3RhbmNlLnBvd2VydXBBc3NldHMucG93ZXJ1cCwKICAgICAgICAgICAgICAgIG5ldyBWZWN0b3IyKDIwLCAwKSwKICAgICAgICAgICAgICAgIENvbnN0YW50cy5QT1dFUlVQX0NFTlRFUik7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMC41Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMC41Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUZXN0IGRyYXcgdGhlIGZpcnN0IGZyCg==</text>
+        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFZlcnRpY2FsX2JpYXM9IjAuNSIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YW1lIG9mIHRoZSBleHBsb3Npb24KCgogICAgICAgIC8vIFRPRE86IFRlc3QgZHJhdyB0aGUgc2Vjb25kIGZyYW1lIG9mIHRoZSBleHBsb3Npb24KCgogICAgICAgIC8vIFRPRE86IFRlc3QgZHJhdyB0aGUgdGhpcmQgZnJhbWUgb2YgdGhlIGV4cGxvc2lvbgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSI4ZHAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUZXN0IGRyYXcgdGhlIHBvd2VydXAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9Ijc1ZHAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NldHMuQnVsbGV0QXNzZXRzLiAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9jb25zdHJhaW50VmVydGljYWxfYmlhcz0iMC41Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9jb25zdHJhaW50SG9yaXpvbnRhbF9iaWFzPSIwLjUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9jb25zdHJhaW50VmVydGljYWxfYmlhcz0iMC41Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGJ1bGxldEFzc2V0cywgZXhwbG9zaW9uQXNzZXRzLCBhbmQgcG93ZXJ1cEFzc2V0cwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9jb25zdHJhaW50SG9yaXpvbnRhbF9iaWFzPSIwLjUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBpbnN0YW5jZXMgb2YgQnVsbGV0QXNzZXRzLCBFeHBsb3Npb25Bc3NldHMsIGFuZCBQb3dlcnVwQXNzZXRzCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -641,7 +652,7 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
