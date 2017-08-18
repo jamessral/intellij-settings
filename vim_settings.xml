@@ -210,11 +210,18 @@
         <mark key="." line="36" column="37" />
         <mark key="^" line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" timestamp="1503066925718">
-        <mark key="[" line="87" column="61" />
-        <mark key="]" line="87" column="69" />
-        <mark key="^" line="87" column="69" />
-        <mark key="." line="87" column="69" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" timestamp="1503068961774">
+        <mark key="'" line="139" column="19" />
+        <mark key="[" line="87" column="159" />
+        <mark key="]" line="87" column="161" />
+        <mark key="^" line="87" column="161" />
+        <mark key="." line="87" column="161" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1503069365924">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="53" />
+        <mark key="." line="61" column="3" />
+        <mark key="^" line="61" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
         <mark key="[" line="10" column="41" />
@@ -292,12 +299,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ContentItem.java" timestamp="1503066568119">
-        <mark key="'" line="81" column="4" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="80" column="39" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ContentItem.java" timestamp="1503069286588">
+        <mark key="'" line="77" column="19" />
+        <mark key="[" line="77" column="19" />
+        <mark key="]" line="77" column="54" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="77" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1491347218102">
         <mark key="[" line="74" column="0" />
@@ -472,8 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
-      <jump line="129" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
       <jump line="130" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
       <jump line="137" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
       <jump line="143" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" />
@@ -572,6 +577,8 @@
       <jump line="400" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
       <jump line="775" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
       <jump line="496" column="43" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
+      <jump line="139" column="19" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" />
+      <jump line="77" column="19" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ContentItem.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -583,28 +590,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Thumbnail</text>
+        <text>&quot;https://cdn.filestackcontent.com/&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>https:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      <register name="0" type="4">
+        <text>&quot;https://cdn.filestackcontent.com/&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFRodW1ibmFpbEltYWdlUGF0aCgpIHsKICAgICAgICByZXR1cm4gdGhpcy5iYWNrZ3JvdW5kSW1hZ2VQYXRoOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGh1bWJuYWlsSW1hZ2VLZXkoKSB7CiAgICAJcmV0dXJuIHRoaXMuYmFja2dyb3VuZEltYWdlS2V5OwogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGh1bWJuYWlsSW1hZ2VLZXkoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
@@ -616,20 +623,20 @@
         <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjODcxNGI1M2MwOTVjMDU4NmE1ZDljNGU5NTliYTg4NTVmOGNkNWE0Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>https:</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
+      <last-pattern>https:</last-pattern>
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -653,6 +660,7 @@
         <entry>Size</entry>
         <entry>copy</entry>
         <entry>HEAD</entry>
+        <entry>https:</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -662,13 +670,14 @@
         <entry>highlight</entry>
         <entry>vs find CourseService.java</entry>
         <entry>sp</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zL1NlcXVlbmNlL0NvdXJzZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2JhY2tncm91bmQvdGh1bWJuYWlsL2c=</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL1BhdGgvU2l6ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL1NpemUvVHlwZS9n</entry>
         <entry>nohlsearch</entry>
+        <entry>vs</entry>
+        <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
