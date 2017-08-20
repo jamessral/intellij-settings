@@ -248,11 +248,11 @@
         <mark key="^" line="71" column="81" />
         <mark key="." line="71" column="81" />
       </file>
-      <file name="D:/Github/ud406/2.6.02-Exercise-Bulletstorm/core/src/com/udacity/gamedev/gigagal/entities/Bullet.java" timestamp="1503263755270">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
-        <mark key="^" line="28" column="43" />
+      <file name="D:/Github/ud406/2.6.02-Exercise-Bulletstorm/core/src/com/udacity/gamedev/gigagal/entities/Bullet.java" timestamp="1503264131558">
+        <mark key="[" line="33" column="67" />
+        <mark key="]" line="34" column="79" />
+        <mark key="^" line="34" column="79" />
+        <mark key="." line="34" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" timestamp="1503084835425">
         <mark key="'" line="54" column="8" />
@@ -366,6 +366,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.6.02-Exercise-Bulletstorm/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1503264967362">
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="45" column="53" />
+        <mark key="." line="45" column="53" />
+        <mark key="^" line="45" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489781147825">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -420,7 +426,7 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503069665208">
+      <file name="/Dummy.txt" timestamp="1503264701774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -624,7 +630,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>position</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>https:</text>
@@ -633,31 +639,31 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZmluYWwgU3RyaW5nIGltYWdlUGF0aFByZWZpeCA9ICAiaHR0cHM6Ly9jZG4uZmlsZXN0YWNrY29udGVudC5jb20vIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0dXJlUmVnaW9uID0gQXNzZXRzLmluc3RhbmNlLmJ1bGxldEFzc2V0cy5idWxsZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21wbGV0ZSByZW5kZXIgZnVuY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCB5VmVsID0gZGVsdGEgKiBDb25zdGFudHMuQlVMTEVUX1NQRUVEOwo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKE1hdGhVdGlscy5yYW5kb21Cb29sZWFuKCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSB0cnVlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTZXQgcG9zaXRpb24gYW5kIGRpcmVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZWxzZSBzcGF3bkJ1bGxldChuZXcgVmVjdG9yMih4LCB5KSwgRGlyZWN0aW9uLlJJR0hUKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgaWYgKHkgJSAyID09IDApIHNwYXduQnVsbGV0KG5ldyBWZWN0b3IyKHgsIHkpLCBEaXJlY3Rpb24uTEVGVCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
