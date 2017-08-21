@@ -42,6 +42,12 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="D:/Github/ud406/2.6.06-Exercise-EXPLOSION/core/src/com/udacity/gamedev/gigagal/entities/Explosion.java" timestamp="1503277095450">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="60" />
@@ -77,6 +83,11 @@
         <mark key="]" line="131" column="29" />
         <mark key="^" line="131" column="29" />
         <mark key="." line="131" column="29" />
+      </file>
+      <file name="D:/Github/ud406/2.6.06-Exercise-EXPLOSION/core/src/com/udacity/gamedev/gigagal/entities/Bullet.java" timestamp="1503276643607">
+        <mark key="[" line="36" column="77" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.07-Exercise-Animations/core/src/com/udacity/gamedev/animations/Animations.java" timestamp="1491343095125">
         <mark key="[" line="71" column="84" />
@@ -645,28 +656,28 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZmluYWwgU3RyaW5nIGltYWdlUGF0aFByZWZpeCA9ICAiaHR0cHM6Ly9jZG4uZmlsZXN0YWNrY29udGVudC5jb20vIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBvc2l0aW9uLnggPCBlbmVteS5wb3NpdGlvbi54ICsgQ29uc3RhbnRzLkVORU1FWV9ISVRfREVURUNUSU9OX1JBRElVUyB8fAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3NpdGlvbi54ID4gZW5lbXkucG9zaXRpb24ueCArIENvbnN0YW50cy5FTkVNRVlfSElUX0RFVEVDVElPTl9SQURJVVMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTYXZlIG9mZiB0aGUgc3RhcnQgdGltZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTYXZlIHRoZSBzcGF3biBwb3NpdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplIGVuZW15IGhlYWx0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUGxhdGZvcm0gcGxhdGZvcm07Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIGxvbmcgc3RhcnRUaW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIucnVudGltZS5yZWZsZWN0Lm9wdC5Db25zdDsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIFZlY3RvcjIgcG9zaXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBoZWF0aCBjb3VudGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
