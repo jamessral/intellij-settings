@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" timestamp="1502910618838">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.02-Exercise-RemoveTheFloor/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1495492142391">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -45,6 +42,12 @@
         <mark key="]" line="14" column="29" />
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/user/UserControllerTests.java" timestamp="1503416868062">
+        <mark key="[" line="99" column="109" />
+        <mark key="]" line="99" column="123" />
+        <mark key="^" line="99" column="123" />
+        <mark key="." line="99" column="123" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790724596">
         <mark key="[" line="48" column="29" />
@@ -152,9 +155,6 @@
         <mark key="^" line="55" column="68" />
         <mark key="." line="55" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/pom.xml" timestamp="1499454672076">
-        <mark key="'" line="49" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.07-Exercise-Animations/core/src/com/udacity/gamedev/animations/Animations.java" timestamp="1491343095125">
         <mark key="[" line="71" column="84" />
         <mark key="]" line="71" column="84" />
@@ -189,9 +189,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/admin/org/OrganizationAdminController.java" timestamp="1499446431472">
-        <mark key="'" line="226" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemService.java" timestamp="1502909859117">
         <mark key="[" line="8" column="81" />
@@ -276,9 +273,6 @@
         <mark key="^" line="68" column="31" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/tracker/TrackerSectionPlayerController.java" timestamp="1499709859733">
-        <mark key="'" line="89" column="94" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.04-Exercise-TextureDrawing/core/src/com/udacity/gamedev/texturedrawing/TextureDrawing.java" timestamp="1491341455797">
         <mark key="[" line="38" column="44" />
         <mark key="]" line="38" column="45" />
@@ -360,14 +354,15 @@
         <mark key="^" line="60" column="68" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/dto/org/OrganizationResponse.java" timestamp="1502894199387">
-        <mark key="'" line="13" column="13" />
-      </file>
       <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1500150540554">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" timestamp="1503069743467">
-        <mark key="'" line="172" column="39" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" timestamp="1503416512294">
+        <mark key="'" line="175" column="39" />
+        <mark key="[" line="150" column="67" />
+        <mark key="]" line="150" column="78" />
+        <mark key="^" line="150" column="78" />
+        <mark key="." line="150" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492975937736">
         <mark key="[" line="80" column="80" />
@@ -488,11 +483,11 @@
         <mark key="." line="143" column="106" />
         <mark key="^" line="143" column="106" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" timestamp="1503409614387">
-        <mark key="[" line="111" column="79" />
-        <mark key="]" line="111" column="79" />
-        <mark key="." line="111" column="79" />
-        <mark key="^" line="116" column="71" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" timestamp="1503416664833">
+        <mark key="[" line="105" column="55" />
+        <mark key="]" line="105" column="66" />
+        <mark key="." line="105" column="66" />
+        <mark key="^" line="105" column="66" />
       </file>
       <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1502741005870">
         <mark key="'" line="42" column="30" />
@@ -629,37 +624,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>course</text>
+        <text>&quot;Knu33RNOQ6qi0S5ND1mY&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>sequenc</text>
+        <text>avatr</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbG9jYWxVc2VyID0gUFJFRklYICsgIi1kZWxldGUiICsgRU1BSUxfUE9TVEZJWDsKCiAgICAgICAgT3JnYW5pemF0aW9uIG9yZyA9IHRoaXMub3JnU3VjY2VzcygieHh4eCIsIFBSRUZJWCArICItZGVsZXRlIiwgdHJ1ZSk7CiAgICAgICAgU3RyaW5nIGlkID0gb3JnLmdldElkKCk7CgogICAgICAgIHRoaXMuY3JlYXRlT3JnVXNlckFkbWluKGlkLCBsb2NhbFVzZXIsIFBSRUZJWCArICItZGVsZXRlIiwgInRlc3QiKTsKICAgICAgICBTdHJpbmcgdG9rZW4gPSB0aGlzLmxvZ2luU3VjY2Vzcyhsb2NhbFVzZXIsICJ0ZXN0IiwgaWQpOwoKICAgICAgICBDb3Vyc2VWZXJzaW9uIGNvdXJzZSA9IHRoaXMuY3JlYXRlQ291cnNlKHRva2VuLCAidGVzdDEiLCAiVGhpcyBpcyBhIGNvdXJzZSIsICJub25lIik7CiAgICAgICAgU3RyaW5nIHZlcnNpb25JZCA9IGNvdXJzZS5nZXRJZCgpOwoKICAgICAgICBDb3Vyc2VTZXF1ZW5jZSBzZXF1ZW5jZSA9IHRoaXMuY3JlYXRlQ291cnNlU2VxdWVuY2UodmVyc2lvbklkLCB0b2tlbiwgIlNlcXVlbmNlIiwgbnVsbCwgbnVsbCwgMCk7CiAgICAgICAgU3RyaW5nIHNlcXVlbmNlSWQgPSBzZXF1ZW5jZS5nZXRJZCgpOwoKICAgICAgICBIdHRwSGVhZGVycyBoZWFkZXJzID0gZ2V0SGVhZGVyKHRva2VuKTsKICAgICAgICBSZXNwb25zZUVudGl0eTxCYXNlUmVzcG9uc2U+IGRlbGV0ZVJlc3BvbnNlID0gdGhpcy5yZXN0VGVtcGxhdGUuZXhjaGFuZ2UoIi9hcGkvc2VjdXJlL2NvbnRlbnQvY291cnNlL3NlcXVlbmNlLyIrc2VxdWVuY2VJZCwgSHR0cE1ldGhvZC5ERUxFVEUsIG5ldyBIdHRwRW50aXR5PD4oaGVhZGVycyksIEJhc2VSZXNwb25zZS5jbGFzcyk7CiAgICAgICAgYXNzZXJ0VGhhdChkZWxldGVSZXNwb25zZS5nZXRCb2R5KCkuZ2V0U3RhdHVzKCkpLmlzRXF1YWxUbyhTVUNDRVNTX1NUQVRVUyk7CiAgICAgICAgYXNzZXJ0VGhhdChkZWxldGVSZXNwb25zZS5nZXRCb2R5KCkpLmlzTm90TnVsbCgpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2VxdWVuY2VJZCA9IHNlcXVlbmNlLmdldElkKCk7Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcga2V5ID0gcGF0aC5zdWJzdHJpbmcocGF0aC5sYXN0SW5kZXhPZigiLyIpKzEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJob29rIHNlcXVlbmNlID0gdGhpcy5jcmVhdGVDb3Vyc2VTZXF1ZW5jZSh2ZXJzaW9uSWQsIHRva2VuLCAiU2VxdWVuY2UiLCBudWxsLCBudWxsLCAwKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgcGF0aCA9IHVzZXJSZXF1ZXN0LnBhdGg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2VxdWVuY2VJZCA9IHNlcXVlbmNlLmdldElkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gY291cnNlLmdldElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBXZWJob29rIHNlcXVlbmNlID0gdGhpcy5jcmVhdGVDb3Vyc2VTZXF1ZW5jZSh2ZXJzaW9uSWQsIHRva2VuLCAiU2VxdWVuY2UiLCBudWxsLCBudWxsLCAwKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBBcGlPcGVyYXRpb24odmFsdWUgPSAiRGVsZXRlIFdlYmhvb2siLCByZXNwb25zZSA9IFdlYmhvb2tSZXNwb25zZS5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gY291cnNlLmdldElkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBpbWFnZVVybFByZWZpeCA9ICJodHRwczovL2Nkbi5maWxlc3RhY2tjb250ZW50LmNvbS8iOwo=</text>
+        <text encoding="base64">CUBBcGlPcGVyYXRpb24odmFsdWUgPSAiRGVsZXRlIFdlYmhvb2siLCByZXNwb25zZSA9IFdlYmhvb2tSZXNwb25zZS5jbGFzcykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -669,9 +664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sequenc</last-search>
+      <last-search>avatr</last-search>
       <last-offset />
-      <last-pattern>sequenc</last-pattern>
+      <last-pattern>avatr</last-pattern>
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
@@ -701,6 +696,7 @@
         <entry>https:</entry>
         <entry>delete</entry>
         <entry>sequenc</entry>
+        <entry>avatr</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -716,8 +712,8 @@
         <entry encoding="base64">JzwsJz5zL1BhdGgvU2l6ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL1NpemUvVHlwZS9n</entry>
         <entry>nohlsearch</entry>
-        <entry>vs</entry>
         <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
