@@ -483,7 +483,8 @@
         <mark key="." line="143" column="106" />
         <mark key="^" line="143" column="106" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" timestamp="1503416664833">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" timestamp="1503429735222">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="105" column="55" />
         <mark key="]" line="105" column="66" />
         <mark key="." line="105" column="66" />
@@ -513,8 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="318" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="247" column="16" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="231" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="210" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -613,6 +612,8 @@
       <jump line="56" column="8" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" />
       <jump line="159" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="161" column="15" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/WebhookControllerTests.java" />
+      <jump line="62" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -670,13 +671,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>User auditE</entry>
-        <entry>updateAvatar</entry>
-        <entry>Type</entry>
         <entry>Key</entry>
         <entry>upload</entry>
         <entry>Background</entry>
