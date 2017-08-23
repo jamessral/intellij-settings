@@ -490,12 +490,12 @@
         <mark key="." line="105" column="66" />
         <mark key="^" line="105" column="66" />
       </file>
-      <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1502741005870">
+      <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1503507934814">
         <mark key="'" line="42" column="30" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="41" />
-        <mark key="." line="30" column="41" />
-        <mark key="^" line="30" column="41" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.06-Exercise-FacingDirection/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492972213987">
         <mark key="[" line="14" column="0" />
@@ -625,7 +625,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;Knu33RNOQ6qi0S5ND1mY&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>avatr</text>
