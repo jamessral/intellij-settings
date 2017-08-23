@@ -73,11 +73,11 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1499644958665">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1503508509770">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.02-Exercise-9PatchPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492979775507">
         <mark key="[" line="29" column="0" />
@@ -202,11 +202,10 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1499644935785">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1503508586745">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.01-Exercise-BasicPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492979460258">
         <mark key="[" line="19" column="47" />
@@ -304,12 +303,6 @@
         <mark key="^" line="20" column="53" />
         <mark key="." line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/pom.xml" timestamp="1502738712159">
-        <mark key="'" line="83" column="9" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491345131010">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
@@ -386,12 +379,6 @@
       <file name="/Dummy.txt" timestamp="1503069665208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1503001417368">
-        <mark key="'" line="496" column="43" />
-        <mark key="[" line="395" column="0" />
-        <mark key="]" line="395" column="0" />
-        <mark key="." line="395" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="25" column="57" />
@@ -427,12 +414,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="26" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceServiceImpl.java" timestamp="1502987335415">
-        <mark key="'" line="102" column="24" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.03-Exercise-AssetLoading/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1491346733342">
         <mark key="[" line="15" column="0" />
@@ -625,7 +606,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>glfwC</text>
       </register>
       <register name="/" type="4">
         <text>avatr</text>
@@ -634,31 +615,31 @@
         <text encoding="base64">CUBBcGlPcGVyYXRpb24odmFsdWUgPSAiVXBkYXRlIGNvdXJzZSIsIHJlc3BvbnNlID0gQ291cnNlUmVzcG9uc2UuY2xhc3MpCglAQXBpUmVzcG9uc2VzKHZhbHVlID0gewoJCSAgICBAQXBpUmVzcG9uc2UoY29kZSA9IDQwNCwgbWVzc2FnZSA9ICJDb3Vyc2Ugbm90IGZvdW5kIikKCX0pCglAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAie2NvdXJzZUlkfSIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUFVUKQoJcHVibGljIFJlc3BvbnNlRW50aXR5PD8+IHVwZGF0ZShmaW5hbCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCwgCiAgICAJCUBBcGlQYXJhbShuYW1lPSJjb3Vyc2VJZCIsIHZhbHVlPSJDb3Vyc2UgSUQiLCByZXF1aXJlZD10cnVlKQoJCQlAUGF0aFZhcmlhYmxlIFN0cmluZyBjb3Vyc2VJZCwKICAgIAkJQEFwaVBhcmFtKG5hbWU9ImNvdXJzZSIsIHZhbHVlPSJDb3Vyc2UiLCByZXF1aXJlZD10cnVlKQoJCQlAVmFsaWQgQFJlcXVlc3RCb2R5IGZpbmFsIENvdXJzZVVwZGF0ZVJlcXVlc3QgdXBkYXRlUmVxdWVzdCkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gewoJCWxvZy5pbmZvKHJlcXVlc3QuZ2V0UmVxdWVzdFVSSSgpKTsKCgkJQ291cnNlIGNvdXJzZSA9IG5ldyBDb3Vyc2UoKTsKCQljb3Vyc2Uuc2V0SWQoY291cnNlSWQpOwoJCWNvdXJzZS5zZXRPd25lcih1cGRhdGVSZXF1ZXN0Lm93bmVySWQpOwoKCQlpZiAodXBkYXRlUmVxdWVzdC50aHVtYm5haWxJbWFnZVBhdGggIT0gbnVsbCkgewoJCQljb3Vyc2Uuc2V0QmFja2dyb3VuZEltYWdlUGF0aCh1cGRhdGVSZXF1ZXN0LnRodW1ibmFpbEltYWdlUGF0aCk7CgkJCWNvdXJzZS5zZXRCYWNrZ3JvdW5kSW1hZ2VLZXkodXBkYXRlUmVxdWVzdC50aHVtYm5haWxJbWFnZUtleSk7CgkJCWNvdXJzZS5zZXRCYWNrZ3JvdW5kSW1hZ2VTaXplKHVwZGF0ZVJlcXVlc3QudGh1bWJuYWlsSW1hZ2VTaXplKTsKCQkJY291cnNlLnNldEJhY2tncm91bmRJbWFnZVR5cGUodXBkYXRlUmVxdWVzdC50aHVtYm5haWxJbWFnZVR5cGUpOwoJCX0KCgkJY291cnNlID0gY291cnNlU2VydmljZS51cGRhdGUoY291cnNlKTsKCgkJcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm9rKENvdXJzZVJlc3BvbnNlLmNyZWF0ZShjb3Vyc2UpKTsKCX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTdHJpbmcga2V5ID0gcGF0aC5zdWJzdHJpbmcocGF0aC5sYXN0SW5kZXhPZigiLyIpKzEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlcuKjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcGF0aCA9IHVzZXJSZXF1ZXN0LnBhdGg7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2VxdWVuY2VJZCA9IHNlcXVlbmNlLmdldElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBHTEZXLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJob29rIHNlcXVlbmNlID0gdGhpcy5jcmVhdGVDb3Vyc2VTZXF1ZW5jZSh2ZXJzaW9uSWQsIHRva2VuLCAiU2VxdWVuY2UiLCBudWxsLCBudWxsLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBnbGZ3OyAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgQ29udGV4dEF0dHJpYnMgYXR0cmlicyA9IG5ldyBDb250ZXh0QXR0cmlicygzLDIpCiAgICAgICAgICAgICAgICAud2l0aEZvcndhcmRDb21wYXRpYmxlKHRydWUpCiAgICAgICAgICAgICAgICAud2l0aFByb2ZpbGVDb3JlKHRydWUpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICBEaXNwbGF5LnNldERpc3BsYXlNb2RlKG5ldyBEaXNwbGF5TW9kZShXSURUSCwgSEVJR0hUKSk7CiAgICAgICAgICAgIERpc3BsYXkuY3JlYXRlKG5ldyBQaXhlbEZvcm1hdCgpLCBhdHRyaWJzKTsKICAgICAgICB9IGNhdGNoIChMV0pHTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICBHTDExLmdsVmlld3BvcnQoMCwgMCwgV0lEVEgsIEhFSUdIVCk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gY291cnNlLmdldElkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5sd2pnbC5nbGZ3LkdMRlcuKjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBBcGlPcGVyYXRpb24odmFsdWUgPSAiRGVsZXRlIFdlYmhvb2siLCByZXNwb25zZSA9IFdlYmhvb2tSZXNwb25zZS5jbGFzcykK</text>
+        <text encoding="base64">CQlTdHJpbmcga2V5ID0gcGF0aC5zdWJzdHJpbmcocGF0aC5sYXN0SW5kZXhPZigiLyIpKzEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgcGF0aCA9IHVzZXJSZXF1ZXN0LnBhdGg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
