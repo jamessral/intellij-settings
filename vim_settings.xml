@@ -223,8 +223,8 @@
         <mark key="^" line="185" column="101" />
         <mark key="." line="185" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1503924490291">
-        <mark key="'" line="34" column="4" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1503924621753">
+        <mark key="'" line="7" column="43" />
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
@@ -487,8 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="182" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="197" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="323" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="338" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -587,6 +585,8 @@
       <jump line="158" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="67" column="33" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
       <jump line="34" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
+      <jump line="7" column="43" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
