@@ -34,9 +34,6 @@
         <mark key="^" line="50" column="38" />
         <mark key="." line="50" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1489716627457">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.4.01-Exercise-ChaseCamera/core/src/com/udacity/gamedev/gigagal/util/ChaseCam.java" timestamp="1495491609142">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="29" />
@@ -85,14 +82,14 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" timestamp="1503430751135">
-        <mark key="'" line="159" column="4" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" timestamp="1503787095326">
+        <mark key="'" line="158" column="0" />
         <mark key="[" line="158" column="0" />
         <mark key="]" line="184" column="4" />
         <mark key="^" line="105" column="72" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" timestamp="1502914293098">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" timestamp="1503787024591">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="46" />
@@ -226,7 +223,8 @@
         <mark key="^" line="185" column="101" />
         <mark key="." line="185" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1503084548820">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1503924490291">
+        <mark key="'" line="34" column="4" />
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
@@ -347,9 +345,6 @@
         <mark key="^" line="60" column="68" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/GameDev/LWJGL/ThinMatrixTutorial/src/engineTester/MainGameLoop.java" timestamp="1500150540554">
-        <mark key="[" line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/user/UserController.java" timestamp="1503416512294">
         <mark key="'" line="175" column="39" />
         <mark key="[" line="150" column="67" />
@@ -376,8 +371,8 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="114" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503069665208">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" timestamp="1503786832087">
+        <mark key="." line="46" column="306" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
         <mark key="[" line="25" column="38" />
@@ -490,14 +485,8 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1499645217046">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="16" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="231" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="210" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="191" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="182" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="197" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -595,6 +584,9 @@
       <jump line="161" column="15" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/WebhookControllerTests.java" />
       <jump line="62" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
+      <jump line="158" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
+      <jump line="67" column="33" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
