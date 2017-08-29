@@ -9,6 +9,9 @@
         <mark key="^" line="30" column="44" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1504016871795">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/WebhookControllerTests.java" timestamp="1503409808665">
         <mark key="'" line="163" column="15" />
         <mark key="[" line="159" column="72" />
@@ -223,8 +226,8 @@
         <mark key="^" line="185" column="101" />
         <mark key="." line="185" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1503924621753">
-        <mark key="'" line="7" column="43" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1504016787556">
+        <mark key="'" line="27" column="51" />
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
@@ -487,8 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="323" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="338" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="354" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="376" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -587,6 +588,8 @@
       <jump line="34" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
       <jump line="7" column="43" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
+      <jump line="27" column="51" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
