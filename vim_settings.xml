@@ -65,6 +65,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceServiceImpl.java" timestamp="1504191438901">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="144" column="108" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" timestamp="1504120163840">
         <mark key="'" line="171" column="8" />
         <mark key="[" line="220" column="0" />
@@ -170,6 +177,13 @@
         <mark key="]" line="55" column="68" />
         <mark key="^" line="55" column="68" />
         <mark key="." line="55" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ResourceRepository.java" timestamp="1504191251633">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.07-Exercise-Animations/core/src/com/udacity/gamedev/animations/Animations.java" timestamp="1491343095125">
         <mark key="[" line="71" column="84" />
@@ -412,6 +426,9 @@
         <mark key="^" line="111" column="64" />
         <mark key="." line="111" column="64" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" timestamp="1504190603445">
+        <mark key="'" line="43" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.01-Exercise-BasicPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Platform.java" timestamp="1492979295864">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -444,6 +461,12 @@
         <mark key="]" line="23" column="109" />
         <mark key="." line="23" column="109" />
         <mark key="^" line="23" column="110" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceService.java" timestamp="1504191152531">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="19" column="52" />
+        <mark key="^" line="19" column="110" />
+        <mark key="." line="19" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
         <mark key="[" line="74" column="0" />
@@ -498,11 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
-      <jump line="68" column="24" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="118" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -598,6 +616,11 @@
       <jump line="221" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" />
       <jump line="170" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" />
       <jump line="172" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" />
+      <jump line="146" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
+      <jump line="224" column="34" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
+      <jump line="43" column="28" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
+      <jump line="19" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceServiceImpl.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ResourceRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -609,22 +632,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>seq</text>
+        <text>getResources</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VxdWVuY2UuZ2V0VGh1bWJuYWlsSW1hZ2VLZXkoKSAhPSBudWxsKSBzZXF1ZW5jZS5zZXRUaHVtYm5haWxJbWFnZUtleShzZXF1ZW5jZS5nZXRUaHVtYm5haWxJbWFnZUtleSgpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cGFja2FnZSBjb20udW5kZXJzdG9yeW9ubGluZS5kb21haW4uY29udGVudDsKCgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlYWJsZTsKCnB1YmxpYyBpbnRlcmZhY2UgUmVzb3VyY2VSZXBvc2l0b3J5IGV4dGVuZHMgQ29udGVudEl0ZW1CYXNlUmVwb3NpdG9yeTxSZXNvdXJjZT4gewogICAgCiAgICBQYWdlPFJlc291cmNlPiBmaW5kQnlPd25lckFuZEZpbHRlckFuZERlbGV0ZWRGYWxzZU9yZGVyQnlOYW1lRGVzYyhTdHJpbmcgb3duZXIsIFN0cmluZyBmaWx0ZXIsIFBhZ2VhYmxlIHBhZ2VhYmxlKTsKCn0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CglAT3ZlcnJpZGU=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICBTdHJpbmcgdXNlcklkID0gdXNlci5nZXRJZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgdXNlcklkID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -649,9 +672,9 @@
       </register>
     </registers>
     <search>
-      <last-search>seq</last-search>
+      <last-search>getResources</last-search>
       <last-offset />
-      <last-pattern>seq</last-pattern>
+      <last-pattern>getResources</last-pattern>
       <last-replace>sequenceSource</last-replace>
       <last-substitute>l.</last-substitute>
       <last-dir>1</last-dir>
@@ -659,7 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CourseCreateRequ</entry>
         <entry>create(</entry>
         <entry encoding="base64">IA==</entry>
         <entry>Sequence</entry>
@@ -680,6 +702,7 @@
         <entry>l.</entry>
         <entry encoding="base64">XDx0aHVtYm5haWxJbWFnZVNpemVcPg==</entry>
         <entry>seq</entry>
+        <entry>getResources</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -747,6 +770,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
