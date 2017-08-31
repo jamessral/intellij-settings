@@ -154,7 +154,7 @@
         <mark key="^" line="98" column="59" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/CourseData.java" timestamp="1504119844321">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/CourseData.java" timestamp="1504193253436">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -652,31 +652,31 @@
         <text encoding="base64">cGFja2FnZSBjb20udW5kZXJzdG9yeW9ubGluZS5kb21haW4uY29udGVudDsKCgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlYWJsZTsKCnB1YmxpYyBpbnRlcmZhY2UgUmVzb3VyY2VSZXBvc2l0b3J5IGV4dGVuZHMgQ29udGVudEl0ZW1CYXNlUmVwb3NpdG9yeTxSZXNvdXJjZT4gewogICAgCiAgICBQYWdlPFJlc291cmNlPiBmaW5kQnlPd25lckFuZEZpbHRlckFuZERlbGV0ZWRGYWxzZU9yZGVyQnlOYW1lRGVzYyhTdHJpbmcgb3duZXIsIFN0cmluZyBmaWx0ZXIsIFBhZ2VhYmxlIHBhZ2VhYmxlKTsKCn0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgUGFnZTxSZXNvdXJjZT4gcmVzb3VyY2UgPSByZXNvdXJjZVNlcnZpY2UuZ2V0UmVzb3VyY2VzQnlPd25lcihwLCBpZCk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA1NTdjNzlhOGU5ZTgzZWEyMGM4OTU4NGVkZTM4ZjM1Mjg3MDc1OGMzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoZmlsdGVyICE9IG51bGwpIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlQYWdlPFJlc291cmNlPiByZXNvdXJjZSA9IHJlc291cmNlU2VydmljZS5nZXRSZXNvdXJjZXNCeU93bmVyKHAsIGlkKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CglAT3ZlcnJpZGU=</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkgICAgUGFnZTxSZXNvdXJjZT4gcmVzb3VyY2UgPSByZXNvdXJjZVNlcnZpY2UuZ2V0UmVzb3VyY2VzQnlPd25lcihwLCBpZCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICBTdHJpbmcgdXNlcklkID0gdXNlci5nZXRJZCgpCg==</text>
+        <text encoding="base64">CQlpZiAoZmlsdGVyICE9IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdXNlcklkID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
