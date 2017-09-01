@@ -72,12 +72,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceServiceImpl.java" timestamp="1504191971093">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceServiceImpl.java" timestamp="1504278637604">
         <mark key="'" line="143" column="12" />
-        <mark key="[" line="145" column="91" />
-        <mark key="]" line="145" column="94" />
-        <mark key="." line="145" column="94" />
-        <mark key="^" line="145" column="94" />
+        <mark key="[" line="143" column="48" />
+        <mark key="]" line="143" column="55" />
+        <mark key="." line="143" column="55" />
+        <mark key="^" line="143" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" timestamp="1504120163840">
         <mark key="'" line="171" column="8" />
@@ -185,12 +185,12 @@
         <mark key="^" line="55" column="68" />
         <mark key="." line="55" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ResourceRepository.java" timestamp="1504191251633">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ResourceRepository.java" timestamp="1504278491206">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="36" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.07-Exercise-Animations/core/src/com/udacity/gamedev/animations/Animations.java" timestamp="1491343095125">
         <mark key="[" line="71" column="84" />
@@ -433,12 +433,12 @@
         <mark key="^" line="111" column="64" />
         <mark key="." line="111" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" timestamp="1504206218231">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="^" line="222" column="83" />
-        <mark key="." line="215" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" timestamp="1504278097565">
+        <mark key="'" line="43" column="25" />
+        <mark key="[" line="214" column="33" />
+        <mark key="]" line="214" column="40" />
+        <mark key="^" line="214" column="40" />
+        <mark key="." line="214" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.01-Exercise-BasicPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Platform.java" timestamp="1492979295864">
         <mark key="[" line="7" column="0" />
@@ -473,11 +473,11 @@
         <mark key="." line="23" column="109" />
         <mark key="^" line="23" column="110" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceService.java" timestamp="1504191920447">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="82" />
-        <mark key="^" line="19" column="82" />
-        <mark key="." line="19" column="82" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceService.java" timestamp="1504278083498">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="55" />
+        <mark key="^" line="19" column="55" />
+        <mark key="." line="19" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
         <mark key="[" line="74" column="0" />
@@ -631,7 +631,7 @@
       <jump line="25" column="13" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/ResourceControllerTests.java" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/ResourceControllerTests.java" />
       <jump line="222" column="35" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
-      <jump line="43" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
+      <jump line="43" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -643,7 +643,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;+orgUserId+</text>
+        <text>Type</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -689,13 +689,10 @@
       <last-replace>sequenceSource</last-replace>
       <last-substitute>l.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create(</entry>
-        <entry encoding="base64">IA==</entry>
-        <entry>Sequence</entry>
         <entry>Path</entry>
         <entry>Size</entry>
         <entry>copy</entry>
