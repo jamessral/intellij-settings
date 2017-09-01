@@ -119,11 +119,12 @@
         <mark key="^" line="8" column="90" />
         <mark key="." line="8" column="90" />
       </file>
-      <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1504299783237">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="41" column="47" />
-        <mark key="." line="42" column="0" />
+      <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1504300478468">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Icicle.java" timestamp="1489781181749">
         <mark key="[" line="13" column="0" />
@@ -430,7 +431,7 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504299827178">
+      <file name="/Dummy.txt" timestamp="1504300266939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
@@ -517,8 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="191" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="182" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="197" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="323" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -617,6 +616,8 @@
       <jump line="104" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
       <jump line="34" column="0" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
       <jump line="68" column="0" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
+      <jump line="43" column="24" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" />
+      <jump line="49" column="0" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -628,7 +629,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -637,28 +638,28 @@
         <text encoding="base64">ICAgICAgICAgICAgR2R4LmFwcC5zZXRMb2dMZXZlbChHZHguYXBwLkxPR19FUlJPUik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBc2sgdGhlIExldmVsTG9hZGVyIHRvIGxvYWQgTGV2ZWwxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2R4LmFwcC5zZXRMb2dMZXZlbChHZHguYXBwLkxPR19JTkZPKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21tZW50IG91dCB0aGUgZGVidWcgbGV2ZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2R4LmFwcC5zZXRMb2dMZXZlbChHZHguYXBwLkxPR19FUlJPUik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBc2sgdGhlIExldmVsTG9hZGVyIHRvIGxvYWQgTGV2ZWwxCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICAvLyBUT0RPOiBUaGVuIGxvZyB0aGUgZXJyb3IgbWVzc2FnZSBkZWZpbmVkIGluIExFVkVMX0VSUk9SX01FU1NBR0UK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21tZW50IG91dCB0aGUgZGVidWcgbGV2ZWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogSWYgdGhlcmUncyBhbiBlcnJvciwgbG9nIHRoZSBtZXNzYWdlIHVzaW5nIGV4LmdldE1lc3NhZ2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQmUgc3VyZSB0byBsb2cgdGhlIGVycm9yIGF0IHRoZSBhcHByb3ByaWF0ZSBsb2cgbGV2ZWwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICAvLyBUT0RPOiBUaGVuIGxvZyB0aGUgZXJyb3IgbWVzc2FnZSBkZWZpbmVkIGluIExFVkVMX0VSUk9SX01FU1NBR0UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogSWYgdGhlcmUncyBhbiBlcnJvciwgbG9nIHRoZSBtZXNzYWdlIHVzaW5nIGV4LmdldE1lc3NhZ2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQmUgc3VyZSB0byBsb2cgdGhlIGVycm9yIGF0IHRoZSBhcHByb3ByaWF0ZSBsb2cgbGV2ZWwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -674,11 +675,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Key</entry>
         <entry>upload</entry>
         <entry>Background</entry>
         <entry>type</entry>
