@@ -120,10 +120,10 @@
         <mark key="." line="8" column="90" />
       </file>
       <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1504299783237">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="41" column="47" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Icicle.java" timestamp="1489781181749">
         <mark key="[" line="13" column="0" />
@@ -674,11 +674,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Key</entry>
         <entry>upload</entry>
         <entry>Background</entry>
         <entry>type</entry>
