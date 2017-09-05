@@ -29,12 +29,12 @@
         <mark key="^" line="107" column="42" />
         <mark key="." line="107" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/ResourceControllerTests.java" timestamp="1504206643785">
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/ResourceControllerTests.java" timestamp="1504637562184">
         <mark key="'" line="128" column="0" />
-        <mark key="[" line="128" column="127" />
-        <mark key="]" line="128" column="122" />
-        <mark key="." line="128" column="122" />
-        <mark key="^" line="128" column="122" />
+        <mark key="[" line="121" column="15" />
+        <mark key="]" line="121" column="23" />
+        <mark key="." line="121" column="23" />
+        <mark key="^" line="121" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490472156254">
         <mark key="[" line="28" column="90" />
@@ -643,7 +643,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Type</text>
+        <text encoding="base64">dHlwZSA=</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -722,17 +722,17 @@
         <entry>vs find CourseService.java</entry>
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5zL1NlcXVlbmNlL0NvdXJzZS9n</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL1BhdGgvU2l6ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL1NpemUvVHlwZS9n</entry>
         <entry>nohlsearch</entry>
         <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zL2JhY2tncm91bmQvdGh1bWJuYWlsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VwZGF0ZS9jcmVhdGUvZw==</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2wuL3NlcXVlbmNlU291cmNlL2c=</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
