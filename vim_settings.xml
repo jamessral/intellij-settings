@@ -9,8 +9,8 @@
         <mark key="^" line="30" column="44" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1504720024067">
-        <mark key="'" line="203" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1504756298129">
+        <mark key="'" line="195" column="15" />
         <mark key="[" line="194" column="4" />
         <mark key="]" line="202" column="16" />
         <mark key="." line="194" column="4" />
@@ -633,8 +633,8 @@
       <jump line="233" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
       <jump line="374" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
-      <jump line="195" column="34" filename="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
       <jump line="202" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
+      <jump line="195" column="15" filename="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -692,7 +692,7 @@
       <last-replace>sequenceSource</last-replace>
       <last-substitute>l.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
