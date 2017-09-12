@@ -151,6 +151,13 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityBaseRepository.java" timestamp="1505246053171">
+        <mark key="'" line="41" column="119" />
+        <mark key="[" line="41" column="119" />
+        <mark key="]" line="41" column="128" />
+        <mark key="." line="41" column="128" />
+        <mark key="^" line="41" column="128" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/CourseSequence.java" timestamp="1504030200732">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -538,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="30" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="106" column="38" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="108" column="46" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="107" column="34" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -638,6 +644,7 @@
       <jump line="195" column="15" filename="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
       <jump line="419" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="29" column="68" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
+      <jump line="40" column="119" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityBaseRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -649,13 +656,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZSA=</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>HEAD</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGFja2FnZSBjb20udW5kZXJzdG9yeW9ubGluZS5kb21haW4uY29udGVudDsKCgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlYWJsZTsKCnB1YmxpYyBpbnRlcmZhY2UgUmVzb3VyY2VSZXBvc2l0b3J5IGV4dGVuZHMgQ29udGVudEl0ZW1CYXNlUmVwb3NpdG9yeTxSZXNvdXJjZT4gewogICAgCiAgICBQYWdlPFJlc291cmNlPiBmaW5kQnlPd25lckFuZEZpbHRlckFuZERlbGV0ZWRGYWxzZU9yZGVyQnlOYW1lRGVzYyhTdHJpbmcgb3duZXIsIFN0cmluZyBmaWx0ZXIsIFBhZ2VhYmxlIHBhZ2VhYmxlKTsKCn0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CVBhZ2U8VD4gZmluZEJ5Q29udGVudEFuZFRva2VuQW5kUXVlc3Rpb25GbGFnVHJ1ZUFuZFJlcGx5VG9Jc051bGxBbmREZWxldGVkRmFsc2VPcmRlckJ5VGltZURlc2NDcmVhdGVkT25EZXNjKFN0cmluZyBjb250ZW50LCBTdHJpbmcgdG9rZW4sIFBhZ2VhYmxlIHBhZ2VhYmxlKTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICA8Y2hhbmdlU2V0IGlkPSJjaGFuZ2Vsb2ctMS4wLTExIiBhdXRob3I9ImpzcmFsIj4KICAgICAgIDxhZGRDb2x1bW4gdGFibGVOYW1lPSJjb3Vyc2Vfc2VxdWVuY2VzIj4KICAgICAgICAgICA8Y29sdW1uIG5hbWU9InRodW1ibmFpbF9pbWFnZV9wYXRoIiB0eXBlPSJWQVJDSEFSKDI1NSkiLz4KICAgICAgICAgICA8Y29sdW1uIG5hbWU9InRodW1ibmFpbF9pbWFnZV9rZXkiIHR5cGU9IlZBUkNIQVIoMjU1KSIvPgogICAgICAgICAgIDxjb2x1bW4gbmFtZT0idGh1bWJuYWlsX2ltYWdlX3NpemUiIHR5cGU9IkJJR0lOVCIvPgogICAgICAgICAgIDxjb2x1bW4gbmFtZT0idGh1bWJuYWlsX2ltYWdlX3R5cGUiIHR5cGU9IlZBUkNIQVIoMjU1KSIvPgogICAgICAgPC9hZGRDb2x1bW4+CiAgICA8L2NoYW5nZVNldD4=</text>
