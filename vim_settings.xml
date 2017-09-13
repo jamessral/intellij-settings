@@ -139,11 +139,11 @@
         <mark key="." line="41" column="41" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1505316816352">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1505319895094">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1489791133170">
         <mark key="[" line="41" column="46" />
@@ -157,9 +157,15 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityBaseRepository.java" timestamp="1505246949324">
-        <mark key="[" line="56" column="53" />
-        <mark key="]" line="56" column="53" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityRepository.java" timestamp="1505319114151">
+        <mark key="[" line="22" column="121" />
+        <mark key="]" line="22" column="129" />
+        <mark key="." line="22" column="129" />
+        <mark key="^" line="22" column="129" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityBaseRepository.java" timestamp="1505319241776">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="150" />
         <mark key="." line="56" column="53" />
         <mark key="^" line="56" column="52" />
       </file>
@@ -678,40 +684,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QmFzZVJlc3BvbnNlIA==</text>
+        <text>TrackerFacilitatorRepository trackerFacilitatorRepository;</text>
       </register>
       <register name="/" type="4">
         <text>HEAD</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CXB1YmxpYyBUcmFja2VyRmVlZGJhY2tVc2VyU3VtbWFyaWVzUmVzcG9uc2UoKSB7CgkJc3VwZXIoKTsKCX0KCglwdWJsaWMgVHJhY2tlckZlZWRiYWNrVXNlclN1bW1hcmllc1Jlc3BvbnNlKFBhZ2U8VHJhY2tlckZlZWRiYWNrU3VtbWFyeURUTz4gcGFnZXMpIHs=</text>
+        <text>findByContentAndTokenAndQuestionFlagFalseAndReplyToIsNullAndTimeGreateThanEqualAndTimeLessThanAndDeletedFalseOrderbyTimeDescCreatedOnDescIn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuY29udGVudC50cmFja2VyLlRyYWNrZXJTZWN0aW9uU3VtbWFyeURUTzsK</text>
+        <text encoding="base64">ICAgICAgICBQYWdlUmVxdWVzdCBwID0gbmV3IFBhZ2VSZXF1ZXN0KHBhZ2UtMSwgc2l6ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnN3YWdnZXIuYW5ub3RhdGlvbnMuQXBpTW9kZWxQcm9wZXJ0eTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFNlY3Rpb24+IHNlY3Rpb25zID0gdHJhY2tlclNlcXVlbmNlUmVwb3NpdG9yeS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLndlYi5jb250cm9sbGVyLmR0by5CYXNlUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLnNlcnZpY2UuY29udGVudC50cmFja2VyLlRyYWNrZXJTZWN0aW9uVXNlckRUTzsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVHJhY2tlclVzZXJSZXBvc2l0b3J5IHRyYWNrZXJVc2VyUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVHJhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIlRyYWNrZXJVc2VyIiwgcmVxdWlyZWQgPSB0cnVlKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVHJhY2tlclVzZXJSZXBvc2l0b3J5IHRyYWNrZXJVc2VyUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRyYWNrZXJJZDsK</text>
+        <text encoding="base64">ICAgICAgICB0cmFja2VyRmFjaWxpdGF0b3JSZXBvc2l0b3J5Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVHJhY2tlclNlY3Rpb25Vc2VyRFRPIHRyYWNrZXJVc2VyOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VjdGlvZGRuUmVwb3NpdG9yeSBzZWN0aW9uUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VjdGlvbgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVHJhY2tlclJlcG9zaXRvcnkgdHJhY2tlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
