@@ -209,12 +209,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505418157004">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="7" />
-        <mark key="^" line="68" column="7" />
-        <mark key="." line="68" column="7" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505419015211">
+        <mark key="'" line="97" column="15" />
+        <mark key="[" line="96" column="61" />
+        <mark key="]" line="96" column="75" />
+        <mark key="^" line="96" column="75" />
+        <mark key="." line="96" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/dto/content/tracker/TrackerFeedbackUserSummariesResponse.java" timestamp="1505317526213">
         <mark key="[" line="16" column="0" />
@@ -266,8 +266,8 @@
         <mark key="^" line="214" column="40" />
         <mark key="." line="214" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/activity/ActivityControllerTests.java" timestamp="1505418175217">
-        <mark key="'" line="459" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/activity/ActivityControllerTests.java" timestamp="1505418627340">
+        <mark key="'" line="192" column="143" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1492976219136">
         <mark key="[" line="131" column="64" />
@@ -619,10 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" />
-      <jump line="172" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" />
-      <jump line="146" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
-      <jump line="224" column="34" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/ResourceController.java" />
       <jump line="19" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceServiceImpl.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ResourceRepository.java" />
       <jump line="143" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ResourceServiceImpl.java" />
@@ -719,6 +715,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/activity/ActivityControllerTests.java" />
       <jump line="43" column="13" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
       <jump line="459" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/activity/ActivityControllerTests.java" />
+      <jump line="190" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/activity/ActivityControllerTests.java" />
+      <jump line="192" column="143" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/activity/ActivityControllerTests.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
+      <jump line="97" column="15" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -730,28 +730,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>conversation</text>
+        <text>sequence</text>
       </register>
       <register name="/" type="4">
-        <text>tracker</text>
+        <text>Ts</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIENhbGVuZGFyIGNhbCA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7CiAgICAgICAgY2FsLnNldFRpbWUobmV3IERhdGUoKSk7CiAgICAgICAgRGF0ZSBzdGFydFRpbWUgPSBjYWwuZ2V0VGltZSgpOwogICAgICAgIGNhbC5hZGQoQ2FsZW5kYXIuTU9OVEgsIDEpOwogICAgICAgIERhdGUgZW5kVGltZSA9IGNhbC5nZXRUaW1lKCk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wb3N0Q29tbWVudEFjdGl2aXR5KHRva2VuLCAiY29tbWVudD8iICsgaSwgc2VjdGlvbi5nZXRJZCgpLCBjb252ZXJzYXRpb24sIHZpZGVvVFMsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHlTZXJ2aWNlLnBvc3QoY29tbWVudCwgbmV3IEFycmF5TGlzdDxBdHRhY2htZW50PigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJzYXRpb24gY29udmVyc2F0aW9uID0gY29udmVyc2F0aW9uU2VydmljZS5jcmVhdGUodXNlcklkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWVudC5zZXRUb2tlbih0cmFja2VyU2VxdWVuY2UuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWVudC5zZXRDb250ZW50KHNlY3Rpb24uZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJzYXRpb24gY29udmVyc2F0aW9uID0gY29udmVyc2F0aW9uU2VydmljZS5jcmVhdGUodXNlcklkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWVudC5zZXRBY3Rpdml0eVR5cGUoQWN0aXZpdHkuQ09NTUVOVF9UWVBFKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWN0aXZpdHkgY29tbWVudCA9IG5ldyBBY3Rpdml0eSgpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -780,29 +780,29 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHlTZXJ2aWNlLnBvc3QocXVlc3Rpb24sIG5ldyBBcnJheUxpc3Q8QXR0YWNobWVudD4oKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb24uc2V0VGltZSh2aWRlb1RTKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJzYXRpb24gY29udmVyc2F0aW9uID0gY29udmVyc2F0aW9uU2VydmljZS5jcmVhdGUodXNlcklkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb24uc2V0UXVlc3Rpb25GbGFnKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51bmRlcnN0b3J5b25saW5lLmRvbWFpbi5jb250ZW50LnRyYWNrZXIuKjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb24uc2V0VG9rZW4odHJhY2tlclNlcXVlbmNlLmdldElkKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tracker</last-search>
+      <last-search>Ts</last-search>
       <last-offset />
-      <last-pattern>tracker</last-pattern>
+      <last-pattern>Ts</last-pattern>
       <last-replace>response</last-replace>
       <last-substitute>listResponse</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -830,11 +830,13 @@
         <entry>trackerId</entry>
         <entry>token</entry>
         <entry>setupAll</entry>
-        <entry>conversation</entry>
         <entry>listResponse</entry>
         <entry>Greate</entry>
         <entry>GreateT</entry>
         <entry>tracker</entry>
+        <entry>conversation</entry>
+        <entry>new</entry>
+        <entry>Ts</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -856,9 +858,9 @@
         <entry encoding="base64">JzwsJz5zL3RyYWNrZXJJZC9zZXF1ZW5jZUlkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Rva2VuL3RyYWNrZXJJZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2xpc3RSZXNwb25zZS9yZXNwb25zZS9n</entry>
+        <entry>vs</entry>
         <entry>noh</entry>
         <entry>w</entry>
-        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
