@@ -234,11 +234,11 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505489671501">
-        <mark key="[" line="437" column="106" />
-        <mark key="]" line="437" column="122" />
-        <mark key="^" line="437" column="122" />
-        <mark key="." line="437" column="122" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505491036860">
+        <mark key="[" line="443" column="40" />
+        <mark key="]" line="443" column="39" />
+        <mark key="^" line="443" column="39" />
+        <mark key="." line="443" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1503084358401">
         <mark key="'" line="171" column="29" />
