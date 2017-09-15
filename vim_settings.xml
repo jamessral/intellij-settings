@@ -209,12 +209,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505483835882">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="115" column="57" />
-        <mark key="]" line="115" column="57" />
-        <mark key="^" line="24" column="3" />
-        <mark key="." line="115" column="57" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505488620402">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="110" column="35" />
+        <mark key="]" line="110" column="44" />
+        <mark key="^" line="110" column="44" />
+        <mark key="." line="110" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/dto/content/tracker/TrackerFeedbackUserSummariesResponse.java" timestamp="1505317526213">
         <mark key="[" line="16" column="0" />
@@ -619,8 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
-      <jump line="379" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
       <jump line="233" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
       <jump line="374" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
@@ -719,6 +717,8 @@
       <jump line="34" column="27" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
+      <jump line="75" column="61" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -730,7 +730,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>userIds</text>
