@@ -209,12 +209,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505421029118">
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505483835882">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+        <mark key="[" line="115" column="57" />
+        <mark key="]" line="115" column="57" />
         <mark key="^" line="24" column="3" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="115" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/dto/content/tracker/TrackerFeedbackUserSummariesResponse.java" timestamp="1505317526213">
         <mark key="[" line="16" column="0" />
@@ -730,7 +730,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>trackerSequence.getSequence()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>userIds</text>
