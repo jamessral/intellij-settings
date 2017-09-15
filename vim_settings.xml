@@ -16,11 +16,11 @@
         <mark key="^" line="107" column="42" />
         <mark key="." line="107" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityService.java" timestamp="1505419332810">
-        <mark key="[" line="51" column="86" />
-        <mark key="]" line="51" column="94" />
-        <mark key="." line="51" column="94" />
-        <mark key="^" line="51" column="94" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityService.java" timestamp="1505496668105">
+        <mark key="[" line="49" column="74" />
+        <mark key="]" line="49" column="76" />
+        <mark key="." line="49" column="76" />
+        <mark key="^" line="49" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.06-Exercise-LoadA9Patch/core/src/com/udacity/gamedev/ninepatch/NinePatchDemo.java" timestamp="1491342247699">
         <mark key="[" line="50" column="67" />
@@ -135,12 +135,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" timestamp="1505419312145">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" timestamp="1505496708730">
         <mark key="'" line="430" column="108" />
-        <mark key="[" line="559" column="25" />
-        <mark key="]" line="559" column="33" />
-        <mark key="^" line="559" column="33" />
-        <mark key="." line="559" column="33" />
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="560" column="0" />
+        <mark key="^" line="560" column="0" />
+        <mark key="." line="560" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
         <mark key="[" line="10" column="41" />
@@ -209,11 +209,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505496078586">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="7" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505497264213">
+        <mark key="'" line="112" column="25" />
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="71" column="76" />
+        <mark key="." line="71" column="76" />
+        <mark key="^" line="71" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/dto/content/tracker/TrackerFeedbackUserSummariesResponse.java" timestamp="1505317526213">
         <mark key="[" line="16" column="0" />
@@ -233,11 +234,12 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505491036860">
-        <mark key="[" line="443" column="40" />
-        <mark key="]" line="443" column="39" />
-        <mark key="^" line="443" column="39" />
-        <mark key="." line="443" column="39" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505496725171">
+        <mark key="'" line="436" column="65" />
+        <mark key="[" line="436" column="81" />
+        <mark key="]" line="436" column="81" />
+        <mark key="^" line="436" column="84" />
+        <mark key="." line="436" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1503084358401">
         <mark key="'" line="171" column="29" />
@@ -618,9 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
-      <jump line="374" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" />
-      <jump line="202" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
       <jump line="195" column="15" filename="$USER_HOME$/workspace/understory-platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
       <jump line="419" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="29" column="68" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
@@ -718,6 +717,9 @@
       <jump line="134" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
       <jump line="61" column="21" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
       <jump line="62" column="8" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
+      <jump line="434" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" />
+      <jump line="436" column="65" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" />
+      <jump line="112" column="25" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -729,13 +731,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addOrgUserAdmin(orgId, us)</text>
+        <text>conversation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VySWRzXD4=</text>
+        <text>sections</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZU9yZ1VzZXJBZG1pbihvcmdJZCwgbG9jYWxVc2VyLCAidGVzdCB1c2VyIiwgInRlc3QiKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CSAgICBMaXN0PFN0cmluZz4gc2VjdGlvbklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJICAgIGZvciAoU2VjdGlvbiBzZWN0aW9uIDogc2VjdGlvbnMpIHsKCSAgICAgICAgc2VjdGlvbklkcy5hZGQoc2VjdGlvbi5nZXRJZCgpKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -795,13 +797,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VySWRzXD4=</last-search>
+      <last-search>sections</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VySWRzXD4=</last-pattern>
+      <last-pattern>sections</last-pattern>
       <last-replace>response</last-replace>
       <last-substitute>listResponse</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -826,6 +828,7 @@
         <entry>Ts</entry>
         <entry>userIds</entry>
         <entry encoding="base64">XDx1c2VySWRzXD4=</entry>
+        <entry>sections</entry>
       </history-search>
       <history-cmd>
         <entry>highlight</entry>
@@ -903,6 +906,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
