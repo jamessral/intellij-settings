@@ -210,8 +210,8 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505499485707">
-        <mark key="'" line="132" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505745538476">
+        <mark key="'" line="23" column="13" />
         <mark key="[" line="71" column="61" />
         <mark key="]" line="71" column="76" />
         <mark key="." line="71" column="76" />
@@ -235,7 +235,7 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505742062226">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505746124929">
         <mark key="'" line="436" column="46" />
         <mark key="[" line="436" column="81" />
         <mark key="]" line="436" column="81" />
@@ -389,7 +389,7 @@
         <mark key="." line="41" column="41" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1505741904277">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1505745731835">
         <mark key="'" line="55" column="80" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -624,7 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" />
       <jump line="83" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" />
       <jump line="34" column="13" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorControllerTests.java" />
@@ -724,6 +723,7 @@
       <jump line="49" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityService.java" />
       <jump line="489" column="42" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="585" column="41" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
