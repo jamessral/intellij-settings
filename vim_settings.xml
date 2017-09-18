@@ -210,12 +210,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505745538476">
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" timestamp="1505748740371">
         <mark key="'" line="23" column="13" />
-        <mark key="[" line="71" column="61" />
-        <mark key="]" line="71" column="76" />
-        <mark key="." line="71" column="76" />
-        <mark key="^" line="71" column="76" />
+        <mark key="[" line="77" column="150" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/dto/content/tracker/TrackerFeedbackUserSummariesResponse.java" timestamp="1505317526213">
         <mark key="[" line="16" column="0" />
@@ -235,12 +235,12 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505746124929">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1505748915453">
         <mark key="'" line="436" column="46" />
-        <mark key="[" line="436" column="81" />
-        <mark key="]" line="436" column="81" />
-        <mark key="^" line="436" column="84" />
-        <mark key="." line="436" column="81" />
+        <mark key="[" line="422" column="75" />
+        <mark key="]" line="422" column="82" />
+        <mark key="^" line="422" column="82" />
+        <mark key="." line="422" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1503084358401">
         <mark key="'" line="171" column="29" />
@@ -389,12 +389,12 @@
         <mark key="." line="41" column="41" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1505747071300">
+      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1505748787952">
         <mark key="'" line="55" column="80" />
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="22" column="57" />
-        <mark key="." line="22" column="57" />
-        <mark key="^" line="22" column="57" />
+        <mark key="[" line="42" column="48" />
+        <mark key="]" line="42" column="55" />
+        <mark key="." line="42" column="55" />
+        <mark key="^" line="42" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1489791133170">
         <mark key="[" line="41" column="46" />
@@ -717,13 +717,13 @@
       <jump line="553" column="44" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="479" column="19" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="474" column="19" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
-      <jump line="55" column="80" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" />
       <jump line="24" column="40" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorService.java" />
       <jump line="436" column="46" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/facilitator/FacilitatorServiceImpl.java" />
       <jump line="49" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityService.java" />
       <jump line="489" column="42" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="585" column="41" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="23" column="13" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTests.java" />
+      <jump line="55" column="80" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -735,7 +735,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>getRecent</text>
@@ -797,7 +797,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -852,10 +852,10 @@
         <entry encoding="base64">JzwsJz5zL3Rva2VuL3RyYWNrZXJJZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2xpc3RSZXNwb25zZS9yZXNwb25zZS9n</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>qa</entry>
         <entry>Noh</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
