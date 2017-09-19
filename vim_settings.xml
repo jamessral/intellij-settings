@@ -320,12 +320,12 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/UserEventControllerTests.java" timestamp="1505843909181">
+      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/UserEventControllerTests.java" timestamp="1505845365035">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="188" column="39" />
-        <mark key="]" line="188" column="146" />
-        <mark key="^" line="188" column="146" />
-        <mark key="." line="188" column="146" />
+        <mark key="[" line="150" column="76" />
+        <mark key="]" line="150" column="75" />
+        <mark key="^" line="150" column="75" />
+        <mark key="." line="150" column="75" />
       </file>
       <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1503507934814">
         <mark key="'" line="42" column="30" />
@@ -774,13 +774,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>sequenceId</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlY3Rpb25GZWVkYmFja1RyYWNrZXJSZXNwb25zZS5nZXRCb2R5KCkuZ2V0VHJhY2tlcigpLmdldFRyYWNrZXIoKS5nZXRPd25lcigpKS5pc0VxdWFsVG8ob3JnVXNlci5nZXRJZCgpKTsK</text>
+        <text encoding="base64">CiAgICAgICAgQ291cnNlU2VxdWVuY2Ugc2VxdWVuY2UgPSB0aGlzLmNyZWF0ZUNvdXJzZVNlcXVlbmNlKHZlcnNpb25JZCwgdG9rZW4sICJ0ZXN0IiwgIlNlcXVlbmNlIDEiLCBudWxsLCAwKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbkZlZWRiYWNrVXNlci5nZXRTZWN0aW9uKCkuZwo=</text>
@@ -836,7 +836,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -896,8 +896,8 @@
         <entry>qa</entry>
         <entry>Noh</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
