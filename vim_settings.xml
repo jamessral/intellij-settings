@@ -35,7 +35,6 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/organization/OrganizationAuth.java" timestamp="1506445847102" />
       <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/build.gradle" timestamp="1499640756103">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -547,12 +546,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506448241154">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="86" />
-        <mark key="." line="176" column="86" />
-        <mark key="^" line="176" column="86" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506452713789">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="216" column="86" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489781147825">
         <mark key="[" line="15" column="0" />
@@ -830,19 +829,19 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgb3JnQXV0aElkID0gb3JnU2VydmljZS5nZXRFeHRlcm5hbEF1dGhzKG9yZ0lkKS5nZXQoMCkuZ2V0SWQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0LnNvdXJjZSA9IE9yZ2FuaXphdGlvbkF1dGguR09PR0xFOwogICAgICAgIGNyZWF0ZVJlcXVlc3QuYWN0aXZlID0gdHJ1ZTsKICAgICAgICBjcmVhdGVSZXF1ZXN0LmFwaUtleSA9ICIyMjIyMjIiOwogICAgICAgIGNyZWF0ZVJlcXVlc3QuYXBpU2VjcmV0ID0gIkdPT0dMRSI7CgogICAgICAgIGF1dGhTYXZlUmVzcG9uc2UgPSB0aGlzLnJlc3RUZW1wbGF0ZS5leGNoYW5nZSgiL2FwaS9zZWN1cmUvb3JnL2F1dGgiLCBIdHRwTWV0aG9kLlBPU1QsIG5ldyBIdHRwRW50aXR5PD4oY3JlYXRlUmVxdWVzdCwgaGVhZGVycyksIE9yZ2FuaXphdGlvbkF1dGhMaXN0UmVzcG9uc2UuY2xhc3MpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdCghYXV0aC5lcXVhbHMoZGVsZXRpbmcpKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0ID0gbmV3IE9yZ2FuaXphdGlvbkF1dGhDb250cm9sbGVyLk9yZ2FuaXphdGlvbkF1dGhDcmVhdGVSZXF1ZXN0KCk7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0ID0gbmV3IE9yZ2FuaXphdGlvbkF1dGhDb250cm9sbGVyLk9yZ2FuaXphdGlvbkF1dGhDcmVhdGVSZXF1ZXN0KCk7CiAgICAgICAgY3JlYXRlUmVxdWVzdC5zb3VyY2UgPSBPcmdhbml6YXRpb25BdXRoLkdPT0dMRTsKICAgICAgICBjcmVhdGVSZXF1ZXN0LmFjdGl2ZSA9IHRydWU7CiAgICAgICAgY3JlYXRlUmVxdWVzdC5hcGlLZXkgPSAiMjIyMjIyIjsKICAgICAgICBjcmVhdGVSZXF1ZXN0LmFwaVNlY3JldCA9ICJHT09HTEUiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9yZ2FuaXphdGlvbkF1dGggYXV0aCA6IGxpc3QuZ2V0Qm9keSgpLmdldE9yZ2FuaXphdGlvbkF1dGhzKCkpIHsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -871,16 +870,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmdldEJvZHkoKS5nZXRPcmdhbml6YXRpb25BdXRocygpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmluCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGxpc3QuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdCghYXV0aC5lcXVhbHMoZGVsZXRpbmcpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGRlbGV0ZVJlc3BvbnNlLmdldFN0YXR1c0NvZGUoKSkuaXNFcXVhbFRvKDIwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE9yZ2FuaXphdGlvbkF1dGggYXV0aCA6IGxpc3QuZ2V0Qm9keSgpLmdldE9yZ2FuaXphdGlvbkF1dGhzKCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -893,11 +892,10 @@
       <last-replace>response</last-replace>
       <last-substitute>listResponse</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getActivities</entry>
         <entry>getActivitiesByTypeSortByDate</entry>
         <entry>Token</entry>
         <entry>Reply</entry>
