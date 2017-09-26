@@ -98,6 +98,9 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" timestamp="1506442215626">
+        <mark key="'" line="50" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityRepository.java" timestamp="1505502799803">
         <mark key="[" line="10" column="58" />
         <mark key="]" line="10" column="77" />
@@ -686,7 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="39" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityBaseRepository.java" />
       <jump line="287" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="307" column="44" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="308" column="66" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
@@ -786,6 +788,7 @@
       <jump line="585" column="96" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="29" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/tracker/TrackerServiceImpl.java" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/org/OrganizationServiceImpl.java" />
+      <jump line="50" column="12" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -869,12 +872,10 @@
       <last-replace>response</last-replace>
       <last-substitute>listResponse</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
-        <entry>GetActivitiesByType</entry>
         <entry>getActivities</entry>
         <entry>getActivitiesByTypeSortByDate</entry>
         <entry>Token</entry>
