@@ -35,6 +35,7 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/organization/OrganizationAuth.java" timestamp="1506445847102" />
       <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/build.gradle" timestamp="1499640756103">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -98,8 +99,12 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" timestamp="1506442215626">
-        <mark key="'" line="50" column="12" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" timestamp="1506445927831">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityRepository.java" timestamp="1505502799803">
         <mark key="[" line="10" column="58" />
@@ -689,9 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
-      <jump line="307" column="44" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
-      <jump line="308" column="66" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="322" column="44" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="323" column="66" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="368" column="65" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" />
@@ -789,6 +791,9 @@
       <jump line="29" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/tracker/TrackerServiceImpl.java" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/org/OrganizationServiceImpl.java" />
       <jump line="50" column="12" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
