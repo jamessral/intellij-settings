@@ -519,12 +519,12 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/Activity.java" timestamp="1505754963365">
         <mark key="'" line="103" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1507652858295">
-        <mark key="'" line="628" column="4" />
-        <mark key="[" line="413" column="0" />
-        <mark key="]" line="413" column="0" />
-        <mark key="^" line="413" column="70" />
-        <mark key="." line="413" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1507665934895">
+        <mark key="'" line="627" column="4" />
+        <mark key="[" line="437" column="12" />
+        <mark key="]" line="437" column="89" />
+        <mark key="^" line="437" column="89" />
+        <mark key="." line="437" column="89" />
       </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
@@ -569,11 +569,11 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorController.java" timestamp="1505412024968">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1507653465991">
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="59" column="54" />
-        <mark key="^" line="59" column="54" />
-        <mark key="." line="59" column="54" />
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1507665901939">
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="60" column="50" />
+        <mark key="^" line="60" column="50" />
+        <mark key="." line="60" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1504016787556">
         <mark key="'" line="27" column="51" />
@@ -588,11 +588,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1507653353525">
-        <mark key="[" line="597" column="62" />
-        <mark key="]" line="597" column="63" />
-        <mark key="^" line="597" column="63" />
-        <mark key="." line="597" column="63" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1507665988626">
+        <mark key="[" line="597" column="17" />
+        <mark key="]" line="597" column="51" />
+        <mark key="^" line="597" column="51" />
+        <mark key="." line="597" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506454235907">
         <mark key="'" line="161" column="0" />
@@ -879,7 +879,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">VXNlciA=</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
@@ -1001,6 +1001,7 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zL3Rva2VuL290aGVyVG9rZW4vZw==</entry>
         <entry>noh</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
