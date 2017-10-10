@@ -503,6 +503,9 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/Activity.java" timestamp="1505754963365">
         <mark key="'" line="103" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1507648316810">
+        <mark key="'" line="611" column="43" />
+      </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -545,6 +548,12 @@
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorController.java" timestamp="1505412024968">
         <mark key="'" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1507648710683">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="60" column="5" />
+        <mark key="^" line="60" column="5" />
+        <mark key="." line="60" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1504016787556">
         <mark key="'" line="27" column="51" />
@@ -724,17 +733,8 @@
         <mark key="." line="105" column="66" />
         <mark key="^" line="105" column="66" />
       </file>
-      <file name="/fragment.java" timestamp="1505847546050">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/Activity.java" />
-      <jump line="89" column="0" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorControllerTests.java" />
-      <jump line="384" column="12" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorControllerTests.java" />
-      <jump line="354" column="60" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorControllerTests.java" />
-      <jump line="540" column="19" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
-      <jump line="541" column="45" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="87" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/tracker/TrackerFeedbackServiceImpl.java" />
       <jump line="60" column="29" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
       <jump line="152" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/tracker/TrackerFeedbackServiceImpl.java" />
@@ -829,6 +829,12 @@
       <jump line="155" column="22" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationUserController.java" />
       <jump line="183" column="59" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationUserController.java" />
       <jump line="184" column="30" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationUserController.java" />
+      <jump line="112" column="12" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
+      <jump line="413" column="43" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
+      <jump line="447" column="43" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
+      <jump line="481" column="41" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
+      <jump line="586" column="43" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
+      <jump line="611" column="43" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -843,7 +849,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHVwZGF0ZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRPcmdhbml6YXRpb25BdXRocygpLmdldChyZXR1cm5lZEluZGV4KS5nZXRBcGlTZWNyZXQoKSkuaXNFcXVhbFRvKCJPRkZJQ0UzNjUiKTsK</text>
@@ -902,26 +908,20 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHVwZGF0ZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRPcmdhbml6YXRpb25BdXRocygpLmdldChyZXR1cm5lZEluZGV4KS5nZXRTb3VyY2UoKSkuaXNFcXVhbFRvKE9yZ2FuaXphdGlvbkF1dGguT0ZGSUNFMzY1KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>response</last-replace>
       <last-substitute>listResponse</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getActivitiesByTypeSortByDate</entry>
-        <entry>Token</entry>
-        <entry>Reply</entry>
-        <entry>True</entry>
-        <entry>newComments</entry>
-        <entry>openQuestion</entry>
         <entry>getRecent</entry>
         <entry>Time</entry>
         <entry>summary</entry>
@@ -942,6 +942,7 @@
         <entry>editUser</entry>
         <entry>edit</entry>
         <entry>update</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -961,9 +962,9 @@
         <entry encoding="base64">JzwsJz5zL2xpc3RSZXNwb25zZS9yZXNwb25zZS9n</entry>
         <entry>qa</entry>
         <entry>Noh</entry>
-        <entry>vs</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
