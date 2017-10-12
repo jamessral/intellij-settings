@@ -35,12 +35,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" timestamp="1507830056477">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" timestamp="1507831154040">
         <mark key="'" line="205" column="25" />
-        <mark key="[" line="156" column="97" />
-        <mark key="]" line="156" column="105" />
-        <mark key="^" line="156" column="105" />
-        <mark key="." line="156" column="105" />
+        <mark key="[" line="210" column="44" />
+        <mark key="]" line="210" column="50" />
+        <mark key="^" line="210" column="50" />
+        <mark key="." line="210" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/Activity.java" timestamp="1507827903228">
         <mark key="'" line="104" column="4" />
@@ -656,12 +656,12 @@
         <mark key="]" line="510" column="0" />
         <mark key="." line="510" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1507825921113">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1507830822799">
         <mark key="'" line="105" column="4" />
-        <mark key="[" line="78" column="99" />
-        <mark key="]" line="78" column="104" />
-        <mark key="." line="78" column="104" />
-        <mark key="^" line="78" column="104" />
+        <mark key="[" line="63" column="46" />
+        <mark key="]" line="63" column="47" />
+        <mark key="." line="63" column="47" />
+        <mark key="^" line="63" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.07-Exercise-SetUpJumping/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974292701">
         <mark key="[" line="24" column="61" />
@@ -921,7 +921,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>course.getVersionStr()</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>comments</text>
