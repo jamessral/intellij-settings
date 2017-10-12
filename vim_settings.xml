@@ -35,12 +35,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" timestamp="1507831154040">
-        <mark key="'" line="205" column="25" />
-        <mark key="[" line="210" column="44" />
-        <mark key="]" line="210" column="50" />
-        <mark key="^" line="210" column="50" />
-        <mark key="." line="210" column="50" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" timestamp="1507833900173">
+        <mark key="'" line="174" column="138" />
+        <mark key="[" line="164" column="76" />
+        <mark key="]" line="164" column="79" />
+        <mark key="^" line="164" column="79" />
+        <mark key="." line="164" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/Activity.java" timestamp="1507827903228">
         <mark key="'" line="104" column="4" />
@@ -74,7 +74,7 @@
         <mark key="^" line="148" column="77" />
         <mark key="." line="148" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1507829996852">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1507833715398">
         <mark key="'" line="579" column="0" />
         <mark key="[" line="576" column="85" />
         <mark key="]" line="576" column="98" />
@@ -656,7 +656,7 @@
         <mark key="]" line="510" column="0" />
         <mark key="." line="510" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1507830822799">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1507833361351">
         <mark key="'" line="105" column="4" />
         <mark key="[" line="63" column="46" />
         <mark key="]" line="63" column="47" />
@@ -810,7 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="36" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/UserEventControllerTests.java" />
       <jump line="156" column="48" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/UserEventControllerTests.java" />
       <jump line="64" column="59" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityBaseRepository.java" />
       <jump line="816" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/activity/ActivityServiceImpl.java" />
@@ -910,6 +909,7 @@
       <jump line="495" column="66" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" />
       <jump line="579" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" />
       <jump line="205" column="25" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" />
+      <jump line="174" column="138" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -921,7 +921,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>getId()</text>
       </register>
       <register name="/" type="4">
         <text>comments</text>
