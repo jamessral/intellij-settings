@@ -35,12 +35,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" timestamp="1507833900173">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityControllerTest.java" timestamp="1507836219210">
         <mark key="'" line="174" column="138" />
-        <mark key="[" line="164" column="76" />
-        <mark key="]" line="164" column="79" />
+        <mark key="[" line="182" column="60" />
+        <mark key="]" line="182" column="61" />
         <mark key="^" line="164" column="79" />
-        <mark key="." line="164" column="79" />
+        <mark key="." line="182" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/Activity.java" timestamp="1507827903228">
         <mark key="'" line="104" column="4" />
@@ -74,12 +74,12 @@
         <mark key="^" line="148" column="77" />
         <mark key="." line="148" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1507833715398">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1507836072619">
         <mark key="'" line="579" column="0" />
-        <mark key="[" line="576" column="85" />
-        <mark key="]" line="576" column="98" />
-        <mark key="." line="576" column="98" />
-        <mark key="^" line="576" column="98" />
+        <mark key="[" line="465" column="37" />
+        <mark key="]" line="465" column="97" />
+        <mark key="." line="465" column="97" />
+        <mark key="^" line="465" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" timestamp="1504120163840">
         <mark key="'" line="171" column="8" />
@@ -921,7 +921,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getId()</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>comments</text>
