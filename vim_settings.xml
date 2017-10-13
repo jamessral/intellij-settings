@@ -598,11 +598,11 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorController.java" timestamp="1505412024968">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1507665901939">
-        <mark key="[" line="60" column="47" />
-        <mark key="]" line="60" column="50" />
-        <mark key="^" line="60" column="50" />
-        <mark key="." line="60" column="50" />
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1507902638650">
+        <mark key="[" line="49" column="75" />
+        <mark key="]" line="49" column="110" />
+        <mark key="^" line="49" column="110" />
+        <mark key="." line="49" column="110" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1504016787556">
         <mark key="'" line="27" column="51" />
@@ -921,13 +921,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>NullAndDeletedFalseAndFacilitatorFlagFalse</text>
       </register>
       <register name="/" type="4">
         <text>comments</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbG9jYWxVc2VyID0gUFJFRklYICsgIi1xdWVzdGlvbnMiICsgRU1BSUxfUE9TVEZJWDsKCiAgICAgICAgT3JnYW5pemF0aW9uIG9yZyA9IHRoaXMub3JnU3VjY2VzcygieHh4eCIsIFBSRUZJWCArICItcXVlc3Rpb25zIiwgdHJ1ZSk7CiAgICAgICAgU3RyaW5nIG9yZ0lkID0gb3JnLmdldElkKCk7CgogICAgICAgIHRoaXMuY3JlYXRlT3JnVXNlckFkbWluKG9yZ0lkLCBsb2NhbFVzZXIsICJ0ZXN0IHVzZXIiLCAidGVzdCIpOwoKICAgICAgICBTdHJpbmcgdG9rZW4gPSB0aGlzLmxvZ2luU3VjY2Vzcyhsb2NhbFVzZXIsICJ0ZXN0Iiwgb3JnSWQpOwoKICAgICAgICBDb3Vyc2VWZXJzaW9uIGNvdXJzZSA9IHRoaXMuY3JlYXRlQ291cnNlKHRva2VuLCAidGVzdCBjb21tZW50cyBjb3Vyc2UiLCAiZGVzYyIsICJzdWIiKTsKICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gY291cnNlLmdldFZlcnNpb25TdHIoKTsKICAgICAgICAKICAgICAgICB0aGlzLmNyZWF0ZUNvdXJzZVNlcXVlbmNlKHZlcnNpb25JZCwgdG9rZW4sICJ0ZXN0IGNvbW1lbnRzIHNlcXVlbmNlIiwgImRlc2MiLCAic3ViIiwgMCk7CgogICAgICAgIENhbGVuZGFyIGNhbCA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7CiAgICAgICAgY2FsLnNldFRpbWUobmV3IERhdGUoKSk7CiAgICAgICAgRGF0ZSBzdGFydFRpbWUgPSBjYWwuZ2V0VGltZSgpOwogICAgICAgIGNhbC5hZGQoQ2FsZW5kYXIuTU9OVEgsIDEpOwogICAgICAgIERhdGUgZW5kVGltZSA9IGNhbC5nZXRUaW1lKCk7CgogICAgICAgIFRyYWNrZXJDb3Vyc2UgdHJhY2tlckNvdXJzZSA9IHRoaXMuY3JlYXRlQ291cnNlVHJhY2tlcih0b2tlbiwgInRyYWNrZXIgY29tbWVudHMgY291cnNlIiwgY291cnNlLmdldFZlcnNpb25TdHIoKSwgbnVsbCwgc3RhcnRUaW1lLCBlbmRUaW1lKTsKICAgICAgICBDb3Vyc2VTZXF1ZW5jZSBjb3Vyc2VTZXF1ZW5jZSA9IHRoaXMuY3JlYXRlQ291cnNlU2VxdWVuY2UodmVyc2lvbklkLCB0b2tlbiwgInRlc3QgY29tbW1lbnRzIHNlcXVlbmNlIiwgImRlc2NyIiwgInN1YiIsIDApOwoKICAgICAgICBTdHJpbmcgY29udmVyc2F0aW9uID0gdHJhY2tlckNvdXJzZS5nZXRJZCgpOwogICAgICAgIAogICAgICAgIGxvbmcgdmlkZW9UUyA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpOwoKICAgICAgICBmb3IgKGludCBpPTA7IGk8MTA7IGkrKykgewogICAgICAgICAgICBTZWN0aW9uIHNlY3Rpb24gPSB0aGlzLmNyZWF0ZVZpZGVvU2VjdGlvbih0b2tlbiwgY291cnNlU2VxdWVuY2UuZ2V0SWQoKSwgInNlY3Rpb24iICsgaSwgIiIsICJzdWJ0aXRsZSIpOwogICAgICAgICAgICB0aGlzLnBvc3RDb21tZW50QWN0aXZpdHkodG9rZW4sICJxdWVzdGlvbnMiICsgaSArICI/Iiwgc2VjdGlvbi5nZXRJZCgpLCBjb252ZXJzYXRpb24sIHZpZGVvVFMsIG51bGwpOwogICAgICAgIH0KCiAgICAgICAgZm9yIChpbnQgaT0wOyBpPDU7IGkrKykgewogICAgICAgICAgICBTZWN0aW9uIHNlY3Rpb24gPSB0aGlzLmNyZWF0ZVRpdGxlU2VjdGlvbih0b2tlbiwgY291cnNlU2VxdWVuY2UuZ2V0SWQoKSwgInNlY3Rpb24iICsgaSwgInNlY3Rpb24iKTsKICAgICAgICAgICAgdGhpcy5wb3N0Q29tbWVudEFjdGl2aXR5KHRva2VuLCAicXVlc3Rpb25zIiArIGksIHNlY3Rpb24uZ2V0SWQoKSwgY29udmVyc2F0aW9uLCB2aWRlb1RTLCBudWxsKTsKICAgICAgICB9CgogICAgICAgIEh0dHBIZWFkZXJzIGhlYWRlcnMgPSBnZXRIZWFkZXIodG9rZW4pOwogICAgICAgIEh0dHBFbnRpdHk8RmFjaWxpdGF0b3JBY3Rpdml0aWVzUmVzcG9uc2U+IHJlc3BvbnNlID0gdGhpcy5yZXN0VGVtcGxhdGUuZXhjaGFuZ2UoIi9hcGkvc2VjdXJlL2NvbnRlbnQvZmFjaWxpdGF0b3IvYWN0aXZpdHkvcXVlc3Rpb25zL2NvdXJzZSIgKwogICAgICAgICAgICB2ZXJzaW9uSWQgKyAiLyIgKyBjb252ZXJzYXRpb24gKyAiP3NpemU9NSZwYWdlPTEiLCBIdHRwTWV0aG9kLkdFVCwgbmV3IEh0dHBFbnRpdHk8PihoZWFkZXJzKSwgRmFjaWxpdGF0b3JBY3Rpdml0aWVzUmVzcG9uc2UuY2xhc3MpOwoKICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldEJvZHkoKSkuaXNOb3ROdWxsKCk7CiAgICAgICAgYXNzZXJ0VGhhdChyZXNwb25zZS5nZXRCb2R5KCkuZ2V0U2l6ZSgpKS5pc0VxdWFsVG8oNSk7CiAgICAgICAgYXNzZXJ0VGhhdChyZXNwb25zZS5nZXRCb2R5KCkuZ2V0TnVtYmVyT2ZFbGVtZW50cygpKS5pc0VxdWFsVG8oNSk7CiAgICAgICAgYXNzZXJ0VGhhdChyZXNwb25zZS5nZXRCb2R5KCkuZ2V0TnVtYmVyKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldEJvZHkoKS5nZXRUb3RhbFBhZ2VzKCkpLmlzRXF1YWxUbygyKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldEJvZHkoKS5nZXRUb3RhbCgpKS5pc0VxdWFsVG8oMTApOw==</text>
+        <text encoding="base64">CWxvbmcgY291bnRCeUNvbnRlbnRJbkFuZEFjdGl2aXR5VHlwZUFuZFRva2VuQW5kUmVhY3Rpb25UeXBlQW5kUmVwbHlUb0lzTnVsbEFuZERlbGV0ZWRGYWxzZUFuZEZhY2lsaXRhdG9yRmxhZ0ZhbHNlKAoJCQlMaXN0PD8+IGNvbGxlY3Rpb24sIFN0cmluZyBhY3Rpdml0eVR5cGUsIFN0cmluZyB0b2tlbiwgSW50ZWdlciByZWFjdFR5cGUsIFN0cmluZyByZXBseVRvCgkpOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbi5nZXQK</text>
@@ -997,13 +997,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PEER</entry>
-        <entry encoding="base64">XDxUWVBFX0ZFRURCQUNLX1NVQk1JU1NJT05cPg==</entry>
-        <entry>trackeruser</entry>
-        <entry>User</entry>
-        <entry encoding="base64">XDxjcmVhdGVUcmFja2VyU2VxdWVuY2VVc2VyXD4=</entry>
-        <entry encoding="base64">XDx1c2VyVHJhY2tlcklkXD4=</entry>
-        <entry>Reaction</entry>
         <entry>getFac</entry>
         <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
         <entry>delete</entry>
@@ -1026,9 +1019,6 @@
         <entry>comments</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1BhdGgvU2l6ZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL1NpemUvVHlwZS9n</entry>
-        <entry>nohlsearch</entry>
         <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2JhY2tncm91bmQvdGh1bWJuYWlsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VwZGF0ZS9jcmVhdGUvZw==</entry>
