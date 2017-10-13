@@ -301,6 +301,7 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/BaseControllerTests.java" timestamp="1507918879539" />
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="32" />
@@ -557,12 +558,11 @@
         <mark key="^" line="640" column="4" />
         <mark key="." line="640" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1507910850184">
-        <mark key="'" line="140" column="7" />
-        <mark key="[" line="258" column="61" />
-        <mark key="]" line="258" column="61" />
-        <mark key="." line="258" column="61" />
-        <mark key="^" line="258" column="61" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1507920048164">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
+        <mark key="^" line="263" column="60" />
       </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
@@ -818,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
       <jump line="110" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
       <jump line="105" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" />
@@ -918,6 +917,7 @@
       <jump line="306" column="23" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="262" column="27" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="139" column="7" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
+      <jump line="260" column="24" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -929,7 +929,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>sequences</text>
@@ -938,19 +938,19 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN1bW1hcnlDb3Vyc2VSZXNwb25zZS5nZXRCb2R5KCkuZ2V0U2VxdWVuY2VzKCkuZ2V0KDApLmdldFJlY2VudENvbW1lbnRzKDMwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vyc2VWZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUNvdXJzZVNoYXJlKHRva2VuLCB2ZXJzaW9uSWQsIGdyb3VwLmdldElkKCksIGZhbHNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vyc2VHcm91cCBjb3Vyc2VHcm91cCA9IHRoaXMuY3JlYXRlQ291cnNlU2hhcmUodG9rZW4sIHZlcnNpb25JZCwgbnVsbCwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUNvdXJzZVNoYXJlKHRva2VuLCB2ZXJzaW9uSWQsIGdyb3VwLmdldElkKCksIGZhbHNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gdGhpcy5jcmVhdGVDb3Vyc2UodG9rZW4sICJUZXN0IENvdXJzZSIsICJkZXNjIiwgInN1YiIpLmdldElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3Vyc2VWZXJzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gdGhpcy5jcmVhdGVDb3Vyc2UodG9rZW4sICJUZXN0IENvdXJzZSIsICJkZXNjIiwgInN1YiIpLmdldElkKCk7CiAgICAgICAgdGhpcy5jcmVhdGVDb3Vyc2VTZXF1ZW5jZSh2ZXJzaW9uSWQsIHRva2VuLCAiVGVzdCBDb3Vyc2VTZXEiLCAiZGVzYyIsICJzdWIiLCAwKTsKCiAgICAgICAgUmVzcG9uc2VFbnRpdHk8RmFjaWxpdGF0b3JTZXF1ZW5jZVN1bW1hcnlSZXNwb25zZT4gc3VtbWFyeUNvdXJzZVJlc3BvbnNlID0gdGhpcy5yZXN0VGVtcGxhdGUuZXhjaGFuZ2UoIi9hcGkvc2VjdXJlL2NvbnRlbnQvZmFjaWxpdGF0b3IvIit0cmFja2VySWQrIi8iKyB2ZXJzaW9uSWQgKyIvc2VxdWVuY2VzIiwgSHR0cE1ldGhvZC5HRVQsIG5ldyBIdHRwRW50aXR5PD4oaGVhZGVycyksIEZhY2lsaXRhdG9yU2VxdWVuY2VTdW1tYXJ5UmVzcG9uc2UuY2xhc3MpOwogICAgICAgIGFzc2VydFRoYXQoc3VtbWFyeUNvdXJzZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRTdGF0dXMoKSkuaXNFcXVhbFRvKFNVQ0NFU1NfU1RBVFVTKTsKICAgICAgICBhc3NlcnRUaGF0KHN1bW1hcnlDb3Vyc2VSZXNwb25zZS5nZXRCb2R5KCkuZ2V0U2VxdWVuY2VzKCkuc2l6ZSgpKS5pc0VxdWFsVG8oMSk7CiAgICAgICAgYXNzZXJ0VGhhdChzdW1tYXJ5Q291cnNlUmVzcG9uc2UuZ2V0Qm9keSgpLmdldFNlcXVlbmNlcygpLmdldCgwKS5nZXROZXdDb21tZW50cygpKS5pc0VxdWFsVG8oMzApOwogICAgICAgIGFzc2VydFRoYXQoc3VtbWFyeUNvdXJzZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRTZXF1ZW5jZXMoKS5nZXQoMCkuZ2V0VW5hbnN3ZXJlZFF1ZXN0aW9ucygpKS5pc0VxdWFsVG8oMTApOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBDb3Vyc2VHcm91cCBjb3Vyc2VHcm91cCA9IHRoaXMuY3JlYXRlQ291cnNlU2hhcmUodG9rZW4sIHZlcnNpb25JZCwgbnVsbCwgZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gdGhpcy5jcmVhdGVDb3Vyc2UodG9rZW4sICJUZXN0IENvdXJzZSIsICJkZXNjIiwgInN1YiIpLmdldElkKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -978,17 +978,17 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWMK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmVyc2lvbklkID0gdGhpcy5jcmVhdGVDb3Vyc2UodG9rZW4sICJUZXN0IENvdXJzZSIsICJkZXNjIiwgInN1YiIpLmdldElkKCk7CiAgICAgICAgdGhpcy5jcmVhdGVDb3Vyc2VTZXF1ZW5jZSh2ZXJzaW9uSWQsIHRva2VuLCAiVGVzdCBDb3Vyc2VTZXEiLCAiZGVzYyIsICJzdWIiLCAwKTsKCiAgICAgICAgUmVzcG9uc2VFbnRpdHk8RmFjaWxpdGF0b3JTZXF1ZW5jZVN1bW1hcnlSZXNwb25zZT4gc3VtbWFyeUNvdXJzZVJlc3BvbnNlID0gdGhpcy5yZXN0VGVtcGxhdGUuZXhjaGFuZ2UoIi9hcGkvc2VjdXJlL2NvbnRlbnQvZmFjaWxpdGF0b3IvIit0cmFja2VySWQrIi8iKyB2ZXJzaW9uSWQgKyIvc2VxdWVuY2VzIiwgSHR0cE1ldGhvZC5HRVQsIG5ldyBIdHRwRW50aXR5PD4oaGVhZGVycyksIEZhY2lsaXRhdG9yU2VxdWVuY2VTdW1tYXJ5UmVzcG9uc2UuY2xhc3MpOwogICAgICAgIGFzc2VydFRoYXQoc3VtbWFyeUNvdXJzZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRTdGF0dXMoKSkuaXNFcXVhbFRvKFNVQ0NFU1NfU1RBVFVTKTsKICAgICAgICBhc3NlcnRUaGF0KHN1bW1hcnlDb3Vyc2VSZXNwb25zZS5nZXRCb2R5KCkuZ2V0U2VxdWVuY2VzKCkuc2l6ZSgpKS5pc0VxdWFsVG8oMSk7CiAgICAgICAgYXNzZXJ0VGhhdChzdW1tYXJ5Q291cnNlUmVzcG9uc2UuZ2V0Qm9keSgpLmdldFNlcXVlbmNlcygpLmdldCgwKS5nZXROZXdDb21tZW50cygpKS5pc0VxdWFsVG8oMzApOwogICAgICAgIGFzc2VydFRoYXQoc3VtbWFyeUNvdXJzZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRTZXF1ZW5jZXMoKS5nZXQoMCkuZ2V0VW5hbnN3ZXJlZFF1ZXN0aW9ucygpKS5pc0VxdWFsVG8oMTApOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vyc2UuCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlDYWxlbmRhciBjYWwgPSBuZXcK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
