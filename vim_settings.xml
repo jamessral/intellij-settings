@@ -553,8 +553,8 @@
         <mark key="^" line="640" column="4" />
         <mark key="." line="640" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1508275703110">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1508438346485">
+        <mark key="'" line="442" column="0" />
       </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
@@ -808,7 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/user/RoleController.java" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/security/Role.java" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/security/Role.java" />
       <jump line="33" column="13" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationUserController.java" />
@@ -904,10 +903,11 @@
       <jump line="52" column="35" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" />
       <jump line="54" column="23" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" />
       <jump line="482" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="245" column="51" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="53" column="18" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
+      <jump line="442" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
