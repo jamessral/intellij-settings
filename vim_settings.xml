@@ -76,10 +76,7 @@
         <mark key="." line="148" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1508175592346">
-        <mark key="'" line="403" column="43" />
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="323" column="0" />
-        <mark key="." line="323" column="0" />
+        <mark key="'" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceController.java" timestamp="1504120163840">
         <mark key="'" line="171" column="8" />
@@ -263,10 +260,10 @@
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" timestamp="1508174480303">
         <mark key="'" line="54" column="23" />
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="57" column="37" />
-        <mark key="." line="57" column="37" />
-        <mark key="^" line="57" column="37" />
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+        <mark key="^" line="60" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
         <mark key="[" line="17" column="0" />
@@ -556,12 +553,8 @@
         <mark key="^" line="640" column="4" />
         <mark key="." line="640" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1508275680191">
-        <mark key="'" line="53" column="18" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-        <mark key="^" line="263" column="60" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1508275703110">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
@@ -609,13 +602,6 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorController.java" timestamp="1505412024968">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1507907563681">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="49" column="95" />
-        <mark key="]" line="49" column="95" />
-        <mark key="." line="49" column="95" />
-        <mark key="^" line="48" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1504016787556">
         <mark key="'" line="27" column="51" />
         <mark key="[" line="67" column="19" />
@@ -630,7 +616,6 @@
         <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1508175427528">
-        <mark key="'" line="493" column="0" />
         <mark key="[" line="481" column="50" />
         <mark key="]" line="481" column="50" />
         <mark key="." line="481" column="50" />
@@ -823,7 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/user/RoleController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/user/RoleController.java" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/security/Role.java" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/security/Role.java" />
@@ -923,6 +907,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="245" column="51" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="53" column="18" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
