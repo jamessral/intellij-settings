@@ -81,8 +81,8 @@
         <mark key="^" line="148" column="77" />
         <mark key="." line="148" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1508861104775">
-        <mark key="'" line="319" column="39" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" timestamp="1508866542552">
+        <mark key="'" line="396" column="79" />
         <mark key="[" line="397" column="37" />
         <mark key="]" line="397" column="58" />
         <mark key="." line="397" column="58" />
@@ -288,8 +288,8 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/section/SectionFeedbackControllerTests.java" timestamp="1505840839244">
         <mark key="'" line="237" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" timestamp="1508860837379">
-        <mark key="'" line="31" column="31" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" timestamp="1508866219930">
+        <mark key="'" line="56" column="9" />
         <mark key="[" line="56" column="18" />
         <mark key="]" line="56" column="39" />
         <mark key="." line="56" column="39" />
@@ -605,12 +605,11 @@
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1508766824667">
         <mark key="'" line="120" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1508860908214">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1508866806369">
         <mark key="'" line="261" column="34" />
-        <mark key="[" line="266" column="113" />
-        <mark key="]" line="267" column="106" />
-        <mark key="." line="267" column="106" />
-        <mark key="^" line="267" column="106" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/Tracker.java" timestamp="1508511946175">
         <mark key="'" line="0" column="0" />
@@ -665,12 +664,12 @@
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorController.java" timestamp="1505412024968">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1508860780185">
-        <mark key="'" line="16" column="54" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="1" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="54" column="1" />
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" timestamp="1508866300529">
+        <mark key="'" line="51" column="53" />
+        <mark key="[" line="52" column="78" />
+        <mark key="]" line="52" column="86" />
+        <mark key="^" line="52" column="86" />
+        <mark key="." line="52" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1504016787556">
         <mark key="'" line="27" column="51" />
@@ -685,12 +684,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1508859846332">
-        <mark key="'" line="538" column="59" />
-        <mark key="[" line="622" column="9" />
-        <mark key="]" line="622" column="9" />
-        <mark key="." line="622" column="9" />
-        <mark key="^" line="622" column="9" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1508866343445">
+        <mark key="'" line="620" column="51" />
+        <mark key="[" line="620" column="104" />
+        <mark key="]" line="620" column="112" />
+        <mark key="." line="620" column="112" />
+        <mark key="^" line="620" column="112" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506454235907">
         <mark key="'" line="161" column="0" />
@@ -903,11 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="36" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/SequenceController.java" />
-      <jump line="105" column="25" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/SequenceController.java" />
-      <jump line="107" column="40" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/SequenceController.java" />
-      <jump line="43" column="38" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ConversationController.java" />
-      <jump line="46" column="58" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ConversationController.java" />
       <jump line="14" column="25" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ConversationService.java" />
       <jump line="24" column="13" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ConversationServiceImpl.java" />
       <jump line="83" column="16" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ConversationServiceImpl.java" />
@@ -1000,9 +994,14 @@
       <jump line="71" column="27" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="261" column="34" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
-      <jump line="56" column="39" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" />
       <jump line="31" column="31" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" />
       <jump line="319" column="39" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" />
+      <jump line="51" column="53" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" />
+      <jump line="608" column="34" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
+      <jump line="396" column="79" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" />
+      <jump line="56" column="9" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" />
+      <jump line="762" column="46" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
+      <jump line="620" column="51" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1014,28 +1013,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>sequences</text>
+        <text>getRecentDiscuss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN1bW1hcnlDb3Vyc2VSZXNwb25zZS5nZXRCb2R5KCkuZ2V0U2VxdWVuY2VzKCkuZ2V0KDApLmdldFVuYW5zd2VyZWRRdWVzdGlvbnMoKSkuaXNFcXVhbFRvKDEwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wb3N0RAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTGlzdDw/PiBjb2xsZWN0aW9uLCBTdHJpbmcgYWN0aXZpdHlUeXBlLCBTdHJpbmcgdG9rZW4sIERhdGUgc3RhcnRUaW1lLCBEYXRlIGVuZFRpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN1bW1hcnlDb3Vyc2VSZXNwb25zZS5nZXRCb2R5KCkuZ2V0U2VxdWVuY2VzKCkuZ2V0KDApLmdldFVuYW5zd2VyZWRRdWVzdGlvbnMoKSkuaXNFcXVhbFRvKDEwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxvbmcgY291bnRCeUNvbnRlbnRJbkFuZEFjdGl2aXR5VHlwZUFuZFRva2VuQW5kUXVlc3Rpb25GbGFnRmFsc2VBbmRSZXBseVRvQW5kQ3JlYXRlZE9uR3JlYXRlclRoYW5FcXVhbEFuZENyZWF0ZWRPbkxlc3NUaGFuQW5kRGVsZXRlZEZhbHNlQW5kRmFjaWxpdGF0b3JGbGFnRmFsc2UoCg==</text>
+        <text encoding="base64">CWxvbmcgY291bnRCeUNvbnRlbnRBbmRUb2tlbkluU2VjdGlvbnNBbmRRdWVzdGlvbkZsYWdUcnVlQW5kQW5zd2VyRmxhZ0ZhbHNlQW5kRGVsZXRlZEZhbHNlQW5kRmFjaWxpdGF0b3JGbGFnRmFsc2UoU3RyaW5nIGNvbnRlbnQsIFN0cmluZyB0b2tlbiwgTGlzdDxTdHJpbmc+IHNlY3Rpb25zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxvbmcgY291bnRCeUNvbnRlbnRBbmRUb2tlbkluU2VjdGlvbnNBbmRRdWVzdGlvbkZsYWdUcnVlQW5kRGVsZXRlZEZhbHNlQW5kRmFjaWxpdGF0b3JGbGFnRmFsc2UoU3RyaW5nIGNvbnRlbnQsIFN0cmluZyB0b2tlbiwgTGlzdDxTdHJpbmc+IHNlY3Rpb25zKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1064,29 +1063,29 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gMDsK</text>
+        <text encoding="base64">CQkJTGlzdDw/PiBjb2xsZWN0aW9uLCBTdHJpbmcgYWN0aXZpdHlUeXBlLCBTdHJpbmcgdG9rZW4sIERhdGUgc3RhcnRUaW1lLCBEYXRlIGVuZFRpbWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxvbmcgY291bnRCeUNvbnRlbnRJbkFuZEFjdGl2aXR5VHlwZUFuZFRva2VuQW5kUXVlc3Rpb25GbGFnRmFsc2VBbmRSZXBseVRvQW5kQ3JlYXRlZE9uR3JlYXRlclRoYW5FcXVhbEFuZENyZWF0ZWRPbkxlc3NUaGFuQW5kRGVsZXRlZEZhbHNlQW5kRmFjaWxpdGF0b3JGbGFnRmFsc2UoCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvbmcgY291bnRSZWNlbnRCeUNvbnRlbnRBbmRUb2tlbihMaXN0PD4sIFN0cmluZyB0b2tlbiwgbG9uZyBzdGFydFRpbWUsIGxvbmcgZW5kVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sequences</last-search>
+      <last-search>getRecentDiscuss</last-search>
       <last-offset />
-      <last-pattern>sequences</last-pattern>
+      <last-pattern>getRecentDiscuss</last-pattern>
       <last-replace>questions</last-replace>
       <last-substitute>comments</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1120,6 +1119,8 @@
         <entry>countByContentIn</entry>
         <entry>Course</entry>
         <entry>sequences</entry>
+        <entry encoding="base64">XDxjb3VudEJ5Q29udGVudEluQW5kQWN0aXZpdHlUeXBlQW5kVG9rZW5BbmRRdWVzdGlvbkZsYWdGYWxzZUFuZFJlcGx5VG9Jc051bGxBbmRDcmVhdGVkT25HcmVhdGVyVGhhbkVxdWFsQW5kQ3JlYXRlZE9uTGVzc1RoYW5BbmREZWxldGVkRmFsc2VBbmRGYWNpbGl0YXRvckZsYWdGYWxzZVw+</entry>
+        <entry>getRecentDiscuss</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VwZGF0ZS9jcmVhdGUvZw==</entry>
@@ -1140,6 +1141,7 @@
         <entry>ew</entry>
         <entry>wa</entry>
         <entry>vs</entry>
+        <entry>w:w</entry>
         <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
