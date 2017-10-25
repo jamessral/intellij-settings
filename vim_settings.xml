@@ -10,8 +10,8 @@
         <mark key="." line="194" column="4" />
         <mark key="^" line="194" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/BaseTrackerService.java" timestamp="1508512163887">
-        <mark key="[" line="37" column="9" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/BaseTrackerService.java" timestamp="1508960767494">
+        <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="80" />
         <mark key="^" line="38" column="80" />
         <mark key="." line="38" column="80" />
@@ -124,21 +124,18 @@
         <mark key="^" line="105" column="72" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceService.java" timestamp="1508443153504">
-        <mark key="'" line="29" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesGame.java" timestamp="1489781166825">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/dto/content/tracker/TrackerCreateRequest.java" timestamp="1508442564555">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/dto/content/tracker/TrackerCreateRequest.java" timestamp="1508959128597">
         <mark key="'" line="9" column="13" />
-        <mark key="[" line="41" column="30" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="44" column="30" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+        <mark key="^" line="44" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" timestamp="1506453538439">
         <mark key="'" line="30" column="13" />
@@ -179,9 +176,6 @@
         <mark key="^" line="8" column="40" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ConversationService.java" timestamp="1508439205042">
-        <mark key="'" line="14" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/activity/ActivityControllerTest.java" timestamp="1507654531444">
         <mark key="'" line="463" column="0" />
         <mark key="[" line="527" column="146" />
@@ -189,12 +183,12 @@
         <mark key="." line="527" column="146" />
         <mark key="^" line="475" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceControllerTest.java" timestamp="1508511695472">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="137" column="103" />
-        <mark key="]" line="138" column="63" />
-        <mark key="." line="138" column="63" />
-        <mark key="^" line="138" column="63" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceControllerTest.java" timestamp="1508960834778">
+        <mark key="'" line="147" column="0" />
+        <mark key="[" line="137" column="93" />
+        <mark key="]" line="137" column="103" />
+        <mark key="." line="137" column="103" />
+        <mark key="^" line="137" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.08-Exercise-JumpingSprites/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974415027">
         <mark key="[" line="15" column="0" />
@@ -207,9 +201,6 @@
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="56" />
         <mark key="^" line="17" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorController.java" timestamp="1508858545843">
-        <mark key="'" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/Icicle.java" timestamp="1489781181749">
         <mark key="[" line="13" column="0" />
@@ -230,9 +221,6 @@
         <mark key="]" line="585" column="65" />
         <mark key="." line="585" column="65" />
         <mark key="^" line="585" column="65" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/security/Role.java" timestamp="1506454894063">
-        <mark key="'" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
         <mark key="[" line="10" column="41" />
@@ -283,9 +271,6 @@
         <mark key="^" line="175" column="66" />
         <mark key="." line="175" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/section/SectionFeedbackControllerTests.java" timestamp="1505840839244">
-        <mark key="'" line="237" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -324,6 +309,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/BaseControllerTests.java" timestamp="1508961004785">
+        <mark key="'" line="519" column="28" />
+        <mark key="[" line="537" column="0" />
+        <mark key="]" line="537" column="0" />
+        <mark key="." line="537" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="32" />
@@ -350,9 +341,6 @@
         <mark key="." line="730" column="19" />
         <mark key="^" line="730" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/activity/ActivityController.java" timestamp="1505502737250">
-        <mark key="'" line="466" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/screens/GameplayScreen.java" timestamp="1491344902211">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="9" column="3" />
@@ -371,9 +359,6 @@
         <mark key="]" line="214" column="40" />
         <mark key="^" line="214" column="40" />
         <mark key="." line="214" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/activity/ActivityControllerTests.java" timestamp="1505418627340">
-        <mark key="'" line="192" column="143" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1492976219136">
         <mark key="[" line="131" column="64" />
@@ -445,9 +430,6 @@
         <mark key="." line="159" column="78" />
         <mark key="^" line="159" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/org/UserEventService.java" timestamp="1507825396661">
-        <mark key="'" line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/ResourceControllerTests.java" timestamp="1504637562184">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="121" column="15" />
@@ -455,20 +437,14 @@
         <mark key="." line="121" column="23" />
         <mark key="^" line="121" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseSequenceServiceImpl.java" timestamp="1504719915376">
-        <mark key="'" line="374" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ConversationServiceImpl.java" timestamp="1508439388623">
-        <mark key="'" line="83" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490472156254">
         <mark key="[" line="28" column="90" />
         <mark key="]" line="28" column="109" />
         <mark key="^" line="28" column="109" />
         <mark key="." line="28" column="109" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/tracker/TrackerSequence.java" timestamp="1505414953572">
-        <mark key="'" line="20" column="37" />
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/TrackerSectionFeedbackUser.java" timestamp="1508958949770">
+        <mark key="[" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/user/UserControllerTests.java" timestamp="1503416868062">
         <mark key="[" line="99" column="109" />
@@ -494,6 +470,12 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerCourseServiceImpl.java" timestamp="1508960000874">
+        <mark key="[" line="247" column="58" />
+        <mark key="]" line="247" column="58" />
+        <mark key="^" line="247" column="58" />
+        <mark key="." line="247" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" timestamp="1503787024591">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="33" column="32" />
@@ -501,18 +483,12 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/ContentShare.java" timestamp="1508438459447">
-        <mark key="'" line="27" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorControllerTests.java" timestamp="1505757010646">
         <mark key="'" line="354" column="60" />
         <mark key="[" line="424" column="102" />
         <mark key="]" line="424" column="103" />
         <mark key="." line="424" column="103" />
         <mark key="^" line="420" column="132" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/UserEventController.java" timestamp="1505839932123">
-        <mark key="'" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.04-Exercise-AddDebugPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492981973909">
         <mark key="[" line="41" column="40" />
@@ -539,8 +515,11 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerService.java" timestamp="1508438934890">
-        <mark key="'" line="10" column="17" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseControllerTest.java" timestamp="1508961073005">
+        <mark key="[" line="153" column="79" />
+        <mark key="]" line="153" column="103" />
+        <mark key="^" line="153" column="103" />
+        <mark key="." line="153" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/ActivityBaseRepository.java" timestamp="1506006610616">
         <mark key="'" line="64" column="59" />
@@ -567,9 +546,9 @@
         <mark key="^" line="55" column="68" />
         <mark key="." line="55" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" timestamp="1508511804613">
-        <mark key="'" line="206" column="34" />
-        <mark key="[" line="193" column="9" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" timestamp="1508959530197">
+        <mark key="'" line="194" column="73" />
+        <mark key="[" line="194" column="20" />
         <mark key="]" line="194" column="73" />
         <mark key="." line="194" column="73" />
         <mark key="^" line="194" column="73" />
@@ -587,15 +566,6 @@
         <mark key="^" line="12" column="83" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/activity/Activity.java" timestamp="1505754963365">
-        <mark key="'" line="103" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerController.java" timestamp="1508511366981">
-        <mark key="'" line="200" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1508766824667">
-        <mark key="'" line="120" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" timestamp="1508940931072">
         <mark key="'" line="60" column="20" />
         <mark key="[" line="265" column="110" />
@@ -603,21 +573,25 @@
         <mark key="." line="265" column="110" />
         <mark key="^" line="265" column="110" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/Tracker.java" timestamp="1508511946175">
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/Tracker.java" timestamp="1508958598914">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="106" column="27" />
-        <mark key="]" line="106" column="28" />
-        <mark key="." line="106" column="28" />
-        <mark key="^" line="103" column="3" />
+        <mark key="[" line="106" column="28" />
+        <mark key="]" line="110" column="31" />
+        <mark key="." line="110" column="31" />
+        <mark key="^" line="110" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" timestamp="1508960591774">
+        <mark key="'" line="233" column="45" />
+        <mark key="[" line="446" column="33" />
+        <mark key="]" line="446" column="44" />
+        <mark key="^" line="446" column="44" />
+        <mark key="." line="446" column="44" />
       </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="22" column="47" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationUserController.java" timestamp="1506454984302">
-        <mark key="'" line="184" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemService.java" timestamp="1502909859117">
         <mark key="[" line="8" column="81" />
@@ -650,12 +624,6 @@
         <mark key="^" line="185" column="101" />
         <mark key="." line="185" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/UserEventController.java" timestamp="1507825394120">
-        <mark key="'" line="28" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/facilitator/FacilitatorController.java" timestamp="1505412024968">
-        <mark key="'" line="22" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/Resource.java" timestamp="1504016787556">
         <mark key="'" line="27" column="51" />
         <mark key="[" line="67" column="19" />
@@ -676,12 +644,12 @@
         <mark key="^" line="162" column="49" />
         <mark key="." line="210" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1508443453493">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1508958790040">
         <mark key="'" line="366" column="41" />
-        <mark key="[" line="394" column="37" />
-        <mark key="]" line="394" column="37" />
-        <mark key="." line="394" column="37" />
-        <mark key="^" line="394" column="37" />
+        <mark key="[" line="395" column="20" />
+        <mark key="]" line="395" column="45" />
+        <mark key="." line="395" column="45" />
+        <mark key="^" line="395" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityDiscussionRepository.java" timestamp="1508859689877">
         <mark key="[" line="17" column="0" />
@@ -807,9 +775,6 @@
         <mark key="." line="50" column="68" />
         <mark key="^" line="50" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerServiceImpl.java" timestamp="1508438960552">
-        <mark key="'" line="294" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
         <mark key="[" line="129" column="19" />
         <mark key="]" line="129" column="38" />
@@ -821,12 +786,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="26" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/SequenceServiceImpl.java" timestamp="1504017395257">
-        <mark key="'" line="168" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/user/RoleController.java" timestamp="1506454878695">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorActivityDTO.java" timestamp="1507828053822">
         <mark key="[" line="14" column="19" />
@@ -852,11 +811,12 @@
         <mark key="." line="23" column="109" />
         <mark key="^" line="23" column="110" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" timestamp="1508511455858">
-        <mark key="'" line="111" column="48" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="66" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" timestamp="1508959197287">
+        <mark key="'" line="294" column="26" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
+        <mark key="^" line="110" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470620533">
         <mark key="[" line="34" column="0" />
@@ -880,29 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="71" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
-      <jump line="365" column="72" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
-      <jump line="379" column="72" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
-      <jump line="393" column="70" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
-      <jump line="240" column="74" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
-      <jump line="282" column="64" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
-      <jump line="110" column="73" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceControllerTest.java" />
-      <jump line="123" column="19" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceControllerTest.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceControllerTest.java" />
-      <jump line="394" column="30" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="65" column="30" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="86" column="32" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="94" column="134" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="98" column="20" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="140" column="30" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="145" column="30" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="148" column="129" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="153" column="26" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="372" column="67" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="9" column="13" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/dto/content/tracker/TrackerCreateRequest.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/Tracker.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/Tracker.java" />
-      <jump line="29" column="27" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceService.java" />
       <jump line="111" column="48" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
       <jump line="30" column="13" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" />
       <jump line="84" column="34" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" />
@@ -980,6 +917,29 @@
       <jump line="60" column="20" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorControllerTest.java" />
       <jump line="620" column="51" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="621" column="27" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
+      <jump line="290" column="26" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" />
+      <jump line="226" column="28" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" />
+      <jump line="194" column="73" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" />
+      <jump line="244" column="47" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="289" column="12" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="103" column="43" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="139" column="63" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="287" column="75" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="319" column="73" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="343" column="71" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="524" column="91" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="556" column="83" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="212" column="27" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="221" column="73" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="225" column="32" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="226" column="23" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="228" column="75" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="233" column="45" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" />
+      <jump line="68" column="22" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/BaseControllerTests.java" />
+      <jump line="911" column="34" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/BaseControllerTests.java" />
+      <jump line="538" column="109" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/BaseControllerTests.java" />
+      <jump line="552" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/BaseControllerTests.java" />
+      <jump line="519" column="28" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/BaseControllerTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -991,25 +951,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>visible</text>
       </register>
       <register name="/" type="4">
-        <text>getOpen</text>
+        <text>createSequenceTracker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN1bW1hcnlDb3Vyc2VSZXNwb25zZS5nZXRCb2R5KCkuZ2V0U2VxdWVuY2VzKCkuZ2V0KDApLmdldFVuYW5zd2VyZWRRdWVzdGlvbnMoKSkuaXNFcXVhbFRvKDEwKTsK</text>
+        <text encoding="base64">CQljcmVhdGVSZXF1ZXN0LnZpc2libGUgPSB2aXNpYmxlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBsb25nIGdldE9wZW5RdWVzdGlvbihTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuKSB0aHJvd3MgU2VydmljZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNyZWF0ZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRUcmFja2VyKCkuZ2V0UHJpdmF0ZU1vZGUoKSkuaXNFcXVhbFRvKGNyZWF0ZVJlcXVlc3QucHJpdmF0ZU1vZGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIGxvbmcgZ2V0T3BlblF1ZXN0aW9uKFN0cmluZyBjb250ZW50LCBTdHJpbmcgdG9rZW4pIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uIHsKCQlyZXR1cm4gYWN0aXZpdHlSZXBvc2l0b3J5LmNvdW50QnlDb250ZW50QW5kVG9rZW5BbmRRdWVzdGlvbkZsYWdUcnVlQW5kQW5zd2VyRmxhZ0ZhbHNlQW5kRGVsZXRlZEZhbHNlQW5kRmFjaWxpdGF0b3JGbGFnRmFsc2UoY29udGVudCwgdG9rZW4pOwoJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdmlzaWJsZTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1041,29 +1001,29 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBvc3RDb21tZW50QWN0aXZpdHkodG9rZW4sICJVbmFuc3dlcmVkPyIsIHNlY3Rpb24xSWQsIHRyYWNrZXJJZCwgMjAsIG51bGwpOwo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAodXBkYXRlUmVxdWVzdC5wcml2YXRlTW9kZSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBvc3RDb21tZW50QWN0aXZpdHkodG9rZW4sICJyZWNlbnQgcmVwbHkiLCBkaXNjdXNzaW9uLmdldENvbnRlbnQoKSwgZGlzY3Vzc2lvbi5nZXRJZCgpLCAxMEwsIG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpdml0eSBkaXNjdXNzaW9uID0gdGhpcy5wb3N0RGlzY3Vzc2lvbkFjdGl2aXR5KHRva2VuLCAiRGlzY3Vzc2lvbiIsICJkZXNjIiwgImNvbnRlbnQiLCB0cmFja2VySWQsIDEwTCk7Cg==</text>
+        <text encoding="base64">CQl0cmFja2VyLnNldFByaXZhdGVNb2RlKHVwZGF0ZVJlcXVlc3QucHJpdmF0ZU1vZGUpOwkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getOpen</last-search>
+      <last-search>createSequenceTracker</last-search>
       <last-offset />
-      <last-pattern>getOpen</last-pattern>
+      <last-pattern>createSequenceTracker</last-pattern>
       <last-replace>questions</last-replace>
       <last-substitute>comments</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1087,6 +1047,12 @@
         <entry encoding="base64">XDxjb3VudEJ5Q29udGVudEluQW5kQWN0aXZpdHlUeXBlQW5kVG9rZW5BbmRRdWVzdGlvbkZsYWdGYWxzZUFuZFJlcGx5VG9Jc051bGxBbmRDcmVhdGVkT25HcmVhdGVyVGhhbkVxdWFsQW5kQ3JlYXRlZE9uTGVzc1RoYW5BbmREZWxldGVkRmFsc2VBbmRGYWNpbGl0YXRvckZsYWdGYWxzZVw+</entry>
         <entry>getRecentDiscuss</entry>
         <entry>getOpen</entry>
+        <entry>POST</entry>
+        <entry>update</entry>
+        <entry>createtracker</entry>
+        <entry>createSeq</entry>
+        <entry>createCourseTracker</entry>
+        <entry>createSequenceTracker</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1105,8 +1071,10 @@
         <entry>q</entry>
         <entry>ew</entry>
         <entry>wa</entry>
-        <entry>vs</entry>
         <entry>w:w</entry>
+        <entry>vs</entry>
+        <entry>nob</entry>
+        <entry>hon</entry>
         <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
