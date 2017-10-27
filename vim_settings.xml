@@ -727,8 +727,8 @@
         <mark key="^" line="162" column="49" />
         <mark key="." line="210" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1508958790040">
-        <mark key="'" line="366" column="41" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1509118778770">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="395" column="20" />
         <mark key="]" line="395" column="45" />
         <mark key="." line="395" column="45" />
@@ -932,9 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="41" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
-      <jump line="145" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceControllerTest.java" />
-      <jump line="200" column="4" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerController.java" />
       <jump line="106" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" />
       <jump line="197" column="44" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" />
       <jump line="206" column="34" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerSequenceServiceImpl.java" />
@@ -1032,6 +1029,9 @@
       <jump line="619" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="331" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/facilitator/FacilitatorServiceImpl.java" />
       <jump line="86" column="48" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/UserEventController.java" />
+      <jump line="394" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
+      <jump line="393" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/resources/db/changelog/db.changelog-1.0.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1046,7 +1046,7 @@
         <text encoding="base64">CQlzZWN0aW9uLg==</text>
       </register>
       <register name="/" type="4">
-        <text>getOpenQuestion</text>
+        <text>privateMode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBsb25nIGdldE9wZW5RdWVzdGlvbihTdHJpbmcgdHJhY2tlcklkKSB0aHJvd3MgU2VydmljZUV4Y2VwdGlvbjsK</text>
@@ -1109,13 +1109,13 @@
       </register>
     </registers>
     <search>
-      <last-search>getOpenQuestion</last-search>
+      <last-search>privateMode</last-search>
       <last-offset />
-      <last-pattern>getOpenQuestion</last-pattern>
+      <last-pattern>privateMode</last-pattern>
       <last-replace>questions</last-replace>
       <last-substitute>comments</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1139,6 +1139,7 @@
         <entry>createSequenceTracker</entry>
         <entry>getOpen</entry>
         <entry>getOpenQuestion</entry>
+        <entry>privateMode</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rva2VuL3RyYWNrZXJJZC9n</entry>
