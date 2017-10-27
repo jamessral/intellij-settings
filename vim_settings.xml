@@ -642,10 +642,10 @@
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/Tracker.java" timestamp="1508958598914">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="106" column="28" />
-        <mark key="]" line="110" column="31" />
-        <mark key="." line="110" column="31" />
-        <mark key="^" line="110" column="31" />
+        <mark key="[" line="110" column="28" />
+        <mark key="]" line="114" column="31" />
+        <mark key="." line="114" column="31" />
+        <mark key="^" line="114" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" timestamp="1508960591774">
         <mark key="'" line="233" column="45" />
@@ -712,13 +712,6 @@
         <mark key="]" line="8" column="17" />
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1509027762940">
-        <mark key="'" line="624" column="0" />
-        <mark key="[" line="514" column="5" />
-        <mark key="]" line="518" column="147" />
-        <mark key="^" line="518" column="147" />
-        <mark key="." line="518" column="147" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506454235907">
         <mark key="'" line="161" column="0" />
