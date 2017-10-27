@@ -338,11 +338,10 @@
         <mark key="]" line="537" column="0" />
         <mark key="." line="537" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" timestamp="1509116069370">
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="0" />
-        <mark key="^" line="257" column="15" />
-        <mark key="." line="257" column="0" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" timestamp="1509117182675">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
         <mark key="[" line="44" column="23" />
@@ -735,6 +734,11 @@
         <mark key="." line="395" column="45" />
         <mark key="^" line="395" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityDiscussionRepository.java" timestamp="1508859689877">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489781147825">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1048,19 +1052,19 @@
         <text encoding="base64">CXB1YmxpYyBsb25nIGdldE9wZW5RdWVzdGlvbihTdHJpbmcgdHJhY2tlcklkKSB0aHJvd3MgU2VydmljZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNyZWF0ZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRUcmFja2VyKCkuZ2V0UHJpdmF0ZU1vZGUoKSkuaXNFcXVhbFRvKGNyZWF0ZVJlcXVlc3QucHJpdmF0ZU1vZGUpOwo=</text>
+        <text encoding="base64">CQlpZiAodHJhY2tlci5nZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdHJ1ZTsK</text>
+        <text encoding="base64">CQlpZiAodHJhY2tlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNyZWF0ZVJlc3BvbnNlLmdldEJvZHkoKS5nZXRUcmFja2VyKCkuZ2V0UHJpdmF0ZU1vZGUoKSkuaXNFcXVhbFRvKGNyZWF0ZVJlcXVlc3QucHJpdmF0ZU1vZGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdmlzaWJsZTsK</text>
+        <text encoding="base64">CQljcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1089,16 +1093,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdmlzaWJsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAodXBkYXRlUmVxdWVzdC5wcml2YXRlTW9kZSAhPSBudWxsKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0cmFja2VyLnNldFByaXZhdGVNb2RlKHVwZGF0ZVJlcXVlc3QucHJpdmF0ZU1vZGUpOwkJCg==</text>
+        <text encoding="base64">CQlpZiAodXBkYXRlUmVxdWVzdC5wcml2YXRlTW9kZSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
