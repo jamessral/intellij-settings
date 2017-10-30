@@ -137,10 +137,10 @@
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/dto/content/tracker/TrackerCreateRequest.java" timestamp="1508959128597">
         <mark key="'" line="9" column="13" />
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="44" column="29" />
-        <mark key="^" line="44" column="29" />
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/org/OrganizationAuthController.java" timestamp="1506453538439">
         <mark key="'" line="30" column="13" />
@@ -651,13 +651,6 @@
         <mark key="." line="114" column="31" />
         <mark key="^" line="114" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerCourseController.java" timestamp="1509126432254">
-        <mark key="'" line="234" column="45" />
-        <mark key="[" line="446" column="55" />
-        <mark key="]" line="446" column="55" />
-        <mark key="^" line="446" column="55" />
-        <mark key="." line="446" column="55" />
-      </file>
       <file name="D:/Github/ud406/2.1.02-Exercise-LogApplicationType/core/src/com/udacity/gamedev/logging/LoggingDemo.java" timestamp="1491259343606">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -716,13 +709,6 @@
         <mark key="]" line="8" column="17" />
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1509129136171">
-        <mark key="'" line="584" column="36" />
-        <mark key="[" line="574" column="0" />
-        <mark key="]" line="574" column="0" />
-        <mark key="^" line="574" column="0" />
-        <mark key="." line="574" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506454235907">
         <mark key="'" line="161" column="0" />
@@ -913,10 +899,6 @@
         <mark key="^" line="23" column="110" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerSequenceController.java" timestamp="1509121888616">
-        <mark key="'" line="111" column="63" />
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="." line="290" column="0" />
         <mark key="^" line="110" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470620533">
@@ -1124,13 +1106,10 @@
       <last-replace>questions</last-replace>
       <last-substitute>comments</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>course</entry>
-        <entry>getSectionSummary</entry>
-        <entry>getTotalQuestion</entry>
         <entry>recentResponses</entry>
         <entry>recent</entry>
         <entry>Recent*Count</entry>
