@@ -710,6 +710,13 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1509462781798">
+        <mark key="'" line="713" column="46" />
+        <mark key="[" line="1021" column="0" />
+        <mark key="]" line="1021" column="0" />
+        <mark key="^" line="880" column="20" />
+        <mark key="." line="1021" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506454235907">
         <mark key="'" line="161" column="0" />
         <mark key="[" line="210" column="0" />
@@ -836,10 +843,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityRepository.java" timestamp="1509126603726">
-        <mark key="[" line="16" column="164" />
-        <mark key="]" line="16" column="164" />
-        <mark key="." line="16" column="164" />
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityRepository.java" timestamp="1509462811477">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
         <mark key="[" line="25" column="38" />
@@ -923,8 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
-      <jump line="788" column="12" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="31" column="55" filename="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/activity/ActivityBaseRepository.java" />
       <jump line="520" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="521" column="61" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
@@ -1023,6 +1028,8 @@
       <jump line="546" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="575" column="36" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="584" column="36" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
+      <jump line="167" column="68" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
+      <jump line="713" column="46" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1034,10 +1041,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text encoding="base64">RGlzY3Vzc2lvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>getDiscussions</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBMaXN0PEFjdGl2aXR5RGlzY3Vzc2lvbj4gZ2V0RGlzY3Vzc2lvbnMoU3RyaW5nIGNvbnRlbnQsIFN0cmluZyB0b2tlbikgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb247Cg==</text>
@@ -1045,17 +1052,17 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJQEFwaVBhcmFtKG5hbWU9InByaXZhdGVNb2RlIiwgcmVxdWlyZWQ9ZmFsc2UpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CglAUXVlcnkoInNlbGVjdCBhIGZyb20gQWN0aXZpdHkgYSB3aGVyZSBhLmRlbGV0ZWQgPSBmYWxzZSBhbmQgYS5hY3Rpdml0eVR5cGUgPSA/MSBhbmQgYS5jb250ZW50ID0gPzIgYW5kIGEudG9rZW4gPSA/MyBhbmQgKGEuZmFjaWxpdGF0b3JGbGFnID0gdHJ1ZSBvciBhLnVzZXIuaWQgaW4gPzQpIGFuZCBhLnJlcGx5VG8gaXMgbnVsbCBvcmRlciBieSBhLnRpbWUgYXNjLCBhLmNyZWF0ZWRPbiBhc2MiKQogICAgUGFnZTxBY3Rpdml0eT4gZmluZFByaXZhdGVNb2RlQWN0aXZpdHlCeVR5cGVBbmRDb250ZW50QW5kVG9rZW4oCiAgICAJCVN0cmluZyBhY3Rpdml0eVR5cGUsIFN0cmluZyBjb250ZW50LCBTdHJpbmcgdG9rZW4sIExpc3Q8U3RyaW5nPiB1c2VySWRzLCBQYWdlYWJsZSBwYWdlYWJsZQoJKTsKCglAUXVlcnkoInNlbGVjdCBhIGZyb20gQWN0aXZpdHkgYSB3aGVyZSBhLmRlbGV0ZWQgPSBmYWxzZSBhbmQgYS5hY3Rpdml0eVR5cGUgPSA/MSBhbmQgYS5jb250ZW50ID0gPzIgYW5kIGEudG9rZW4gPSA/MyBhbmQgKGEuZmFjaWxpdGF0b3JGbGFnID0gdHJ1ZSBvciBhLnVzZXIuaWQgaW4gPzQpIGFuZCBhLnJlcGx5VG8gPSA/NSBvcmRlciBieSBhLnRpbWUgYXNjLCBhLmNyZWF0ZWRPbiBhc2MiKQogICAgTGlzdDxBY3Rpdml0eT4gZmluZFByaXZhdGVNb2RlUmVwbGllc0J5QWN0aXZpdHlUeXBlQW5kQ29udGVudEFuZFRva2VuKAogICAgCQlTdHJpbmcgYWN0aXZpdHlUeXBlLCBTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuLCBMaXN0PFN0cmluZz4gdXNlcklkcwoJKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJQFJlcXVlc3RQYXJhbShuYW1lPSJwcml2YXRlTW9kZSIsIHJlcXVpcmVkPWZhbHNlKSBCb29sZWFuIHByaXZhdGVNb2RlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBQYWdlPEFjdGl2aXR5RGlzY3Vzc2lvbj4gZ2V0RGlzY3Vzc2lvbnMoU3RyaW5nIGNvbnRlbnQsIFN0cmluZyB0b2tlbiwgQm9vbGVhbiBwcml2YXRlTW9kZSwgUGFnZWFibGUgcGFnZWFibGUpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CXByaXZhdGUgUGFnZTxBY3Rpdml0eURpc2N1c3Npb24+IGZpbHRlclByaXZhdGVNb2RlUmVhY3Rpb25zKFBhZ2U8QWN0aXZpdHlEaXNjdXNzaW9uPiBkaXNjdXNzaW9ucykgewoJCXJldHVybiBkaXNjdXNzaW9ucy5tYXAoZGlzY3Vzc2lvbiAtPiB7CgkJCWlmIChkaXNjdXNzaW9uLmdldFVzZXIoKS5lcXVhbHModGhpcy5nZXRBdXRoZW50aWNhdGlvblVzZXIoKSkpIHsKCQkJCXJldHVybiBkaXNjdXNzaW9uOwoJCQl9IGVsc2UgewoJCQkJcmV0dXJuIG51bGw7CgkJCX0KCQl9KTsKCX0KCglwcml2YXRlIExpc3Q8U3RyaW5nPiBnZXRQcml2YXRlTW9kZVVzZXJJZHMoKSB7CgkJTGlzdDxTdHJpbmc+IHByaXZhdGVNb2RlVXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCXByaXZhdGVNb2RlVXNlcklkcy5hZGQodGhpcy5nZXRBdXRoZW50aWNhdGlvblVzZXIoKS5nZXRPcmdVc2VySWQoKSk7CgoJCXJldHVybiBwcml2YXRlTW9kZVVzZXJJZHM7Cgl9</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1086,27 +1093,27 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFBhZ2U8QWN0aXZpdHlEaXNjdXNzaW9uPiBnZXREaXNjdXNzaW9ucyhTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuLCBCb29sZWFuIHByaXZhdGVNb2RlLCBQYWdlYWJsZSBwYWdlYWJsZSkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gewoJCVBhZ2U8QWN0aXZpdHk+IGxpc3QgPSB0aGlzLmdldEFjdGl2aXRpZXNCeVR5cGVTb3J0QnlEYXRlKEFjdGl2aXR5LkRJU0NVU1NJT05fVFlQRSwgY29udGVudCwgdG9rZW4sIG51bGwsIG51bGwsIHByaXZhdGVNb2RlLCBwYWdlYWJsZSk7CgkJcmV0dXJuIGxpc3QubWFwKGFjdGl2aXR5IC0+IChBY3Rpdml0eURpc2N1c3Npb24pIGFjdGl2aXR5KTsKCX0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJQEFwaVBhcmFtKG5hbWU9InByaXZhdGVNb2RlIiwgcmVxdWlyZWQ9ZmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBQYWdlPEFjdGl2aXR5RGlzY3Vzc2lvbj4gZ2V0UHJpdmF0ZU1vZGVEaXNjdXNzaW9ucyhTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuLCBQYWdlYWJsZSBwYWdlYWJsZSkgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">CQkJQFJlcXVlc3RQYXJhbShuYW1lPSJwcml2YXRlTW9kZSIsIHJlcXVpcmVkPWZhbHNlKSBCb29sZWFuIHByaXZhdGVNb2RlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbGlzdC5tYXAodGhpczo6bG9hZFJlYWN0aW9ucyk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBQYWdlPEFjdGl2aXR5RGlzY3Vzc2lvbj4gZ2V0RGlzY3Vzc2lvbnMoU3RyaW5nIGNvbnRlbnQsIFN0cmluZyB0b2tlbiwgQm9vbGVhbiBwcml2YXRlTW9kZSwgUGFnZWFibGUgcGFnZWFibGUpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getDiscussions</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>getDiscussions</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>questions</last-replace>
       <last-substitute>comments</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1130,6 +1137,7 @@
         <entry>privateMode</entry>
         <entry>getPrivateModeDiscussions</entry>
         <entry>getDiscussions</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rva2VuL3RyYWNrZXJJZC9n</entry>
@@ -1143,7 +1151,6 @@
         <entry encoding="base64">JzwsJz5zL2NvbW1lbnRzL3F1ZXN0aW9ucy9n</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>ew</entry>
-        <entry>wa</entry>
         <entry>w:w</entry>
         <entry>nob</entry>
         <entry>hon</entry>
@@ -1151,6 +1158,7 @@
         <entry>q</entry>
         <entry>Vs</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
