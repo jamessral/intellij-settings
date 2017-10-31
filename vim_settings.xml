@@ -338,18 +338,24 @@
         <mark key="]" line="537" column="0" />
         <mark key="." line="537" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" timestamp="1509470893082">
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" timestamp="1509472556614">
         <mark key="'" line="156" column="0" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="^" line="266" column="66" />
-        <mark key="." line="267" column="0" />
+        <mark key="[" line="167" column="56" />
+        <mark key="]" line="167" column="159" />
+        <mark key="." line="167" column="159" />
+        <mark key="^" line="167" column="159" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="32" />
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/TrackerSectionFeedbackUserRepository.java" timestamp="1509471918711">
+        <mark key="[" line="14" column="175" />
+        <mark key="]" line="14" column="196" />
+        <mark key="." line="14" column="196" />
+        <mark key="^" line="14" column="196" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492975937736">
         <mark key="[" line="80" column="80" />
@@ -487,9 +493,6 @@
         <mark key="]" line="28" column="109" />
         <mark key="^" line="28" column="109" />
         <mark key="." line="28" column="109" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/TrackerSectionFeedbackUser.java" timestamp="1508958949770">
-        <mark key="[" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/tracker/TrackerSequence.java" timestamp="1505414953572">
         <mark key="'" line="20" column="37" />
@@ -836,9 +839,6 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508440663084">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/dataload/src/main/java/io/onq/BatchConfiguration.java" timestamp="1506451539404">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1043,28 +1043,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>trackerUser.get</text>
+        <text>findByTrackerAndSectionAndTrackerUserIdInDeletedFalseAndResourceIsNotNullOrderByCreatedOnDesc</text>
       </register>
       <register name="/" type="4">
         <text>UserEvent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBMaXN0PEFjdGl2aXR5RGlzY3Vzc2lvbj4gZ2V0RGlzY3Vzc2lvbnMoU3RyaW5nIGNvbnRlbnQsIFN0cmluZyB0b2tlbikgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgIFBhZ2U8VHJhY2tlclNlY3Rpb25GZWVkYmFja1VzZXI+IGZpbmRCeVRyYWNrZXJBbmRTZWN0aW9uQW5kRGVsZXRlZEZhbHNlQW5kUmVzb3VyY2VJc05vdE51bGxPcmRlckJ5Q3JlYXRlZE9uRGVzYyhUcmFja2VyIHRyYWNrZXIsIFNlY3Rpb24gc2VjdGlvbiwgUGFnZWFibGUgcGFnZWFibGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdXNlcklkcy5hZGQodHJhY2tlclVzZXJTZXJ2aWNlLmdldFRyYWNrZXJVc2VyKHRyYWNrZXJJZCwgKGdldEF1dGhlbnRpY2F0aW9uVXNlcigpLmdldE9yZ1VzZXJJZCgpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAhdXNlci5nZXRVc2VyKCkuZXF1YWxzKHRyYWNrZXJVc2VyLmdldFVzZXIoKSkpIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAhdXNlci5pc0RlbGV0ZWQoKSAmJgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CglAUXVlcnkoInNlbGVjdCBhIGZyb20gQWN0aXZpdHkgYSB3aGVyZSBhLmRlbGV0ZWQgPSBmYWxzZSBhbmQgYS5hY3Rpdml0eVR5cGUgPSA/MSBhbmQgYS5jb250ZW50ID0gPzIgYW5kIGEudG9rZW4gPSA/MyBhbmQgKGEuZmFjaWxpdGF0b3JGbGFnID0gdHJ1ZSBvciBhLnVzZXIuaWQgaW4gPzQpIGFuZCBhLnJlcGx5VG8gaXMgbnVsbCBvcmRlciBieSBhLnRpbWUgYXNjLCBhLmNyZWF0ZWRPbiBhc2MiKQogICAgUGFnZTxBY3Rpdml0eT4gZmluZFByaXZhdGVNb2RlQWN0aXZpdHlCeVR5cGVBbmRDb250ZW50QW5kVG9rZW4oCiAgICAJCVN0cmluZyBhY3Rpdml0eVR5cGUsIFN0cmluZyBjb250ZW50LCBTdHJpbmcgdG9rZW4sIExpc3Q8U3RyaW5nPiB1c2VySWRzLCBQYWdlYWJsZSBwYWdlYWJsZQoJKTsKCglAUXVlcnkoInNlbGVjdCBhIGZyb20gQWN0aXZpdHkgYSB3aGVyZSBhLmRlbGV0ZWQgPSBmYWxzZSBhbmQgYS5hY3Rpdml0eVR5cGUgPSA/MSBhbmQgYS5jb250ZW50ID0gPzIgYW5kIGEudG9rZW4gPSA/MyBhbmQgKGEuZmFjaWxpdGF0b3JGbGFnID0gdHJ1ZSBvciBhLnVzZXIuaWQgaW4gPzQpIGFuZCBhLnJlcGx5VG8gPSA/NSBvcmRlciBieSBhLnRpbWUgYXNjLCBhLmNyZWF0ZWRPbiBhc2MiKQogICAgTGlzdDxBY3Rpdml0eT4gZmluZFByaXZhdGVNb2RlUmVwbGllc0J5QWN0aXZpdHlUeXBlQW5kQ29udGVudEFuZFRva2VuKAogICAgCQlTdHJpbmcgYWN0aXZpdHlUeXBlLCBTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuLCBMaXN0PFN0cmluZz4gdXNlcklkcwoJKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJdXNlcklkcy5hZGQoZ2V0QXV0aGVudGljYXRpb25Vc2VyKCkuZ2V0SWQoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0RmFjaWxpdGF0b3JzKHRyYWNrZXJJZCkuZm9yRWFjOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1093,19 +1093,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CXByaXZhdGUgUGFnZTxBY3Rpdml0eURpc2N1c3Npb24+IGZpbHRlclByaXZhdGVNb2RlUmVhY3Rpb25zKFBhZ2U8QWN0aXZpdHlEaXNjdXNzaW9uPiBkaXNjdXNzaW9ucykgewoJCXJldHVybiBkaXNjdXNzaW9ucy5tYXAoZGlzY3Vzc2lvbiAtPiB7CgkJCWlmIChkaXNjdXNzaW9uLmdldFVzZXIoKS5lcXVhbHModGhpcy5nZXRBdXRoZW50aWNhdGlvblVzZXIoKSkpIHsKCQkJCXJldHVybiBkaXNjdXNzaW9uOwoJCQl9IGVsc2UgewoJCQkJcmV0dXJuIG51bGw7CgkJCX0KCQl9KTsKCX0KCglwcml2YXRlIExpc3Q8U3RyaW5nPiBnZXRQcml2YXRlTW9kZVVzZXJJZHMoKSB7CgkJTGlzdDxTdHJpbmc+IHByaXZhdGVNb2RlVXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCXByaXZhdGVNb2RlVXNlcklkcy5hZGQodGhpcy5nZXRBdXRoZW50aWNhdGlvblVzZXIoKS5nZXRPcmdVc2VySWQoKSk7CgoJCXJldHVybiBwcml2YXRlTW9kZVVzZXJJZHM7Cgl9</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJdXNlcklkcy5hZGQodHJhY2tlclVzZXJTZXJ2aWNlLmdldCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl0cmFja2VyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -1160,9 +1160,9 @@
         <entry>noh</entry>
         <entry>q</entry>
         <entry>Vs</entry>
-        <entry>vs</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
