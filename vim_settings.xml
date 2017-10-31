@@ -338,12 +338,12 @@
         <mark key="]" line="537" column="0" />
         <mark key="." line="537" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" timestamp="1509472556614">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="167" column="56" />
-        <mark key="]" line="167" column="159" />
-        <mark key="." line="167" column="159" />
-        <mark key="^" line="167" column="159" />
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" timestamp="1509473936605">
+        <mark key="'" line="165" column="8" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="86" />
+        <mark key="." line="165" column="86" />
+        <mark key="^" line="165" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
         <mark key="[" line="44" column="23" />
@@ -351,10 +351,10 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/TrackerSectionFeedbackUserRepository.java" timestamp="1509471918711">
-        <mark key="[" line="14" column="175" />
-        <mark key="]" line="14" column="196" />
-        <mark key="." line="14" column="196" />
+      <file name="$USER_HOME$/workspace/understory-platform/common/src/main/java/io/onq/domain/content/tracker/TrackerSectionFeedbackUserRepository.java" timestamp="1509473260043">
+        <mark key="[" line="14" column="78" />
+        <mark key="]" line="14" column="78" />
+        <mark key="." line="14" column="78" />
         <mark key="^" line="14" column="196" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.10-Exercise-WalkLoop/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492975937736">
@@ -932,8 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="520" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
-      <jump line="521" column="61" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="843" column="4" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="523" column="103" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="526" column="12" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
@@ -1032,6 +1030,8 @@
       <jump line="167" column="68" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="713" column="46" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="156" column="0" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" />
+      <jump line="176" column="59" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" />
+      <jump line="165" column="8" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1043,7 +1043,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>findByTrackerAndSectionAndTrackerUserIdInDeletedFalseAndResourceIsNotNullOrderByCreatedOnDesc</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>UserEvent</text>
@@ -1052,19 +1052,19 @@
         <text encoding="base64">ICAgIFBhZ2U8VHJhY2tlclNlY3Rpb25GZWVkYmFja1VzZXI+IGZpbmRCeVRyYWNrZXJBbmRTZWN0aW9uQW5kRGVsZXRlZEZhbHNlQW5kUmVzb3VyY2VJc05vdE51bGxPcmRlckJ5Q3JlYXRlZE9uRGVzYyhUcmFja2VyIHRyYWNrZXIsIFNlY3Rpb24gc2VjdGlvbiwgUGFnZWFibGUgcGFnZWFibGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdXNlcklkcy5hZGQodHJhY2tlclVzZXJTZXJ2aWNlLmdldFRyYWNrZXJVc2VyKHRyYWNrZXJJZCwgKGdldEF1dGhlbnRpY2F0aW9uVXNlcigpLmdldE9yZ1VzZXJJZCgpKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">TGlzdDxTdHJpbmc+IHVzZXJJZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCQkJdXNlcklkcy5hZGQoZ2V0QXV0aGVudGljYXRpb25Vc2VyKCkuZ2V0T3JnVXNlcklkKCkpOwoKCQkJdHJhY2tlclNlcnZpY2UuZ2V0RmFjaWxpdGF0b3JzKHRyYWNrZXJJZCkKCQkJCQkuZm9yRWFjaChmYWNpbGl0YXRvciAtPiB1c2VySWRzLmFkZChmYWNpbGl0YXRvci5nZXRPcmdVc2VySWQoKSkpOwoKCQkJTGlzdDxTdHJpbmc+IHRyYWNrZXJVc2VySWRzID0gbmV3IEFycmF5TGlzdDw+KCk7CgoJCQl0cmFja2VyVXNlclNlcnZpY2UuZ2V0VHJhY2tlclVzZXJzKHRyYWNrZXJJZCkKCQkJCQkuc3RyZWFtKCkKCQkJCQkuZmlsdGVyKHRyYWNrZXJVc2VyIC0+IHVzZXJJZHMuY29udGFpbnModHJhY2tlclVzZXIuZ2V0VXNlcigpKSkKCQkJCQkuZm9yRWFjaCh0cmFja2VyVXNlciAtPiB0cmFja2VyVXNlcklkcy5hZGQodHJhY2tlclVzZXIuZ2V0SWQoKSkpOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdXNlcklkcy5hZGQoZ2V0QXV0aGVudGljYXRpb25Vc2VyKCkuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">CQkJdXNlcklkcy5hZGQodHJhY2tlclVzZXJTZXJ2aWNlLmdldFRyYWNrZXJVc2VyKHRyYWNrZXJJZCwgKGdldEF1dGhlbnRpY2F0aW9uVXNlcigpLmdldE9yZ1VzZXJJZCgpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0RmFjaWxpdGF0b3JzKHRyYWNrZXJJZCkuZm9yRWFjOwo=</text>
+        <text encoding="base64">CQkJdXNlcklkcy5hZGQoZ2V0QXV0aGVudGljYXRpb25Vc2VyKCkuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1093,19 +1093,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0RmFjaWxpdGF0b3JzKHRyYWNrZXJJZCkuZm9yRWFjOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdXNlcklkcy5hZGQodHJhY2tlclVzZXJTZXJ2aWNlLmdldCkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl0cmFja2VyCg==</text>
+        <text encoding="base64">CQkJdHJhY2tlclNlcnZpY2UuZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1161,8 +1161,8 @@
         <entry>q</entry>
         <entry>Vs</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
