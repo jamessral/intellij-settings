@@ -712,13 +712,7 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1509632563428">
-        <mark key="'" line="399" column="136" />
-        <mark key="[" line="389" column="12" />
-        <mark key="]" line="389" column="24" />
-        <mark key="." line="389" column="24" />
-        <mark key="^" line="389" column="24" />
-      </file>
+      <file name="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" timestamp="1509632563428" />
       <file name="$USER_HOME$/workspace/understory-platform/platform/src/test/java/io/onq/web/controller/api/secure/org/OrganizationAuthControllerTest.java" timestamp="1506454235907">
         <mark key="'" line="161" column="0" />
         <mark key="[" line="210" column="0" />
