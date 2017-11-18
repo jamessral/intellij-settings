@@ -262,6 +262,12 @@
         <mark key="." line="105" column="66" />
         <mark key="^" line="105" column="66" />
       </file>
+      <file name="D:/Github/ud406/2.7.04-Exercise-LoadTheRest/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1511049484260">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="123" column="44" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.06-Exercise-LoadA9Patch/core/src/com/udacity/gamedev/ninepatch/NinePatchDemo.java" timestamp="1491342247699">
         <mark key="[" line="50" column="67" />
         <mark key="]" line="50" column="68" />
@@ -544,7 +550,7 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511048895875">
+      <file name="/Dummy.txt" timestamp="1511049504826">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -697,40 +703,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>desktop:run</text>
+        <text>setExitPortal(new ExitPortal(exitPortalPosition));</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdFBvcnRhbEZyYW1lcy5hZGQoZXhpdFBvcnRhbDUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFZlY3RvcjIgZXhpdFBvcnRhbFBvc2l0aW9uID0gbG93ZXJMZWZ0Q29ybmVyLmFkZChDb25zdGFudHMuRVhJVF9QT1JUQUxfQ0VOVEVSKTsKICAgICAgICAgICAgICAgIEdkeC5hcHAubG9nKFRBRywgIkxvYWRlZCBFeGl0UG9ydGFsIGF0ICIgKyBleGl0UG9ydGFsUG9zaXRpb24pOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBsZXZlbC5zZXRFeGl0UG9ydGFsKG5ldyBFeGl0UG9ydGFsKGV4aXRQb3J0YWxQb3NpdGlvbikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogTG9hZCB0aGUgUG93ZXJ1cHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IHRoYXQgdGV4dHVyZSByZWdpb24K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR28gdGhyb3VnaCB0aGUgc2FtZSBwcm9jZXNzIHRvIGxvYWQgdGhlIEV4aXQgUG9ydGFsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBHZXQgdGhlIHJpZ2h0IHRleHR1cmUgcmVnaW9uIGZyb20gdGhlIGV4aXRQb3J0YWxBc3NldHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2UgVXRpbHMuc2Vjb25kc1NpbmNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBHZXQgdGhlIHRpbWUgZWxhcHNlZCBzaW5jZSBzdGFydFRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVtZW1iZXIgdG8gdXNlIHNhZmVHZXRGbG9hdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYW4gZXhpdCBwb3J0YWwgdG8gdGhlIGRlYnVnIGxldmVsCiAgICAgICAgLy8gQXJvdW5kICgxNTAsIDE1MCkgd2lsbCBkbyBmaW5lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR2V0IHRoZSBsb3dlciBsZWZ0IGNvcm5lciBvZiB0aGUgb2JqZWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
