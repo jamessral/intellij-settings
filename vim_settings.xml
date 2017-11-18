@@ -33,6 +33,11 @@
         <mark key="^" line="16" column="62" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1510974794022">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1489716627457">
         <mark key="[" line="0" column="0" />
       </file>
@@ -300,6 +305,12 @@
         <mark key="^" line="107" column="42" />
         <mark key="." line="107" column="42" />
       </file>
+      <file name="D:/Github/ud406/2.7.01-Solution-JsonParsing/build.gradle" timestamp="1510974751016">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.05-Exercise-LeftAndRightMovement/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492971951380">
         <mark key="[" line="17" column="55" />
         <mark key="]" line="17" column="56" />
@@ -356,10 +367,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="^" line="30" column="44" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseSequenceControllerTests.java" timestamp="1503409678373">
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="361" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.04-Exercise-AddDebugPlatforms/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1492981973909">
         <mark key="[" line="41" column="40" />
@@ -509,6 +516,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1510974735949">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/utils/Rendering.java" timestamp="1510973869976">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="7" column="11" />
@@ -533,10 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="338" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="354" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="376" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="100" column="16" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="147" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="165" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -633,6 +642,10 @@
       <jump line="42" column="11" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
       <jump line="43" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
       <jump line="19" column="53" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
+      <jump line="69" column="17" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
+      <jump line="0" column="0" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
+      <jump line="116" column="0" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/build.gradle" />
+      <jump line="129" column="0" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -653,34 +666,34 @@
         <text encoding="base64">ICAgICAgICBpbnQgY2VudGVyWCA9IENvbnRhbnRzLldJRFRIIC8gMiAtIENvbnRhbnRzLlBMQVlFUl9XSURUSCAvIDI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSGFuZGxlIHNwcml0ZUZpbGUgPSBuZXcgRmlsZUhhbmRsZShDb250YW50cy5QTEFZRVJfU1BSSVRFMSk7CiAgICAgICAgVGV4dHVyZSB0ZXh0dXJlID0gbmV3IFRleHR1cmUoc3ByaXRlRmlsZSk7CiAgICAgICAgVGV4dHVyZVJlZ2lvbiByZWdpb24gPSBuZXcgVGV4dHVyZVJlZ2lvbih0ZXh0dXJlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2UgdGhlIExFVkVMX0RJUiBjb25zdGFudCwgRmlsZS5zZXBhcmF0b3IsIHRoZSBsZXZlbCBuYW1lLCBhbmQgTEVWRUxfRklMRV9FWFRFTlNJT04K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1hbmFnZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb25zdHJ1Y3QgdGhlIHBhdGggdG8gdGhlIGxldmVsIGZpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IENoZWNrIG91dCB0aGUgdGFzayB3ZSd2ZSBhZGRlZCB0byBjb3B5IHRoZSBsZXZlbHMgZnJvbSB0aGUgT3ZlcmxhcDJEIHByb2plY3QgdG8gdGhlIGFzc2V0cyBkaXJlY3RvcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEFzc2V0TWFuYWdlciA9IG5ldyBBc3NldE1hbmFnZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBOb3RlIHRoYXQgd2UgYWRkZWQgYSBkZXBlbmRlbmN5IG9uIHRoZSBKU09OIHNpbXBsZSBsaWJyYXJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXNzZXRzID0gbmV3IEFzc2V0cygpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhhdCB3ZSBhZGRlZCBhIGJ1bmNoIG1vcmUgY29uc3RhbnRzIGZvciB2YXJpb3VzIGtleXMgaW4gdGhlIEpTT04gZmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlSGFuZGxlIHNwcml0ZUZpbGUgPSBuZXcgRmlsZUhhbmRsZShDb250YW50cy5QTEFZRVJfU1BSSVRFMSk7CiAgICAgICAgVGV4dHVyZSB0ZXh0dXJlID0gbmV3IFRleHR1cmUoc3ByaXRlRmlsZSk7CiAgICAgICAgVGV4dHVyZVJlZ2lvbiByZWdpb24gPSBuZXcgVGV4dHVyZVJlZ2lvbih0ZXh0dXJlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1hbmFnZXIuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -725,13 +738,13 @@
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz5zL1NlcXVlbmNlL0NvdXJzZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2JhY2tncm91bmQvdGh1bWJuYWlsL2c=</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL1BhdGgvU2l6ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL1NpemUvVHlwZS9n</entry>
         <entry>nohlsearch</entry>
         <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
