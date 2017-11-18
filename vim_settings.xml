@@ -229,7 +229,12 @@
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
       </file>
-      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/Blasteroids.java" timestamp="1510972726051" />
+      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/Blasteroids.java" timestamp="1511047783012">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470620533">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -410,12 +415,11 @@
         <mark key="^" line="175" column="66" />
         <mark key="." line="175" column="66" />
       </file>
-      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" timestamp="1510974443297">
-        <mark key="'" line="19" column="53" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="28" column="42" />
+      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" timestamp="1511047727031">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="42" />
       </file>
       <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1503507934814">
         <mark key="'" line="42" column="30" />
@@ -563,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="202" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="221" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="232" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -663,6 +666,7 @@
       <jump line="30" column="4" filename="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
       <jump line="74" column="0" filename="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
       <jump line="89" column="0" filename="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
+      <jump line="34" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/Blasteroids.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -683,31 +687,31 @@
         <text encoding="base64">ICAgICAgICAgICAgR2R4LmFwcC5sb2coVEFHLCAiTG9jYXRpb246IHggPSAiICsgeCAiIHkgPSAiICsgeSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBbmQgdXNlZCBpdCB0byBtYWtlIHN1cmUgdGhhdCB0aGUgZW5lbWllcyBkb24ndCBhbGwgYm9iIHVwIGFuZCBkb3duIGF0IG9uY2UK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplZCBpdAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhhdCB3ZSBhZGRlZCBhIHJhbmRvbSBwaGFzZQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBSZW5kZXJpbmcucmVuZGVyU3ByaXRlKAogICAgICAgICAgICAgICAgYmF0Y2gsCiAgICAgICAgICAgICAgICBBc3NldHMuY2xhc3MucmVnCiAgICAgICAgKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybUFycmF5LmFkZChwKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXNzZXRNYW5hZ2VyIG1hbmFnZXIgPSBuZXcgQXNzZXRNYW5hZ2VyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBbmQgdXNlZCBpdCB0byBtYWtlIHN1cmUgdGhhdCB0aGUgZW5lbWllcyBkb24ndCBhbGwgYm9iIHVwIGFuZCBkb3duIGF0IG9uY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBZGQgYWxsIHRoZSBwbGF0Zm9ybXMgZnJvbSBwbGF0Zm9ybUFycmF5IHRvIHRoZSBsZXZlbAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbml0aWFsaXplZCBpdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBTb3J0IHRoZSBwbGF0Zm9ybSBhcnJheSBieSBkZXNjZW5kaW5nIHBvc2l0aW9uIG9mIHRoZSB0b3Agb2YgdGhlIHBsYXRmb3JtCiAgICAgICAgLy8gV2UncmUgZG9pbmcgdGhpcyBzbyBsb3dlciBwbGF0Zm9ybXMgYXJlbid0IGhpZGRlbiBieSBoaWdoZXIgcGxhdGZvcm1zCiAgICAgICAgLy8gVGhpcyBvbmUgaXMgdG91Z2guIENoZWNrIG91dCB0aGUgc29sdXRpb24gcHJvamVjdCBpZiB5b3UgcnVuIGludG8gdHJvdWJsZQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IE5vdGUgdGhhdCB3ZSBhZGRlZCBhIHJhbmRvbSBwaGFzZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KHAxLCBwMikgLT4gewogICAgICAgICAgICBpZiAocDEudG9wIDwgcDIudG9wKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgfSBlbHNlIGlmIChwMS50b3AgPiBwMi50b3ApIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9KQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybUFycmF5LmFkZChwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -720,7 +724,7 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
