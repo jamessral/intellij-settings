@@ -157,6 +157,12 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/utils/Contants.java" timestamp="1510973241803">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.08-Exercise-RemoveStaleIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490473293589">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="32" />
@@ -212,6 +218,7 @@
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
       </file>
+      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/Blasteroids.java" timestamp="1510972726051" />
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470620533">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -390,6 +397,13 @@
         <mark key="^" line="175" column="66" />
         <mark key="." line="175" column="66" />
       </file>
+      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" timestamp="1510974443297">
+        <mark key="'" line="19" column="53" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="28" column="42" />
+      </file>
       <file name="$USER_HOME$/GameDev/LWJGL/LWJGLTutorial/src/main/java/HelloWorld.java" timestamp="1503507934814">
         <mark key="'" line="42" column="30" />
         <mark key="[" line="11" column="15" />
@@ -495,6 +509,13 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/utils/Rendering.java" timestamp="1510973869976">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.8.01-Exercise-IcicleHeadCollisionDetection/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490561716197">
         <mark key="[" line="54" column="51" />
         <mark key="]" line="54" column="80" />
@@ -512,10 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="191" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="182" column="20" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
-      <jump line="197" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="323" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="338" column="13" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
       <jump line="354" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/profile/UserServiceImpl.java" />
@@ -612,6 +629,10 @@
       <jump line="104" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
       <jump line="34" column="0" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
       <jump line="68" column="0" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
+      <jump line="17" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/utils/Rendering.java" />
+      <jump line="42" column="11" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
+      <jump line="43" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
+      <jump line="19" column="53" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -623,40 +644,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>AssetManager();</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2R4LmFwcC5zZXRMb2dMZXZlbChHZHguYXBwLkxPR19FUlJPUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY2VudGVyWCA9IENvbnRhbnRzLldJRFRIIC8gMiAtIENvbnRhbnRzLlBMQVlFUl9XSURUSCAvIDI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBBc2sgdGhlIExldmVsTG9hZGVyIHRvIGxvYWQgTGV2ZWwxCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb21tZW50IG91dCB0aGUgZGVidWcgbGV2ZWwK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlSGFuZGxlIHNwcml0ZUZpbGUgPSBuZXcgRmlsZUhhbmRsZShDb250YW50cy5QTEFZRVJfU1BSSVRFMSk7CiAgICAgICAgVGV4dHVyZSB0ZXh0dXJlID0gbmV3IFRleHR1cmUoc3ByaXRlRmlsZSk7CiAgICAgICAgVGV4dHVyZVJlZ2lvbiByZWdpb24gPSBuZXcgVGV4dHVyZVJlZ2lvbih0ZXh0dXJlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1hbmFnZXIuCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICAvLyBUT0RPOiBUaGVuIGxvZyB0aGUgZXJyb3IgbWVzc2FnZSBkZWZpbmVkIGluIExFVkVMX0VSUk9SX01FU1NBR0UK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogSWYgdGhlcmUncyBhbiBlcnJvciwgbG9nIHRoZSBtZXNzYWdlIHVzaW5nIGV4LmdldE1lc3NhZ2UoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEFzc2V0TWFuYWdlciA9IG5ldyBBc3NldE1hbmFnZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQmUgc3VyZSB0byBsb2cgdGhlIGVycm9yIGF0IHRoZSBhcHByb3ByaWF0ZSBsb2cgbGV2ZWwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXNzZXRzID0gbmV3IEFzc2V0cygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -763,6 +784,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
