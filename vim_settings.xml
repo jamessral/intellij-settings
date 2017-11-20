@@ -404,11 +404,11 @@
         <mark key="^" line="19" column="55" />
         <mark key="." line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.kt" timestamp="1510936142129">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.kt" timestamp="1510936280066">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
         <mark key="[" line="74" column="0" />
@@ -1063,19 +1063,19 @@
         <text encoding="base64">CWxvbmcgY291bnRCeUFjdGl2aXR5VHlwZUFuZENvbnRlbnRBbmRUb2tlbkFuZFJlYWN0aW9uVHlwZUFuZFJlcGx5VG9Jc051bGxBbmREZWxldGVkRmFsc2VBbmRGYWNpbGl0YXRvckZsYWdGYWxzZShTdHJpbmcgYWN0aXZpdHlUeXBlLCBTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuLCBJbnRlZ2VyIHJlYWN0VHlwZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxvbmcgY291bnRCeUFjdGl2aXR5VHlwZUFuZENvbnRlbnRBbmRUb2tlbkFuZFJlYWN0aW9uVHlwZUFuZFJlcGx5VG9Jc051bGxBbmREZWxldGVkRmFsc2VBbmRGYWNpbGl0YXRvckZsYWdGYWxzZShTdHJpbmcgYWN0aXZpdHlUeXBlLCBTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuLCBJbnRlZ2VyIHJlYWN0VHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBHZHguCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYWN0aXZpdHlSZXBvc2l0b3J5LmNvdW50QnlDb250ZW50SW5BbmRUb2tlbkFuZFF1ZXN0aW9uRmxhZ1RydWVBbmRBbnN3ZXJGbGFnRmFsc2VBbmRSZXBseVRvSXNOdWxsQW5kQ3JlYXRlZE9uR3JlYXRlclRoYW5FcXVhbEFuZENyZWF0ZWRPbkxlc3NUaGFuQW5kRGVsZXRlZEZhbHNlQW5kRmFjaWxpdGF0b3JGbGFnRmFsc2UoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldEJvZHkoKS5nZXRUcmFja2VyKCkuZ2V0UHJpdmF0ZU1vZGUoKSkuaXNFcXVhbFRvKHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGZ1biBoZWxsb0tvdGxpbigpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CWxvbmcgY291bnRCeUFjdGl2aXR5VHlwZUFuZENvbnRlbnRBbmRUb2tlbkFuZFJlYWN0aW9uVHlwZUFuZFJlcGx5VG9Jc051bGxBbmREZWxldGVkRmFsc2VBbmRGYWNpbGl0YXRvckZsYWdGYWxzZShTdHJpbmcgYWN0aXZpdHlUeXBlLCBTdHJpbmcgY29udGVudCwgU3RyaW5nIHRva2VuLCBJbnRlZ2VyIHJlYWN0VHlwZSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1104,16 +1104,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gYWN0aXZpdHlSZXBvc2l0b3J5LmNvdW50QnlDb250ZW50SW5BbmRUb2tlbkFuZFF1ZXN0aW9uRmxhZ1RydWVBbmRBbnN3ZXJGbGFnRmFsc2VBbmRSZXBseVRvSXNOdWxsQW5kQ3JlYXRlZE9uR3JlYXRlclRoYW5FcXVhbEFuZENyZWF0ZWRPbkxlc3NUaGFuQW5kRGVsZXRlZEZhbHNlQW5kRmFjaWxpdGF0b3JGbGFnRmFsc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldEJvZHkoKS5nZXRUcmFja2VyKCkuZ2V0UHJpdmF0ZU1vZGUoKSkuaXNFcXVhbFRvKHRydWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZT0iUHJpdmF0ZSBNb2RlIiwgcmVxdWlyZWQgPSBmYWxzZSkKCQlwdWJsaWMgQm9vbGVhbiBwcml2YXRlTW9kZTsK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVSZXF1ZXN0LnByaXZhdGVNb2RlID0gdHJ1ZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQl0cmFja2VyLnNldFByaXZhdGVNb2RlKHVwZGF0ZVJlcXVlc3QucHJpdmF0ZU1vZGUpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
