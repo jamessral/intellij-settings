@@ -160,6 +160,12 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.8.04-Exercise-GameOverGal/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1511220116024">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="98" column="29" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.05-Exercise-LeftAndRightMovement/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492971951380">
         <mark key="[" line="17" column="55" />
         <mark key="]" line="17" column="56" />
@@ -447,6 +453,12 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="D:/Github/ud406/2.8.04-Exercise-GameOverGal/core/src/com/udacity/gamedev/gigagal/Level.java" timestamp="1511220046759">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="56" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470620533">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -522,6 +534,12 @@
         <mark key="^" line="77" column="33" />
         <mark key="." line="77" column="33" />
       </file>
+      <file name="D:/Github/ud406/2.8.04-Exercise-GameOverGal/core/src/com/udacity/gamedev/gigagal/overlays/GameOverOverlay.java" timestamp="1511220587429">
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="63" column="29" />
+        <mark key="^" line="63" column="29" />
+        <mark key="." line="63" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -578,7 +596,7 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511219844339">
+      <file name="/Dummy.txt" timestamp="1511220593525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -731,7 +749,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MCwg</text>
+        <text>Height</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -740,28 +758,28 @@
         <text encoding="base64">ICAgICAgICBiYXRjaC5kcmF3KHJlZ2lvbiwgcG9zaXRpb24ueCwgcG9zaXRpb24ueSwgMCwgMCwKICAgICAgICAgICAgICAgIHdpZHRoLCBoZWlnaHQsIDFmLCAxZiwgcm90YXRpb24KICAgICAgICApOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFJlc2V0IGxldmVsRW5kT3ZlcmxheVN0YXJ0VGltZSB0byAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5lbXlBcnJheS5hZGQobmV3IEVuZW15KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGZWVsIGZyZWUgdG8gZ2V0IG1vcmUgY3JlYXRpdmUgd2l0aCB0aGlzIHNjcmVlbi4gUGVyaGFwcyB5b3UgY291bGQgY292ZXIgdGhlIHNjcmVlbiBpbiBlbmVteSByb2JvdHM/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IENhbGwgbGV2ZWxDb21wbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IGEgZ2FtZSBvdmVyIG1lc3NhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXBlYXQgdGhlIGxldmVsIHZpY3RvcnkgbG9naWMgdG8gZGlzcGxheSB0aGUgZ2FtZSBvdmVyIHNjcmVlbiBhbmQgY2FsbCBsZXZlbEZhaWxlZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogUmVuZGVyIHRoZSB2aWN0b3J5IG92ZXJsYXkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiBHaWdhR2FsIGhhcyBsZXNzIHRoYW4gMCBsaXZlcywgc2V0IGdhbWVPdmVyIHRvIHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFJlc2V0IGxldmVsRW5kT3ZlcmxheVN0YXJ0VGltZSB0byAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFNldCBsZXZlbEVuZE92ZXJsYXlTdGFydFRpbWUgPSBUaW1lVXRpbHMubmFub1RpbWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IENhbGwgaW5pdCBvbiB0aGUgdmljdG9yeSBvdmVybGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IENhbGwgbGV2ZWxDb21wbGV0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
