@@ -63,8 +63,11 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="D:/GameDev/Blasteroids/build.gradle" timestamp="1511219144317">
-        <mark key="[" line="110" column="21" />
+      <file name="D:/GameDev/Blasteroids/build.gradle" timestamp="1511221343513">
+        <mark key="[" line="106" column="5" />
+        <mark key="]" line="104" column="154" />
+        <mark key="." line="104" column="154" />
+        <mark key="^" line="104" column="154" />
       </file>
       <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1504299783237">
         <mark key="[" line="44" column="0" />
@@ -749,13 +752,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Height</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBiYXRjaC5kcmF3KHJlZ2lvbiwgcG9zaXRpb24ueCwgcG9zaXRpb24ueSwgMCwgMCwKICAgICAgICAgICAgICAgIHdpZHRoLCBoZWlnaHQsIDFmLCAxZiwgcm90YXRpb24KICAgICAgICApOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBvdXRwdXRzLmZpbGUgIiR7cm9vdFByb2plY3QuZ2V0Um9vdERpcigpfS9hbmRyb2lkL2Fzc2V0cy9pbWFnZXMvYmxhc3Rlcm9pZHMucGFjay9wbmciCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW5lbXlBcnJheS5hZGQobmV3IEVuZW15KCkpOwo=</text>
