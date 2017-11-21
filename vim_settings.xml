@@ -63,11 +63,12 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="D:/GameDev/Blasteroids/build.gradle" timestamp="1511221361250">
-        <mark key="[" line="106" column="5" />
-        <mark key="]" line="108" column="51" />
-        <mark key="." line="108" column="51" />
-        <mark key="^" line="108" column="51" />
+      <file name="D:/GameDev/Blasteroids/build.gradle" timestamp="1511224563450">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="50" column="61" />
+        <mark key="]" line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="51" column="3" />
       </file>
       <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1504299783237">
         <mark key="[" line="44" column="0" />
@@ -610,7 +611,7 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511223113109">
+      <file name="/Dummy.txt" timestamp="1511223508805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -652,9 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="12" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
-      <jump line="40" column="17" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="68" column="24" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
@@ -752,6 +750,9 @@
       <jump line="207" column="0" filename="D:/Github/ud406/2.8.03-Exercise-VictoryOverlay/core/src/com/udacity/gamedev/gigagal/Level.java" />
       <jump line="83" column="0" filename="D:/Github/ud406/2.8.03-Exercise-VictoryOverlay/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
       <jump line="104" column="0" filename="D:/Github/ud406/2.8.03-Exercise-VictoryOverlay/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
+      <jump line="68" column="8" filename="D:/GameDev/Blasteroids/build.gradle" />
+      <jump line="73" column="14" filename="D:/GameDev/Blasteroids/build.gradle" />
+      <jump line="13" column="0" filename="D:/GameDev/Blasteroids/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -763,53 +764,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text encoding="base64">XDxvdXRwdXRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRzLmZpbGUgIiR7cm9vdFByb2plY3QuZ2V0Um9vdERpcigpfS9hbmRyb2lkL2Fzc2V0cy9pbWFnZXMvYmxhc3Rlcm9pZHMucGFjay9wbmciCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRzLmZpbGUgIiR7cm9vdFByb2plY3QuZ2V0Um9vdERpcigpfS9jb3JlL2Fzc2V0cy9ibGFzdGVyb2lkcy5wYWNrLnBuZyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5lbXlBcnJheS5hZGQobmV3IEVuZW15KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGZWVsIGZyZWUgdG8gZ2V0IG1vcmUgY3JlYXRpdmUgd2l0aCB0aGlzIHNjcmVlbi4gUGVyaGFwcyB5b3UgY291bGQgY292ZXIgdGhlIHNjcmVlbiBpbiBlbmVteSByb2JvdHM/Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEcmF3IGEgZ2FtZSBvdmVyIG1lc3NhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXBlYXQgdGhlIGxldmVsIHZpY3RvcnkgbG9naWMgdG8gZGlzcGxheSB0aGUgZ2FtZSBvdmVyIHNjcmVlbiBhbmQgY2FsbCBsZXZlbEZhaWxlZCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYWRsb2dpYy5nZHgudG9vbHMudGV4dHVyZXBhY2tlci5UZXh0dXJlUGFja2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJZiBHaWdhR2FsIGhhcyBsZXNzIHRoYW4gMCBsaXZlcywgc2V0IGdhbWVPdmVyIHRvIHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFJlc2V0IGxldmVsRW5kT3ZlcmxheVN0YXJ0VGltZSB0byAwCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYWRsb2dpYy5nZHgudG9vbHMudGV4dHVyZXBhY2tlci5UZXh0dXJlUGFja2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IENhbGwgbGV2ZWxDb21wbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5lbXlBcnJheS5hZGQobmV3IEVuZW15KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGZWVsIGZyZWUgdG8gZ2V0IG1vcmUgY3JlYXRpdmUgd2l0aCB0aGlzIHNjcmVlbi4gUGVyaGFwcyB5b3UgY291bGQgY292ZXIgdGhlIHNjcmVlbiBpbiBlbmVteSByb2JvdHM/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search encoding="base64">XDxvdXRwdXRzXD4=</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern encoding="base64">XDxvdXRwdXRzXD4=</last-pattern>
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -833,6 +834,7 @@
         <entry>sequenc</entry>
         <entry>avatr</entry>
         <entry>TODO</entry>
+        <entry encoding="base64">XDxvdXRwdXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
