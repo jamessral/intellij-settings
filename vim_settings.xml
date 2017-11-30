@@ -70,6 +70,13 @@
         <mark key="^" line="105" column="72" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Utils.java" timestamp="1512065701748">
+        <mark key="'" line="15" column="84" />
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="39" column="71" />
+        <mark key="." line="39" column="71" />
+        <mark key="^" line="39" column="71" />
+      </file>
       <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/build.gradle" timestamp="1504298763114">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -99,6 +106,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="58" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" timestamp="1512065191882">
+        <mark key="'" line="117" column="4" />
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="2" column="77" />
+        <mark key="." line="2" column="77" />
+        <mark key="^" line="2" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.08-Exercise-JumpingSprites/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974415027">
         <mark key="[" line="15" column="0" />
@@ -228,6 +242,13 @@
         <mark key="^" line="82" column="99" />
         <mark key="." line="82" column="99" />
       </file>
+      <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Assets.java" timestamp="1512065339116">
+        <mark key="'" line="8" column="61" />
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="44" />
+        <mark key="^" line="30" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/BaseControllerTests.java" timestamp="1503084358401">
         <mark key="'" line="171" column="29" />
         <mark key="[" line="115" column="0" />
@@ -246,6 +267,12 @@
         <mark key="]" line="128" column="0" />
         <mark key="^" line="123" column="44" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Constants.java" timestamp="1512065226049">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.3.03-Exercise-ComingInForALanding/core/src/com/udacity/gamedev/gigagal/entities/GigaGal.java" timestamp="1492981476957">
         <mark key="[" line="111" column="64" />
@@ -295,6 +322,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="62" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/GameplayScreen.java" timestamp="1512065096775">
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="44" column="22" />
+        <mark key="." line="44" column="22" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1489791043923">
         <mark key="[" line="15" column="55" />
@@ -519,7 +552,13 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511131623370">
+      <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/MyGdxGame.java" timestamp="1512063923776">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512062889058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -614,14 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
-      <jump line="68" column="24" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="118" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
-      <jump line="77" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="80" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="69" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="80" column="34" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -714,6 +745,14 @@
       <jump line="121" column="20" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="140" column="16" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="152" column="16" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
+      <jump line="13" column="18" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
+      <jump line="110" column="0" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
+      <jump line="24" column="0" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
+      <jump line="115" column="4" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
+      <jump line="20" column="4" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Assets.java" />
+      <jump line="8" column="61" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Assets.java" />
+      <jump line="13" column="84" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Utils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -725,40 +764,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>nanoTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlQXR0YWNobWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsQ29sb3I0ZigwZiwgMGYsIDFmLCAxZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5CQUNLR1JPVU5EX0NPTE9SLmIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsQ29sb3I0ZigxLCAwLCAwLCAwKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsQ29sb3I0ZigxLCAxLCAxLCAwKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsQ29sb3I0ZigwLCAwLCAxLCAwKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsQ29sb3I0ZigwLCAxLCAwLCAwKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBQbGF5ZXIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2xmd1Nob3dXaW5kb3cod2luZG93KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -771,12 +810,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
-        <entry>Background</entry>
         <entry>type</entry>
         <entry>key</entry>
         <entry>create</entry>
@@ -814,6 +851,7 @@
         <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
