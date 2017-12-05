@@ -150,6 +150,12 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
+      <file name="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" timestamp="1512497472476">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="24" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="60" />
@@ -552,7 +558,7 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512496363960">
+      <file name="/Dummy.txt" timestamp="1512497506853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -747,7 +753,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlQXR0YWNobWVudFw+</text>
@@ -756,31 +762,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5CQUNLR1JPVU5EX0NPTE9SLmIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lk0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lZGlhUGxheWVyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGRwCg==</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYUNvbnRyb2xsZXIgbWVkaWFDb250cm9sbGVyID0gbmV3IE1lZGlhQ29udHJvbGxlcih0aGlzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYUNvbnRyb2xsZXIuc2V0QW5jaG9yVmlldyhSLmlkLmNvbGxhcHNlQWN0aW9uVmlldyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllci5zZXRBCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lk0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF5QWdhaW5UZXh0LnNldFRleHQoIkRyYXciKTsK</text>
+        <text encoding="base64">ZGRwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgRFJBVzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF5QWdhaW5UZXh0LnNldFRleHQoIlJlZCB3aW5zIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -820,7 +826,6 @@
       </history-search>
       <history-cmd>
         <entry>2w</entry>
-        <entry>wa</entry>
         <entry>noh</entry>
         <entry>nohighlight</entry>
         <entry>highlight</entry>
@@ -835,6 +840,7 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
