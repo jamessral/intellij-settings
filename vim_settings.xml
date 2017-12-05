@@ -139,12 +139,6 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/Blasteroids.java" timestamp="1511047783012">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1503508586745">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -191,12 +185,6 @@
         <mark key="]" line="37" column="84" />
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
-      </file>
-      <file name="D:/Github/ud406/2.7.01-Solution-JsonParsing/build.gradle" timestamp="1510974751016">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/SequenceController.java" timestamp="1503071341411">
         <mark key="'" line="325" column="41" />
@@ -397,12 +385,6 @@
         <mark key="." line="41" column="41" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" timestamp="1504299812066">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1490470509024">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="44" />
@@ -496,6 +478,12 @@
         <mark key="." line="606" column="3" />
         <mark key="^" line="606" column="3" />
       </file>
+      <file name="$USER_HOME$/Playground/Android/VideoDemo/app/src/main/java/com/tutorial/jamessral/videodemo/MainActivity.java" timestamp="1512496539437">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489781147825">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -564,10 +552,11 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512411302255">
+      <file name="/Dummy.txt" timestamp="1512496363960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" timestamp="1510975891741">
         <mark key="[" line="53" column="0" />
@@ -622,12 +611,6 @@
         <mark key="." line="23" column="109" />
         <mark key="^" line="23" column="110" />
       </file>
-      <file name="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1510974735949">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.06-Exercise-AccelerometerControls/core/src/com/udacity/gamedev/icicles/Player.java" timestamp="1490470620533">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -647,12 +630,6 @@
         <mark key="]" line="105" column="66" />
         <mark key="." line="105" column="66" />
         <mark key="^" line="105" column="66" />
-      </file>
-      <file name="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1510974928339">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1511198269902">
         <mark key="[" line="0" column="0" />
@@ -770,7 +747,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gameOver</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlQXR0YWNobWVudFw+</text>
@@ -779,31 +756,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5CQUNLR1JPVU5EX0NPTE9SLmIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lk0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZGRwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF5QWdhaW5UZXh0LnNldFRleHQoIkRyYXciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgRFJBVzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF5QWdhaW5UZXh0LnNldFRleHQoIkRyYXciKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF5QWdhaW5UZXh0LnNldFRleHQoIlJlZCB3aW5zIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgRFJBVzoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgUExBWUVSX1RXTzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGF5QWdhaW5UZXh0LnNldFRleHQoIlJlZCB3aW5zIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
