@@ -292,6 +292,12 @@
         <mark key="." line="50" column="68" />
         <mark key="^" line="50" column="68" />
       </file>
+      <file name="D:/GameDev/FirstPlatformer/build.gradle" timestamp="1512856147693">
+        <mark key="'" line="15" column="49" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" timestamp="1503429735222">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="105" column="55" />
@@ -611,7 +617,7 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511223508805">
+      <file name="/Dummy.txt" timestamp="1512856152917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -653,9 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="24" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="118" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -753,6 +756,9 @@
       <jump line="68" column="8" filename="D:/GameDev/Blasteroids/build.gradle" />
       <jump line="73" column="14" filename="D:/GameDev/Blasteroids/build.gradle" />
       <jump line="13" column="0" filename="D:/GameDev/Blasteroids/build.gradle" />
+      <jump line="14" column="0" filename="D:/GameDev/FirstPlatformer/build.gradle" />
+      <jump line="118" column="0" filename="D:/GameDev/FirstPlatformer/build.gradle" />
+      <jump line="15" column="49" filename="D:/GameDev/FirstPlatformer/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -764,40 +770,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>games</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRzLmZpbGUgIiR7cm9vdFByb2plY3QuZ2V0Um9vdERpcigpfS9jb3JlL2Fzc2V0cy9ibGFzdGVyb2lkcy5wYWNrLnBuZyIK</text>
+        <text encoding="base64">ICAgICAgICBnZHhWZXJzaW9uID0gJzEuOS43Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWRsb2dpYy5nZHgudG9vbHMudGV4dHVyZXBhY2tlci5UZXh0dXJlUGFja2VyCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5iYQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWRsb2dpYy5nZHgudG9vbHMudGV4dHVyZXBhY2tlci5UZXh0dXJlUGFja2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5lbXlBcnJheS5hZGQobmV3IEVuZW15KCkpOwo=</text>
+        <text encoding="base64">ICAgIGV4dCB7IGdkeFZlcnNpb24gPSAnMS45LjcnIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGZWVsIGZyZWUgdG8gZ2V0IG1vcmUgY3JlYXRpdmUgd2l0aCB0aGlzIHNjcmVlbi4gUGVyaGFwcyB5b3UgY291bGQgY292ZXIgdGhlIHNjcmVlbiBpbiBlbmVteSByb2JvdHM/Cg==</text>
+        <text encoding="base64">Z2R4VmVyc2lvbiA9ICcxLjkuNycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -810,11 +816,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
         <entry>Background</entry>
         <entry>type</entry>
         <entry>key</entry>
