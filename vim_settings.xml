@@ -610,12 +610,12 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="D:/GameDev/LuaPlatformer/main.lua" timestamp="1512964233332">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="D:/GameDev/LuaPlatformer/main.lua" timestamp="1512964648504">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" timestamp="1502914293098">
         <mark key="'" line="66" column="0" />
@@ -623,6 +623,12 @@
         <mark key="]" line="33" column="46" />
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
+      </file>
+      <file name="D:/GameDev/LuaPlatformer/conf.lua" timestamp="1512964492639">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1512856152917">
         <mark key="[" line="0" column="0" />
@@ -669,10 +675,11 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1512964680679">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
-      <jump line="118" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="77" column="26" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="80" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/ContentItemServiceImpl.java" />
       <jump line="69" column="4" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -770,6 +777,8 @@
       <jump line="14" column="0" filename="D:/GameDev/FirstPlatformer/build.gradle" />
       <jump line="118" column="0" filename="D:/GameDev/FirstPlatformer/build.gradle" />
       <jump line="15" column="49" filename="D:/GameDev/FirstPlatformer/build.gradle" />
+      <jump line="10" column="0" filename="D:/GameDev/LuaPlatformer/main.lua" />
+      <jump line="0" column="0" filename="D:/GameDev/LuaPlatformer/conf.lua" />
       <jump line="6" column="0" filename="D:/GameDev/LuaPlatformer/main.lua" />
     </jumps>
     <registers>
@@ -782,7 +791,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>games</text>
+        <text>dt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRzXD4=</text>
@@ -790,7 +799,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnZHhWZXJzaW9uID0gJzEuOS43Jwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBjCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">LS0KLS0gQ3JlYXRlZCBieSBJbnRlbGxpSiBJREVBLgotLSBVc2VyOiBKYW1lcwotLSBEYXRlOiAxMi8xMC8yMDE3Ci0tIFRpbWU6IDEwOjUzIFBNCi0tIFRvIGNoYW5nZSB0aGlzIHRlbXBsYXRlIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KLS0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcmludCgiSGVsbG8sIHdvcmxkISIpCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>--
 -- Created by IntelliJ IDEA.
 -- User: James
@@ -799,20 +817,11 @@
 -- To change this template use File | Settings | File Templates.
 --</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -821,7 +830,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4dCB7IGdkeFZlcnNpb24gPSAnMS45LjcnIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
