@@ -610,12 +610,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="D:/GameDev/LuaPlatformer/main.lua" timestamp="1512964648504">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-        <mark key="^" line="6" column="26" />
+      <file name="D:/GameDev/LuaPlatformer/main.lua" timestamp="1512964706069">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" timestamp="1502914293098">
         <mark key="'" line="66" column="0" />
@@ -800,15 +799,24 @@
         <text encoding="base64">ICAgICAgICBnZHhWZXJzaW9uID0gJzEuOS43Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjCg==</text>
+        <text encoding="base64">ICBkZWx0YSA9IGR0Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LS0KLS0gQ3JlYXRlZCBieSBJbnRlbGxpSiBJREVBLgotLSBVc2VyOiBKYW1lcwotLSBEYXRlOiAxMi8xMC8yMDE3Ci0tIFRpbWU6IDEwOjUzIFBNCi0tIFRvIGNoYW5nZSB0aGlzIHRlbXBsYXRlIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KLS0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">bG9jYWwgZGVsdGEgPSAwCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBsb3ZlLmdyYXBoaWNzLnByaW50KGRlbHRhLCAyMDAsIDIwMCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LS0KLS0gQ3JlYXRlZCBieSBJbnRlbGxpSiBJREVBLgotLSBVc2VyOiBKYW1lcwotLSBEYXRlOiAxMi8xMC8yMDE3Ci0tIFRpbWU6IDEwOjUzIFBNCi0tIFRvIGNoYW5nZSB0aGlzIHRlbXBsYXRlIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KLS0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBwcmludCgiSGVsbG8sIHdvcmxkISIpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>--
 -- Created by IntelliJ IDEA.
 -- User: James
@@ -817,20 +825,11 @@
 -- To change this template use File | Settings | File Templates.
 --</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
