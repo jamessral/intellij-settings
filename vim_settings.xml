@@ -496,8 +496,11 @@
         <mark key="^" line="68" column="31" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1516219149237">
+      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1516219329810">
         <mark key="'" line="320" column="66" />
+        <mark key="[" line="477" column="48" />
+        <mark key="]" line="477" column="49" />
+        <mark key="." line="477" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.07-Exercise-SetUpJumping/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974292701">
         <mark key="[" line="24" column="61" />
@@ -759,7 +762,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -805,11 +808,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>key</entry>
         <entry>create</entry>
         <entry>CoruseCreateRequ</entry>
