@@ -199,6 +199,9 @@
         <mark key="^" line="175" column="66" />
         <mark key="." line="175" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/ContentController.java" timestamp="1517591964095">
+        <mark key="'" line="25" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -249,6 +252,9 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
         <mark key="^" line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerController.java" timestamp="1517591953044">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/screens/GameplayScreen.java" timestamp="1491344902211">
         <mark key="[" line="8" column="51" />
@@ -651,8 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="25" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" />
       <jump line="150" column="40" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="151" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -751,6 +755,8 @@
       <jump line="261" column="48" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="319" column="44" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="320" column="66" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerController.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/ContentController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -765,7 +771,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5CQUNLR1JPVU5EX0NPTE9SLmIsCg==</text>
@@ -802,13 +808,13 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>private</last-pattern>
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -832,6 +838,8 @@
         <entry>post</entry>
         <entry encoding="base64">XDxzYXZlQXR0YWNobWVudFw+</entry>
         <entry>list</entry>
+        <entry>privateMode</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
