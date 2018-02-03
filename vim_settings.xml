@@ -150,11 +150,11 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" timestamp="1512497472476">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="24" column="10" />
+      <file name="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" timestamp="1517698270736">
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="25" column="54" />
+        <mark key="^" line="25" column="54" />
+        <mark key="." line="25" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1491345096241">
         <mark key="[" line="10" column="41" />
@@ -573,7 +573,7 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512497506853">
+      <file name="/Dummy.txt" timestamp="1517697597998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -768,7 +768,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>parseInt</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -777,31 +777,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5CQUNLR1JPVU5EX0NPTE9SLmIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lZGlhUGxheWVyLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNZWRpYUNvbnRyb2xsZXIgbWVkaWFDb250cm9sbGVyID0gbmV3IE1lZGlhQ29udHJvbGxlcih0aGlzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZWRpYUNvbnRyb2xsZXIuc2V0QW5jaG9yVmlldyhSLmlkLmNvbGxhcHNlQWN0aW9uVmlldyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3RhcnRUcmFja2luZ1RvdWNoKFNlZWtCYXIgc2Vla0JhcikgewoKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3RvcFRyYWNraW5nVG91Y2goU2Vla0JhciBzZWVrQmFyKSB7CgogICAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllci5zZXRBCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lZGlhUGxheWVyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lk0K</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYUNvbnRyb2xsZXIgbWVkaWFDb250cm9sbGVyID0gbmV3IE1lZGlhQ29udHJvbGxlcih0aGlzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGRwCg==</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYUNvbnRyb2xsZXIuc2V0QW5jaG9yVmlldyhSLmlkLmNvbGxhcHNlQWN0aW9uVmlldyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllci5zZXRBCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lk0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ZGRwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -814,12 +814,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
-        <entry>create</entry>
         <entry>CoruseCreateRequ</entry>
         <entry>CourseCreateRequ</entry>
         <entry>create(</entry>
@@ -914,6 +912,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
