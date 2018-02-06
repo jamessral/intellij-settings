@@ -16,11 +16,6 @@
         <mark key="^" line="48" column="55" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1510974794022">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.06-Exercise-LoadA9Patch/core/src/com/udacity/gamedev/ninepatch/NinePatchDemo.java" timestamp="1491342247699">
         <mark key="[" line="50" column="67" />
         <mark key="]" line="50" column="68" />
@@ -76,11 +71,6 @@
         <mark key="]" line="39" column="71" />
         <mark key="." line="39" column="71" />
         <mark key="^" line="39" column="71" />
-      </file>
-      <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/build.gradle" timestamp="1504298763114">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.03-Exercise-TheFirstIcicle/core/src/com/udacity/gamedev/icicles/IciclesGame.java" timestamp="1489781166825">
         <mark key="[" line="7" column="0" />
@@ -138,11 +128,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/GameDev/ThinMatrixTutorial/src/renderEngine/DisplayManager.java" timestamp="1503508586745">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/SequenceData.java" timestamp="1503084466627">
         <mark key="[" line="55" column="9" />
@@ -285,11 +270,6 @@
         <mark key="]" line="131" column="29" />
         <mark key="^" line="131" column="29" />
         <mark key="." line="131" column="29" />
-      </file>
-      <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1504298810051">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.1.08-Exercise-CreatingATextureAtlas/core/src/com/udacity/gamedev/textureatlas/TextureAtlasExercise.java" timestamp="1491344394795">
         <mark key="[" line="74" column="0" />
@@ -534,16 +514,17 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mealplanner-java/src/main/java/com/mealplanner/jsral/mealplanner/web/IngredientsController.java" timestamp="1517936308295">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Constants.java" timestamp="1490471923890">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="25" column="43" />
         <mark key="." line="25" column="43" />
         <mark key="^" line="25" column="44" />
-      </file>
-      <file name="D:/Github/ud406/2.8.01-Exercise-OverlayInfrastructure/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1511049691793">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Assets.java" timestamp="1492974969262">
         <mark key="[" line="61" column="0" />
@@ -578,11 +559,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/entities/Enemy.java" timestamp="1510975891741">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.04-Exercise-DrawThePlayer/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790251401">
         <mark key="[" line="25" column="38" />
@@ -772,7 +748,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">SW5ncmVkaWVudCA=</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
