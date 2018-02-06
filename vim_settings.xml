@@ -638,6 +638,10 @@
         <mark key="^" line="36" column="40" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/onq-platform/common/src/main/java/io/onq/domain/security/UserRepository.java" timestamp="1517931271958">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" timestamp="1503084835425">
         <mark key="'" line="54" column="8" />
         <mark key="[" line="143" column="91" />
@@ -774,7 +778,7 @@
         <text>private</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5CQUNLR1JPVU5EX0NPTE9SLmIsCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEucmVwb3NpdG9yeS5KcGFSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLm1lZGlhUGxheWVyLnN0YXJ0KCk7Cg==</text>
