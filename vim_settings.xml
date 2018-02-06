@@ -199,7 +199,7 @@
         <mark key="^" line="175" column="66" />
         <mark key="." line="175" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/ContentController.java" timestamp="1517591964095">
+      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/ContentController.java" timestamp="1517928173910">
         <mark key="'" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.09-Exercise-WalkState/core/src/com/udacity/gamedev/gigagal/util/Constants.java" timestamp="1492974917409">
@@ -657,7 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseService.java" />
       <jump line="150" column="40" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="151" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="110" column="68" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -757,6 +756,7 @@
       <jump line="320" column="66" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerController.java" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/ContentController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/dto/content/ResourceResponse.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -814,12 +814,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
-        <entry>create</entry>
         <entry>CoruseCreateRequ</entry>
         <entry>CourseCreateRequ</entry>
         <entry>create(</entry>
@@ -914,6 +912,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
