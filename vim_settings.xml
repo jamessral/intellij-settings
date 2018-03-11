@@ -150,8 +150,8 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" timestamp="1518197267939">
-        <mark key="'" line="58" column="21" />
+      <file name="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" timestamp="1520732713231">
+        <mark key="'" line="72" column="0" />
         <mark key="[" line="73" column="62" />
         <mark key="]" line="74" column="35" />
         <mark key="^" line="74" column="35" />
@@ -658,7 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="110" column="68" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="249" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
       <jump line="289" column="52" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
@@ -758,6 +757,7 @@
       <jump line="25" column="13" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/ContentController.java" />
       <jump line="43" column="62" filename="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" />
       <jump line="58" column="21" filename="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
