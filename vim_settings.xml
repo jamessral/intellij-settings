@@ -499,8 +499,8 @@
         <mark key="^" line="68" column="31" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1519671601290">
-        <mark key="'" line="201" column="41" />
+      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" timestamp="1521312637086">
+        <mark key="'" line="400" column="33" />
         <mark key="[" line="290" column="55" />
         <mark key="]" line="290" column="4" />
         <mark key="." line="290" column="4" />
@@ -652,7 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="775" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
       <jump line="496" column="43" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/service/content/CourseServiceImpl.java" />
       <jump line="139" column="19" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/SequenceControllerTests.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/content/CourseController.java" />
@@ -752,6 +751,7 @@
       <jump line="190" column="50" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="291" column="25" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
       <jump line="201" column="41" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
+      <jump line="400" column="33" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/activity/ActivityController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -809,13 +809,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create(</entry>
-        <entry encoding="base64">IA==</entry>
-        <entry>Sequence</entry>
         <entry>background</entry>
         <entry>Path</entry>
         <entry>Size</entry>
