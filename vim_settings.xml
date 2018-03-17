@@ -226,6 +226,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/code/JavaEngine/src/main/java/MainGameLoop.java" timestamp="1521315805914">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
       <file name="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" timestamp="1511047727031">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -376,6 +382,13 @@
         <mark key="]" line="99" column="123" />
         <mark key="^" line="99" column="123" />
         <mark key="." line="99" column="123" />
+      </file>
+      <file name="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" timestamp="1521317750772">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.7.05-Exercise-ArrowKeyControls/core/src/com/udacity/gamedev/icicles/IciclesScreen.java" timestamp="1489790724596">
         <mark key="[" line="48" column="29" />
@@ -586,11 +599,12 @@
       <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/facilitator/FacilitatorActivityController.java" timestamp="1516217796864">
         <mark key="'" line="126" column="5" />
       </file>
-      <file name="$USER_HOME$/code/JavaEngine/pom.xml" timestamp="1521312920966">
-        <mark key="'" line="177" column="9" />
+      <file name="$USER_HOME$/code/JavaEngine/pom.xml" timestamp="1521315465943">
+        <mark key="'" line="178" column="9" />
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/common/BaseAuditEntity.java" timestamp="1503084285934">
         <mark key="[" line="22" column="0" />
@@ -604,7 +618,7 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521315067380">
+      <file name="/Dummy.txt" timestamp="1521315608468">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -621,6 +635,13 @@
         <mark key="]" line="50" column="68" />
         <mark key="." line="50" column="68" />
         <mark key="^" line="50" column="68" />
+      </file>
+      <file name="$USER_HOME$/code/JavaEngine/src/main/java/render/Mesh.java" timestamp="1521317361034">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="21" column="64" />
+        <mark key="]" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+        <mark key="^" line="22" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/UdacityLibGDX/ud405/1.6.05-Exercise-ResetKey/core/src/com/udacity/gamedev/inputtestbed/BouncingBall.java" timestamp="1489709331543">
         <mark key="[" line="129" column="19" />
@@ -682,38 +703,11 @@
         <mark key="." line="105" column="66" />
         <mark key="^" line="105" column="66" />
       </file>
-      <file name="/fragment.java" timestamp="1521314588432">
+      <file name="/fragment.java" timestamp="1521315909455">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="15" filename="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/org/WebhookControllerTests.java" />
-      <jump line="62" column="8" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/web/controller/api/secure/org/WebhookController.java" />
-      <jump line="34" column="0" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
-      <jump line="68" column="0" filename="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/GameplayScreen.java" />
-      <jump line="17" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/utils/Rendering.java" />
-      <jump line="42" column="11" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
-      <jump line="43" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
-      <jump line="19" column="53" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/entities/Player.java" />
-      <jump line="69" column="17" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="0" column="0" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="116" column="0" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/build.gradle" />
-      <jump line="129" column="0" filename="D:/Github/ud406/2.7.01-Solution-JsonParsing/build.gradle" />
-      <jump line="69" column="57" filename="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="30" column="4" filename="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="74" column="0" filename="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="89" column="0" filename="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="34" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/Blasteroids.java" />
-      <jump line="86" column="76" filename="D:/Github/ud406/2.7.03-Exercise-OpenTheExitPortal/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="105" column="0" filename="D:/Github/ud406/2.7.03-Exercise-OpenTheExitPortal/core/src/com/udacity/gamedev/gigagal/util/Constants.java" />
-      <jump line="27" column="0" filename="D:/Github/ud406/2.7.03-Exercise-OpenTheExitPortal/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
-      <jump line="175" column="0" filename="D:/Github/ud406/2.7.03-Exercise-OpenTheExitPortal/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
-      <jump line="178" column="0" filename="D:/Github/ud406/2.7.03-Exercise-OpenTheExitPortal/core/src/com/udacity/gamedev/gigagal/util/Assets.java" />
-      <jump line="27" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/utils/Rendering.java" />
-      <jump line="7" column="0" filename="D:/GameDev/Blasteroids/core/src/com/jamessral/blasteroids/utils/Rendering.java" />
-      <jump line="31" column="18" filename="$USER_HOME$/Documents/GameDev/LWJGL3Tutorial/src/Main.java" />
-      <jump line="29" column="26" filename="$USER_HOME$/Documents/GameDev/LWJGL3Tutorial/src/Main.java" />
       <jump line="606" column="3" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="121" column="20" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="140" column="16" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
@@ -776,7 +770,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/JavaEngine/pom.xml" />
       <jump line="179" column="14" filename="$USER_HOME$/code/JavaEngine/pom.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/code/JavaEngine/pom.xml" />
-      <jump line="177" column="9" filename="$USER_HOME$/code/JavaEngine/pom.xml" />
       <jump line="117" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/renderEngine/DisplayManager.java" />
       <jump line="16" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/renderEngine/DisplayManager.java" />
       <jump line="114" column="27" filename="$USER_HOME$/code/JavaEngine/src/main/java/renderEngine/DisplayManager.java" />
@@ -787,6 +780,34 @@
       <jump line="53" column="0" filename="$USER_HOME$/code/JavaEngine/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/code/JavaEngine/build.gradle" />
       <jump line="52" column="0" filename="$USER_HOME$/code/JavaEngine/build.gradle" />
+      <jump line="177" column="0" filename="$USER_HOME$/code/JavaEngine/pom.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/JavaEngine/pom.xml" />
+      <jump line="178" column="9" filename="$USER_HOME$/code/JavaEngine/pom.xml" />
+      <jump line="97" column="4" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="56" column="32" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="19" column="39" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="100" column="29" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="45" column="7" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="89" column="4" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="42" column="19" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="3" column="3" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/Mesh.java" />
+      <jump line="19" column="18" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/Mesh.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="87" column="30" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="107" column="12" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
+      <jump line="25" column="4" filename="$USER_HOME$/code/JavaEngine/src/main/java/render/DisplayManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -798,101 +819,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>project.ext.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>HelloWorld</text>
+        <text>Hint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFdJRFRIID0gODAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBnbEVuYWJsZVZlcnRleEF0dHJpYkFycmF5KDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwub3MuT3BlcmF0aW5nU3lzdGVtCg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEZQU19DQVAgPSA2MDsK</text>
       </register>
-      <register name="2" type="4">
-        <text>import org.gradle.internal.os.OperatingSystem
-
-switch ( OperatingSystem.current() ) {
-	case OperatingSystem.WINDOWS:
-		lwjglNatives = &quot;natives-windows&quot;
-		break
-	case OperatingSystem.LINUX:
-		lwjglNatives = &quot;natives-linux&quot;
-	break
-	case OperatingSystem.MAC_OS:
-		lwjglNatives = &quot;natives-macos&quot;
-		break
-}
-
-group 'com.javaengine.jamessral'
-version '1.0-SNAPSHOT'
-
-apply plugin: 'java'
-
-sourceCompatibility = 1.8
-
-lwjglVersion = &quot;3.1.6&quot;
-jomlVersion = &quot;1.9.8&quot;
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
-    compile &quot;org.lwjgl:lwjgl:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-assimp:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-bgfx:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-glfw:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-nanovg:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-nuklear:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-openal:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-opengl:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-par:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-stb:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl-vulkan:$lwjglVersion&quot;
-	compile &quot;org.lwjgl:lwjgl:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-assimp:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-bgfx:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-glfw:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-nanovg:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-nuklear:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-openal:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-opengl:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-par:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.lwjgl:lwjgl-stb:$lwjglVersion:$lwjglNatives&quot;
-	compile &quot;org.joml:joml:${jomlVersion}&quot;
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">TmF0aXZlUGxhCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgkJTWVzaCB0ZXN0TWVzaCA9IG5ldyBNZXNoKCk7CgkJdGVzdE1lc2guY3JlYXRlKG5ldyBmbG9hdFtdIHsKCQkJCS0xZiwgLTFmLCAwZiwKICAgICAgICAgICAgICAgICAwZiwgICAxZiwgMGYsCiAgICAgICAgICAgICAgICAgMWYsICAtMWYsIDEKCQl9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">CQl0ZXN0TWVzaC5kZXN0cm95KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJvamVjdC5leHQubHdqZ2xWZXJzaW9uID0gIjMuMS42Igpwcm9qZWN0LmV4dC5qb21sVmVyc2lvbiA9ICIxLjkuOCIK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgkJTWVzaCB0ZXN0TWVzaCA9IG5ldyBNZXNoKCk7CgkJdGVzdE1lc2guY3JlYXRlKG5ldyBmbG9hdFtdIHsKCQkJCS0xZiwgLTFmLCAwZiwKICAgICAgICAgICAgICAgICAwZiwgICAxZiwgMGYsCiAgICAgICAgICAgICAgICAgMWYsICAtMWYsIDEKCQl9KTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwub3MuT3BlcmF0aW5nU3lzdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBuZXcgRGlzcGxheU1hbmFnZXIoKS5ydW4oKTsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlnbGZ3RGVmYXVsdFdpbmRvd0hpbnRzKCk7IC8vIG9wdGlvbmFsLCB0aGUgY3VycmVudCB3aW5kb3cgaGludHMgYXJlIGFscmVhZHkgdGhlIGRlZmF1bHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HelloWorld</last-search>
+      <last-search>Hint</last-search>
       <last-offset />
-      <last-pattern>HelloWorld</last-pattern>
+      <last-pattern>Hint</last-pattern>
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
@@ -921,6 +890,8 @@ dependencies {
         <entry>postRequest</entry>
         <entry>messages</entry>
         <entry>HelloWorld</entry>
+        <entry>windowHint</entry>
+        <entry>Hint</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -934,12 +905,13 @@ dependencies {
         <entry encoding="base64">JzwsJz5zL1NpemUvVHlwZS9n</entry>
         <entry>nohlsearch</entry>
         <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
         <entry>v</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>.,.+4w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -1002,6 +974,9 @@ dependencies {
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
