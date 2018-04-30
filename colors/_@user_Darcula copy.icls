@@ -1,0 +1,10 @@
+<scheme name="_@user_Darcula copy" version="142" parent_scheme="Darcula">
+  <attributes>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
