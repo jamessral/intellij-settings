@@ -281,6 +281,9 @@
       <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/web/controller/api/secure/content/tracker/TrackerController.java" timestamp="1517591953044">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" timestamp="1525110838610">
+        <mark key="'" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud406/2.2.02-Exercise-TheProjectSkeleton/core/src/com/udacity/gamedev/gigagal/screens/GameplayScreen.java" timestamp="1491344902211">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="9" column="3" />
@@ -557,6 +560,9 @@
         <mark key="^" line="20" column="53" />
         <mark key="." line="24" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/onq-platform/common/src/main/java/io/onq/domain/activity/Reaction.java" timestamp="1525110918959">
+        <mark key="'" line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/main/java/com/understoryonline/domain/content/ContentItem.java" timestamp="1503084153331">
         <mark key="'" line="77" column="19" />
         <mark key="[" line="77" column="19" />
@@ -691,10 +697,6 @@
         <mark key="^" line="36" column="40" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/onq-platform/common/src/main/java/io/onq/domain/security/UserRepository.java" timestamp="1517931271958">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="61" />
-      </file>
       <file name="$USER_HOME$/workspace/understory-platform/src/test/java/com/understoryonline/web/controller/api/secure/content/CourseControllerTests.java" timestamp="1503084835425">
         <mark key="'" line="54" column="8" />
         <mark key="[" line="143" column="91" />
@@ -714,8 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="16" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
-      <jump line="152" column="16" filename="$USER_HOME$/workspace/understory-platform/platform/src/main/java/io/onq/service/activity/ActivityServiceImpl.java" />
       <jump line="13" column="18" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
       <jump line="110" column="0" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
       <jump line="24" column="0" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/build.gradle" />
@@ -814,6 +814,8 @@
       <jump line="38" column="83" filename="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" />
       <jump line="77" column="4" filename="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" />
       <jump line="43" column="63" filename="$USER_HOME$/Playground/Android/AudioDemo/app/src/main/java/com/tutorial/jamessral/audiodemo/MainActivity.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/service/activity/ActivityService.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/workspace/onq-platform/common/src/main/java/io/onq/domain/activity/Reaction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
