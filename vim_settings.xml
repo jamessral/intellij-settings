@@ -677,8 +677,8 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533094068448">
-        <mark key="[" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1533095037834">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="0" />
@@ -879,11 +879,10 @@
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>copy</entry>
         <entry>HEAD</entry>
         <entry>https:</entry>
         <entry>delete</entry>
