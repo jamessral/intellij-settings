@@ -714,13 +714,14 @@
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="52" />
       </file>
+      <file name="D:/GameDev/AfterAll/html/build.gradle" timestamp="1533094405608">
+        <mark key="'" line="19" column="20" />
+      </file>
       <file name="/fragment.java" timestamp="1521315909455">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Assets.java" />
-      <jump line="8" column="61" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Assets.java" />
       <jump line="13" column="84" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Utils.java" />
       <jump line="14" column="96" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
       <jump line="50" column="0" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
@@ -819,6 +820,8 @@
       <jump line="13" column="16" filename="D:/GameDev/AfterAll/core/src/com/jamessral/afterall/AfterAllGame.java" />
       <jump line="17" column="0" filename="D:/GameDev/AfterAll/core/src/com/jamessral/afterall/AfterAllGame.java" />
       <jump line="32" column="0" filename="D:/GameDev/AfterAll/core/src/com/jamessral/afterall/AfterAllGame.java" />
+      <jump line="1" column="15" filename="D:/GameDev/AfterAll/html/build.gradle" />
+      <jump line="19" column="20" filename="D:/GameDev/AfterAll/html/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -833,7 +836,7 @@
         <text>l/desktop</text>
       </register>
       <register name="/" type="4">
-        <text>Hint</text>
+        <text>jetty</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
@@ -870,13 +873,13 @@
       </register>
     </registers>
     <search>
-      <last-search>Hint</last-search>
+      <last-search>jetty</last-search>
       <last-offset />
-      <last-pattern>Hint</last-pattern>
+      <last-pattern>jetty</last-pattern>
       <last-replace>Type</last-replace>
       <last-substitute>Size</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -900,6 +903,7 @@
         <entry>HelloWorld</entry>
         <entry>windowHint</entry>
         <entry>Hint</entry>
+        <entry>jetty</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
