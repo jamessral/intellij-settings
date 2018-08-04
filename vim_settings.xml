@@ -422,6 +422,11 @@
         <mark key="." line="23" column="109" />
         <mark key="^" line="23" column="110" />
       </file>
+      <file name="D:/GameDev/AfterAll/gradle.properties" timestamp="1533095116102">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/Github/ud406/2.7.02-Exercise-BuildingPlatforms/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1510976055229">
         <mark key="[" line="76" column="56" />
         <mark key="]" line="76" column="82" />
@@ -536,6 +541,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="36" column="40" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="D:/GameDev/AfterAll/build.gradle" timestamp="1533095089842">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GameDev/Udacity/ud405/1.7.07-Exercise-AddTheIcicles/core/src/com/udacity/gamedev/icicles/Icicles.java" timestamp="1490472156254">
         <mark key="[" line="28" column="90" />
@@ -722,7 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="84" filename="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Utils.java" />
       <jump line="14" column="96" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
       <jump line="50" column="0" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
       <jump line="56" column="33" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
@@ -822,6 +832,7 @@
       <jump line="32" column="0" filename="D:/GameDev/AfterAll/core/src/com/jamessral/afterall/AfterAllGame.java" />
       <jump line="1" column="15" filename="D:/GameDev/AfterAll/html/build.gradle" />
       <jump line="19" column="20" filename="D:/GameDev/AfterAll/html/build.gradle" />
+      <jump line="12" column="40" filename="D:/GameDev/AfterAll/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -842,34 +853,34 @@
         <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5jb25maWd1cmVvbmRlbWFuZD1mYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEZQU19DQVAgPSA2MDsK</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5jb25maWd1cmVvbmRlbWFuZD1mYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkJTWVzaCB0ZXN0TWVzaCA9IG5ldyBNZXNoKCk7CgkJdGVzdE1lc2guY3JlYXRlKG5ldyBmbG9hdFtdIHsKCQkJCS0xZiwgLTFmLCAwZiwKICAgICAgICAgICAgICAgICAwZiwgICAxZiwgMGYsCiAgICAgICAgICAgICAgICAgMWYsICAtMWYsIDEKCQl9KTsK</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEZQU19DQVAgPSA2MDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0ZXN0TWVzaC5kZXN0cm95KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgkJTWVzaCB0ZXN0TWVzaCA9IG5ldyBNZXNoKCk7CgkJdGVzdE1lc2guY3JlYXRlKG5ldyBmbG9hdFtdIHsKCQkJCS0xZiwgLTFmLCAwZiwKICAgICAgICAgICAgICAgICAwZiwgICAxZiwgMGYsCiAgICAgICAgICAgICAgICAgMWYsICAtMWYsIDEKCQl9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgkJTWVzaCB0ZXN0TWVzaCA9IG5ldyBNZXNoKCk7CgkJdGVzdE1lc2guY3JlYXRlKG5ldyBmbG9hdFtdIHsKCQkJCS0xZiwgLTFmLCAwZiwKICAgICAgICAgICAgICAgICAwZiwgICAxZiwgMGYsCiAgICAgICAgICAgICAgICAgMWYsICAtMWYsIDEKCQl9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -922,8 +933,9 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,.+4w</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
