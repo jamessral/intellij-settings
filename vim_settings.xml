@@ -43,6 +43,12 @@
         <mark key="^" line="110" column="55" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="D:/GameDev/Blasteroids/core/src/com/blasteroids/jamessral/BlastroidsGame.java" timestamp="1533691922215">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Constants.java" timestamp="1512065226049">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="45" />
@@ -72,6 +78,9 @@
         <mark key="]" line="32" column="10" />
         <mark key="." line="32" column="10" />
         <mark key="^" line="32" column="10" />
+      </file>
+      <file name="D:/GameDev/Blasteroids/build.gradle" timestamp="1533691657304">
+        <mark key="'" line="125" column="0" />
       </file>
       <file name="D:/Github/ud406/2.7.01-Exercise-JsonParsing/core/src/com/udacity/gamedev/gigagal/util/LevelLoader.java" timestamp="1504299783237">
         <mark key="[" line="44" column="0" />
@@ -688,7 +697,7 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533095037834">
+      <file name="/Dummy.txt" timestamp="1533691689914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -733,9 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="96" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
-      <jump line="56" column="33" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
       <jump line="18" column="20" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
       <jump line="60" column="24" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
       <jump line="23" column="12" filename="$USER_HOME$/Playground/Android/Connect3/app/src/main/java/com/example/jamessral/connect3/MainActivity.java" />
@@ -833,6 +839,9 @@
       <jump line="1" column="15" filename="D:/GameDev/AfterAll/html/build.gradle" />
       <jump line="19" column="20" filename="D:/GameDev/AfterAll/html/build.gradle" />
       <jump line="12" column="40" filename="D:/GameDev/AfterAll/build.gradle" />
+      <jump line="81" column="0" filename="D:/GameDev/Blasteroids/build.gradle" />
+      <jump line="0" column="0" filename="D:/GameDev/Blasteroids/build.gradle" />
+      <jump line="125" column="0" filename="D:/GameDev/Blasteroids/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -847,7 +856,7 @@
         <text>l/desktop</text>
       </register>
       <register name="/" type="4">
-        <text>jetty</text>
+        <text>compile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
@@ -880,17 +889,17 @@
         <text encoding="base64">CgkJTWVzaCB0ZXN0TWVzaCA9IG5ldyBNZXNoKCk7CgkJdGVzdE1lc2guY3JlYXRlKG5ldyBmbG9hdFtdIHsKCQkJCS0xZiwgLTFmLCAwZiwKICAgICAgICAgICAgICAgICAwZiwgICAxZiwgMGYsCiAgICAgICAgICAgICAgICAgMWYsICAtMWYsIDEKCQl9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>jetty</last-search>
+      <last-search>compile</last-search>
       <last-offset />
-      <last-pattern>jetty</last-pattern>
-      <last-replace>Type</last-replace>
-      <last-substitute>Size</last-substitute>
+      <last-pattern>compile</last-pattern>
+      <last-replace>implementation</last-replace>
+      <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -914,6 +923,7 @@
         <entry>windowHint</entry>
         <entry>Hint</entry>
         <entry>jetty</entry>
+        <entry>compile</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -929,13 +939,15 @@
         <entry>s/&quot;https://cdn.filestackcontent.com/&quot;</entry>
         <entry>wa</entry>
         <entry>v</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,.+4w</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbXBpbGUvaW1wbGVtZW50YXRpb24vZw==</entry>
+        <entry>w</entry>
+        <entry>bd</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
