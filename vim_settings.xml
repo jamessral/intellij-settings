@@ -43,12 +43,11 @@
         <mark key="^" line="110" column="55" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="D:/GameDev/Blasteroids/core/src/com/blasteroids/jamessral/BlastroidsGame.java" timestamp="1533691325276">
+      <file name="D:/GameDev/Blasteroids/core/src/com/blasteroids/jamessral/BlastroidsGame.java" timestamp="1533692602958">
         <mark key="'" line="20" column="22" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="2" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/GameDev/LibGDX/Blasteroids/core/src/com/jamessral/blasteroids/utils/Constants.java" timestamp="1512065226049">
         <mark key="[" line="11" column="44" />
@@ -695,10 +694,10 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533691522662">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1533692526988">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/onq-platform/platform/src/main/java/io/onq/service/content/tracker/TrackerFeedbackService.java" timestamp="1518466618410">
@@ -851,7 +850,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l/desktop</text>
+        <text>Batch</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
@@ -860,34 +859,34 @@
         <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YXIgbnVtVGVzdCA9IG5ldyBTcHJpdGVCYXRjaCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5jb25maWd1cmVvbmRlbWFuZD1mYWxzZQo=</text>
+        <text encoding="base64">CQl2YXIgbnVtYmVyVGVzdCA9IDEwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5jb25maWd1cmVvbmRlbWFuZD1mYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5jb25maWd1cmVvbmRlbWFuZD1mYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5jb25maWd1cmVvbmRlbWFuZD1mYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEZQU19DQVAgPSA2MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEZQU19DQVAgPSA2MDsK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgkJTWVzaCB0ZXN0TWVzaCA9IG5ldyBNZXNoKCk7CgkJdGVzdE1lc2guY3JlYXRlKG5ldyBmbG9hdFtdIHsKCQkJCS0xZiwgLTFmLCAwZiwKICAgICAgICAgICAgICAgICAwZiwgICAxZiwgMGYsCiAgICAgICAgICAgICAgICAgMWYsICAtMWYsIDEKCQl9KTsK</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -941,8 +940,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,.+4w</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
