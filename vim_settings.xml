@@ -2,54 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1539286665974">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gamedev/ProjectZombies/local.properties" timestamp="1539287294095">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/gamedev/ProjectZombies/gradle.properties" timestamp="1539287297508">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="88" />
-        <mark key="." line="3" column="0" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qYXZhLmhvbWU9L0xpYnJhcnkvSmF2YS9KYXZhVmlydHVhbE1hY2hpbmVzL2Fkb3B0b3Blbmpkay0xMS5qZGsvQ29udGVudHMvSG9tZQo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qYXZhLmhvbWU9L0xpYnJhcnkvSmF2YS9KYXZhVmlydHVhbE1hY2hpbmVzL2Fkb3B0b3Blbmpkay0xMS5qZGsvQ29udGVudHMvSG9tZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qYXZhLmhvbWU9L1VzZXJzCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>Desktop</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>wq</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
