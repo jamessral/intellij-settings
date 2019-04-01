@@ -1,0 +1,20 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node">
+      <version-cache version="10.15.0" last-modified="1545805603000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="SettingsSearchHistory" value="tslint&#10;eslint" />
+    <property name="TrendingPluginsSearchHistory" value="Theme" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/SolarizedLight.icls&#10;/home/jsral/code/mealplanner-rails" />
+    <property name="file.gist.reindex.count" value="5500" />
+    <property name="ideavim.statistics.timestamp" value="1554155986139" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
