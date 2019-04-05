@@ -12,11 +12,12 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1554406707155">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1554484908271">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.ts" timestamp="1554409261813">
         <mark key="'" line="60" column="2" />
@@ -75,6 +76,13 @@
         <mark key="[" line="17" column="5" />
         <mark key="]" line="17" column="5" />
         <mark key="." line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane.vue" timestamp="1554485234110">
+        <mark key="'" line="1" column="24" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/spec/mailers/customer/refunds_mailer_spec.rb" timestamp="1548793317142">
         <mark key="[" line="12" column="0" />
@@ -169,6 +177,13 @@
         <mark key="^" line="8" column="119" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" timestamp="1554485261005">
+        <mark key="'" line="1" column="31" />
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="46" />
+        <mark key="." line="12" column="39" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/partner/reward_transactions/redeem_points.rb" timestamp="1548790434023">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="28" column="8" />
@@ -221,10 +236,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1554477709182">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1554485132985">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="139" column="24" />
+        <mark key="]" line="139" column="25" />
+        <mark key="." line="139" column="25" />
+        <mark key="^" line="139" column="25" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/SelectItemsSection/index.tsx" timestamp="1549314449841">
         <mark key="[" line="2" column="57" />
@@ -291,21 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
-      <jump line="26" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
-      <jump line="38" column="18" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/index.tsx" />
-      <jump line="23" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/index.tsx" />
-      <jump line="22" column="23" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/index.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/tslint.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/tsconfig.json" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/tsconfig.json" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/index.tsx" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/loadup-web/app/mailers/customer/rewards_redemption_mailer.rb" />
-      <jump line="0" column="28" filename="$USER_HOME$/code/loadup-web/app/mailers/customer/rewards_redemption_mailer.rb" />
       <jump line="3" column="34" filename="$USER_HOME$/code/loadup-web/app/mailers/customer/rewards_redemption_mailer.rb" />
       <jump line="11" column="36" filename="$USER_HOME$/code/loadup-web/app/views/customer/refunds_mailer/new_refund.html.haml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/views/customer/refunds_mailer/new_refund.html.haml" />
@@ -350,11 +352,9 @@
       <jump line="20" column="6" filename="$USER_HOME$/code/loadup-web/spec/mailers/customer/rewards_redemption_mailer_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/index.tsx" />
       <jump line="2" column="0" filename="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" />
-      <jump line="98" column="29" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="47" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="22" column="1" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/tslint.json" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="96" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="67" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="98" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
@@ -391,6 +391,23 @@
       <jump line="61" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="18" column="33" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="100" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="98" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="11" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="2" column="34" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="25" column="11" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="14" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="13" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="1" column="31" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
+      <jump line="150" column="20" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="138" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="141" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="152" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="163" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="167" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="178" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="182" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="1" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -438,10 +455,10 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>-light</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>row2-height</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -455,47 +472,47 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBsYWJlbENvbG9yID0gZ2V0T3IoJ2RlZmF1bHRVcmwnLCAnaWNvbi51cmwnLCBtYXJrZXIpCg==</text>
+        <text encoding="base64">aW1wb3J0IE9yZGVyc1BhbmUgZnJvbSAnLi9jb21wb25lbnRzL09yZGVyc1BhbmUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXR0ZXJzCg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtLW1lbnUtb2Zmc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFscmVhZHlIYXNNYXJrZXIgPSBPYmplY3Qua2V5cyhzdGF0ZS5tYXJrZXJzKS5pbmNsdWRlcyhtYXJrZXJJZCkK</text>
+        <text encoding="base64">ICAgIE1lbnVCCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdCgnYWRkTWFya2VyJywgbWFya2VyKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0TWFya2VySWQgfSBmcm9tICcuLi9saWIvbWFwVXRpbGl0aWVzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWFya2VySWQgPSBnZXRNYXJrZXJJZChtYXJrZXIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWxyZWFkeUhhc01hcmtlciA9IE9iamVjdC5rZXlzKHRoaXMubWFya2VycykuaW5jbHVkZXMobWFya2VySWQpCg==</text>
+        <text encoding="base64">ICBnZXR0ZXJzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFhbHJlYWR5SGFzTWFya2VyKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFscmVhZHlIYXNNYXJrZXIgPSBPYmplY3Qua2V5cyhzdGF0ZS5tYXJrZXJzKS5pbmNsdWRlcyhtYXJrZXJJZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGNvbW1pdCgnYWRkTWFya2VyJywgbWFya2VyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>row2-height</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
-      <last-replace>moduleState</last-replace>
-      <last-substitute>state</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>row2-height</last-pattern>
+      <last-replace>row2-offset</last-replace>
+      <last-substitute>row2-height</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -508,6 +525,9 @@
         <entry>host</entry>
         <entry>Load</entry>
         <entry>state</entry>
+        <entry encoding="base64">XDxNZW51QmFyXD4=</entry>
+        <entry>row-height</entry>
+        <entry>row2-height</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
@@ -516,6 +536,8 @@
         <entry encoding="base64">JzwsJz5zL3N0YXRlL21vZHVsZVN0YXRlL2c=</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL3Jvdy1oZWlnaHQvcm93LW9mZnNldC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3JvdzItaGVpZ2h0L3JvdzItb2Zmc2V0L2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
