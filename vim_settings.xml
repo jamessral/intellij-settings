@@ -130,12 +130,12 @@
         <mark key="^" line="28" column="96" />
         <mark key="." line="28" column="97" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" timestamp="1554478338205">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" timestamp="1554479266156">
         <mark key="'" line="18" column="33" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="28" />
-        <mark key="^" line="41" column="28" />
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="106" column="8" />
+        <mark key="." line="106" column="8" />
+        <mark key="^" line="106" column="8" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/create_redemption_reward_transaction_record.rb" timestamp="1548790091645">
         <mark key="[" line="8" column="12" />
@@ -438,7 +438,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -458,31 +458,31 @@
         <text encoding="base64">ICBjb25zdCBsYWJlbENvbG9yID0gZ2V0T3IoJ2RlZmF1bHRVcmwnLCAnaWNvbi51cmwnLCBtYXJrZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXR0ZXJzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFscmVhZHlIYXNNYXJrZXIgPSBPYmplY3Qua2V5cyhzdGF0ZS5tYXJrZXJzKS5pbmNsdWRlcyhtYXJrZXJJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdCgnYWRkTWFya2VyJywgbWFya2VyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFscmVhZHlIYXNNYXJrZXIgPSBPYmplY3Qua2V5cyhzdGF0ZS5tYXJrZXJzKS5pbmNsdWRlcyhtYXJrZXJJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWFya2VySWQgPSBnZXRNYXJrZXJJZChtYXJrZXIpCg==</text>
+        <text encoding="base64">ICAgIGNvbW1pdCgnYWRkTWFya2VyJywgbWFya2VyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWxyZWFkeUhhc01hcmtlciA9IE9iamVjdC5rZXlzKHRoaXMubWFya2VycykuaW5jbHVkZXMobWFya2VySWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWFya2VySWQgPSBnZXRNYXJrZXJJZChtYXJrZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWxyZWFkeUhhc01hcmtlciA9IE9iamVjdC5rZXlzKHRoaXMubWFya2VycykuaW5jbHVkZXMobWFya2VySWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFhbHJlYWR5SGFzTWFya2VyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgaWYgKCFhbHJlYWR5SGFzTWFya2VyKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
