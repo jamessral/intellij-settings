@@ -259,10 +259,6 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1554489202324">
         <mark key="'" line="1" column="43" />
-        <mark key="[" line="139" column="24" />
-        <mark key="]" line="139" column="25" />
-        <mark key="." line="139" column="25" />
-        <mark key="^" line="139" column="25" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/SelectItemsSection/index.tsx" timestamp="1549314449841">
         <mark key="[" line="2" column="57" />
@@ -524,7 +520,7 @@
         <text>.active-tab</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -534,7 +530,7 @@
       <last-replace>row2-offset</last-replace>
       <last-substitute>row2-height</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -560,8 +556,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3Jvdy1oZWlnaHQvcm93LW9mZnNldC9n</entry>
         <entry encoding="base64">JzwsJz5zL3JvdzItaGVpZ2h0L3JvdzItb2Zmc2V0L2c=</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
