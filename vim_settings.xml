@@ -130,10 +130,12 @@
         <mark key="^" line="28" column="96" />
         <mark key="." line="28" column="97" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" timestamp="1554476039928">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" timestamp="1554478338205">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/create_redemption_reward_transaction_record.rb" timestamp="1548790091645">
         <mark key="[" line="8" column="12" />
@@ -219,12 +221,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1554475715913">
-        <mark key="'" line="61" column="6" />
-        <mark key="[" line="63" column="6" />
-        <mark key="]" line="63" column="11" />
-        <mark key="." line="63" column="11" />
-        <mark key="^" line="63" column="11" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1554477709182">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/SelectItemsSection/index.tsx" timestamp="1549314449841">
         <mark key="[" line="2" column="57" />
@@ -291,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
       <jump line="24" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
       <jump line="26" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
       <jump line="3" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" />
@@ -353,7 +352,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" />
       <jump line="98" column="29" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="47" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="100" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="22" column="1" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/tslint.json" />
       <jump line="11" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
@@ -391,6 +389,8 @@
       <jump line="64" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="12" column="45" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="61" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="18" column="33" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
+      <jump line="100" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,10 +435,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>[]</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -461,28 +461,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFscmVhZHlIYXNNYXJrZXIgPSBPYmplY3Qua2V5cyhzdGF0ZS5tYXJrZXJzKS5pbmNsdWRlcyhtYXJrZXJJZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZ1ZS5zZXQoc3RhdGUubWFya2VycywgbWFya2VySWQsIHVuZGVmaW5lZCkK</text>
+        <text encoding="base64">ICAgIGNvbW1pdCgnYWRkTWFya2VyJywgbWFya2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWFya2VySWQgPSBnZXRNYXJrZXJJZChtYXJrZXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLm1hcmtlcnMgPSBzdGF0ZS5tYXJrZXJzLgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWxyZWFkeUhhc01hcmtlciA9IE9iamVjdC5rZXlzKHRoaXMubWFya2VycykuaW5jbHVkZXMobWFya2VySWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFZ1ZS5zZXQoc3RhdGUubWFya2VycywgbWFya2VySWQsIG1hcmtlcikK</text>
+        <text encoding="base64">ICAgICAgaWYgKCFhbHJlYWR5SGFzTWFya2VyKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUubWFya2VycykK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
