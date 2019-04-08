@@ -8427,6 +8427,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/graphql-1.9.3/spec" />
       </excluded>
     </library>
+    <library name="graphql (v1.9.4, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/graphql-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/graphql-1.9.4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/graphql-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/graphql-1.9.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/graphql-1.9.4/spec" />
+      </excluded>
+    </library>
     <library name="graphql-batch (v0.3.10, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18183,6 +18199,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.67.2/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.67.2/assets" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.67.2/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-performance (v1.1.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.1.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.1.0/config" />
       </excluded>
     </library>
     <library name="rubocop-rspec (v1.32.0, rbenv: 2.6.2) [gem]" type="rubylib">
