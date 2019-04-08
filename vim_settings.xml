@@ -67,6 +67,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554750000017">
+        <mark key="'" line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/tslint.json" timestamp="1554406727114">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="5" />
@@ -92,13 +95,6 @@
         <mark key="]" line="42" column="10" />
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" timestamp="1554494132164">
-        <mark key="p" line="58" column="2" />
-        <mark key="'" line="83" column="10" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/components/ExtendedServiceExplainer/index.tsx" timestamp="1554497966746">
         <mark key="'" line="0" column="0" />
@@ -260,6 +256,9 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1554749868286">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
         <mark key="'" line="20" column="48" />
       </file>
@@ -269,11 +268,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" timestamp="1554749832973">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" timestamp="1554750094390">
+        <mark key="'" line="11" column="3" />
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/package.json" timestamp="1548783824218">
         <mark key="'" line="0" column="0" />
@@ -293,6 +293,13 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" timestamp="1554750082553">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/index.tsx" timestamp="1549314507729">
         <mark key="'" line="0" column="0" />
@@ -317,14 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="86" column="19" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="107" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/store.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
-      <jump line="10" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
-      <jump line="31" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" />
       <jump line="32" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" />
       <jump line="37" column="36" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" />
       <jump line="18" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
@@ -417,6 +416,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
       <jump line="23" column="27" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
+      <jump line="14" column="26" filename="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" />
+      <jump line="38" column="11" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
+      <jump line="39" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
+      <jump line="10" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -464,54 +471,46 @@
         <text>&quot;require&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>:w</text>
       </register>
       <register name="o" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="65535" code="67" mods="130" />
-        </keys>
+        <text>f:Dj0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBwICI9PT09PT09PT09PUFDVFVBTD09PT09PT0iCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICBjb21wdXRlZDogewogICAgLi4ubWFwR2V0dGVycyh7CiAgICAgIGFjdGl2ZVRhYjogJ29yZGVycy9hY3RpdmVUYWInLAogICAgICBvcmRlcnM6ICdvcmRlcnMvb3JkZXJzJwogICAgfSkKICB9LA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBzZXRPcmRlcnMgKHsgY29tbWl0IH0sIG9yZGVycykgewogICAgY29tbWl0KCdzZXRPcmRlcnMnLCBvcmRlcnMpCiAgfSw=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBzZXQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0gCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiAwMTBmOWY1YS4uLiBEb24ndCBydW4gdHNsaW50IG9uIGpzIG9yIHZ1ZTsgY2xlYW4gdXAgYWN0aW9ucy9tdXRhdG9ycwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -521,7 +520,7 @@
       <last-replace>row2-offset</last-replace>
       <last-substitute>row2-height</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -551,9 +550,9 @@
         <entry encoding="base64">JzwsJz5zL3Jvdy1oZWlnaHQvcm93LW9mZnNldC9n</entry>
         <entry encoding="base64">JzwsJz5zL3JvdzItaGVpZ2h0L3JvdzItb2Zmc2V0L2c=</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -585,6 +584,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
