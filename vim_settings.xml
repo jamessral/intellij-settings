@@ -170,11 +170,11 @@
       <file name="/GraphQL.variables.json" timestamp="1554823253774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" timestamp="1554754018414">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" timestamp="1554832755464">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" timestamp="1554830430664">
         <mark key="'" line="71" column="6" />
@@ -241,12 +241,12 @@
         <mark key="." line="82" column="52" />
         <mark key="^" line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1554830876816">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1554832654488">
         <mark key="'" line="76" column="32" />
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="78" column="28" />
-        <mark key="^" line="78" column="28" />
-        <mark key="." line="78" column="28" />
+        <mark key="[" line="77" column="18" />
+        <mark key="]" line="77" column="22" />
+        <mark key="^" line="77" column="22" />
+        <mark key="." line="77" column="22" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/tslint.json" timestamp="1554747831741">
         <mark key="'" line="0" column="0" />
@@ -496,7 +496,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>#eee</text>
       </register>
       <register name="/" type="4">
         <text>primary</text>
@@ -535,7 +535,7 @@
         <text encoding="base64">ICAgIGNhbkNsZWFyICgpIHsKICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKHRoaXMubWFya2VycykubGVuZ3RoID4gMAogICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -580,9 +580,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5wcmltYXJ5L2luYWN0aXZl</entry>
         <entry encoding="base64">JzwsJz5zL3ByaW1hcnkvaW5hY3RpdmU=</entry>
+        <entry>w</entry>
         <entry>q</entry>
         <entry>vs</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
