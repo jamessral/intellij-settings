@@ -138,8 +138,8 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1554754657548">
-        <mark key="'" line="49" column="13" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1554815249993">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="49" />
         <mark key="." line="6" column="49" />
@@ -267,7 +267,7 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1554750227754">
+      <file name="/GraphQL.result.json" timestamp="1554814990987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
@@ -335,11 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="63" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" />
-      <jump line="116" column="10" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" />
-      <jump line="9" column="24" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ExtendedServiceModal/index.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ExtendedServiceModal/index.tsx" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/FringeAreaModal/index.tsx" />
       <jump line="118" column="23" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" />
       <jump line="99" column="54" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" />
       <jump line="78" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" />
@@ -435,6 +430,11 @@
       <jump line="22" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderPanel.vue" />
       <jump line="4" column="22" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderPanel.vue" />
       <jump line="3" column="18" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderPanel.vue" />
+      <jump line="17" column="11" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
+      <jump line="77" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -531,13 +531,10 @@
       <last-replace>row2-offset</last-replace>
       <last-substitute>row2-height</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
-        <entry>scripts</entry>
-        <entry encoding="base64">XDxhZnRlcl90cmFuc2FjdGlvbl9hY3Rpb25zXD4=</entry>
         <entry>summed</entry>
         <entry>color</entry>
         <entry>pretty</entry>
