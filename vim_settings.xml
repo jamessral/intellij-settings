@@ -13,8 +13,8 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1554828251329">
-        <mark key="'" line="18" column="12" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555442805263">
+        <mark key="'" line="14" column="12" />
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="57" />
         <mark key="." line="14" column="57" />
@@ -60,6 +60,9 @@
         <mark key="^" line="51" column="6" />
         <mark key="." line="51" column="6" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/config/webpacker.yml" timestamp="1555442505307">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/components/PointsContainer.module.scss" timestamp="1548353296355">
         <mark key="'" line="42" column="18" />
         <mark key="[" line="3" column="1" />
@@ -89,6 +92,9 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="38" column="36" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
+        <mark key="'" line="40" column="4" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane.vue" timestamp="1554489226329">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -101,11 +107,6 @@
         <mark key="]" line="44" column="32" />
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/validators.js" timestamp="1554753877230">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/tsconfig.json" timestamp="1548785376816">
         <mark key="'" line="24" column="0" />
@@ -137,6 +138,9 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/index.js" timestamp="1548348612409">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" timestamp="1555442703919">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/index.tsx" timestamp="1548785539733">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="5" column="25" />
@@ -154,6 +158,7 @@
       <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/enums/host_source_enums.rb" timestamp="1548792391309">
         <mark key="'" line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/layouts/application.html.haml" timestamp="1555442524103" />
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/ContactSection/components/ContactForm/index.js" timestamp="1554734469424">
         <mark key="'" line="236" column="21" />
         <mark key="[" line="108" column="0" />
@@ -179,11 +184,6 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" timestamp="1550549144497">
         <mark key="'" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/models/order.rb" timestamp="1554754012918">
-        <mark key="'" line="34" column="10" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="220" column="12" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/spec/mailers/customer/rewards_redemption_mailer_spec.rb" timestamp="1548794043749">
         <mark key="'" line="20" column="6" />
@@ -215,6 +215,9 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" timestamp="1555442154213">
         <mark key="'" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" timestamp="1555442625606">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/components/Announcements/components/AnnouncementRow/AnnoucementRow.module.scss" timestamp="1548349523919">
         <mark key="'" line="24" column="19" />
@@ -265,8 +268,8 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" timestamp="1554824487047">
-        <mark key="'" line="18" column="31" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" timestamp="1555442550056">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="28" />
         <mark key="." line="15" column="0" />
@@ -331,6 +334,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_header_notifications.haml" timestamp="1555442646612" />
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/components/FringeAreaExplainer/index.tsx" timestamp="1554507399272">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="18" column="21" />
@@ -347,16 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
-      <jump line="23" column="27" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
-      <jump line="14" column="26" filename="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" />
-      <jump line="116" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" />
-      <jump line="38" column="11" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
-      <jump line="39" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
       <jump line="10" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
       <jump line="29" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
@@ -447,6 +441,16 @@
       <jump line="10" column="30" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
       <jump line="73" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
       <jump line="14" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/config/webpacker.yml" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" />
+      <jump line="14" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -580,6 +584,7 @@
         <entry>w</entry>
         <entry>vs</entry>
         <entry>wqa</entry>
+        <entry>qw</entry>
         <entry>sp</entry>
         <entry>q</entry>
       </history-cmd>
