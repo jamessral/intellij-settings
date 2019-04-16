@@ -13,8 +13,8 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555442805263">
-        <mark key="'" line="14" column="12" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555443491603">
+        <mark key="'" line="14" column="7" />
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="57" />
         <mark key="." line="14" column="57" />
@@ -148,8 +148,8 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1554829895622">
-        <mark key="'" line="21" column="9" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1555443359052">
+        <mark key="'" line="88" column="13" />
         <mark key="[" line="9" column="61" />
         <mark key="]" line="9" column="61" />
         <mark key="." line="9" column="61" />
@@ -351,9 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
-      <jump line="29" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
       <jump line="18" column="22" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
       <jump line="14" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
       <jump line="53" column="20" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" />
@@ -450,7 +447,10 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" />
       <jump line="40" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" />
-      <jump line="14" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="88" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="14" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -501,7 +501,7 @@
         <text>Count</text>
       </register>
       <register name="/" type="4">
-        <text>primary</text>
+        <text>multi</text>
       </register>
       <register name="o" type="4">
         <text>f:Dj0</text>
@@ -541,13 +541,13 @@
       </register>
     </registers>
     <search>
-      <last-search>primary</last-search>
+      <last-search>multi</last-search>
       <last-offset />
-      <last-pattern>primary</last-pattern>
+      <last-pattern>multi</last-pattern>
       <last-replace>inactive</last-replace>
       <last-substitute>primary</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -571,6 +571,7 @@
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>status</entry>
         <entry>primary</entry>
+        <entry>multi</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
@@ -587,6 +588,7 @@
         <entry>qw</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>bd</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -624,6 +626,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
