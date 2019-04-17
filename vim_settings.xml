@@ -168,7 +168,6 @@
       <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/enums/host_source_enums.rb" timestamp="1548792391309">
         <mark key="'" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/views/layouts/application.html.haml" timestamp="1555442524103" />
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/ContactSection/components/ContactForm/index.js" timestamp="1554734469424">
         <mark key="'" line="236" column="21" />
         <mark key="[" line="108" column="0" />
@@ -292,7 +291,7 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555441567190">
+      <file name="/GraphQL.result.json" timestamp="1555504225683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
@@ -351,7 +350,6 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_header_notifications.haml" timestamp="1555442646612" />
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/components/FringeAreaExplainer/index.tsx" timestamp="1554507399272">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="18" column="21" />
@@ -580,12 +578,10 @@
       <last-replace>inactive</last-replace>
       <last-substitute>primary</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>color</entry>
-        <entry>pretty</entry>
         <entry>host</entry>
         <entry>Load</entry>
         <entry>state</entry>
