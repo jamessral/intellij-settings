@@ -101,6 +101,13 @@
         <mark key="." line="78" column="76" />
         <mark key="^" line="78" column="76" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" timestamp="1555617973998">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="13" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" timestamp="1550549144497">
         <mark key="'" line="2" column="0" />
       </file>
@@ -125,12 +132,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1555614684991">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1555618412022">
         <mark key="'" line="54" column="2" />
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="50" />
-        <mark key="^" line="1" column="50" />
-        <mark key="." line="1" column="50" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="21" column="10" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/package.json" timestamp="1548783805499">
         <mark key="'" line="0" column="0" />
@@ -238,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="59" filename="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" />
-      <jump line="4" column="63" filename="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/input_objects/orders_inputs.rb" />
-      <jump line="23" column="43" filename="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/input_objects/concerns/order_filters_concern.rb" />
       <jump line="160" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
       <jump line="162" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
@@ -338,6 +342,9 @@
       <jump line="56" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
       <jump line="143" column="8" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
       <jump line="64" column="44" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" />
+      <jump line="78" column="47" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
+      <jump line="30" column="18" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -385,7 +392,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI=</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
@@ -396,39 +403,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICBAYXBwbHkgdGV4dC0yeGwgdGV4dC1wdXJwbGUgcHgtNCBib3JkZXItMiBib3JkZXItcHVycGxlIGZvbnQtYm9sZDsKICBib3JkZXItcmFkaXVzOiA0cHg7CiAgcGFkZGluZy1ib3R0b206IHZhcigtLWxhYmVsLXBhZGRpbmctdmVydGljYWwpOwogIHBhZGRpbmctdG9wOiB2YXIoLS1sYWJlbC1wYWRkaW5nLXZlcnRpY2FsKTs=</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgW3sgaWQ6IDEgfV0K</text>
       </register>
-      <register name="2" type="4">
-        <text>status-label-info</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZHJpdmVyVGVhbXMKICAgICAgICAuZmlsdGVyKHRlYW0gPT4gQm9vbGVhbih0ZWFtLmxvY2F0aW9uKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>@media screen and (max-width: 1048px) {
-  .map-container {
-    --status-bar-height: 111px;
-  }
-  .google-map {
-    height: calc(100% - var(--status-bar-height));
-  }
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAKICAuZ29vZ2xlLW1hcCB7CiAgICBoZWlnaHQ6IDgwJTsKICB9</text>
+        <text>''</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>status-label-info</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
