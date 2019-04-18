@@ -258,6 +258,12 @@
         <mark key="." line="54" column="4" />
         <mark key="^" line="54" column="18" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/controllers/sys_admin/dispatch_map_controller.rb" timestamp="1555597586523">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
         <mark key="'" line="11" column="0" />
       </file>
@@ -529,7 +535,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BhdGNoIiwg</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNwYXRjaENyZWF0ZU1hcmtlclw+</text>
@@ -540,29 +546,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJWxpLm5hdi1saW5reyBjbGFzczogKCJhY3RpdmUiIGlmIGNvbnRyb2xsZXJfbmFtZSA9PSAic2NoZWR1bGVfcmVxdWVzdHMiKSB9CiAgICAgICAgICAgICAgPSBsaW5rX3RvICJTY2hlZHVsZSBSZXF1ZXN0cyIsIHN5c19hZG1pbl9zY2hlZHVsZV9yZXF1ZXN0c19wYXRoKHNlc3Npb24uZmV0Y2goOmV4aXN0aW5nX3NjaGVkdWxlX3JlcXVlc3RzX3NlYXJjaF9wYXJhbXMsIHt9KSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogUmVtb3ZlIHdoZW4gd2Ugd2FudCB0byBzaGlwIGRpc3BhdGNoCiAgICByYWlzZSB1bmxlc3MgUmFpbHMuZW52LmRldmVsb3BtZW50Pwo=</text>
       </register>
       <register name="2" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text>Dispatch</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGZvcm1hdHRlCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZvcm1hdAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqIEB0eXBlIHt7bGF0aXR1ZGU6ICosIGxhYmVsOiB7Y29sb3I6IHN0cmluZywgdGV4dDogc3RyaW5nLCBmb250V2VpZ2h0OiBzdHJpbmd9LCBsb25naXR1ZGU6ICp9W119Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKCdyZXNldE1hcmtlcnMnKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
