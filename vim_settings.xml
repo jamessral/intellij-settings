@@ -10,12 +10,12 @@
         <mark key="'" line="20" column="0" />
         <mark key="^" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555609848972">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="101" column="23" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
+        <mark key="'" line="5" column="25" />
+        <mark key="[" line="106" column="26" />
+        <mark key="]" line="106" column="27" />
+        <mark key="^" line="104" column="27" />
+        <mark key="." line="106" column="27" />
       </file>
       <file name="$USER_HOME$/Playground/awesome-lang/lib/lexer.rb" timestamp="1554523112792">
         <mark key="'" line="58" column="0" />
@@ -108,12 +108,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" timestamp="1555593010063">
-        <mark key="'" line="16" column="18" />
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="80" column="58" />
-        <mark key="." line="6" column="11" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" timestamp="1555611866396">
+        <mark key="'" line="39" column="7" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/driverTeams/index.js" timestamp="1555530734225">
         <mark key="'" line="21" column="21" />
@@ -171,10 +170,10 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1555609870917">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1555612700411">
         <mark key="'" line="5" column="5" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="35" />
         <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/enums/host_source_enums.rb" timestamp="1548792391309">
@@ -242,12 +241,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1555610766910">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="6" />
-        <mark key="." line="35" column="6" />
-        <mark key="^" line="35" column="6" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1555614684991">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="1" column="50" />
+        <mark key="." line="1" column="50" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/components/FeedbackPrompt/index.js" timestamp="1548349072798">
         <mark key="'" line="29" column="28" />
@@ -272,12 +271,12 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1555603852488">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1555614891387">
+        <mark key="'" line="102" column="23" />
+        <mark key="[" line="102" column="23" />
+        <mark key="]" line="102" column="24" />
+        <mark key="." line="102" column="24" />
+        <mark key="^" line="102" column="24" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/tslint.json" timestamp="1554747831741">
         <mark key="'" line="0" column="0" />
@@ -374,6 +373,9 @@
         <mark key="^" line="74" column="51" />
         <mark key="." line="74" column="51" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
+        <mark key="'" line="68" column="12" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/fragments/order.js" timestamp="1554751218593">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="21" column="0" />
@@ -391,10 +393,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" timestamp="1555601983313">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="25" column="29" />
-        <mark key="." line="25" column="33" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" timestamp="1555612144169">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="36" column="30" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_header.html.haml" timestamp="1555593563294">
         <mark key="'" line="25" column="25" />
@@ -419,28 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="37" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="30" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="172" column="28" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="47" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="146" column="28" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="142" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="57" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
-      <jump line="58" column="35" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
-      <jump line="5" column="35" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
-      <jump line="45" column="33" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="17" column="37" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="42" column="16" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="147" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="149" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="53" column="20" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="10" column="28" filename="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" />
-      <jump line="6" column="8" filename="$USER_HOME$/code/loadup-web/app/models/concerns/filterable.rb" />
-      <jump line="12" column="48" filename="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" />
-      <jump line="2" column="36" filename="$USER_HOME$/code/loadup-web/app/services/sys_admin/orders/search.rb" />
       <jump line="27" column="64" filename="$USER_HOME$/code/loadup-web/app/services/sys_admin/orders/search.rb" />
       <jump line="2" column="43" filename="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" />
       <jump line="16" column="36" filename="$USER_HOME$/code/loadup-web/app/services/sys_admin/orders/search.rb" />
@@ -495,7 +477,6 @@
       <jump line="28" column="11" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="102" column="23" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="107" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="5" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="21" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="122" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="1" column="27" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
@@ -508,7 +489,6 @@
       <jump line="15" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="150" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="4" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="80" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
       <jump line="5" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
       <jump line="41" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" />
@@ -518,7 +498,31 @@
       <jump line="11" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
       <jump line="16" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" />
       <jump line="27" column="101" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="25" column="31" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="35" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="63" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
+      <jump line="39" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
+      <jump line="42" column="34" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="22" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" />
+      <jump line="68" column="12" filename="$USER_HOME$/code/loadup-web/app/models/driver.rb" />
+      <jump line="14" column="28" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="25" column="27" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="62" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="30" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="4" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="23" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="112" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="114" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="5" column="25" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="111" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="141" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="115" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="7" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="54" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="113" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="102" column="23" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -563,59 +567,68 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>{}</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHB4LTI=</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
-        <text>:w</text>
+        <text>91</text>
       </register>
       <register name="o" type="4">
         <text>f.llguwj0</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4+e3sgY291bnQubGFiZWwgfX08L3NwYW4+Cg==</text>
+      <register name="0" type="4">
+        <text>.map-container {
+  height: calc(100vh - 91px);
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdi1mb3I9ImNvdW50IGluIHN0YXR1c0NvdW50cyIKICAgICAgOmtleT0iY291bnQubGFiZWwiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      <register name="3" type="4">
+        <text>@media screen and (max-width: 1048px) {
+  .map-container {
+    --status-bar-height: 111px;
+  }
+  .google-map {
+    height: calc(100% - var(--status-bar-height));
+  }
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiB2LWlmPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29sb3IgPSBTVEFUVVNfQ09MT1JTW2NvdW50LnN0YXR1c10K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAKICAuZ29vZ2xlLW1hcCB7CiAgICBoZWlnaHQ6IDgwJTsKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gU1RBVFVTRVMucmVkdWNlKHN0YXR1cyA9PiB7CiAgICAK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InN0YXR1cy1iYXIiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>:w</last-search>
+      <last-search>91</last-search>
       <last-offset />
-      <last-pattern>:w</last-pattern>
+      <last-pattern>91</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -640,6 +653,7 @@
         <entry encoding="base64">XDxkaXNwYXRjaENyZWF0ZU1hcmtlclw+</entry>
         <entry>yellow</entry>
         <entry>:w</entry>
+        <entry>91</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JvdzItaGVpZ2h0L3JvdzItb2Zmc2V0L2c=</entry>
@@ -657,11 +671,12 @@
         <entry>we</entry>
         <entry>.,.+2q</entry>
         <entry>qa</entry>
-        <entry>vs</entry>
         <entry>s</entry>
         <entry>nohlsearch</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>vs</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
