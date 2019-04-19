@@ -184,7 +184,7 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusLabel.vue" timestamp="1555601959807">
         <mark key="'" line="9" column="9" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555592181949">
+      <file name="/GraphQL.result.json" timestamp="1555678897320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/orders/search.rb" timestamp="1555523757131">
@@ -441,15 +441,10 @@
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>row2-height</entry>
-        <entry encoding="base64">XDw7XD4=</entry>
-        <entry>total</entry>
-        <entry encoding="base64">XDxzaG93RXh0ZW5kZWRTZXJ2aWNlTW9kYWxcPg==</entry>
-        <entry encoding="base64">XDxsaWJcPg==</entry>
         <entry encoding="base64">XDxhdXRvcHJlZml4ZXJcPg==</entry>
         <entry>customerOr</entry>
         <entry>Org</entry>
@@ -472,8 +467,6 @@
         <entry>label</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JvdzItaGVpZ2h0L3JvdzItb2Zmc2V0L2c=</entry>
-        <entry encoding="base64">JzwsJz5wcmltYXJ5L2luYWN0aXZl</entry>
         <entry encoding="base64">JzwsJz5zL3ByaW1hcnkvaW5hY3RpdmU=</entry>
         <entry>wqa</entry>
         <entry>qw</entry>
