@@ -84,6 +84,13 @@
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
         <mark key="'" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" timestamp="1557861505278">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
         <mark key="'" line="40" column="4" />
       </file>
@@ -252,10 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="35" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="19" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
-      <jump line="34" column="19" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="51" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
       <jump line="144" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
       <jump line="62" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
@@ -352,6 +355,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/loadup-web/app/graphql/shared/objects/driver.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/code/loadup-web/app/graphql/shared/objects/driver.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/code/loadup-web/app/graphql/shared/objects/driver.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
