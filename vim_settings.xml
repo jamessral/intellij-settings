@@ -33,12 +33,6 @@
         <mark key="]" line="64" column="33" />
         <mark key="." line="64" column="33" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/controllers/sys_admin/dispatch_map_controller.rb" timestamp="1555597586523">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
         <mark key="'" line="5" column="25" />
         <mark key="[" line="106" column="26" />
@@ -75,21 +69,15 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusLabel.vue" timestamp="1555601959807">
         <mark key="'" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/partner/team_management_spec.rb" timestamp="1555596002390">
-        <mark key="[" line="74" column="51" />
-        <mark key="]" line="74" column="51" />
-        <mark key="^" line="74" column="51" />
-        <mark key="." line="74" column="51" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
         <mark key="'" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" timestamp="1557861966534">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" timestamp="1557863345246">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
         <mark key="'" line="40" column="4" />
@@ -174,12 +162,6 @@
         <mark key="." line="78" column="76" />
         <mark key="^" line="78" column="76" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/driverTeams.js" timestamp="1555528087631">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1555612700411">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="52" column="0" />
@@ -203,6 +185,9 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
         <mark key="'" line="7" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557862734788">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1555614891387">
         <mark key="'" line="102" column="23" />
@@ -228,6 +213,13 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/orders/search.rb" timestamp="1555523757131">
         <mark key="'" line="16" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-driver-mobile/.gitignore" timestamp="1557862718053">
+        <mark key="'" line="15" column="9" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/package.json" timestamp="1548783824218">
         <mark key="'" line="0" column="0" />
@@ -259,13 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
-      <jump line="144" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="62" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
-      <jump line="192" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="43" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" />
-      <jump line="8" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/driverTeams/index.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="99" column="8" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" />
       <jump line="63" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="33" column="21" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/driverTeams/index.js" />
@@ -359,6 +344,13 @@
       <jump line="4" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/node_modules/@types/expo/index.d.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
+      <jump line="8" column="31" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/.gitignore" />
+      <jump line="15" column="9" filename="$USER_HOME$/code/loadup-driver-mobile/.gitignore" />
+      <jump line="14" column="13" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -406,10 +398,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text>granted'</text>
       </register>
       <register name="o" type="4">
         <text>f.llguwj0</text>
@@ -417,41 +409,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCB7IHN0YXR1czogZXhpc3RpbmdQZXJtaXNzaW9ucyB9ID0gYXdhaXQgUGVybWlzc2lvbnMuZ2V0QXN5bmMoUGVybWlzc2lvbnMuTk9USUZJQ0FUSU9OUykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEFsZXJ0LmFsZXJ0KAogICAgICAnTm90aWZpY2F0aW9ucyBSZXF1aXJlZCcsCiAgICAgICdOb3RpZmljYXRpb25zIGFyZSByZXF1aXJlZCB0byB1c2UgdGhlIExvYWRVcCBEcml2ZXIgQXBwJywKICAgICAgW3sgdGV4dDogJ09rJyB9XQogICAgKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgJ05vdGlmaWNhdGlvbnMgUmVxdWlyZWQnLAogICAgICAnTm90aWZpY2F0aW9ucyBhcmUgcmVxdWlyZWQgdG8gdXNlIHRoZSBMb2FkVXAgRHJpdmVyIEFwcCcsCiAgICAgIFt7IHRleHQ6ICdPaycgfV0KICAgICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCBzaG91bGRDb250aW51ZSA9IGF3YWl0IHNob3VsZENvbnRpbnVlUmVxdWVzdGluZ1Blcm1pc3Npb24oKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgeyBzdGF0dXM6IGV4aXN0aW5nUGVybWlzc2lvbnMgfSA9IGF3YWl0IFBlcm1pc3Npb25zLmdldEFzeW5jKFBlcm1pc3Npb25zLk5PVElGSUNBVElPTlMpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGNvbnN0IHsgc3RhdHVzOiBleGlzdGluZ1N0YXR1cyB9ID0gYXdhaXQgUGVybWlzc2lvbnMuZ2V0QXN5bmMoCiAgICBQZXJtaXNzaW9ucy5OT1RJRklDQVRJT05TCiAgKQogIGxldCBmaW5hbFN0YXR1cyA9IGV4aXN0aW5nU3RhdHVzCgogIGlmIChleGlzdGluZ1N0YXR1cyAhPT0gJ2dyYW50ZWQnKSB7CiAgICBjb25zdCB7IHN0YXR1cyB9ID0gYXdhaXQgUGVybWlzc2lvbnMuYXNrQXN5bmMoUGVybWlzc2lvbnMuTk9USUZJQ0FUSU9OUykKICAgIGZpbmFsU3RhdHVzID0gc3RhdHVzCiAgfQoKICBpZiAoZmluYWxTdGF0dXMgIT09ICdncmFudGVkJykgewoKICB9CiAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhleHBvUHVzaFRva2VuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgW3sgaWQ6IDEgfV0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBsZXQgdmFyaWFibGVzID0gewogICAgaW5wdXRzOiB7CiAgICAgIGV4cG9QdXNoVG9rZW4KICAgIH0KICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGUK</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gZHJpdmVyVGVhbXMKICAgICAgICAuZmlsdGVyKHRlYW0gPT4gQm9vbGVhbih0ZWFtLmxvY2F0aW9uKSkK</text>
+        <text encoding="base64">cmV0dXJuIGZhbHNlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIEFsZXJ0LmFsZXJ0KAogICAgICAnTm90aWZpY2F0aW9ucyBSZXF1aXJlZCcsCiAgICAgICdOb3RpZmljYXRpb25zIGFyZSByZXF1aXJlZCB0byB1c2UgdGhlIExvYWRVcCBEcml2ZXIgQXBwJywKICAgICAgW3sgdGV4dDogJ09rJyB9XQogICAgKQ==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search>granted'</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern>granted'</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
@@ -459,7 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRvcHJlZml4ZXJcPg==</entry>
         <entry>customerOr</entry>
         <entry>Org</entry>
         <entry>customer</entry>
@@ -479,16 +470,9 @@
         <entry>Elevator</entry>
         <entry encoding="base64">XDwyXD4=</entry>
         <entry>label</entry>
+        <entry>granted'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ByaW1hcnkvaW5hY3RpdmU=</entry>
-        <entry>wqa</entry>
-        <entry>qw</entry>
-        <entry>sp</entry>
-        <entry>bd</entry>
-        <entry>noh</entry>
-        <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
-        <entry>%s/CANCELLED/Cancelled/g</entry>
         <entry>%s/SCHEDULED/Scheduled/g</entry>
         <entry>%s/COMPLETED/Completed</entry>
         <entry>we</entry>
@@ -499,11 +483,16 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry encoding="base64">bm5vcmVtYXAgamsgPEVzYz4=</entry>
         <entry encoding="base64">bm5vcmVtYXAgPGNyPiA6dzxjcj4=</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>set multiple-cursors</entry>
+        <entry encoding="base64">c2V0IG5ub3JlbWFwIDxsZWFkZXI+LyA6bm9oPGNyPg==</entry>
+        <entry encoding="base64">bm5vcmVtYXAgLC8gOm5vaDxjcj4=</entry>
+        <entry>noh</entry>
         <entry>w</entry>
+        <entry>bd</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -559,6 +548,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
