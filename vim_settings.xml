@@ -137,8 +137,11 @@
         <mark key="^" line="1" column="74" />
         <mark key="." line="1" column="74" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
+      <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670991172">
         <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/index.tsx" timestamp="1548783670440">
         <mark key="'" line="22" column="23" />
@@ -398,8 +401,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;require&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5nZXRQYWNrYWdlTmFtZSgpCg==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -462,35 +465,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBwICI9PT09PT09PT09PUFDVFVBTD09PT09PT0iCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5nZXRQYWNrYWdlTmFtZSgpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIHBwICI9PT09PT09PT09PUVYUEVDVEVEPT09PT09PSIKICAgIHBwIHRva2VucwogICAgcHAgIj09PT09PT09PT09QUNUVUFMPT09PT09PT09IgogICAgOjpMZXhlci5uZXcudG9rZW5pemUoY29kZSkKICAgIHBwICI9PT09PT09PT09PT09PT09PT09PT09PT09PSIKICAgIGJpbmRpbmcucHJ5</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgcHV0cyBpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgcHV0cyB0b2tlbnMK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkgaWYgY2h1bmsgPT0gJ3ByaW50ICJUaGUgRW5kIicK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">XG4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBjaHVuawo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgcHV0cyBjaHVuawo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -529,8 +532,8 @@
         <entry encoding="base64">JzwsJz5zL3JvdzItaGVpZ2h0L3JvdzItb2Zmc2V0L2c=</entry>
         <entry>vs</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -562,6 +565,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
