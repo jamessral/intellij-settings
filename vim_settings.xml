@@ -40,6 +40,13 @@
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" timestamp="1557929212934">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
         <mark key="'" line="5" column="25" />
         <mark key="[" line="106" column="26" />
@@ -117,12 +124,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1557927441375">
-        <mark key="'" line="88" column="51" />
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1557928572456">
+        <mark key="'" line="87" column="51" />
+        <mark key="[" line="43" column="54" />
+        <mark key="]" line="42" column="55" />
+        <mark key="." line="42" column="55" />
+        <mark key="^" line="42" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
         <mark key="'" line="11" column="0" />
@@ -185,11 +192,22 @@
       <file name="/a.sql" timestamp="1557863988071">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.js" timestamp="1557928780721">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1555612700411">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="35" />
         <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" timestamp="1557929086291">
+        <mark key="'" line="45" column="6" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" timestamp="1555442625606">
         <mark key="'" line="10" column="0" />
@@ -274,13 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="23" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="112" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="28" column="11" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="102" column="23" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="107" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="21" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="122" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="1" column="27" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="6" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="108" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
@@ -374,6 +385,13 @@
       <jump line="73" column="33" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="80" column="35" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="87" column="51" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
+      <jump line="5" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="11" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="9" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="45" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,10 +439,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxwcm9wc1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -479,44 +497,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xhc3NOYW1lPSdmbGV4LTEnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
-      <register name="2" type="4">
-        <text>flex-1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvc250IAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbnB1dDogewo=</text>
       </register>
-      <register name="4" type="4">
-        <text>flex-1</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>''</text>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>flex-1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwvRnJhZ21lbnQ+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>''</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxGcmFnbWVudD4K</text>
       </register>
-      <register name="8" type="4">
-        <text>flex-1</text>
+      <register name="8" type="2">
+        <text encoding="base64">bW9kdWxlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">XDxwcm9wc1w+</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9wc1w+</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -544,6 +562,7 @@
         <entry>col</entry>
         <entry>align</entry>
         <entry>&quot;</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/COMPLETED/Completed</entry>
