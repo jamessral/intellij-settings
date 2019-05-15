@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/package.json" timestamp="1548783805499">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/tslint.json" timestamp="1554406727114">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" timestamp="1555442154213">
         <mark key="'" line="14" column="0" />
       </file>
@@ -21,18 +15,6 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/index.js" timestamp="1548348612409">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/apollo.js" timestamp="1555599131985">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" timestamp="1555525275972">
-        <mark key="'" line="62" column="2" />
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="64" column="33" />
-        <mark key="." line="64" column="33" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/forms/getPricingVariablesFromForm/index.js" timestamp="1557924329070">
         <mark key="'" line="34" column="1" />
         <mark key="[" line="36" column="37" />
@@ -40,11 +22,19 @@
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" timestamp="1557929771432">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1557933471364">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="9" column="74" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" timestamp="1557932951011">
+        <mark key="'" line="1" column="34" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
         <mark key="'" line="5" column="25" />
@@ -65,12 +55,6 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/input_objects/orders_inputs.rb" timestamp="1555523802598">
         <mark key="'" line="4" column="63" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane.vue" timestamp="1554489226329">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" timestamp="1555612144169">
         <mark key="'" line="17" column="0" />
@@ -104,12 +88,6 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
         <mark key="'" line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/mapUtilities.ts" timestamp="1554473406001">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" timestamp="1555442703919">
         <mark key="'" line="10" column="0" />
       </file>
@@ -123,17 +101,12 @@
       <file name="$USER_HOME$/code/loadup-web/config/webpacker.yml" timestamp="1555442505307">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/MenuBar.vue" timestamp="1555530818273">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1557929920841">
-        <mark key="'" line="83" column="51" />
-        <mark key="[" line="6" column="81" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1557933533621">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
         <mark key="'" line="11" column="0" />
@@ -143,12 +116,6 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" timestamp="1550549144497">
         <mark key="'" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/components/Announcements/components/AnnouncementRow/AnnoucementRow.module.scss" timestamp="1548349523919">
-        <mark key="'" line="24" column="19" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/layouts/application.html.haml" timestamp="1555593017479">
         <mark key="'" line="33" column="38" />
@@ -177,12 +144,6 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/loadup_api/reminders/reminder_twiml_spec.rb" timestamp="1548792817637">
-        <mark key="'" line="23" column="383" />
-        <mark key="[" line="23" column="206" />
-        <mark key="]" line="23" column="206" />
-        <mark key="." line="23" column="206" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" timestamp="1555610417904">
         <mark key="'" line="75" column="19" />
         <mark key="[" line="78" column="70" />
@@ -201,32 +162,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1555612700411">
-        <mark key="'" line="5" column="5" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="35" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" timestamp="1557929086291">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" timestamp="1557930703660">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" timestamp="1555442625606">
         <mark key="'" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderPanel.vue" timestamp="1555601954647">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/orders/index.js" timestamp="1555611866396">
-        <mark key="'" line="39" column="7" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
         <mark key="'" line="7" column="59" />
@@ -243,12 +186,6 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1555678897320">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/types/orders.ts" timestamp="1548346379457">
-        <mark key="'" line="42" column="17" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
         <mark key="'" line="68" column="12" />
@@ -269,12 +206,6 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/package.json" timestamp="1548783824218">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/package.json" timestamp="1554748078807">
-        <mark key="'" line="49" column="5" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" timestamp="1555609883593">
         <mark key="'" line="41" column="4" />
       </file>
@@ -288,24 +219,8 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/tsconfig.json" timestamp="1548785376816">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="100" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="5" column="22" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="99" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="11" column="17" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="15" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="150" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="80" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
-      <jump line="5" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
       <jump line="41" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" />
       <jump line="62" column="16" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" />
       <jump line="3" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" />
@@ -393,9 +308,19 @@
       <jump line="11" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
       <jump line="9" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
       <jump line="45" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="20" column="17" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="16" column="93" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
       <jump line="10" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="47" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
+      <jump line="13" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
+      <jump line="20" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="17" column="47" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="26" column="46" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="18" column="7" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
+      <jump line="9" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="1" column="34" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -440,10 +365,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>renderGoogleMapsSearchBoxInput</text>
+        <text>Code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9wc1w+</text>
@@ -502,34 +427,34 @@
         <text>google-maps-picker-9a1b24fcb2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlbmRlckFkZHJlc3NBdXRvY29tcCBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi8uLi8uLi8uLi9jb21wb25lbnRzL3VpL2Zvcm1zL3JlbmRlckdvb2dsZU1hcHNTZWFyY2hCb3hJbnB1dCcK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtYXBwZWRLZXkgPSBBRERSRVNTX0ZJRUxEX01BUFtrZXldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQ==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCiAgICAgIHRoaXMucHJvcHMuY2hhbmdlRm9ybVZhbHVlKHsKICAgICAgICBmb3JtOiAnY3JlYXRlT3JkZXJGb3JtJywKICAgICAgICBmaWVsZDogJ3BpY2t1cEFkZHJlc3MnLAogICAgICAgIHZhbHVlOiBudWxsCiAgICAgIH0p</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0UGFyc2VkQWRkcmVzcyB9IGZyb20gJy4uLy4uLy4uLy4uLy4uLy4uLy4uLy4uLy4uL2xpYi9mb3Jtcy9nZXRQcmljaW5nVmFyaWFibGVzRnJvbUZvcm0nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFkZHJlc3MgPSBnZXRQYXJzZWRBZGRyZXNzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdvb2dsZSA9IHdpbmRvdy5nb29nbGUgfHwge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>()</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuY2hhbmdlRm9ybVZhbHVlKHsKICAgICAgZm9ybTogJ2NyZWF0ZU9yZGVyRm9ybScsCiAgICAgIGZpZWxkOiAnZGF0ZScsCiAgICAgIHZhbHVlOiBudWxsCiAgICB9KQ==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -539,7 +464,7 @@
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -583,8 +508,8 @@
         <entry>qa</entry>
         <entry>set multiple-cursors</entry>
         <entry>set surround</entry>
-        <entry>w</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
