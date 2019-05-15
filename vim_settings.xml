@@ -22,24 +22,25 @@
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1557935055057">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1557941249959">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" timestamp="1557940130775">
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" timestamp="1557941277850">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="28" />
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" timestamp="1557939558052">
-        <mark key="'" line="1" column="34" />
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="35" />
-        <mark key="^" line="38" column="35" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" timestamp="1557942455182">
+        <mark key="'" line="49" column="41" />
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="49" column="30" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
         <mark key="'" line="5" column="25" />
@@ -58,6 +59,9 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/tslint.json" timestamp="1554747831741">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withOrderFormValues/index.js" timestamp="1557941535920">
+        <mark key="'" line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/input_objects/orders_inputs.rb" timestamp="1555523802598">
         <mark key="'" line="4" column="63" />
       </file>
@@ -71,11 +75,11 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusLabel.vue" timestamp="1555601959807">
         <mark key="'" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" timestamp="1557940196950">
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" timestamp="1557942019678">
         <mark key="'" line="64" column="7" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
         <mark key="'" line="10" column="28" />
@@ -109,12 +113,12 @@
       <file name="$USER_HOME$/code/loadup-web/config/webpacker.yml" timestamp="1555442505307">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1557940210168">
-        <mark key="'" line="5" column="29" />
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="45" column="34" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1557942034803">
+        <mark key="'" line="46" column="25" />
+        <mark key="[" line="82" column="40" />
+        <mark key="]" line="82" column="42" />
+        <mark key="^" line="82" column="42" />
+        <mark key="." line="82" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
         <mark key="'" line="11" column="0" />
@@ -135,8 +139,20 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="21" column="10" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/RenderAddressAutoCompleteInput.module.css" timestamp="1557942500346">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
         <mark key="'" line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" timestamp="1557941704269">
+        <mark key="'" line="80" column="10" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" timestamp="1555616015238">
         <mark key="'" line="64" column="44" />
@@ -229,21 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="34" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="22" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" />
-      <jump line="68" column="12" filename="$USER_HOME$/code/loadup-web/app/models/driver.rb" />
-      <jump line="14" column="28" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="25" column="27" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="62" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="30" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="4" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
-      <jump line="23" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="112" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="114" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
-      <jump line="5" column="25" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
       <jump line="111" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="141" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="115" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
@@ -285,7 +286,6 @@
       <jump line="34" column="1" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="42" column="28" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="44" column="33" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="75" column="32" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="95" column="27" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="56" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
@@ -305,7 +305,6 @@
       <jump line="11" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
       <jump line="9" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
       <jump line="45" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="10" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
       <jump line="47" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
       <jump line="13" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="20" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
@@ -329,6 +328,23 @@
       <jump line="153" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="5" column="29" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="2" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/forms/createChangeValueAction/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
+      <jump line="56" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
+      <jump line="53" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
+      <jump line="128" column="60" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
+      <jump line="162" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withOrderFormValues/index.js" />
+      <jump line="2" column="54" filename="$USER_HOME$/code/loadup-web/web_partner/node_modules/@types/redux-form/lib/selectors.d.ts" />
+      <jump line="145" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
+      <jump line="80" column="10" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
+      <jump line="46" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
+      <jump line="32" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="10" column="10" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="44" column="67" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="48" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
+      <jump line="49" column="41" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -375,11 +391,27 @@
       <register name="*" type="4">
         <text>{}</text>
       </register>
+      <register name="l" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text>address</text>
+        <text encoding="base64">IHB5LTI=</text>
       </register>
       <register name="/" type="4">
-        <text>place</text>
+        <text>error</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -432,49 +464,233 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBpc1JlcXVpcmVkKHBpY2t1cEFkZHJlc3MpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBleHRlcm5hbEVycm9yPXtzeW5jRXJyb3JzLnN0YXRlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpc0FkZHJlc3NWYWxpZCwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBhZGRyZXNzbGluZTE6IGFkZHJlc3MsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>{
-      original: {
-        geometry: { location },
-        place_id,
-      },
-      parsed: { address, city, stateShort, zipCode },
-    },</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkT25seQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZT17aW5wdXQudmFsdWV9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17KHZhbHVlKSA9PiB7IGRlYnVnZ2VyOyBpbnB1dC5vbkNoYW5nZSh2YWx1ZSkgfX0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="q" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yIChwcm9wcykgewogICAgICBzdXBlcihwcm9wcyk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>place</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>place</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
@@ -503,6 +719,11 @@
         <entry>&quot;</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry>place</entry>
+        <entry encoding="base64">XDxnZXRQcmljaW5nVmFyaWFibGVzXD4=</entry>
+        <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
+        <entry>debug</entry>
+        <entry encoding="base64">XDxlcnJvclw+</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -520,10 +741,11 @@
         <entry encoding="base64">bm5vcmVtYXAgPHNwYWNlPi8gOm5vaDxjcj4=</entry>
         <entry>noh</entry>
         <entry>qa</entry>
-        <entry>set multiple-cursors</entry>
         <entry>set surround</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
+        <entry>set mutliple-cursors</entry>
+        <entry>set multiple-cursors</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
