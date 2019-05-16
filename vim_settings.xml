@@ -228,6 +228,9 @@
       <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" timestamp="1555442625606">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" timestamp="1558028573889">
+        <mark key="'" line="6" column="48" />
+      </file>
       <file name="/dummy.sql" timestamp="1558019350893">
         <mark key="[" line="0" column="0" />
       </file>
@@ -328,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="24" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="317" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="322" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="331" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
@@ -428,6 +430,7 @@
       <jump line="17" column="57" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/customer_organizations/_rewards_summary.haml" />
       <jump line="13" column="62" filename="$USER_HOME$/code/loadup-web/app/views/shared/_file_uploads.haml" />
       <jump line="10" column="32" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/show_file_uploads.haml" />
+      <jump line="6" column="48" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -777,40 +780,10 @@
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry encoding="base64">XDxwcm9wc1w+</entry>
-        <entry>place</entry>
-        <entry encoding="base64">XDxnZXRQcmljaW5nVmFyaWFibGVzXD4=</entry>
-        <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
-        <entry>debug</entry>
-        <entry encoding="base64">XDxlcnJvclw+</entry>
-        <entry encoding="base64">XDxzdWJtaXREaXNhYmxlZFw+</entry>
-        <entry>zipCode</entry>
-        <entry>error</entry>
-        <entry>err</entry>
-        <entry>disp</entry>
-        <entry>OR</entry>
-        <entry>TIME</entry>
-        <entry encoding="base64">XDx6aXBcPg==</entry>
-        <entry>goog</entry>
-        <entry>modules</entry>
-        <entry>options</entry>
-        <entry>module</entry>
-        <entry>negative</entry>
-        <entry>fonts</entry>
-        <entry>textSizes</entry>
-        <entry>fontWeights</entry>
-        <entry>borderWidths</entry>
-        <entry>borderColors</entry>
-        <entry>shad</entry>
-        <entry>svg</entry>
-        <entry>svgStrok</entry>
-        <entry>textSiz</entry>
-        <entry>fontWEights</entry>
         <entry>leading</entry>
         <entry>tracking</entry>
         <entry>textColors</entry>
@@ -833,8 +806,6 @@
         <entry>flex</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm5vcmVtYXAgamsgPEVzYz4=</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPGNyPiA6dzxjcj4=</entry>
         <entry encoding="base64">c2V0IG5ub3JlbWFwIDxsZWFkZXI+LyA6bm9oPGNyPg==</entry>
         <entry encoding="base64">bm5vcmVtYXAgLC8gOm5vaDxjcj4=</entry>
         <entry encoding="base64">bm5vcmVtYXAgPHNwYWNlPi8gOm5vaDxjcj4=</entry>
