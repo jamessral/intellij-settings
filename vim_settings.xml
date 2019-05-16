@@ -28,9 +28,6 @@
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="/loadup-api_development.public.driver_whitelisted_jwts [Rails loadup-web: development]" timestamp="1558019343161">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/partner/schedule_request_conversions/_conversion_form.haml" timestamp="1558017584964">
         <mark key="[" line="45" column="16" />
         <mark key="]" line="45" column="16" />
@@ -82,6 +79,13 @@
         <mark key="^" line="104" column="27" />
         <mark key="." line="106" column="27" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" timestamp="1558037081954">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="70" column="1" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" timestamp="1558022502077">
         <mark key="'" line="65" column="27" />
         <mark key="[" line="208" column="85" />
@@ -113,6 +117,9 @@
         <mark key="]" line="47" column="69" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/index.jsx" timestamp="1558035986685">
+        <mark key="'" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" timestamp="1557944679381">
         <mark key="'" line="71" column="7" />
@@ -208,6 +215,13 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ItemSelectionSection/components/ItemSelectionForm/components/SelectableItemOption/index.js" timestamp="1558018271690">
         <mark key="'" line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/index.js" timestamp="1558037536955">
+        <mark key="'" line="25" column="20" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ItemSelectionSection/components/ItemSelectionForm/components/SelectableItemOption/SelectableItemOption.module.scss" timestamp="1558018343615">
         <mark key="[" line="76" column="10" />
         <mark key="]" line="76" column="13" />
@@ -223,6 +237,9 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
         <mark key="'" line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/packs/createOrderForm.js" timestamp="1558035983609">
+        <mark key="'" line="3" column="46" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" timestamp="1555616015238">
         <mark key="'" line="64" column="44" />
@@ -248,8 +265,15 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/index.js" timestamp="1557940198875">
         <mark key="'" line="7" column="5" />
       </file>
-      <file name="/a.sql" timestamp="1557870650028">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/index.js" timestamp="1558035998714">
+        <mark key="'" line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/components/InlinePricingBreakdown/components/TotalExplainer/index.js" timestamp="1558037792660">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" timestamp="1555442625606">
         <mark key="'" line="10" column="0" />
@@ -257,13 +281,10 @@
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" timestamp="1558028573889">
         <mark key="'" line="6" column="48" />
       </file>
-      <file name="/dummy.sql" timestamp="1558019350893">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
         <mark key="'" line="7" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558012200557">
+      <file name="/Dummy.txt" timestamp="1558037616433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="43" />
@@ -275,9 +296,6 @@
         <mark key="]" line="102" column="24" />
         <mark key="." line="102" column="24" />
         <mark key="^" line="102" column="24" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1555678897320">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
         <mark key="'" line="68" column="12" />
@@ -311,11 +329,12 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/package.json" timestamp="1548783824218">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/partner.scss" timestamp="1558022159138">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/index.js" timestamp="1558036090497">
+        <mark key="'" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/partner.scss" timestamp="1558035293821">
+        <mark key="'" line="148" column="37" />
+        <mark key="^" line="148" column="12" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/TextForEstimate.module.css" timestamp="1558033634396">
         <mark key="'" line="39" column="0" />
@@ -342,6 +361,9 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" timestamp="1558035815648">
+        <mark key="'" line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" timestamp="1555609883593">
         <mark key="'" line="41" column="4" />
       </file>
@@ -364,35 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="53" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="35" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="61" column="75" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="64" column="63" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="68" column="30" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="350" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="353" column="41" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="362" column="31" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="366" column="17" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="369" column="47" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="378" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="424" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="427" column="43" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="431" column="28" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="440" column="48" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="439" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="186" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="788" column="80" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="12" column="54" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="52" column="22" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="53" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="182" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="119" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/index.css" />
-      <jump line="17" column="20" filename="$USER_HOME$/code/loadup-web/web_partner/src/index.css" />
-      <jump line="118" column="26" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="72" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/styles/tailwind.css" />
-      <jump line="7" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/styles/tailwind.css" />
-      <jump line="12" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/styles/tailwind.css" />
       <jump line="64" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/styles/tailwind.css" />
       <jump line="112" column="9" filename="$USER_HOME$/code/loadup-web/web_partner/src/styles/tailwind.css" />
       <jump line="113" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/styles/tailwind.css" />
@@ -464,6 +457,35 @@
       <jump line="43" column="29" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/index.js" />
       <jump line="1" column="56" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/index.tsx" />
       <jump line="15" column="25" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/index.tsx" />
+      <jump line="148" column="37" filename="$USER_HOME$/code/loadup-web/app/javascript/css/partner.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/partner.scss" />
+      <jump line="62" column="30" filename="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" />
+      <jump line="20" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" />
+      <jump line="3" column="46" filename="$USER_HOME$/code/loadup-web/app/javascript/packs/createOrderForm.js" />
+      <jump line="10" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/index.jsx" />
+      <jump line="18" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/index.js" />
+      <jump line="94" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" />
+      <jump line="14" column="28" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/index.js" />
+      <jump line="61" column="38" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="67" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="104" column="31" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="124" column="34" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="143" column="34" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="114" column="19" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="168" column="20" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="0" column="16" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="93" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="71" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/index.js" />
+      <jump line="3" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/utils/index.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/components/renderItemsFields/index.js" />
+      <jump line="18" column="21" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/index.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/components/InlinePricingBreakdown/components/TotalExplainer/index.js" />
+      <jump line="25" column="20" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -508,7 +530,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text>()</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -527,10 +549,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-next-line</text>
+        <text>rounded-full bg-green px-4 py-2 text-white text-bold</text>
       </register>
       <register name="/" type="4">
-        <text>phone</text>
+        <text encoding="base64">XDxGcmFnbWVudFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -586,7 +608,7 @@
         <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDAuM3JlbTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIGNhbWVsY2FzZQo=</text>
+        <text encoding="base64">ICAgICAge21pbmltdW1QcmljZUFwcGxpZWQgJiYgJyhNaW5pbXVtIEFwcGxpZWQpJ30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -779,44 +801,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIGNhbWVsY2FzZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY2FwaXRhbGl6ZSwgZmluZCB9IGZyb20gJ2xvZGFzaC1mcCcK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZWxkcy5yZW1vdmUoaW5kZXgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="4">
-        <text>.subtitleText span {
-  padding-left: 0.3rem;
-  padding-right: 0.3rem;
-}</text>
+        <text encoding="base64">CiAgY29uc3QgewogICAgY2hhbmdlSXRlbVR5cGVWYWx1ZSwKICAgIGZpZWxkcywKICAgIGl0ZW1UeXBlcywKICAgIG1ldGE6IHsgZXJyb3IsIHN1Ym1pdEZhaWxlZCB9CiAgfSA9IHByb3Bz</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZmllbGRzIH0gPSBwcm9wcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yPScjMjIyJwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>phone</last-search>
+      <last-search encoding="base64">XDxGcmFnbWVudFw+</last-search>
       <last-offset />
-      <last-pattern>phone</last-pattern>
+      <last-pattern encoding="base64">XDxGcmFnbWVudFw+</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -843,6 +862,10 @@
         <entry>{b</entry>
         <entry>Text</entry>
         <entry>phone</entry>
+        <entry>number-input-buttons</entry>
+        <entry>this.</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry encoding="base64">XDxGcmFnbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IG5ub3JlbWFwIDxsZWFkZXI+LyA6bm9oPGNyPg==</entry>
@@ -858,12 +881,12 @@
         <entry encoding="base64">bm9oIA==</entry>
         <entry>changes</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>set multiple-cursors</entry>
         <entry>qa</entry>
         <entry>wq</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>set multiple-cursors</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
