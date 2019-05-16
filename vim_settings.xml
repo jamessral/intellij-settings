@@ -825,7 +825,7 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wqa</text>
       </register>
     </registers>
     <search>
@@ -888,6 +888,7 @@
         <entry>set multiple-cursors</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
