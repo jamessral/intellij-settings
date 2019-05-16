@@ -42,6 +42,9 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" timestamp="1558016166733">
+        <mark key="'" line="96" column="19" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
         <mark key="'" line="5" column="25" />
         <mark key="[" line="106" column="26" />
@@ -109,6 +112,9 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
         <mark key="'" line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/index.css" timestamp="1558016146045">
+        <mark key="'" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" timestamp="1555442703919">
         <mark key="'" line="10" column="0" />
@@ -256,6 +262,12 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/package.json" timestamp="1548783824218">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/partner.scss" timestamp="1558015762799">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" timestamp="1555609883593">
         <mark key="'" line="41" column="4" />
       </file>
@@ -278,83 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="32" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="95" column="27" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="56" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="68" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="85" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="26" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="74" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="86" column="38" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="57" column="41" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="64" column="41" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="73" column="33" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="80" column="35" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="87" column="51" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="5" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="11" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="9" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="45" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="47" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="13" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="20" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="17" column="47" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="26" column="46" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="18" column="7" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
-      <jump line="9" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="1" column="34" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="149" column="42" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="115" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" />
-      <jump line="117" column="26" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" />
-      <jump line="93" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" />
-      <jump line="150" column="23" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" />
-      <jump line="17" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" />
-      <jump line="64" column="7" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" />
-      <jump line="7" column="5" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/index.js" />
-      <jump line="153" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="5" column="29" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="2" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/forms/createChangeValueAction/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
-      <jump line="56" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
-      <jump line="117" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
-      <jump line="53" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
-      <jump line="128" column="60" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
-      <jump line="162" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
-      <jump line="6" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withOrderFormValues/index.js" />
-      <jump line="2" column="54" filename="$USER_HOME$/code/loadup-web/web_partner/node_modules/@types/redux-form/lib/selectors.d.ts" />
-      <jump line="145" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
-      <jump line="80" column="10" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withPricingDetails/index.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="10" column="10" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="44" column="67" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="48" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="49" column="35" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="50" column="56" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderGoogleMapsSearchBoxInput/index.js" />
-      <jump line="131" column="14" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="11" column="44" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/components/PlaceOrderButton/index.js" />
-      <jump line="71" column="7" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/DetailsSection/index.js" />
-      <jump line="187" column="18" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" />
-      <jump line="7" column="35" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="20" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" />
-      <jump line="77" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="333" column="35" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
-      <jump line="334" column="20" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
-      <jump line="336" column="39" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
-      <jump line="338" column="27" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
-      <jump line="37" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
-      <jump line="167" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
       <jump line="292" column="10" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/errors/index.js" />
       <jump line="46" column="25" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="49" column="21" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" />
@@ -378,6 +313,83 @@
       <jump line="18" column="0" filename="$USER_HOME$/code/loadup-web/spec/support/partner_helpers.rb" />
       <jump line="20" column="13" filename="$USER_HOME$/code/loadup-web/spec/support/partner_helpers.rb" />
       <jump line="3" column="45" filename="$USER_HOME$/code/loadup-web/spec/support/partner_helpers.rb" />
+      <jump line="147" column="5" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="848" column="74" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="851" column="38" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="852" column="41" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="940" column="1" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="150" column="16" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="715" column="22" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="877" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="196" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="197" column="76" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="200" column="59" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="201" column="29" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="205" column="68" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="213" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="270" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="297" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="315" column="24" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="317" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="322" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="331" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="335" column="24" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="337" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="342" column="16" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="414" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="732" column="74" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="735" column="36" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="736" column="63" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="739" column="21" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="740" column="17" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="742" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="743" column="24" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="747" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="804" column="78" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="817" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="871" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="903" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="311" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="880" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="905" column="16" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="867" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="928" column="3" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="932" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="934" column="34" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="935" column="42" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="203" column="69" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="352" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="807" column="45" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="826" column="47" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="29" column="73" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="32" column="27" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="33" column="53" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="61" column="75" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="64" column="63" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="68" column="30" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="350" column="11" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="353" column="41" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="362" column="31" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="366" column="17" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="369" column="47" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="378" column="37" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="424" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="427" column="43" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="431" column="28" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="440" column="48" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="439" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="186" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="788" column="80" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="12" column="54" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="52" column="22" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="53" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="182" column="4" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/index.css" />
+      <jump line="17" column="20" filename="$USER_HOME$/code/loadup-web/web_partner/src/index.css" />
+      <jump line="118" column="26" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
+      <jump line="72" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -441,10 +453,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>google-maps-picker-9a1b24fcb2</text>
+        <text>red-</text>
       </register>
       <register name="/" type="4">
-        <text>goog</text>
+        <text>c646</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -496,11 +508,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>google-maps-picker-9a1b24fcb2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdoaXRlc3BhY2U6IFsncmVzcG9uc2l2ZSddLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBpY2tlcl9pZAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgJ3JlZC1kYXJrZXN0JzogJyMzRjQyNDInLAogICAgICAncmVkLWRhcmtlcic6ICcjNjIxYjE4JywKICAgICAgJ3JlZC1kYXJrJzogJyNjYzFmMWEnLAogICAgICAncmVkJzogJyNlMzM0MmYnLAogICAgICAncmVkLWxpZ2h0JzogJyNlZjU3NTMnLAogICAgICAncmVkLWxpZ2h0ZXInOiAnI2Y5YWNhYScsCiAgICAgICdyZWQtbGlnaHRlc3QnOiAnI2ZjZWJlYScs</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -693,37 +705,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0lQOyBCZWdpbiBhZGRpbmcgbmV3IEdvb2dsZSBhZGRyZXNzIGhhbmRsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{}</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>styles.formRow</text>
+        <text encoding="base64">CiAgICAgICdvcmFuZ2UtZGFya2VzdCc6ICcjNDYyYTE2JywKICAgICAgJ29yYW5nZS1kYXJrZXInOiAnIzYxM2IxZicsCiAgICAgICdvcmFuZ2UtZGFyayc6ICcjZGU3NTFmJywKICAgICAgJ29yYW5nZSc6ICcjZjY5OTNmJywKICAgICAgJ29yYW5nZS1saWdodCc6ICcjZmFhZDYzJywKICAgICAgJ29yYW5nZS1saWdodGVyJzogJyNmY2Q5YjYnLAogICAgICAnb3JhbmdlLWxpZ2h0ZXN0JzogJyNmZmY1ZWInLAoKICAgICAgJ3llbGxvdy1kYXJrZXN0JzogJyM0NTM0MTEnLAogICAgICAneWVsbG93LWRhcmtlcic6ICcjNjg0ZjFkJywKICAgICAgJ3llbGxvdy1kYXJrJzogJyNmMmQwMjQnLAogICAgICAneWVsbG93JzogJyNmZmVkNGEnLAogICAgICAneWVsbG93LWxpZ2h0JzogJyNmZmYzODInLAogICAgICAneWVsbG93LWxpZ2h0ZXInOiAnI2ZmZjljMicsCiAgICAgICd5ZWxsb3ctbGlnaHRlc3QnOiAnI2ZjZmJlYics</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCwgU3ludGhldGljRXZlbnQgfSBmcm9tICdyZWFjdCcKaW1wb3J0IGdldE9yIGZyb20gJ2xvZGFzaC9mcC9nZXRPcicKaW1wb3J0IHN0eWxlcyBmcm9tICcuL0N1c3RvbWVySW5mb1NlY3Rpb24ubW9kdWxlLnNjc3MnCi8vIEB0cy1pZ25vcmUKaW1wb3J0IFJlbmRlckFkZHJlc3NBdXRvY29tcGxldGVJbnB1dCBmcm9tICcuLi8uLi8uLi8uLi9jb21wb25lbnRzL3VpL2Zvcm1zL3JlbmRlckFkZHJlc3NBdXRvY29tcGxldGVJbnB1dCcKaW1wb3J0IHsgbm9ybWFsaXplUGhvbmUgfSBmcm9tICcuLi8uLi8uLi8uLi9saWIvZm9ybXMvbm9ybWFsaXplcnMnCmltcG9ydCB7IElBZGRyZXNzIH0gZnJvbSAnLi4vLi4vLi4vLi4vbGliL2FkZHJlc3NlcycKCmludGVyZmFjZSBJUHJvcHMgewogIGFkZHJlc3M6IHN0cmluZwogIGNpdHk6IHN0cmluZwogIHN0YXRlOiBzdHJpbmcKICB6aXA6IHN0cmluZwogIGFkZHJlc3NFcnJvcjogc3RyaW5nIHwgbnVsbAogIGNpdHlFcnJvcjogc3RyaW5nIHwgbnVsbAogIHN0YXRlRXJyb3I6IHN0cmluZyB8IG51bGwKICB6aXBFcnJvcjogc3RyaW5nIHwgbnVsbAogIHVuaXROdW1iZXI6IHN0cmluZwogIGZpcnN0TmFtZTogc3RyaW5nCiAgZmlyc3ROYW1lRXJyb3I6IHN0cmluZyB8IG51bGwKICBsYXN0TmFtZTogc3RyaW5nCiAgbGFzdE5hbWVFcnJvcjogc3RyaW5nIHwgbnVsbAogIHByaW1hcnlQaG9uZTogc3RyaW5nCiAgcHJpbWFyeVBob25lRXJyb3I6IHN0cmluZyB8IG51bGwKICBzZWNvbmRhcnlQaG9uZTogc3RyaW5nCiAgc2Vjb25kYXJ5UGhvbmVFcnJvcjogc3RyaW5nIHwgbnVsbAogIGVtYWlsQWRkcmVzczogc3RyaW5nCiAgZW1haWxBZGRyZXNzRXJyb3I6IHN0cmluZyB8IG51bGwKICBzZXRBZGRyZXNzOiAoYWRkcmVzczogc3RyaW5nKSA9PiB2b2lkCiAgc2V0Q2l0eTogKGNpdHk6IHN0cmluZykgPT4gdm9pZAogIHNldFN0YXRlOiAoc3RhdGU6IHN0cmluZykgPT4gdm9pZAogIHNldFppcDogKHppcDogc3RyaW5nKSA9PiB2b2lkCiAgc2V0VW5pdE51bWJlcjogKHVuaXROdW1iZXI6IHN0cmluZykgPT4gdm9pZAogIHNldEZpcnN0TmFtZTogKGZpcnN0TmFtZTogc3RyaW5nKSA9PiB2b2lkCiAgc2V0TGFzdE5hbWU6IChsYXN0TmFtZTogc3RyaW5nKSA9PiB2b2lkCiAgc2V0UHJpbWFyeVBob25lOiAocHJpbWFyeVBob25lOiBzdHJpbmcpID0+IHZvaWQKICBzZXRTZWNvbmRhcnlQaG9uZTogKHNlY29uZGFyeVBob25lOiBzdHJpbmcpID0+IHZvaWQKICBzZXRFbWFpbEFkZHJlc3M6IChlbWFpbEFkZHJlc3M6IHN0cmluZykgPT4gdm9pZAogIG9uRmlyc3ROYW1lQmx1cjogKCkgPT4gdm9pZAogIG9uTGFzdE5hbWVCbHVyOiAoKSA9PiB2b2lkCiAgb25QcmltYXJ5UGhvbmVCbHVyOiAoKSA9PiB2b2lkCiAgb25TZWNvbmRhcnlQaG9uZUJsdXI6ICgpID0+IHZvaWQKICBvbkVtYWlsQmx1cjogKCkgPT4gdm9pZAp9CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBDdXN0b21lckluZm9TZWN0aW9uIGV4dGVuZHMgQ29tcG9uZW50PElQcm9wcz4gewogIHB1YmxpYyBoYW5kbGVDaGFuZ2VBZGRyZXNzID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBhZGRyZXNzID0gZ2V0T3IoJycsICd0YXJnZXQudmFsdWUnLCBlKQogICAgdGhpcy5wcm9wcy5zZXRBZGRyZXNzKGFkZHJlc3MpCiAgfQoKICBwdWJsaWMgaGFuZGxlUGlja0FkZHJlc3MgPSAocGxhY2U6IElBZGRyZXNzKSA9PiB7CiAgICBjb25zdCBzdHJlZXRBZGRyZXNzID0gYCR7cGxhY2Uuc3RyZWV0X251bWJlciB8fCAnJ30gJHtwbGFjZS5yb3V0ZSB8fCAnJ31gCiAgICB0aGlzLnByb3BzLnNldEFkZHJlc3Moc3RyZWV0QWRkcmVzcykKICAgIHRoaXMucHJvcHMuc2V0Q2l0eShwbGFjZS5sb2NhbGl0eSB8fCAnJykKICAgIHRoaXMucHJvcHMuc2V0U3RhdGUocGxhY2UuYWRtaW5pc3RyYXRpdmVfYXJlYV9sZXZlbF8xIHx8ICcnKQogICAgdGhpcy5wcm9wcy5zZXRaaXAocGxhY2UucG9zdGFsX2NvZGUgfHwgJycpCiAgfQoKICBwdWJsaWMgaGFuZGxlQ2l0eUNoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgY2l0eSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0Q2l0eShjaXR5KQogIH0KCiAgcHVibGljIGhhbmRsZVN0YXRlQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBzdGF0ZSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0U3RhdGUoc3RhdGUpCiAgfQoKICBwdWJsaWMgaGFuZGxlWmlwQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCB6aXAgPSBnZXRPcignJywgJ3RhcmdldC52YWx1ZScsIGUpCiAgICB0aGlzLnByb3BzLnNldFppcCh6aXApCiAgfQoKICBwdWJsaWMgaGFuZGxlVW5pdE51bWJlckNoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgdW5pdE51bWJlciA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0VW5pdE51bWJlcih1bml0TnVtYmVyKQogIH0KCiAgcHVibGljIGhhbmRsZUZpcnN0TmFtZUNoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgZmlyc3ROYW1lID0gZ2V0T3IoJycsICd0YXJnZXQudmFsdWUnLCBlKQogICAgdGhpcy5wcm9wcy5zZXRGaXJzdE5hbWUoZmlyc3ROYW1lKQogIH0KCiAgcHVibGljIGhhbmRsZUxhc3ROYW1lQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBsYXN0TmFtZSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0TGFzdE5hbWUobGFzdE5hbWUpCiAgfQoKICBwdWJsaWMgaGFuZGxlUHJpbWFyeVBob25lQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBwcmltYXJ5UGhvbmUgPSBnZXRPcignJywgJ3RhcmdldC52YWx1ZScsIGUpCiAgICB0aGlzLnByb3BzLnNldFByaW1hcnlQaG9uZShub3JtYWxpemVQaG9uZShwcmltYXJ5UGhvbmUpKQogIH0KCiAgcHVibGljIGhhbmRsZVNlY29uZGFyeVBob25lQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBzZWNvbmRhcnlQaG9uZSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0U2Vjb25kYXJ5UGhvbmUobm9ybWFsaXplUGhvbmUoc2Vjb25kYXJ5UGhvbmUpKQogIH0KCiAgcHVibGljIGhhbmRsZUVtYWlsQWRkcmVzc0NoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgZW1haWxBZGRyZXNzID0gZ2V0T3IoJycsICd0YXJnZXQudmFsdWUnLCBlKQogICAgdGhpcy5wcm9wcy5zZXRFbWFpbEFkZHJlc3MoZW1haWxBZGRyZXNzKQogIH0KCiAgcHVibGljIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxoNCBjbGFzc05hbWU9e3N0eWxlcy5oZWFkZXJ9PkN1c3RvbWVyJ3MgQ29udGFjdCBJbmZvPC9oND4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ew==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCwgU3ludGhldGljRXZlbnQgfSBmcm9tICdyZWFjdCcKaW1wb3J0IGdldE9yIGZyb20gJ2xvZGFzaC9mcC9nZXRPcicKaW1wb3J0IHN0eWxlcyBmcm9tICcuL0N1c3RvbWVySW5mb1NlY3Rpb24ubW9kdWxlLnNjc3MnCi8vIEB0cy1pZ25vcmUKaW1wb3J0IFJlbmRlckFkZHJlc3NBdXRvY29tcGxldGVJbnB1dCBmcm9tICcuLi8uLi8uLi8uLi9jb21wb25lbnRzL3VpL2Zvcm1zL3JlbmRlckFkZHJlc3NBdXRvY29tcGxldGVJbnB1dCcKaW1wb3J0IHsgbm9ybWFsaXplUGhvbmUgfSBmcm9tICcuLi8uLi8uLi8uLi9saWIvZm9ybXMvbm9ybWFsaXplcnMnCmltcG9ydCB7IElBZGRyZXNzIH0gZnJvbSAnLi4vLi4vLi4vLi4vbGliL2FkZHJlc3NlcycKCmludGVyZmFjZSBJUHJvcHMgewogIGFkZHJlc3M6IHN0cmluZwogIGNpdHk6IHN0cmluZwogIHN0YXRlOiBzdHJpbmcKICB6aXA6IHN0cmluZwogIGFkZHJlc3NFcnJvcjogc3RyaW5nIHwgbnVsbAogIGNpdHlFcnJvcjogc3RyaW5nIHwgbnVsbAogIHN0YXRlRXJyb3I6IHN0cmluZyB8IG51bGwKICB6aXBFcnJvcjogc3RyaW5nIHwgbnVsbAogIHVuaXROdW1iZXI6IHN0cmluZwogIGZpcnN0TmFtZTogc3RyaW5nCiAgZmlyc3ROYW1lRXJyb3I6IHN0cmluZyB8IG51bGwKICBsYXN0TmFtZTogc3RyaW5nCiAgbGFzdE5hbWVFcnJvcjogc3RyaW5nIHwgbnVsbAogIHByaW1hcnlQaG9uZTogc3RyaW5nCiAgcHJpbWFyeVBob25lRXJyb3I6IHN0cmluZyB8IG51bGwKICBzZWNvbmRhcnlQaG9uZTogc3RyaW5nCiAgc2Vjb25kYXJ5UGhvbmVFcnJvcjogc3RyaW5nIHwgbnVsbAogIGVtYWlsQWRkcmVzczogc3RyaW5nCiAgZW1haWxBZGRyZXNzRXJyb3I6IHN0cmluZyB8IG51bGwKICBzZXRBZGRyZXNzOiAoYWRkcmVzczogc3RyaW5nKSA9PiB2b2lkCiAgc2V0Q2l0eTogKGNpdHk6IHN0cmluZykgPT4gdm9pZAogIHNldFN0YXRlOiAoc3RhdGU6IHN0cmluZykgPT4gdm9pZAogIHNldFppcDogKHppcDogc3RyaW5nKSA9PiB2b2lkCiAgc2V0VW5pdE51bWJlcjogKHVuaXROdW1iZXI6IHN0cmluZykgPT4gdm9pZAogIHNldEZpcnN0TmFtZTogKGZpcnN0TmFtZTogc3RyaW5nKSA9PiB2b2lkCiAgc2V0TGFzdE5hbWU6IChsYXN0TmFtZTogc3RyaW5nKSA9PiB2b2lkCiAgc2V0UHJpbWFyeVBob25lOiAocHJpbWFyeVBob25lOiBzdHJpbmcpID0+IHZvaWQKICBzZXRTZWNvbmRhcnlQaG9uZTogKHNlY29uZGFyeVBob25lOiBzdHJpbmcpID0+IHZvaWQKICBzZXRFbWFpbEFkZHJlc3M6IChlbWFpbEFkZHJlc3M6IHN0cmluZykgPT4gdm9pZAogIG9uRmlyc3ROYW1lQmx1cjogKCkgPT4gdm9pZAogIG9uTGFzdE5hbWVCbHVyOiAoKSA9PiB2b2lkCiAgb25QcmltYXJ5UGhvbmVCbHVyOiAoKSA9PiB2b2lkCiAgb25TZWNvbmRhcnlQaG9uZUJsdXI6ICgpID0+IHZvaWQKICBvbkVtYWlsQmx1cjogKCkgPT4gdm9pZAp9CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBDdXN0b21lckluZm9TZWN0aW9uIGV4dGVuZHMgQ29tcG9uZW50PElQcm9wcz4gewogIHB1YmxpYyBoYW5kbGVDaGFuZ2VBZGRyZXNzID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBhZGRyZXNzID0gZ2V0T3IoJycsICd0YXJnZXQudmFsdWUnLCBlKQogICAgdGhpcy5wcm9wcy5zZXRBZGRyZXNzKGFkZHJlc3MpCiAgfQoKICBwdWJsaWMgaGFuZGxlUGlja0FkZHJlc3MgPSAocGxhY2U6IElBZGRyZXNzKSA9PiB7CiAgICBjb25zdCBzdHJlZXRBZGRyZXNzID0gYCR7cGxhY2Uuc3RyZWV0X251bWJlciB8fCAnJ30gJHtwbGFjZS5yb3V0ZSB8fCAnJ31gCiAgICB0aGlzLnByb3BzLnNldEFkZHJlc3Moc3RyZWV0QWRkcmVzcykKICAgIHRoaXMucHJvcHMuc2V0Q2l0eShwbGFjZS5sb2NhbGl0eSB8fCAnJykKICAgIHRoaXMucHJvcHMuc2V0U3RhdGUocGxhY2UuYWRtaW5pc3RyYXRpdmVfYXJlYV9sZXZlbF8xIHx8ICcnKQogICAgdGhpcy5wcm9wcy5zZXRaaXAocGxhY2UucG9zdGFsX2NvZGUgfHwgJycpCiAgfQoKICBwdWJsaWMgaGFuZGxlQ2l0eUNoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgY2l0eSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0Q2l0eShjaXR5KQogIH0KCiAgcHVibGljIGhhbmRsZVN0YXRlQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBzdGF0ZSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0U3RhdGUoc3RhdGUpCiAgfQoKICBwdWJsaWMgaGFuZGxlWmlwQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCB6aXAgPSBnZXRPcignJywgJ3RhcmdldC52YWx1ZScsIGUpCiAgICB0aGlzLnByb3BzLnNldFppcCh6aXApCiAgfQoKICBwdWJsaWMgaGFuZGxlVW5pdE51bWJlckNoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgdW5pdE51bWJlciA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0VW5pdE51bWJlcih1bml0TnVtYmVyKQogIH0KCiAgcHVibGljIGhhbmRsZUZpcnN0TmFtZUNoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgZmlyc3ROYW1lID0gZ2V0T3IoJycsICd0YXJnZXQudmFsdWUnLCBlKQogICAgdGhpcy5wcm9wcy5zZXRGaXJzdE5hbWUoZmlyc3ROYW1lKQogIH0KCiAgcHVibGljIGhhbmRsZUxhc3ROYW1lQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBsYXN0TmFtZSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0TGFzdE5hbWUobGFzdE5hbWUpCiAgfQoKICBwdWJsaWMgaGFuZGxlUHJpbWFyeVBob25lQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBwcmltYXJ5UGhvbmUgPSBnZXRPcignJywgJ3RhcmdldC52YWx1ZScsIGUpCiAgICB0aGlzLnByb3BzLnNldFByaW1hcnlQaG9uZShub3JtYWxpemVQaG9uZShwcmltYXJ5UGhvbmUpKQogIH0KCiAgcHVibGljIGhhbmRsZVNlY29uZGFyeVBob25lQ2hhbmdlID0gKGU6IFN5bnRoZXRpY0V2ZW50KSA9PiB7CiAgICBjb25zdCBzZWNvbmRhcnlQaG9uZSA9IGdldE9yKCcnLCAndGFyZ2V0LnZhbHVlJywgZSkKICAgIHRoaXMucHJvcHMuc2V0U2Vjb25kYXJ5UGhvbmUobm9ybWFsaXplUGhvbmUoc2Vjb25kYXJ5UGhvbmUpKQogIH0KCiAgcHVibGljIGhhbmRsZUVtYWlsQWRkcmVzc0NoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudCkgPT4gewogICAgY29uc3QgZW1haWxBZGRyZXNzID0gZ2V0T3IoJycsICd0YXJnZXQudmFsdWUnLCBlKQogICAgdGhpcy5wcm9wcy5zZXRFbWFpbEFkZHJlc3MoZW1haWxBZGRyZXNzKQogIH0KCiAgcHVibGljIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxoNCBjbGFzc05hbWU9e3N0eWxlcy5oZWFkZXJ9PkN1c3RvbWVyJ3MgQ29udGFjdCBJbmZvPC9oND4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ew==</text>
+        <text encoding="base64">CiAgICAgICd0ZWFsLWRhcmtlc3QnOiAnIzBkMzMzMScsCiAgICAgICd0ZWFsLWRhcmtlcic6ICcjMjA1MDRmJywKICAgICAgJ3RlYWwtZGFyayc6ICcjMzhhODlkJywKICAgICAgJ3RlYWwnOiAnIzRkYzBiNScsCiAgICAgICd0ZWFsLWxpZ2h0JzogJyM2NGQ1Y2EnLAogICAgICAndGVhbC1saWdodGVyJzogJyNhMGYwZWQnLAogICAgICAndGVhbC1saWdodGVzdCc6ICcjZThmZmZlJyw=</text>
       </register>
-      <register name="7" type="4">
-        <text>()</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>zip: string</text>
+        <text encoding="base64">CiAgICAgICdpbmRpZ28tZGFya2VzdCc6ICcjMTkxZTM4JywKICAgICAgJ2luZGlnby1kYXJrZXInOiAnIzJmMzY1ZicsCiAgICAgICdpbmRpZ28tZGFyayc6ICcjNTY2MWIzJywKICAgICAgJ2luZGlnbyc6ICcjNjU3NGNkJywKICAgICAgJ2luZGlnby1saWdodCc6ICcjNzg4NmQ3JywKICAgICAgJ2luZGlnby1saWdodGVyJzogJyNiMmI3ZmYnLAogICAgICAnaW5kaWdvLWxpZ2h0ZXN0JzogJyNlNmU4ZmYnLA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>goog</last-search>
+      <last-search>c646</last-search>
       <last-offset />
-      <last-pattern>goog</last-pattern>
+      <last-pattern>c646</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
@@ -753,6 +765,33 @@
         <entry>TIME</entry>
         <entry encoding="base64">XDx6aXBcPg==</entry>
         <entry>goog</entry>
+        <entry>modules</entry>
+        <entry>options</entry>
+        <entry>module</entry>
+        <entry>negative</entry>
+        <entry>fonts</entry>
+        <entry>textSizes</entry>
+        <entry>fontWeights</entry>
+        <entry>borderWidths</entry>
+        <entry>borderColors</entry>
+        <entry>shad</entry>
+        <entry>svg</entry>
+        <entry>svgStrok</entry>
+        <entry>textSiz</entry>
+        <entry>fontWEights</entry>
+        <entry>leading</entry>
+        <entry>tracking</entry>
+        <entry>textColors</entry>
+        <entry>lists</entry>
+        <entry>container</entry>
+        <entry>colors</entry>
+        <entry>opacity</entry>
+        <entry>tailwind</entry>
+        <entry>config(</entry>
+        <entry>loadup-red</entry>
+        <entry>red</entry>
+        <entry encoding="base64">XDxjNjQ2NGFcPg==</entry>
+        <entry>c646</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm5vcmVtYXAgamsgPEVzYz4=</entry>
@@ -770,10 +809,11 @@
         <entry encoding="base64">bm5vcmVtYXAgLC8gOm5vaCA8Y3I+</entry>
         <entry encoding="base64">bm9oIA==</entry>
         <entry>changes</entry>
-        <entry>q</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set multiple-cursors</entry>
         <entry>nohlsearch</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
