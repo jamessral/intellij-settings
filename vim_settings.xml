@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" timestamp="1555442154213">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/models/customer.rb" timestamp="1558029662794" />
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554751085546">
         <mark key="'" line="4" column="4" />
       </file>
@@ -31,6 +32,13 @@
         <mark key="." line="45" column="25" />
         <mark key="^" line="45" column="25" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1558030325279">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="31" column="81" />
+        <mark key="]" line="31" column="87" />
+        <mark key="." line="31" column="87" />
+        <mark key="^" line="31" column="87" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/App.js" timestamp="1558018198442">
         <mark key="'" line="29" column="22" />
         <mark key="[" line="29" column="82" />
@@ -38,12 +46,11 @@
         <mark key="^" line="29" column="101" />
         <mark key="." line="29" column="101" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" timestamp="1557946574270">
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" timestamp="1558029869840">
         <mark key="'" line="47" column="7" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="48" column="46" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderAddressAutocompleteInput/index.tsx" timestamp="1558013975114">
         <mark key="'" line="0" column="0" />
@@ -153,12 +160,12 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1557945542193">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="77" column="38" />
-        <mark key="^" line="82" column="42" />
-        <mark key="." line="77" column="25" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1558030312362">
+        <mark key="'" line="10" column="32" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" timestamp="1558011537304">
         <mark key="'" line="463" column="16" />
@@ -331,12 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="322" column="13" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="331" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="335" column="24" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="337" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="342" column="16" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="414" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="732" column="74" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="735" column="36" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
@@ -431,6 +432,12 @@
       <jump line="13" column="62" filename="$USER_HOME$/code/loadup-web/app/views/shared/_file_uploads.haml" />
       <jump line="10" column="32" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/show_file_uploads.haml" />
       <jump line="6" column="48" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
+      <jump line="10" column="32" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -494,10 +501,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>flex</text>
+        <text>{b</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -550,10 +557,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoaXRlc3BhY2U6IFsncmVzcG9uc2l2ZSddLAo=</text>
+        <text encoding="base64">ICBhZG1pbmlzdHJhdGl2ZV9hcmVhX2xldmVsXzE/OiBzdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuZmxleC5mbGV4LXJvdy5pdGVtcy1jZW50ZXIuanVzdGlmeS1lbmQubXktMgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0cmVldEFkZHJlc3MgPSBgJHtwbGFjZS5zdHJlZXRfbnVtYmVyIHx8ICcnfSAke3BsYWNlLnJvdXRlIHx8ICcnfWAudHJpbSgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -745,42 +752,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAuZmxleC1mbGV4LXJvdy5qdXN0aWZ5LWJldHdlZW4uaXRlbXMtY2VudGVyLm15LTIK</text>
+      <register name="2" type="4">
+        <text>{}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDFyZW07Cg==</text>
+      <register name="3" type="4">
+        <text>buildAddressComponents</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text>const ADDRESS_FIELD_MAP = {
+  locality: 'city',
+  administrative_area_level_1: 'state',
+  country: 'country',
+  postal_code: 'zip'
+}</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhZG0K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgJ3JlZC1kYXJrZXN0JzogJyMzRjQyNDInLAogICAgICAncmVkLWRhcmtlcic6ICcjNjIxYjE4JywKICAgICAgJ3JlZC1kYXJrJzogJyNjYzFmMWEnLAogICAgICAncmVkJzogJyNlMzM0MmYnLAogICAgICAncmVkLWxpZ2h0JzogJyNlZjU3NTMnLAogICAgICAncmVkLWxpZ2h0ZXInOiAnI2Y5YWNhYScsCiAgICAgICdyZWQtbGlnaHRlc3QnOiAnI2ZjZWJlYScs</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gYnVpbGQK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flex</last-search>
+      <last-search>{b</last-search>
       <last-offset />
-      <last-pattern>flex</last-pattern>
+      <last-pattern>{b</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -804,6 +816,7 @@
         <entry>pin</entry>
         <entry>driver-team-card</entry>
         <entry>flex</entry>
+        <entry>{b</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IG5ub3JlbWFwIDxsZWFkZXI+LyA6bm9oPGNyPg==</entry>
@@ -821,11 +834,11 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>set multiple-cursors</entry>
         <entry>nohlsearch</entry>
-        <entry>vs</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -879,7 +892,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
