@@ -69,6 +69,7 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PricingSummary/index.js" timestamp="1558031739033" />
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
         <mark key="'" line="5" column="25" />
         <mark key="[" line="106" column="26" />
@@ -128,6 +129,13 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/components/PlaceOrderButton/index.js" timestamp="1557944427623">
         <mark key="'" line="11" column="44" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/index.tsx" timestamp="1558031954185">
+        <mark key="'" line="0" column="29" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/code/mealplanner-rails/app/controllers/recipes_controller.rb" timestamp="1557870357493">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="1" />
@@ -167,8 +175,8 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" timestamp="1558030726065">
-        <mark key="'" line="463" column="15" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" timestamp="1558031261503">
+        <mark key="'" line="117" column="0" />
         <mark key="[" line="283" column="24" />
         <mark key="]" line="283" column="39" />
         <mark key="^" line="284" column="23" />
@@ -338,10 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="735" column="36" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="736" column="63" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="739" column="21" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
-      <jump line="740" column="17" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="742" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="743" column="24" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
       <jump line="747" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" />
@@ -438,6 +442,10 @@
       <jump line="10" column="32" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" />
       <jump line="56" column="38" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CustomerInfoSection/index.tsx" />
       <jump line="463" column="15" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" />
+      <jump line="91" column="3" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" />
+      <jump line="118" column="49" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" />
+      <jump line="0" column="29" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -482,7 +490,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>{}</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -559,8 +567,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhZG1pbmlzdHJhdGl2ZV9hcmVhX2xldmVsXzE/OiBzdHJpbmcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdW50cnk6IGFkZHJlc3NEYXRhLmNvdW50cnkK</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -752,34 +760,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0cmVldEFkZHJlc3MgPSBgJHtwbGFjZS5zdHJlZXRfbnVtYmVyIHx8ICcnfSAke3BsYWNlLnJvdXRlIHx8ICcnfWAK</text>
+      <register name="2" type="4">
+        <text>react</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvdW50cnk6IGFkZHJlc3NEYXRhLmNvdW50cnkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHN0cmVldEFkZHJlc3MgPSBgJHtwbGFjZS5zdHJlZXRfbnVtYmVyIHx8ICcnfSAke3BsYWNlLnJvdXRlIHx8ICcnfWAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHN0cmVldEFkZHJlc3MgPSBgJHtwbGFjZS5zdHJlZXRfbnVtYmVyIHx8ICcnfSAke3BsYWNlLnJvdXRlIHx8ICcnfWAudHJpbSgpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{}</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>buildAddressComponents</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>const ADDRESS_FIELD_MAP = {
-  locality: 'city',
-  administrative_area_level_1: 'state',
-  country: 'country',
-  postal_code: 'zip'
-}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZG0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -836,8 +839,8 @@
         <entry>nohlsearch</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
