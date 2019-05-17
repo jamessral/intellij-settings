@@ -14,7 +14,6 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" timestamp="1555442154213">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/models/customer.rb" timestamp="1558029662794" />
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554751085546">
         <mark key="'" line="4" column="4" />
       </file>
@@ -41,12 +40,12 @@
         <mark key="." line="37" column="3" />
         <mark key="^" line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/App.js" timestamp="1558018198442">
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/App.js" timestamp="1558103696500">
         <mark key="'" line="29" column="22" />
-        <mark key="[" line="29" column="82" />
-        <mark key="]" line="29" column="101" />
-        <mark key="^" line="29" column="101" />
-        <mark key="." line="29" column="101" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="30" />
+        <mark key="^" line="32" column="30" />
+        <mark key="." line="32" column="30" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/utils/index.js" timestamp="1558029869840">
         <mark key="'" line="47" column="7" />
@@ -71,7 +70,6 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PricingSummary/index.js" timestamp="1558031739033" />
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1555615033445">
         <mark key="'" line="5" column="25" />
         <mark key="[" line="106" column="26" />
@@ -280,6 +278,12 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" timestamp="1558028573889">
         <mark key="'" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Footer/index.js" timestamp="1558103705635">
+        <mark key="[" line="4" column="98" />
+        <mark key="]" line="4" column="99" />
+        <mark key="." line="4" column="99" />
+        <mark key="^" line="4" column="99" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
         <mark key="'" line="7" column="59" />
@@ -549,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rounded-full bg-green px-4 py-2 text-white text-bold</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGcmFnbWVudFw+</text>
@@ -825,7 +829,7 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wqa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -835,17 +839,10 @@
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>leading</entry>
-        <entry>tracking</entry>
-        <entry>textColors</entry>
-        <entry>lists</entry>
-        <entry>container</entry>
-        <entry>colors</entry>
-        <entry>opacity</entry>
         <entry>tailwind</entry>
         <entry>config(</entry>
         <entry>loadup-red</entry>
@@ -868,7 +865,6 @@
         <entry encoding="base64">XDxGcmFnbWVudFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">c2V0IG5ub3JlbWFwIDxsZWFkZXI+LyA6bm9oPGNyPg==</entry>
         <entry encoding="base64">bm5vcmVtYXAgLC8gOm5vaDxjcj4=</entry>
         <entry encoding="base64">bm5vcmVtYXAgPHNwYWNlPi8gOm5vaDxjcj4=</entry>
         <entry>set mutliple-cursors</entry>
@@ -882,13 +878,13 @@
         <entry>changes</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>qa</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>nohlsearch</entry>
         <entry>set multiple-cursors</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wqa</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
