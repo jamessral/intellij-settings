@@ -16,6 +16,13 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" timestamp="1555442154213">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_location_picker.haml" timestamp="1558123711753">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" timestamp="1558120432446">
         <mark key="'" line="91" column="39" />
         <mark key="[" line="92" column="31" />
@@ -79,8 +86,8 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1558121469265">
-        <mark key="'" line="134" column="45" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1558122271063">
+        <mark key="'" line="133" column="4" />
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="18" />
         <mark key="^" line="28" column="18" />
@@ -296,6 +303,9 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/store.js" timestamp="1558113017228">
         <mark key="'" line="2" column="43" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/edit.html.haml" timestamp="1558122676656">
+        <mark key="'" line="58" column="46" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" timestamp="1555610417904">
         <mark key="'" line="75" column="19" />
         <mark key="[" line="78" column="70" />
@@ -344,12 +354,6 @@
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" timestamp="1558028573889">
         <mark key="'" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Footer/index.js" timestamp="1558112610886">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="18" column="1" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
         <mark key="'" line="7" column="59" />
       </file>
@@ -388,6 +392,13 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/package.json" timestamp="1548783824218">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/google_location_picker_controller.js" timestamp="1558123390866">
+        <mark key="'" line="29" column="48" />
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="29" column="48" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/TextForEstimate.module.css" timestamp="1558120039016">
         <mark key="'" line="17" column="0" />
@@ -456,14 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="43" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="116" column="41" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="121" column="39" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="178" column="50" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="181" column="18" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="182" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="14" column="54" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="11" column="7" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/DetailsSection/index.js" />
       <jump line="22" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/DetailsSection/components/PickupLocationForm/index.js" />
       <jump line="251" column="23" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
@@ -556,6 +559,14 @@
       <jump line="91" column="39" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
       <jump line="17" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
       <jump line="129" column="45" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="89" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="133" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="69" column="14" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/edit.html.haml" />
+      <jump line="55" column="23" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/edit.html.haml" />
+      <jump line="58" column="46" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/edit.html.haml" />
+      <jump line="22" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/google_location_picker_controller.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_location_picker.haml" />
+      <jump line="29" column="48" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/google_location_picker_controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4219,10 +4230,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!this.latitude || !this.longitude</text>
+        <text encoding="base64">IHctMi81</text>
       </register>
       <register name="/" type="4">
-        <text>address</text>
+        <text>googleAddre</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4278,7 +4289,7 @@
         <text encoding="base64">ICAgICAgcmV0dXJuICF0aGlzLmxhdGl0dWRlIHx8ICF0aGlzLmxvbmdpdHVkZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UElDS0VSX0lEID0gImdvb2dsZS1tYXBzLXBpY2tlci00NWNiZDQ5OTRjZDMiCg==</text>
+        <text encoding="base64">ICAuZmxleC5mbGV4LXJvdy5pdGVtcy1jZW50ZXIuanVtYm90cm9uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4471,37 +4482,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UElDS0VSX0lEID0gImdvb2dsZS1tYXBzLXBpY2tlci00NWNiZDQ5OTRjZDMiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBJQ0tFUl9JRCA9ICJnb29nbGUtbWFwcy1waWNrZXItNDVjYmQ0OTk0Y2QzIgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZmlsbEhpZGRlbklucHV0RmllbGRzKHBsYWNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib3gtc2hhZG93OiAwcHggNHB4IDZweCAjMDAwMDE0Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgZmlsbEhpZGRlbklucHV0RmllbGRzIChwbGFjZSkgewogIH0=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KgogKiBAZGVzYyBHZXQgemlwIGNvZGUgb25seSBmaWVsZCBzcGVjaWZpY2FsbHkgZm9yIHByaWNpbmcKICovCmV4cG9ydCBjb25zdCBnZXRQcmljaW5nWmlwID0gKCkgPT4gewogIGNvbnN0IHZhbHVlID0gZ2V0VmFsdWVGcm9tT3JkZXJGb3JtKCdwcmljaW5nWmlwJykKICByZXR1cm4gdmFsdWUgJiYgdmFsdWUubGVuZ3RoID09PSA1ID8gdmFsdWUgOiBudWxsCn0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMubGF0aXR1ZGVUYXJnZXQudmFsdWUgPSBwbGFjZS5nZW9tZXRyeS5sb2NhdGlvbi5sYXQoKQogICAgdGhpcy5sb25naXR1ZGVUYXJnZXQudmFsdWUgPSBwbGFjZS5nZW9tZXRyeS5sb2NhdGlvbi5sbmcoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRQcmljaW5nWmlwCg==</text>
+        <text encoding="base64">ICA9IGZvcm1fb2JqZWN0LmhpZGRlbl9maWVsZCA6bGF0aXR1ZGUsICJkYXRhLXRhcmdldCIgPT4gImdvb2dsZS1sb2NhdGlvbi1waWNrZXIubGF0aXR1ZGUiCiAgPSBmb3JtX29iamVjdC5oaWRkZW5fZmllbGQgOmxvbmdpdHVkZSwgImRhdGEtdGFyZ2V0IiA9PiAiZ29vZ2xlLWxvY2F0aW9uLXBpY2tlci5sb25naXR1ZGUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZnAvZ2V0Jwo=</text>
+        <text encoding="base64">ICAlaW5wdXQuZm9ybS1jb250cm9seyAidHlwZSIgPT4gInRleHQiLCAidGFiaW5kZXgiID0+IHRhYmluZGV4LCAiZGF0YS10YXJnZXQiID0+ICJnb29nbGUtbG9jYXRpb24tcGlja2VyLmdvb2dsZUFkZHJlc3NJbnB1dCIgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>address</last-search>
+      <last-search>googleAddre</last-search>
       <last-offset />
-      <last-pattern>address</last-pattern>
+      <last-pattern>googleAddre</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
@@ -4529,6 +4540,7 @@
         <entry encoding="base64">XDxQSUNLRVJfSURcPg==</entry>
         <entry>picker_id</entry>
         <entry>address</entry>
+        <entry>googleAddre</entry>
       </history-search>
       <history-cmd>
         <entry>set mutliple-cursors</entry>
