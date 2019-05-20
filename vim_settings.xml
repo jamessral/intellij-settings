@@ -299,6 +299,12 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" timestamp="1558115068491">
         <mark key="'" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" timestamp="1558357691106">
+        <mark key="'" line="6247" column="0" />
+        <mark key="[" line="6248" column="0" />
+        <mark key="]" line="6248" column="0" />
+        <mark key="." line="6248" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
         <mark key="'" line="20" column="48" />
       </file>
@@ -486,14 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="32" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/TextForEstimate.module.css" />
-      <jump line="19" column="5" filename="$USER_HOME$/code/loadup-web/web_retail/src/index.scss" />
-      <jump line="97" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/index.scss" />
-      <jump line="190" column="14" filename="$USER_HOME$/code/loadup-web/web_retail/src/index.scss" />
-      <jump line="18" column="7" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/OrdersShow/components/OrderDetailsLayout/components/ContactDetails/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/OrdersShow/components/OrderDetailsLayout/components/ContactDetails/index.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/OrdersShow/components/OrderDetailsLayout/components/ContactDetails/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/OrdersShow/components/OrderDetailsLayout/components/ContactDetails/index.js" />
       <jump line="2" column="43" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/store.js" />
       <jump line="72" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="120" column="39" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
@@ -586,6 +584,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/playground/intermezzos/src/main.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/playground/intermezzos/src/main.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/playground/intermezzos/Cargo.toml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="6489" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="68" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="136" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="2615" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="81" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="6247" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4252,7 +4258,7 @@
         <text>_precompiled</text>
       </register>
       <register name="/" type="4">
-        <text>googleAddre</text>
+        <text>sub</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4308,7 +4314,7 @@
         <text encoding="base64">ICAgICAgcmV0dXJuICF0aGlzLmxhdGl0dWRlIHx8ICF0aGlzLmxvbmdpdHVkZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyFbZmVhdHVyZShwYW5pY19oYW5kbGVyKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4500,44 +4506,67 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>fn main() {
-    println!(&quot;Hello, world!&quot;);
+      <register name="2" type="4">
+        <text>.carousel-caption h1,
+.carousel-caption h2,
+.carousel-caption h3,
+.carousel-caption h4,
+.carousel-caption h5,
+.carousel-caption h6 {
+  color: inherit;
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAuZmxleC5mbGV4LXJvdy5pdGVtcy1jZW50ZXIuanVtYm90cm9uCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmlsbEhpZGRlbklucHV0RmllbGRzKHBsYWNlKQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgZmlsbEhpZGRlbklucHV0RmllbGRzIChwbGFjZSkgewogIH0=</text>
+      <register name="4" type="4">
+        <text encoding="base64">LmNhcm91c2VsIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7Cn0KLmNhcm91c2VsLWlubmVyIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgd2lkdGg6IDEwMCU7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKfQouY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbSB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIGRpc3BsYXk6IG5vbmU7CiAgdHJhbnNpdGlvbjogMC42cyBlYXNlLWluLW91dCBsZWZ0Owp9Ci5jYXJvdXNlbC1pbm5lciA+IC5pdGVtID4gaW1nLAouY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbSA+IGEgPiBpbWcgewogIGxpbmUtaGVpZ2h0OiAxOwp9CkBtZWRpYSBhbGwgYW5kICh0cmFuc2Zvcm0tM2QpLCAoLXdlYmtpdC10cmFuc2Zvcm0tM2QpIHsKICAuY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbSB7CiAgICB0cmFuc2l0aW9uOiAtd2Via2l0LXRyYW5zZm9ybSAwLjZzIGVhc2UtaW4tb3V0OwogICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuNnMgZWFzZS1pbi1vdXQ7CiAgICAtd2Via2l0LWJhY2tmYWNlLXZpc2liaWxpdHk6IGhpZGRlbjsKICAgIGJhY2tmYWNlLXZpc2liaWxpdHk6IGhpZGRlbjsKICAgIC13ZWJraXQtcGVyc3BlY3RpdmU6IDEwMDBweDsKICAgIHBlcnNwZWN0aXZlOiAxMDAwcHg7CiAgfQogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLm5leHQsCiAgLmNhcm91c2VsLWlubmVyID4gLml0ZW0uYWN0aXZlLnJpZ2h0IHsKICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUzZCgxMDAlLCAwLCAwKTsKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMTAwJSwgMCwgMCk7CiAgICBsZWZ0OiAwOwogIH0KICAuY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbS5wcmV2LAogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLmFjdGl2ZS5sZWZ0IHsKICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUzZCgtMTAwJSwgMCwgMCk7CiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKC0xMDAlLCAwLCAwKTsKICAgIGxlZnQ6IDA7CiAgfQogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLm5leHQubGVmdCwKICAuY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbS5wcmV2LnJpZ2h0LAogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLmFjdGl2ZSB7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMCwgMCwgMCk7CiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKDAsIDAsIDApOwogICAgbGVmdDogMDsKICB9Cn0KLmNhcm91c2VsLWlubmVyID4gLmFjdGl2ZSwKLmNhcm91c2VsLWlubmVyID4gLm5leHQsCi5jYXJvdXNlbC1pbm5lciA+IC5wcmV2IHsKICBkaXNwbGF5OiBibG9jazsKfQouY2Fyb3VzZWwtaW5uZXIgPiAuYWN0aXZlIHsKICBsZWZ0OiAwOwp9Ci5jYXJvdXNlbC1pbm5lciA+IC5uZXh0LAouY2Fyb3VzZWwtaW5uZXIgPiAucHJldiB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogMDsKICB3aWR0aDogMTAwJTsKfQouY2Fyb3VzZWwtaW5uZXIgPiAubmV4dCB7CiAgbGVmdDogMTAwJTsKfQouY2Fyb3VzZWwtaW5uZXIgPiAucHJldiB7CiAgbGVmdDogLTEwMCU7Cn0KLmNhcm91c2VsLWlubmVyID4gLm5leHQubGVmdCwKLmNhcm91c2VsLWlubmVyID4gLnByZXYucmlnaHQgewogIGxlZnQ6IDA7Cn0KLmNhcm91c2VsLWlubmVyID4gLmFjdGl2ZS5sZWZ0IHsKICBsZWZ0OiAtMTAwJTsKfQouY2Fyb3VzZWwtaW5uZXIgPiAuYWN0aXZlLnJpZ2h0IHsKICBsZWZ0OiAxMDAlOwp9Ci5jYXJvdXNlbC1jb250cm9sIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAwOwogIGJvdHRvbTogMDsKICBsZWZ0OiAwOwogIHdpZHRoOiAxNSU7CiAgZm9udC1zaXplOiAyMHB4OwogIGNvbG9yOiAjZmZmZmZmOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICB0ZXh0LXNoYWRvdzogMCAxcHggMnB4IHJnYmEoMCwgMCwgMCwgMC42KTsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDApOwogIGZpbHRlcjogYWxwaGEob3BhY2l0eT01MCk7CiAgb3BhY2l0eTogMC41Owp9Ci5jYXJvdXNlbC1jb250cm9sLmxlZnQgewogIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCh0byByaWdodCwgcmdiYSgwLCAwLCAwLCAwLjUpIDAlLCByZ2JhKDAsIDAsIDAsIDAuMDAwMSkgMTAwJSk7CiAgZmlsdGVyOiBwcm9naWQ6RFhJbWFnZVRyYW5zZm9ybS5NaWNyb3NvZnQuZ3JhZGllbnQoc3RhcnRDb2xvcnN0cj0nIzgwMDAwMDAwJywgZW5kQ29sb3JzdHI9JyMwMDAwMDAwMCcsIEdyYWRpZW50VHlwZT0xKTsKICBiYWNrZ3JvdW5kLXJlcGVhdDogcmVwZWF0LXg7Cn0KLmNhcm91c2VsLWNvbnRyb2wucmlnaHQgewogIHJpZ2h0OiAwOwogIGxlZnQ6IGF1dG87CiAgYmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KHRvIHJpZ2h0LCByZ2JhKDAsIDAsIDAsIDAuMDAwMSkgMCUsIHJnYmEoMCwgMCwgMCwgMC41KSAxMDAlKTsKICBmaWx0ZXI6IHByb2dpZDpEWEltYWdlVHJhbnNmb3JtLk1pY3Jvc29mdC5ncmFkaWVudChzdGFydENvbG9yc3RyPScjMDAwMDAwMDAnLCBlbmRDb2xvcnN0cj0nIzgwMDAwMDAwJywgR3JhZGllbnRUeXBlPTEpOwogIGJhY2tncm91bmQtcmVwZWF0OiByZXBlYXQteDsKfQouY2Fyb3VzZWwtY29udHJvbDpob3ZlciwKLmNhcm91c2VsLWNvbnRyb2w6Zm9jdXMgewogIGNvbG9yOiAjZmZmZmZmOwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICBvdXRsaW5lOiAwOwogIGZpbHRlcjogYWxwaGEob3BhY2l0eT05MCk7CiAgb3BhY2l0eTogMC45Owp9Ci5jYXJvdXNlbC1jb250cm9sIC5pY29uLXByZXYsCi5jYXJvdXNlbC1jb250cm9sIC5pY29uLW5leHQgewogIHdpZHRoOiAyMHB4OwogIGhlaWdodDogMjBweDsKICBmb250LWZhbWlseTogc2VyaWY7CiAgbGluZS1oZWlnaHQ6IDE7Cn0KLmNhcm91c2VsLWNvbnRyb2wgLmljb24tcHJldjpiZWZvcmUgewogIGNvbnRlbnQ6ICJcMjAzOSI7Cn0KLmNhcm91c2VsLWNvbnRyb2wgLmljb24tbmV4dDpiZWZvcmUgewogIGNvbnRlbnQ6ICJcMjAzYSI7Cn0KLmNhcm91c2VsLWluZGljYXRvcnMgewogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICBib3R0b206IDEwcHg7CiAgbGVmdDogNTAlOwogIHotaW5kZXg6IDE1OwogIHdpZHRoOiA2MCU7CiAgcGFkZGluZy1sZWZ0OiAwOwogIG1hcmdpbi1sZWZ0OiAtMzAlOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBsaXN0LXN0eWxlOiBub25lOwp9Ci5jYXJvdXNlbC1pbmRpY2F0b3JzIGxpIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgd2lkdGg6IDEwcHg7CiAgaGVpZ2h0OiAxMHB4OwogIG1hcmdpbjogMXB4OwogIHRleHQtaW5kZW50OiAtOTk5cHg7CiAgY3Vyc29yOiBwb2ludGVyOwogIGJhY2tncm91bmQtY29sb3I6ICMwMDAgXDk7CiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLCAwLCAwLCAwKTsKICBib3JkZXI6IDFweCBzb2xpZCAjZmZmZmZmOwogIGJvcmRlci1yYWRpdXM6IDEwcHg7Cn0KLmNhcm91c2VsLWluZGljYXRvcnMgLmFjdGl2ZSB7CiAgd2lkdGg6IDEycHg7CiAgaGVpZ2h0OiAxMnB4OwogIG1hcmdpbjogMDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmOwp9Ci5jYXJvdXNlbC1jYXB0aW9uIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgcmlnaHQ6IDE1JTsKICBib3R0b206IDIwcHg7CiAgbGVmdDogMTUlOwogIHotaW5kZXg6IDEwOwogIHBhZGRpbmctdG9wOiAyMHB4OwogIHBhZGRpbmctYm90dG9tOiAyMHB4OwogIGNvbG9yOiAjZmZmZmZmOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICB0ZXh0LXNoYWRvdzogMCAxcHggMnB4IHJnYmEoMCwgMCwgMCwgMC42KTsKfQouY2Fyb3VzZWwtY2FwdGlvbiAuYnRuIHsKICB0ZXh0LXNoYWRvdzogbm9uZTsKfQpAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA3NjhweCkgewogIC5jYXJvdXNlbC1jYXB0aW9uIHsKICAgIHJpZ2h0OiAyMCU7CiAgICBsZWZ0OiAyMCU7CiAgICBwYWRkaW5nLWJvdHRvbTogMzBweDsKICB9CiAgLmNhcm91c2VsLWluZGljYXRvcnMgewogICAgYm90dG9tOiAyMHB4OwogIH0KfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>.embed-responsive .embed-responsive-item,
+.embed-responsive iframe,
+.embed-responsive embed,
+.embed-responsive object,
+.embed-responsive video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.embed-responsive-16by9 {
+  padding-bottom: 56.25%;
+}
+.embed-responsive-4by3 {
+  padding-bottom: 75%;
+}</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LnRhYmxlLWNvbmRlbnNlZCA+IHRoZWFkID4gdHIgPiB0aCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRib2R5ID4gdHIgPiB0aCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRmb290ID4gdHIgPiB0aCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRoZWFkID4gdHIgPiB0ZCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRib2R5ID4gdHIgPiB0ZCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRmb290ID4gdHIgPiB0ZCB7CiAgcGFkZGluZzogNXB4Owp9</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>googleAddre</last-search>
+      <last-search>sub</last-search>
       <last-offset />
-      <last-pattern>googleAddre</last-pattern>
+      <last-pattern>sub</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4561,11 +4590,9 @@
         <entry>picker_id</entry>
         <entry>address</entry>
         <entry>googleAddre</entry>
+        <entry>sub</entry>
       </history-search>
       <history-cmd>
-        <entry>set mutliple-cursors</entry>
-        <entry>bd</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPHNwYWNlPi8gOm5vaCA8Y3I+</entry>
         <entry encoding="base64">bm5vcmVtYXAgXFwgOm5vaCA8Y3I+</entry>
         <entry>noh</entry>
         <entry encoding="base64">bm5vcmVtYXAgLC8gOm5vaCA8Y3I+</entry>
