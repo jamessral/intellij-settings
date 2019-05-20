@@ -3,18 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/package.json" timestamp="1548783805499">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/components/ui/forms/renderAddressAutocompleteInput/index.tsx" timestamp="1558113784527">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="15" column="44" />
         <mark key="]" line="15" column="44" />
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" timestamp="1555442154213">
-        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_location_picker.haml" timestamp="1558124470984">
         <mark key="'" line="2" column="0" />
@@ -30,11 +24,222 @@
         <mark key="." line="92" column="39" />
         <mark key="^" line="92" column="39" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/DetailsSection/index.js" timestamp="1558111849952">
-        <mark key="'" line="11" column="7" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554751085546">
         <mark key="'" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1558030810517">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/App.js" timestamp="1558103696500">
+        <mark key="'" line="29" column="22" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="30" />
+        <mark key="^" line="32" column="30" />
+        <mark key="." line="32" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/types.d.ts" timestamp="1558378716486">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/addresses.ts" timestamp="1558107604939">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/tslint.json" timestamp="1554747831741">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/input_objects/orders_inputs.rb" timestamp="1555523802598">
+        <mark key="'" line="4" column="63" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" timestamp="1555612144169">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
+        <mark key="'" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/components/PlaceOrderButton/index.js" timestamp="1557944427623">
+        <mark key="'" line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/.env" timestamp="1558376098978">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="106" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
+        <mark key="'" line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/playground/intermezzos/intermezzos.json" timestamp="1558233483568">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/index.js" timestamp="1558109517796">
+        <mark key="'" line="46" column="9" />
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/config/webpacker.yml" timestamp="1555442505307">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/customer_organizations/_rewards_summary.haml" timestamp="1558023310015">
+        <mark key="'" line="17" column="57" />
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1558030431585">
+        <mark key="'" line="10" column="32" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
+        <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/index.tsx" timestamp="1548783670440">
+        <mark key="'" line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" timestamp="1550549144497">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" timestamp="1558106702046">
+        <mark key="'" line="14" column="50" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="97" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/index.js" timestamp="1558037536955">
+        <mark key="'" line="25" column="20" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" timestamp="1558357691106">
+        <mark key="'" line="6247" column="0" />
+        <mark key="[" line="6248" column="0" />
+        <mark key="]" line="6248" column="0" />
+        <mark key="." line="6248" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/public/index.html" timestamp="1558376123301">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
+        <mark key="'" line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" timestamp="1555616015238">
+        <mark key="'" line="64" column="44" />
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="43" />
+        <mark key="^" line="64" column="43" />
+        <mark key="." line="64" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" timestamp="1555610417904">
+        <mark key="'" line="75" column="19" />
+        <mark key="[" line="78" column="70" />
+        <mark key="]" line="78" column="76" />
+        <mark key="." line="78" column="76" />
+        <mark key="^" line="78" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/index.js" timestamp="1557940198875">
+        <mark key="'" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/index.js" timestamp="1558116232382">
+        <mark key="'" line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/components/hocs/withPricingData/index.js" timestamp="1558111746607">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" timestamp="1558116234961">
+        <mark key="'" line="125" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/OrdersShow/components/OrderDetailsLayout/components/ContactDetails/index.js" timestamp="1558112923131">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="44" column="82" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
+        <mark key="'" line="7" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" timestamp="1558378855750">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
+        <mark key="'" line="68" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/index.js" timestamp="1558036090497">
+        <mark key="'" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/ScheduleRequestConversionForm/components/ScheduleRequestConversionForm.tsx" timestamp="1558018659739">
+        <mark key="'" line="175" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" timestamp="1558035815648">
+        <mark key="'" line="20" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" timestamp="1555609883593">
+        <mark key="'" line="41" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/index.js" timestamp="1548352345084">
+        <mark key="'" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/objects/driver.rb" timestamp="1557861297092">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/lib/addresses.ts" timestamp="1558113632651">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/package.json" timestamp="1548783805499">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/const.js" timestamp="1558376215072">
+        <mark key="[" line="4" column="66" />
+        <mark key="]" line="4" column="66" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/events.ts" timestamp="1555442154213">
+        <mark key="'" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/DetailsSection/index.js" timestamp="1558111849952">
+        <mark key="'" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/index.js" timestamp="1548348612409">
         <mark key="'" line="0" column="0" />
@@ -52,20 +257,6 @@
         <mark key="]" line="37" column="1" />
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1558030810517">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="3" />
-        <mark key="." line="37" column="3" />
-        <mark key="^" line="37" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/App.js" timestamp="1558103696500">
-        <mark key="'" line="29" column="22" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="30" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="30" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/components/hocs/withOrderSessionTracking/index.js" timestamp="1558119604649">
         <mark key="'" line="96" column="37" />
@@ -121,21 +312,8 @@
         <mark key="^" line="208" column="85" />
         <mark key="." line="208" column="85" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/addresses.ts" timestamp="1558107604939">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/tslint.json" timestamp="1554747831741">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withOrderFormValues/index.js" timestamp="1557941535920">
         <mark key="'" line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/input_objects/orders_inputs.rb" timestamp="1555523802598">
-        <mark key="'" line="4" column="63" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/components/ui/forms/renderAddressAutocompleteInput/RenderAddressAutocompleteInput.module.css" timestamp="1558109414628">
         <mark key="'" line="0" column="0" />
@@ -143,13 +321,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="20" column="19" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" timestamp="1555612144169">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="37" column="45" />
-        <mark key="^" line="36" column="30" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusLabel.vue" timestamp="1555601959807">
         <mark key="'" line="9" column="9" />
@@ -170,18 +341,12 @@
         <mark key="." line="121" column="23" />
         <mark key="^" line="121" column="6" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
-        <mark key="'" line="10" column="28" />
-      </file>
       <file name="$USER_HOME$/code/loadup-driver-mobile/src/lib/notifications.ts" timestamp="1557863345246">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="5" column="52" />
         <mark key="^" line="5" column="52" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/components/PlaceOrderButton/index.js" timestamp="1557944427623">
-        <mark key="'" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/index.scss" timestamp="1558112478203">
         <mark key="'" line="190" column="14" />
@@ -204,20 +369,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
-        <mark key="'" line="40" column="4" />
-      </file>
-      <file name="$USER_HOME$/playground/intermezzos/intermezzos.json" timestamp="1558233483568">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/index.js" timestamp="1558109517796">
-        <mark key="'" line="46" column="9" />
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="13" />
-        <mark key="." line="27" column="13" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/tsconfig.json" timestamp="1558378826497">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+        <mark key="." line="21" column="20" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" timestamp="1555442703919">
         <mark key="'" line="10" column="0" />
@@ -229,23 +386,6 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="13" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/config/webpacker.yml" timestamp="1555442505307">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/customer_organizations/_rewards_summary.haml" timestamp="1558023310015">
-        <mark key="'" line="17" column="57" />
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="44" />
-        <mark key="." line="1" column="44" />
-        <mark key="^" line="1" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/components/ContactForm/index.js" timestamp="1558030431585">
-        <mark key="'" line="10" column="32" />
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CreateScheduledOrder.tsx" timestamp="1558031261503">
         <mark key="'" line="117" column="0" />
         <mark key="[" line="283" column="24" />
@@ -253,21 +393,8 @@
         <mark key="^" line="284" column="23" />
         <mark key="." line="283" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
-        <mark key="'" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/index.tsx" timestamp="1548783670440">
-        <mark key="'" line="22" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" timestamp="1550549144497">
-        <mark key="'" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/index.js" timestamp="1558106702046">
-        <mark key="'" line="14" column="50" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="97" column="29" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/index.js" timestamp="1558376697734">
+        <mark key="'" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/layouts/application.html.haml" timestamp="1555593017479">
         <mark key="'" line="33" column="38" />
@@ -282,13 +409,6 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ItemSelectionSection/components/ItemSelectionForm/components/SelectableItemOption/index.js" timestamp="1558018271690">
         <mark key="'" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/index.js" timestamp="1558037536955">
-        <mark key="'" line="25" column="20" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1555618412022">
         <mark key="'" line="54" column="2" />
         <mark key="[" line="21" column="10" />
@@ -299,24 +419,8 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" timestamp="1558115068491">
         <mark key="'" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" timestamp="1558357691106">
-        <mark key="'" line="6247" column="0" />
-        <mark key="[" line="6248" column="0" />
-        <mark key="]" line="6248" column="0" />
-        <mark key="." line="6248" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
-        <mark key="'" line="20" column="48" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/packs/createOrderForm.js" timestamp="1558035983609">
         <mark key="'" line="3" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" timestamp="1555616015238">
-        <mark key="'" line="64" column="44" />
-        <mark key="[" line="64" column="17" />
-        <mark key="]" line="64" column="43" />
-        <mark key="^" line="64" column="43" />
-        <mark key="." line="64" column="43" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_header.html.haml" timestamp="1555593563294">
         <mark key="'" line="25" column="25" />
@@ -331,19 +435,6 @@
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/edit.html.haml" timestamp="1558122676656">
         <mark key="'" line="58" column="46" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/orders.js" timestamp="1555610417904">
-        <mark key="'" line="75" column="19" />
-        <mark key="[" line="78" column="70" />
-        <mark key="]" line="78" column="76" />
-        <mark key="." line="78" column="76" />
-        <mark key="^" line="78" column="76" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/index.js" timestamp="1557940198875">
-        <mark key="'" line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/index.js" timestamp="1558116232382">
-        <mark key="'" line="18" column="18" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/components/InlinePricingBreakdown/components/TotalExplainer/index.js" timestamp="1558037792660">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="12" column="49" />
@@ -351,36 +442,17 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/components/hocs/withPricingData/index.js" timestamp="1558111746607">
-        <mark key="'" line="35" column="8" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" timestamp="1558116234961">
-        <mark key="'" line="125" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/OrdersShow/components/OrderDetailsLayout/components/ContactDetails/index.js" timestamp="1558112923131">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="44" column="82" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/PricingBreakdown/PricingBreakdown.module.css" timestamp="1558106301166">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/notifications_count_spec.rb" timestamp="1555442625606">
         <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" timestamp="1558028573889">
         <mark key="'" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
-        <mark key="'" line="7" column="59" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" timestamp="1558378249726">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="81" column="15" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1555614891387">
         <mark key="'" line="102" column="23" />
@@ -388,9 +460,6 @@
         <mark key="]" line="102" column="24" />
         <mark key="." line="102" column="24" />
         <mark key="^" line="102" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
-        <mark key="'" line="68" column="12" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/enums/host_source_enums.rb" timestamp="1548792391309">
         <mark key="'" line="3" column="18" />
@@ -411,9 +480,6 @@
         <mark key="]" line="21" column="37" />
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/index.js" timestamp="1558036090497">
-        <mark key="'" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/package.json" timestamp="1548783824218">
         <mark key="'" line="0" column="0" />
@@ -439,9 +505,6 @@
         <mark key="." line="68" column="60" />
         <mark key="^" line="68" column="60" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/ScheduleRequestConversionForm/components/ScheduleRequestConversionForm.tsx" timestamp="1558018659739">
-        <mark key="'" line="175" column="12" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/show_file_uploads.haml" timestamp="1558023445161">
         <mark key="'" line="10" column="32" />
       </file>
@@ -452,37 +515,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="155" column="51" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" timestamp="1558035815648">
-        <mark key="'" line="20" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/components/hocs/withPricingData/index.js" timestamp="1558119436021">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" timestamp="1555609883593">
-        <mark key="'" line="41" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/index.js" timestamp="1548352345084">
-        <mark key="'" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/objects/driver.rb" timestamp="1557861297092">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/lib/addresses.ts" timestamp="1558113632651">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/createChangeValueAction/index.js" timestamp="1558115076511">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="68" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CustomerInfoSection/index.tsx" timestamp="1558030721851">
         <mark key="'" line="112" column="57" />
         <mark key="[" line="56" column="22" />
@@ -492,35 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="43" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/store.js" />
-      <jump line="72" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="120" column="39" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="218" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="163" column="33" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="284" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/lib/addresses.ts" />
-      <jump line="0" column="26" filename="$USER_HOME$/code/loadup-web/app/javascript/lib/addresses.ts" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/lib/addresses.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/components/ui/forms/renderAddressAutocompleteInput/index.tsx" />
-      <jump line="10" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/index.jsx" />
-      <jump line="38" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" />
-      <jump line="35" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
-      <jump line="26" column="50" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="61" column="8" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="8" column="52" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="118" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" />
-      <jump line="73" column="21" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
-      <jump line="6" column="7" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" />
-      <jump line="19" column="28" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="16" column="59" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
       <jump line="21" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
       <jump line="3" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormSection/index.js" />
       <jump line="58" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
@@ -592,6 +595,35 @@
       <jump line="2615" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
       <jump line="81" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
       <jump line="6247" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" />
+      <jump line="4" column="12" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="5" column="33" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="3" column="50" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/index.js" />
+      <jump line="139" column="20" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="64" column="23" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="100" column="8" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="60" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="152" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="148" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="76" column="39" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="135" column="8" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="3" column="24" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="82" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/tsconfig.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/types.d.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4236,7 +4268,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>{}</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -4255,10 +4287,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_precompiled</text>
+        <text>**/*.d.ts</text>
       </register>
       <register name="/" type="4">
-        <text>sub</text>
+        <text>this</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4310,8 +4342,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICF0aGlzLmxhdGl0dWRlIHx8ICF0aGlzLmxvbmdpdHVkZQo=</text>
+      <register name="0" type="4">
+        <text>declare global {
+  interface Window { paypal: any }
+}
+
+window.paypal = window.paypal || {}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4507,50 +4543,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>.carousel-caption h1,
-.carousel-caption h2,
-.carousel-caption h3,
-.carousel-caption h4,
-.carousel-caption h5,
-.carousel-caption h6 {
-  color: inherit;
-}</text>
+        <text encoding="base64">CmRlY2xhcmUgZ2xvYmFsIHsKICBpbnRlcmZhY2UgV2luZG93IHsgcGF5cGFsOiBhbnkgfQp9Cgp3aW5kb3cucGF5cGFsID0gd2luZG93LnBheXBhbCB8fCB7fQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LmNhcm91c2VsIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7Cn0KLmNhcm91c2VsLWlubmVyIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgd2lkdGg6IDEwMCU7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKfQouY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbSB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIGRpc3BsYXk6IG5vbmU7CiAgdHJhbnNpdGlvbjogMC42cyBlYXNlLWluLW91dCBsZWZ0Owp9Ci5jYXJvdXNlbC1pbm5lciA+IC5pdGVtID4gaW1nLAouY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbSA+IGEgPiBpbWcgewogIGxpbmUtaGVpZ2h0OiAxOwp9CkBtZWRpYSBhbGwgYW5kICh0cmFuc2Zvcm0tM2QpLCAoLXdlYmtpdC10cmFuc2Zvcm0tM2QpIHsKICAuY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbSB7CiAgICB0cmFuc2l0aW9uOiAtd2Via2l0LXRyYW5zZm9ybSAwLjZzIGVhc2UtaW4tb3V0OwogICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuNnMgZWFzZS1pbi1vdXQ7CiAgICAtd2Via2l0LWJhY2tmYWNlLXZpc2liaWxpdHk6IGhpZGRlbjsKICAgIGJhY2tmYWNlLXZpc2liaWxpdHk6IGhpZGRlbjsKICAgIC13ZWJraXQtcGVyc3BlY3RpdmU6IDEwMDBweDsKICAgIHBlcnNwZWN0aXZlOiAxMDAwcHg7CiAgfQogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLm5leHQsCiAgLmNhcm91c2VsLWlubmVyID4gLml0ZW0uYWN0aXZlLnJpZ2h0IHsKICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUzZCgxMDAlLCAwLCAwKTsKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMTAwJSwgMCwgMCk7CiAgICBsZWZ0OiAwOwogIH0KICAuY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbS5wcmV2LAogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLmFjdGl2ZS5sZWZ0IHsKICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUzZCgtMTAwJSwgMCwgMCk7CiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKC0xMDAlLCAwLCAwKTsKICAgIGxlZnQ6IDA7CiAgfQogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLm5leHQubGVmdCwKICAuY2Fyb3VzZWwtaW5uZXIgPiAuaXRlbS5wcmV2LnJpZ2h0LAogIC5jYXJvdXNlbC1pbm5lciA+IC5pdGVtLmFjdGl2ZSB7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMCwgMCwgMCk7CiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKDAsIDAsIDApOwogICAgbGVmdDogMDsKICB9Cn0KLmNhcm91c2VsLWlubmVyID4gLmFjdGl2ZSwKLmNhcm91c2VsLWlubmVyID4gLm5leHQsCi5jYXJvdXNlbC1pbm5lciA+IC5wcmV2IHsKICBkaXNwbGF5OiBibG9jazsKfQouY2Fyb3VzZWwtaW5uZXIgPiAuYWN0aXZlIHsKICBsZWZ0OiAwOwp9Ci5jYXJvdXNlbC1pbm5lciA+IC5uZXh0LAouY2Fyb3VzZWwtaW5uZXIgPiAucHJldiB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogMDsKICB3aWR0aDogMTAwJTsKfQouY2Fyb3VzZWwtaW5uZXIgPiAubmV4dCB7CiAgbGVmdDogMTAwJTsKfQouY2Fyb3VzZWwtaW5uZXIgPiAucHJldiB7CiAgbGVmdDogLTEwMCU7Cn0KLmNhcm91c2VsLWlubmVyID4gLm5leHQubGVmdCwKLmNhcm91c2VsLWlubmVyID4gLnByZXYucmlnaHQgewogIGxlZnQ6IDA7Cn0KLmNhcm91c2VsLWlubmVyID4gLmFjdGl2ZS5sZWZ0IHsKICBsZWZ0OiAtMTAwJTsKfQouY2Fyb3VzZWwtaW5uZXIgPiAuYWN0aXZlLnJpZ2h0IHsKICBsZWZ0OiAxMDAlOwp9Ci5jYXJvdXNlbC1jb250cm9sIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAwOwogIGJvdHRvbTogMDsKICBsZWZ0OiAwOwogIHdpZHRoOiAxNSU7CiAgZm9udC1zaXplOiAyMHB4OwogIGNvbG9yOiAjZmZmZmZmOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICB0ZXh0LXNoYWRvdzogMCAxcHggMnB4IHJnYmEoMCwgMCwgMCwgMC42KTsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDApOwogIGZpbHRlcjogYWxwaGEob3BhY2l0eT01MCk7CiAgb3BhY2l0eTogMC41Owp9Ci5jYXJvdXNlbC1jb250cm9sLmxlZnQgewogIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCh0byByaWdodCwgcmdiYSgwLCAwLCAwLCAwLjUpIDAlLCByZ2JhKDAsIDAsIDAsIDAuMDAwMSkgMTAwJSk7CiAgZmlsdGVyOiBwcm9naWQ6RFhJbWFnZVRyYW5zZm9ybS5NaWNyb3NvZnQuZ3JhZGllbnQoc3RhcnRDb2xvcnN0cj0nIzgwMDAwMDAwJywgZW5kQ29sb3JzdHI9JyMwMDAwMDAwMCcsIEdyYWRpZW50VHlwZT0xKTsKICBiYWNrZ3JvdW5kLXJlcGVhdDogcmVwZWF0LXg7Cn0KLmNhcm91c2VsLWNvbnRyb2wucmlnaHQgewogIHJpZ2h0OiAwOwogIGxlZnQ6IGF1dG87CiAgYmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KHRvIHJpZ2h0LCByZ2JhKDAsIDAsIDAsIDAuMDAwMSkgMCUsIHJnYmEoMCwgMCwgMCwgMC41KSAxMDAlKTsKICBmaWx0ZXI6IHByb2dpZDpEWEltYWdlVHJhbnNmb3JtLk1pY3Jvc29mdC5ncmFkaWVudChzdGFydENvbG9yc3RyPScjMDAwMDAwMDAnLCBlbmRDb2xvcnN0cj0nIzgwMDAwMDAwJywgR3JhZGllbnRUeXBlPTEpOwogIGJhY2tncm91bmQtcmVwZWF0OiByZXBlYXQteDsKfQouY2Fyb3VzZWwtY29udHJvbDpob3ZlciwKLmNhcm91c2VsLWNvbnRyb2w6Zm9jdXMgewogIGNvbG9yOiAjZmZmZmZmOwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICBvdXRsaW5lOiAwOwogIGZpbHRlcjogYWxwaGEob3BhY2l0eT05MCk7CiAgb3BhY2l0eTogMC45Owp9Ci5jYXJvdXNlbC1jb250cm9sIC5pY29uLXByZXYsCi5jYXJvdXNlbC1jb250cm9sIC5pY29uLW5leHQgewogIHdpZHRoOiAyMHB4OwogIGhlaWdodDogMjBweDsKICBmb250LWZhbWlseTogc2VyaWY7CiAgbGluZS1oZWlnaHQ6IDE7Cn0KLmNhcm91c2VsLWNvbnRyb2wgLmljb24tcHJldjpiZWZvcmUgewogIGNvbnRlbnQ6ICJcMjAzOSI7Cn0KLmNhcm91c2VsLWNvbnRyb2wgLmljb24tbmV4dDpiZWZvcmUgewogIGNvbnRlbnQ6ICJcMjAzYSI7Cn0KLmNhcm91c2VsLWluZGljYXRvcnMgewogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICBib3R0b206IDEwcHg7CiAgbGVmdDogNTAlOwogIHotaW5kZXg6IDE1OwogIHdpZHRoOiA2MCU7CiAgcGFkZGluZy1sZWZ0OiAwOwogIG1hcmdpbi1sZWZ0OiAtMzAlOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBsaXN0LXN0eWxlOiBub25lOwp9Ci5jYXJvdXNlbC1pbmRpY2F0b3JzIGxpIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgd2lkdGg6IDEwcHg7CiAgaGVpZ2h0OiAxMHB4OwogIG1hcmdpbjogMXB4OwogIHRleHQtaW5kZW50OiAtOTk5cHg7CiAgY3Vyc29yOiBwb2ludGVyOwogIGJhY2tncm91bmQtY29sb3I6ICMwMDAgXDk7CiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLCAwLCAwLCAwKTsKICBib3JkZXI6IDFweCBzb2xpZCAjZmZmZmZmOwogIGJvcmRlci1yYWRpdXM6IDEwcHg7Cn0KLmNhcm91c2VsLWluZGljYXRvcnMgLmFjdGl2ZSB7CiAgd2lkdGg6IDEycHg7CiAgaGVpZ2h0OiAxMnB4OwogIG1hcmdpbjogMDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmOwp9Ci5jYXJvdXNlbC1jYXB0aW9uIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgcmlnaHQ6IDE1JTsKICBib3R0b206IDIwcHg7CiAgbGVmdDogMTUlOwogIHotaW5kZXg6IDEwOwogIHBhZGRpbmctdG9wOiAyMHB4OwogIHBhZGRpbmctYm90dG9tOiAyMHB4OwogIGNvbG9yOiAjZmZmZmZmOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICB0ZXh0LXNoYWRvdzogMCAxcHggMnB4IHJnYmEoMCwgMCwgMCwgMC42KTsKfQouY2Fyb3VzZWwtY2FwdGlvbiAuYnRuIHsKICB0ZXh0LXNoYWRvdzogbm9uZTsKfQpAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA3NjhweCkgewogIC5jYXJvdXNlbC1jYXB0aW9uIHsKICAgIHJpZ2h0OiAyMCU7CiAgICBsZWZ0OiAyMCU7CiAgICBwYWRkaW5nLWJvdHRvbTogMzBweDsKICB9CiAgLmNhcm91c2VsLWluZGljYXRvcnMgewogICAgYm90dG9tOiAyMHB4OwogIH0KfQ==</text>
+        <text>,
+  &quot;typeAcquisition&quot;: {
+    
+  }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
-      <register name="6" type="4">
-        <text>.embed-responsive .embed-responsive-item,
-.embed-responsive iframe,
-.embed-responsive embed,
-.embed-responsive object,
-.embed-responsive video {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
-.embed-responsive-16by9 {
-  padding-bottom: 56.25%;
-}
-.embed-responsive-4by3 {
-  padding-bottom: 75%;
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBbaGFzQ2FsbGVkUGF5cGFsLCBjaGFuZ2VIYXNDYWxsZWRQYXlwYWxdID0gUmVhY3QudXNlU3RhdGUoZmFsc2UpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LnRhYmxlLWNvbmRlbnNlZCA+IHRoZWFkID4gdHIgPiB0aCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRib2R5ID4gdHIgPiB0aCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRmb290ID4gdHIgPiB0aCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRoZWFkID4gdHIgPiB0ZCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRib2R5ID4gdHIgPiB0ZCwKLnRhYmxlLWNvbmRlbnNlZCA+IHRmb290ID4gdHIgPiB0ZCB7CiAgcGFkZGluZzogNXB4Owp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -4560,9 +4574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sub</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>sub</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
@@ -4570,7 +4584,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxGcmFnbWVudFw+</entry>
         <entry>styles</entry>
         <entry>pricing</entry>
@@ -4580,7 +4593,6 @@
         <entry encoding="base64">XDxjaGFuZ2VcPg==</entry>
         <entry>city</entry>
         <entry>state</entry>
-        <entry>this</entry>
         <entry>pickup</entry>
         <entry>shadow</entry>
         <entry>latitude</entry>
@@ -4591,6 +4603,7 @@
         <entry>address</entry>
         <entry>googleAddre</entry>
         <entry>sub</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm5vcmVtYXAgXFwgOm5vaCA8Y3I+</entry>
@@ -4599,7 +4612,6 @@
         <entry encoding="base64">bm9oIA==</entry>
         <entry>changes</entry>
         <entry>wqa</entry>
-        <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>vs</entry>
         <entry>set multiple-cursors</entry>
@@ -4607,9 +4619,11 @@
         <entry>q!</entry>
         <entry>qa</entry>
         <entry encoding="base64">aW5ub3JlbWFwIGprIDxlc2M+</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">aW1hcCBqayA8ZXNjPg==</entry>
         <entry encoding="base64">bm5vcmVtYXAgPGNyPiA6dzxjcj4=</entry>
+        <entry>:q</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>set surround</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
