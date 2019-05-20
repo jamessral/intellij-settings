@@ -4572,7 +4572,7 @@
         <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -4630,10 +4630,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
