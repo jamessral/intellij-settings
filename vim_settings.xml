@@ -39,6 +39,13 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/index.js" timestamp="1548348612409">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/playground/intermezzos/Cargo.toml" timestamp="1558234396670">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/forms/getPricingVariablesFromForm/index.js" timestamp="1557924329070">
         <mark key="'" line="34" column="1" />
         <mark key="[" line="36" column="37" />
@@ -147,6 +154,12 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusLabel.vue" timestamp="1555601959807">
         <mark key="'" line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/playground/intermezzos/src/main.rs" timestamp="1558234096277">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="17" column="9" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/index.jsx" timestamp="1558113821029">
         <mark key="'" line="10" column="3" />
       </file>
@@ -193,6 +206,12 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/expandable_text_modal_controller.js" timestamp="1555442753958">
         <mark key="'" line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/playground/intermezzos/intermezzos.json" timestamp="1558233483568">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/index.js" timestamp="1558109517796">
         <mark key="'" line="46" column="9" />
@@ -467,9 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/DetailsSection/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/DetailsSection/components/PickupLocationForm/index.js" />
-      <jump line="251" column="23" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="10" column="32" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/TextForEstimate/TextForEstimate.module.css" />
       <jump line="19" column="5" filename="$USER_HOME$/code/loadup-web/web_retail/src/index.scss" />
       <jump line="97" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/index.scss" />
@@ -567,6 +583,9 @@
       <jump line="22" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/google_location_picker_controller.js" />
       <jump line="2" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_location_picker.haml" />
       <jump line="29" column="48" filename="$USER_HOME$/code/loadup-web/app/javascript/controllers/google_location_picker_controller.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/playground/intermezzos/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/playground/intermezzos/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/playground/intermezzos/Cargo.toml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4230,7 +4249,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHctMi81</text>
+        <text>_precompiled</text>
       </register>
       <register name="/" type="4">
         <text>googleAddre</text>
@@ -4289,7 +4308,7 @@
         <text encoding="base64">ICAgICAgcmV0dXJuICF0aGlzLmxhdGl0dWRlIHx8ICF0aGlzLmxvbmdpdHVkZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuZmxleC5mbGV4LXJvdy5pdGVtcy1jZW50ZXIuanVtYm90cm9uCg==</text>
+        <text encoding="base64">IyFbZmVhdHVyZShwYW5pY19oYW5kbGVyKV0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4482,28 +4501,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmlsbEhpZGRlbklucHV0RmllbGRzKHBsYWNlKQo=</text>
+      <register name="3" type="4">
+        <text>fn main() {
+    println!(&quot;Hello, world!&quot;);
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgZmlsbEhpZGRlbklucHV0RmllbGRzIChwbGFjZSkgewogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAuZmxleC5mbGV4LXJvdy5pdGVtcy1jZW50ZXIuanVtYm90cm9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGF0aXR1ZGVUYXJnZXQudmFsdWUgPSBwbGFjZS5nZW9tZXRyeS5sb2NhdGlvbi5sYXQoKQogICAgdGhpcy5sb25naXR1ZGVUYXJnZXQudmFsdWUgPSBwbGFjZS5nZW9tZXRyeS5sb2NhdGlvbi5sbmcoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZmlsbEhpZGRlbklucHV0RmllbGRzKHBsYWNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA9IGZvcm1fb2JqZWN0LmhpZGRlbl9maWVsZCA6bGF0aXR1ZGUsICJkYXRhLXRhcmdldCIgPT4gImdvb2dsZS1sb2NhdGlvbi1waWNrZXIubGF0aXR1ZGUiCiAgPSBmb3JtX29iamVjdC5oaWRkZW5fZmllbGQgOmxvbmdpdHVkZSwgImRhdGEtdGFyZ2V0IiA9PiAiZ29vZ2xlLWxvY2F0aW9uLXBpY2tlci5sb25naXR1ZGUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAlaW5wdXQuZm9ybS1jb250cm9seyAidHlwZSIgPT4gInRleHQiLCAidGFiaW5kZXgiID0+IHRhYmluZGV4LCAiZGF0YS10YXJnZXQiID0+ICJnb29nbGUtbG9jYXRpb24tcGlja2VyLmdvb2dsZUFkZHJlc3NJbnB1dCIgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgZmlsbEhpZGRlbklucHV0RmllbGRzIChwbGFjZSkgewogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4516,11 +4537,10 @@
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxGcmFnbWVudFw+</entry>
         <entry>styles</entry>
@@ -4551,7 +4571,6 @@
         <entry encoding="base64">bm5vcmVtYXAgLC8gOm5vaCA8Y3I+</entry>
         <entry encoding="base64">bm9oIA==</entry>
         <entry>changes</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>wqa</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5x</entry>
@@ -4560,6 +4579,10 @@
         <entry>nohlsearch</entry>
         <entry>q!</entry>
         <entry>qa</entry>
+        <entry encoding="base64">aW5ub3JlbWFwIGprIDxlc2M+</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">aW1hcCBqayA8ZXNjPg==</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPGNyPiA6dzxjcj4=</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
