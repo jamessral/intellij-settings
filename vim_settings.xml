@@ -141,11 +141,11 @@
         <mark key="]" line="6248" column="0" />
         <mark key="." line="6248" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/public/index.html" timestamp="1558376123301">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="61" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/public/index.html" timestamp="1558448429112">
+        <mark key="[" line="25" column="137" />
+        <mark key="]" line="25" column="153" />
+        <mark key="^" line="25" column="153" />
+        <mark key="." line="25" column="153" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
         <mark key="'" line="20" column="48" />
@@ -190,12 +190,12 @@
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/queries/orders.rb" timestamp="1555523799620">
         <mark key="'" line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" timestamp="1558445911529">
-        <mark key="'" line="30" column="13" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" timestamp="1558448604289">
+        <mark key="'" line="13" column="2" />
         <mark key="[" line="34" column="60" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="35" column="17" />
+        <mark key="]" line="34" column="60" />
+        <mark key="." line="34" column="60" />
+        <mark key="^" line="34" column="60" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
         <mark key="'" line="68" column="12" />
@@ -374,12 +374,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" timestamp="1558445629218">
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" timestamp="1558448930171">
         <mark key="'" line="239" column="13" />
-        <mark key="[" line="272" column="4" />
-        <mark key="]" line="272" column="4" />
-        <mark key="." line="272" column="4" />
-        <mark key="^" line="263" column="12" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/tsconfig.json" timestamp="1558379624381">
         <mark key="'" line="0" column="0" />
@@ -459,11 +458,11 @@
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" timestamp="1558028573889">
         <mark key="'" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" timestamp="1558445752257">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" timestamp="1558448632735">
+        <mark key="'" line="115" column="20" />
+        <mark key="[" line="104" column="34" />
+        <mark key="]" line="104" column="34" />
+        <mark key="." line="104" column="34" />
         <mark key="^" line="115" column="48" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1555614891387">
@@ -536,7 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="148" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="142" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="73" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
@@ -602,15 +600,12 @@
       <jump line="198" column="17" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="62" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="213" column="21" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="77" column="4" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/hocs/withFormSubmitValidation/index.js" />
       <jump line="256" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="145" column="8" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="194" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="108" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="116" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="236" column="24" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="237" column="20" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="172" column="16" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
@@ -622,7 +617,6 @@
       <jump line="35" column="24" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="241" column="33" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="173" column="8" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="13" column="13" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="38" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="30" column="13" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="45" column="1" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
@@ -631,11 +625,16 @@
       <jump line="71" column="42" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="239" column="13" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="261" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="115" column="18" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="6" column="33" filename="$USER_HOME$/code/loadup-web/lib/zip_loader_utils.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/code/loadup-web/lib/zip_loader_utils.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/code/loadup-web/lib/zip_loader_utils.rb" />
+      <jump line="36" column="26" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="13" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
+      <jump line="116" column="4" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="115" column="20" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4299,10 +4298,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getPaypalPricingVariables</text>
+        <text>, paypalNonce</text>
       </register>
       <register name="/" type="4">
-        <text>getPricing</text>
+        <text>Nonce</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4358,7 +4357,7 @@
         <text encoding="base64">ICBkaXNwbGF5ZWRUb3RhbDogZ2V0VG90YWxQcmljZShwcmljaW5nRGV0YWlscyksCiAgc3BlY2lhbEluc3RydWN0aW9uczogZ2V0U3BlY2lhbEluc3RydWN0aW9ucygpLAogIHN0cmlwZUNhcmRUb2tlbiwKICBvcmRlclNlc3Npb25VdWlkOiBnZXRPcmRlclNlc3Npb25VdWlkKCksCiAgLi4uZ2V0Q29udGFjdEluZm8oKSwKICAuLi5nZXRQcmljaW5nVmFyaWFibGVzKHsKICAgIHByb21vQ29kZTogZ2V0UHJvbW9Db2RlSWZBcHBsaWVkKHByaWNpbmdEZXRhaWxzKQogIH0pLAogIC4uLmdldEFkZHJlc3NDb21wb25lbnRzKHsKICAgIG9yaWdpbmFsOiBnZXRPcmlnaW5hbEFkZHJlc3MoKSwKICAgIHBhcnNlZDogZ2V0UGFyc2VkQWRkcmVzcygpCiAgfSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBOZWVkIHRvIGdyYWIgcHJpY2luZyB2YXJpYWJsZXMK</text>
+        <text encoding="base64">ICBwYXlwYWxOb25jZSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4551,37 +4550,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldEhhc1JlbmRlcmVkUGF5cGFsKHRydWUpCg==</text>
+        <text encoding="base64">ICBwYXlwYWxOb25jZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGBEaWQgdGhlIHRoaW5nIGZvciBjdXN0b21lcjogJHtkZXRhaWxzLnBheWVyLm5hbWUuZ2l2ZW5fbmFtZX1gKQo=</text>
+        <text encoding="base64">ICAgIHBheXBhbE5vbmNlLAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBOZWVkIHRvIGdyYWIgcHJpY2luZyB2YXJpYWJsZXMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNldEhhc1JlbmRlcmVkUGF5cGFsKHRydWUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGBEaWQgdGhlIHRoaW5nIGZvciBjdXN0b21lcjogJHtkZXRhaWxzLnBheWVyLm5hbWUuZ2l2ZW5fbmFtZX1gKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>''</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>true</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="8" type="4">
-        <text>hidden</text>
-      </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getPricing</last-search>
+      <last-search>Nonce</last-search>
       <last-offset />
-      <last-pattern>getPricing</last-pattern>
+      <last-pattern>Nonce</last-pattern>
       <last-replace>Completed</last-replace>
       <last-substitute>COMPLETED</last-substitute>
       <last-dir>1</last-dir>
@@ -4611,6 +4610,9 @@
         <entry>validate</entry>
         <entry>change</entry>
         <entry>getPricing</entry>
+        <entry>pay</entry>
+        <entry>nonce</entry>
+        <entry>Nonce</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -4629,11 +4631,11 @@
         <entry>wq</entry>
         <entry>qa</entry>
         <entry>set multiple-cursors</entry>
-        <entry>nohlsearch</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>bd</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
