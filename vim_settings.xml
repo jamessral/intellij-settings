@@ -136,8 +136,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="97" column="29" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" timestamp="1558525223814">
-        <mark key="'" line="36" column="9" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" timestamp="1558534867244">
+        <mark key="'" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/PricingSummary/index.js" timestamp="1558037536955">
         <mark key="'" line="25" column="20" />
@@ -188,8 +188,8 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" timestamp="1558525110324">
-        <mark key="'" line="125" column="31" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" timestamp="1558534855658">
+        <mark key="'" line="125" column="33" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/OrdersShow/components/OrderDetailsLayout/components/ContactDetails/index.js" timestamp="1558112923131">
         <mark key="'" line="0" column="0" />
@@ -404,6 +404,13 @@
         <mark key="]" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/validations/index.js" timestamp="1558534943719">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" timestamp="1555442703919">
         <mark key="'" line="10" column="0" />
       </file>
@@ -453,8 +460,8 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" timestamp="1558525237754">
-        <mark key="'" line="5" column="7" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" timestamp="1558535037077">
+        <mark key="'" line="26" column="12" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -497,6 +504,9 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_file_uploader_widget.haml" timestamp="1558028573889">
         <mark key="'" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/formValidators/index.js" timestamp="1558534944587">
+        <mark key="'" line="84" column="13" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" timestamp="1558466834232">
         <mark key="'" line="195" column="72" />
@@ -581,19 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="18" column="17" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="55" column="50" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="63" column="4" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="58" column="28" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="54" column="53" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="158" column="34" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/ContactSection/components/ContactForm/index.js" />
-      <jump line="106" column="27" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="196" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="44" column="8" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="139" column="8" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="59" column="36" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="42" column="8" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="60" column="24" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
@@ -651,12 +648,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/index.jsx" />
       <jump line="10" column="3" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/index.jsx" />
       <jump line="18" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/index.js" />
-      <jump line="125" column="31" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" />
       <jump line="83" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
       <jump line="22" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
       <jump line="32" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
       <jump line="58" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
-      <jump line="36" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
       <jump line="24" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
       <jump line="5" column="7" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
       <jump line="25" column="4" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/service_areas_spec.rb" />
@@ -681,6 +676,21 @@
       <jump line="17" column="32" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_location_picker.haml" />
       <jump line="19" column="76" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_location_picker.haml" />
       <jump line="0" column="31" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_location_picker.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/validations/index.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" />
+      <jump line="125" column="33" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/index.js" />
+      <jump line="75" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
+      <jump line="36" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
+      <jump line="18" column="27" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/validations/index.js" />
+      <jump line="8" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/formValidators/index.js" />
+      <jump line="81" column="38" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/formValidators/index.js" />
+      <jump line="87" column="15" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/formValidators/index.js" />
+      <jump line="13" column="44" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/formValidators/index.js" />
+      <jump line="17" column="18" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/validations/index.js" />
+      <jump line="2" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/validations/index.js" />
+      <jump line="84" column="13" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/formValidators/index.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/formValidators/index.js" />
+      <jump line="26" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4347,10 +4357,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isRequired</text>
       </register>
       <register name="/" type="4">
-        <text>tab</text>
+        <text>State</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4379,8 +4389,8 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>google-maps-picker-86b71ad7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0YXRlOiBpc1JlcXVpcmVkKHZhbHMuc3RhdGUpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LSB0YWJpbmRleCA9IDEgdW5sZXNzIGRlZmluZWQ/KHRhYmluZGV4KQo=</text>
@@ -4600,13 +4610,13 @@
         <text encoding="base64">aW1wb3J0IHsgb25seU51bWJlcnMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9saWIvZm9ybXMvbm9ybWFsaXplcnMnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tab</last-search>
+      <last-search>State</last-search>
       <last-offset />
-      <last-pattern>tab</last-pattern>
+      <last-pattern>State</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -4637,6 +4647,10 @@
         <entry>arizona</entry>
         <entry>'</entry>
         <entry>tab</entry>
+        <entry>address</entry>
+        <entry>zip</entry>
+        <entry>state</entry>
+        <entry>State</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
@@ -4655,11 +4669,11 @@
         <entry encoding="base64">JzwsJz5zL2VtYWlsL2FkZHJlc3MvZw==</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>wq</entry>
         <entry>%s/'/&quot;/g</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

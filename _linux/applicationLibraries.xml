@@ -1593,6 +1593,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/exponent-server-sdk-0.0.6/test" />
       </excluded>
     </library>
+    <library name="exponent-server-sdk (v0.0.7, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/exponent-server-sdk-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/exponent-server-sdk-0.0.7/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/exponent-server-sdk-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/exponent-server-sdk-0.0.7/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/exponent-server-sdk-0.0.7/test" />
+      </excluded>
+    </library>
     <library name="factory_bot (v5.0.2, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4368,6 +4384,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.69.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.70.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.70.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-performance (v1.1.0, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4676,6 +4717,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/selenium-webdriver-3.142.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.142.3, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/selenium-webdriver-3.142.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/selenium-webdriver-3.142.3/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.12.0, rbenv: 2.6.2) [gem]" type="rubylib">
