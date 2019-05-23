@@ -24,6 +24,13 @@
         <mark key="." line="92" column="39" />
         <mark key="^" line="92" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ButtonClicks/app/src/main/java/com/jsral/MainActivity.kt" timestamp="1558570931854">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554751085546">
         <mark key="'" line="4" column="4" />
       </file>
@@ -610,7 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
       <jump line="21" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
       <jump line="22" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
       <jump line="23" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
@@ -710,6 +716,7 @@
       <jump line="276" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="64" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
+      <jump line="7" column="14" filename="$USER_HOME$/AndroidStudioProjects/ButtonClicks/app/src/main/java/com/jsral/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4376,7 +4383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>navbar</text>
@@ -4426,7 +4433,7 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZGVmYXVsdExhdGl0dWRlID0gMzMuNzUzNzQ2LAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
@@ -4619,29 +4626,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4ICFpbXBvcnRhbnQ7CiAgZmxleC1kaXJlY3Rpb246IHJvdyAhaW1wb3J0YW50OwogIGFsaWduLWl0ZW1zOiBjZW50ZXIgIWltcG9ydGFudDsKICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW4gIWltcG9ydGFudDs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAYXBwbHkgcHktMiBweC00Owo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwLjNlbSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb25zdCBoYXNBdExlYXN0T25lVmFsaWRPcmRlckxvY2F0aW9uID0gbWFwcGVkT3JkZXJzLnNvbWUocGluQ29vcmRpbmF0ZXNBcmVWYWxpZCkKCiAgICAvLyBpZiAoIWhhc0F0TGVhc3RPbmVWYWxpZE9yZGVyTG9jYXRpb24pIHsKICAgIC8vICAgZGlzcGF0Y2goJ3JlY2VudGVyTWFwJywgewogICAgLy8gICAgIGxhdGl0dWRlOiBERUZBVUxUX0xBVElUVURFLAogICAgLy8gICAgIGxvbmdpdHVkZTogREVGQVVMVF9MT05HSVRVREUKICAgIC8vICAgfSkKICAgIC8vIH0=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4ICFpbXBvcnRhbnQ7CiAgZmxleC1kaXJlY3Rpb246IHJvdyAhaW1wb3J0YW50OwogIGFsaWduLWl0ZW1zOiBjZW50ZXIgIWltcG9ydGFudDsKICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW4gIWltcG9ydGFudDs=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAYXBwbHkgcHktMiBweC00Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwYWRkaW5nOiAwLjNlbSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9jc3Mvc3lzX2FkbWluX2Jvb3Rzd2F0Y2hfcGFwZXIuY3NzJwo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9jc3Mvc3lzX2FkbWluLnNjc3MnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4654,31 +4661,10 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nonce</entry>
-        <entry>Nonce</entry>
-        <entry>debugg</entry>
-        <entry>debugger</entry>
-        <entry>store</entry>
-        <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
-        <entry>first</entry>
-        <entry>lastName</entry>
-        <entry>email</entry>
-        <entry>client</entry>
-        <entry>session</entry>
-        <entry>ise</entry>
-        <entry>props</entry>
-        <entry encoding="base64">XDxmbGlnaHRzX29mX3N0YWlyc19jb3VudFw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZUZsaWdodHNPZlN0YWlyc1w+</entry>
-        <entry>handle</entry>
-        <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
-        <entry>Render</entry>
-        <entry>google</entry>
-        <entry>goog</entry>
-        <entry>arizona</entry>
         <entry>tab</entry>
         <entry>address</entry>
         <entry>zip</entry>
@@ -4701,15 +4687,6 @@
         <entry>navbar</entry>
       </history-search>
       <history-cmd>
-        <entry>wqa</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q!</entry>
-        <entry encoding="base64">aW5ub3JlbWFwIGprIDxlc2M+</entry>
-        <entry encoding="base64">aW1hcCBqayA8ZXNjPg==</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPGNyPiA6dzxjcj4=</entry>
-        <entry>:q</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0L2xhc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2VtYWlsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL2FkZHJlc3MvZw==</entry>
@@ -4723,11 +4700,13 @@
         <entry>%s/value: //g</entry>
         <entry>%s/&quot;//g</entry>
         <entry>%s/'/&quot;/g</entry>
-        <entry>set multiple-cursors</entry>
         <entry>bd</entry>
         <entry>wq</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
+        <entry>set surround</entry>
+        <entry>set multiple-cursors</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
