@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getCreditCardFormValidity/index.js" timestamp="1558466566031">
         <mark key="'" line="63" column="15" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/expandable_text_modal_spec.rb" timestamp="1558625251401">
+      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/expandable_text_modal_spec.rb" timestamp="1558625415419">
         <mark key="'" line="16" column="25" />
-        <mark key="[" line="16" column="76" />
-        <mark key="]" line="16" column="76" />
-        <mark key="." line="16" column="76" />
-        <mark key="^" line="16" column="76" />
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
         <mark key="'" line="10" column="28" />
@@ -209,7 +209,7 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558612884802">
+      <file name="/GraphQL.result.json" timestamp="1558625692068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -463,7 +463,7 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ItemSelectionSection/components/ItemSelectionForm/components/SelectableItemOption/index.js" timestamp="1558018271690">
         <mark key="'" line="3" column="12" />
       </file>
-      <file name="/Ruby Console" timestamp="1558528902939">
+      <file name="/Ruby Console" timestamp="1558625961666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1555618412022">
@@ -4406,7 +4406,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>expandable-text-modal.modal</text>
       </register>
       <register name="/" type="4">
         <text>authenticate</text>
@@ -4684,18 +4684,10 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tab</entry>
-        <entry>address</entry>
-        <entry>zip</entry>
-        <entry>state</entry>
-        <entry>State</entry>
-        <entry>|</entry>
-        <entry>'$</entry>
-        <entry>fieldIs</entry>
         <entry encoding="base64">dmFsdWU6IA==</entry>
         <entry>&quot;</entry>
         <entry>'</entry>
@@ -4718,7 +4710,6 @@
         <entry>authenticate</entry>
       </history-search>
       <history-cmd>
-        <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0L2xhc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2VtYWlsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL2FkZHJlc3MvZw==</entry>
