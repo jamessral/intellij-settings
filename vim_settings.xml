@@ -4733,9 +4733,17 @@
         <entry>nohlsearch</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>set noline</entry>
         <entry>set numbers = 0</entry>
+        <entry>set nonumbers</entry>
+        <entry>set nonu</entry>
+        <entry>set nu!</entry>
+        <entry>set nonu!</entry>
+        <entry>set norelative!</entry>
+        <entry>set norelativenumber!</entry>
+        <entry>set nonumber!</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
