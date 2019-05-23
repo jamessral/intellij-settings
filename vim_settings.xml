@@ -27,8 +27,8 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554751085546">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1558030810517">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" timestamp="1558630218588">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="3" />
         <mark key="." line="37" column="3" />
@@ -209,7 +209,7 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558630033746">
+      <file name="/GraphQL.result.json" timestamp="1558630111971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -642,9 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="72" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="220" column="20" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
-      <jump line="221" column="20" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="226" column="26" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="54" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="35" column="30" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
@@ -742,6 +739,9 @@
       <jump line="18" column="53" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/expandable_text_modal_spec.rb" />
       <jump line="40" column="19" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/index.js" />
       <jump line="56" column="14" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/Home/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/lib/addresses.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4734,6 +4734,8 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>set noline</entry>
+        <entry>set numbers = 0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
