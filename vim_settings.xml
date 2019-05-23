@@ -207,6 +207,9 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1558612884802">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
         <mark key="'" line="68" column="12" />
       </file>
@@ -297,12 +300,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1558557277348">
-        <mark key="'" line="29" column="14" />
-        <mark key="[" line="129" column="69" />
-        <mark key="]" line="129" column="69" />
-        <mark key="^" line="129" column="69" />
-        <mark key="." line="129" column="69" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1558614193000">
+        <mark key="'" line="108" column="15" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="109" column="18" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1558557161187">
         <mark key="'" line="126" column="4" />
@@ -318,7 +321,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="70" column="1" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" timestamp="1558558570541">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" timestamp="1558613247427">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -528,6 +532,13 @@
         <mark key="." line="48" column="42" />
         <mark key="^" line="48" column="42" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/.eslintrc" timestamp="1558614089943">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/types/orders.ts" timestamp="1558537563896">
         <mark key="'" line="217" column="0" />
         <mark key="[" line="217" column="0" />
@@ -610,9 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
-      <jump line="21" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
-      <jump line="22" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
       <jump line="23" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
       <jump line="24" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
       <jump line="25" column="20" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/shared/_state_abbreviation_datalist.haml" />
@@ -709,7 +717,10 @@
       <jump line="2" column="43" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/store.js" />
       <jump line="276" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/dispatchMap/index.js" />
       <jump line="64" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
+      <jump line="69" column="18" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
+      <jump line="1" column="9" filename="$USER_HOME$/code/loadup-web/.eslintrc" />
+      <jump line="108" column="15" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4376,7 +4387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>navbar</text>
@@ -4424,10 +4435,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZGVmYXVsdExhdGl0dWRlID0gMzMuNzUzNzQ2LAo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDogbnVsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcz0ibWItMiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4619,32 +4630,32 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4ICFpbXBvcnRhbnQ7CiAgZmxleC1kaXJlY3Rpb246IHJvdyAhaW1wb3J0YW50OwogIGFsaWduLWl0ZW1zOiBjZW50ZXIgIWltcG9ydGFudDsKICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW4gIWltcG9ydGFudDs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJwcm9qZWN0IjogIi4vdHNjb25maWcuanNvbiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAYXBwbHkgcHktMiBweC00Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwLjNlbSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb25zdCBoYXNBdExlYXN0T25lVmFsaWRPcmRlckxvY2F0aW9uID0gbWFwcGVkT3JkZXJzLnNvbWUocGluQ29vcmRpbmF0ZXNBcmVWYWxpZCkKCiAgICAvLyBpZiAoIWhhc0F0TGVhc3RPbmVWYWxpZE9yZGVyTG9jYXRpb24pIHsKICAgIC8vICAgZGlzcGF0Y2goJ3JlY2VudGVyTWFwJywgewogICAgLy8gICAgIGxhdGl0dWRlOiBERUZBVUxUX0xBVElUVURFLAogICAgLy8gICAgIGxvbmdpdHVkZTogREVGQVVMVF9MT05HSVRVREUKICAgIC8vICAgfSkKICAgIC8vIH0=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4ICFpbXBvcnRhbnQ7CiAgZmxleC1kaXJlY3Rpb246IHJvdyAhaW1wb3J0YW50OwogIGFsaWduLWl0ZW1zOiBjZW50ZXIgIWltcG9ydGFudDsKICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW4gIWltcG9ydGFudDs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAYXBwbHkgcHktMiBweC00Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwYWRkaW5nOiAwLjNlbSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9jc3Mvc3lzX2FkbWluX2Jvb3Rzd2F0Y2hfcGFwZXIuY3NzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9jc3Mvc3lzX2FkbWluLnNjc3MnCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBoYXNBdExlYXN0T25lVmFsaWRPcmRlckxvY2F0aW9uID0gbWFwcGVkT3JkZXJzLnNvbWUocGluQ29vcmRpbmF0ZXNBcmVWYWxpZCkKCiAgICAvLyBpZiAoIWhhc0F0TGVhc3RPbmVWYWxpZE9yZGVyTG9jYXRpb24pIHsKICAgIC8vICAgZGlzcGF0Y2goJ3JlY2VudGVyTWFwJywgewogICAgLy8gICAgIGxhdGl0dWRlOiBERUZBVUxUX0xBVElUVURFLAogICAgLy8gICAgIGxvbmdpdHVkZTogREVGQVVMVF9MT05HSVRVREUKICAgIC8vICAgfSkKICAgIC8vIH0=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -4654,31 +4665,10 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nonce</entry>
-        <entry>Nonce</entry>
-        <entry>debugg</entry>
-        <entry>debugger</entry>
-        <entry>store</entry>
-        <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
-        <entry>first</entry>
-        <entry>lastName</entry>
-        <entry>email</entry>
-        <entry>client</entry>
-        <entry>session</entry>
-        <entry>ise</entry>
-        <entry>props</entry>
-        <entry encoding="base64">XDxmbGlnaHRzX29mX3N0YWlyc19jb3VudFw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZUZsaWdodHNPZlN0YWlyc1w+</entry>
-        <entry>handle</entry>
-        <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
-        <entry>Render</entry>
-        <entry>google</entry>
-        <entry>goog</entry>
-        <entry>arizona</entry>
         <entry>tab</entry>
         <entry>address</entry>
         <entry>zip</entry>
@@ -4701,14 +4691,6 @@
         <entry>navbar</entry>
       </history-search>
       <history-cmd>
-        <entry>wqa</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q!</entry>
-        <entry encoding="base64">aW5ub3JlbWFwIGprIDxlc2M+</entry>
-        <entry encoding="base64">aW1hcCBqayA8ZXNjPg==</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPGNyPiA6dzxjcj4=</entry>
-        <entry>:q</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0L2xhc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2VtYWlsL2c=</entry>
@@ -4724,11 +4706,12 @@
         <entry>%s/&quot;//g</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>set multiple-cursors</entry>
+        <entry>nohlsearch</entry>
+        <entry>cc</entry>
         <entry>bd</entry>
         <entry>wq</entry>
-        <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
