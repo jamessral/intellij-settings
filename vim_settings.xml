@@ -209,7 +209,7 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558630111971">
+      <file name="/GraphQL.result.json" timestamp="1558630410854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -4714,16 +4714,6 @@
         <entry>authenticate</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZpcnN0L2xhc3QvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2VtYWlsL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2VtYWlsL2FkZHJlc3MvZw==</entry>
-        <entry>qa</entry>
-        <entry encoding="base64">JzwsJz5zL3wvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLyckLyw=</entry>
-        <entry encoding="base64">JzwsJz5zLyckLycs</entry>
-        <entry>vs</entry>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry encoding="base64">JzwsJz4nPCwnPnMvJy8iL2c=</entry>
         <entry>%s/value: //g</entry>
         <entry>%s/&quot;//g</entry>
         <entry>%s/'/&quot;/g</entry>
