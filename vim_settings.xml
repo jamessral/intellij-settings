@@ -78,9 +78,9 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getCreditCardFormValidity/index.js" timestamp="1558466566031">
         <mark key="'" line="63" column="15" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/expandable_text_modal_spec.rb" timestamp="1558623212465">
+      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/expandable_text_modal_spec.rb" timestamp="1558625251401">
         <mark key="'" line="16" column="25" />
-        <mark key="[" line="16" column="62" />
+        <mark key="[" line="16" column="76" />
         <mark key="]" line="16" column="76" />
         <mark key="." line="16" column="76" />
         <mark key="^" line="16" column="76" />
@@ -4406,7 +4406,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>authenticate</text>
