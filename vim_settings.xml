@@ -30,6 +30,12 @@
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554751085546">
         <mark key="'" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/index.html.haml" timestamp="1558709576900">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderDatalistInput/index.tsx" timestamp="1558699715334">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -78,6 +84,9 @@
       <file name="$USER_HOME$/code/loadup-web/app/graphql/sys_admin/input_objects/orders_inputs.rb" timestamp="1555523802598">
         <mark key="'" line="4" column="63" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/controllers/sys_admin/service_areas_controller.rb" timestamp="1558709124132">
+        <mark key="'" line="34" column="73" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/statuses.js" timestamp="1555612144169">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="37" column="44" />
@@ -88,12 +97,6 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getCreditCardFormValidity/index.js" timestamp="1558466566031">
         <mark key="'" line="63" column="15" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/expandable_text_modal_spec.rb" timestamp="1558641333901">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
         <mark key="'" line="10" column="28" />
       </file>
@@ -102,12 +105,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" timestamp="1558706991555">
-        <mark key="'" line="254" column="5" />
-        <mark key="[" line="274" column="64" />
-        <mark key="]" line="272" column="74" />
-        <mark key="^" line="272" column="74" />
-        <mark key="." line="274" column="70" />
+      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" timestamp="1558708239842">
+        <mark key="'" line="299" column="6" />
+        <mark key="[" line="275" column="11" />
+        <mark key="]" line="275" column="11" />
+        <mark key="^" line="273" column="14" />
+        <mark key="." line="275" column="14" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/components/PlaceOrderButton/index.js" timestamp="1557944427623">
         <mark key="'" line="11" column="44" />
@@ -269,7 +272,7 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558703269879">
+      <file name="/GraphQL.result.json" timestamp="1558707648774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -286,6 +289,12 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_editable_tags.haml" timestamp="1558619415769">
         <mark key="'" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/new.html.haml" timestamp="1558709685403">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/ScheduleRequestConversionForm/components/ScheduleRequestConversionForm.tsx" timestamp="1558018659739">
         <mark key="'" line="175" column="12" />
@@ -395,6 +404,11 @@
         <mark key="^" line="109" column="18" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/_service_area_summary.haml" timestamp="1558709637227">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1558557161187">
         <mark key="'" line="126" column="4" />
         <mark key="[" line="18" column="0" />
@@ -502,12 +516,12 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/factories/order.rb" timestamp="1558639829474">
-        <mark key="'" line="52" column="70" />
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="52" column="70" />
-        <mark key="." line="52" column="70" />
-        <mark key="^" line="52" column="70" />
+      <file name="$USER_HOME$/code/loadup-web/spec/factories/order.rb" timestamp="1558708088206">
+        <mark key="'" line="57" column="64" />
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="57" column="64" />
+        <mark key="." line="57" column="64" />
+        <mark key="^" line="57" column="64" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/controllers/notification_counts_controller.js" timestamp="1555442703919">
         <mark key="'" line="10" column="0" />
@@ -580,12 +594,6 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" timestamp="1558115068491">
         <mark key="'" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/components/ui/forms/renderCreditCardPostalCodeInput/index.js" timestamp="1558699864548">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="73" />
-        <mark key="^" line="30" column="71" />
-        <mark key="." line="30" column="71" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/packs/createOrderForm.js" timestamp="1558525083071">
         <mark key="'" line="3" column="46" />
       </file>
@@ -616,12 +624,11 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/service_areas_spec.rb" timestamp="1558528949067">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="53" column="67" />
-        <mark key="]" line="53" column="78" />
-        <mark key="^" line="53" column="78" />
-        <mark key="." line="53" column="78" />
+      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/service_areas_spec.rb" timestamp="1558710485548">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/components/ui/forms/renderCreditCardExpiryInput/index.js" timestamp="1558700007690">
         <mark key="[" line="30" column="0" />
@@ -650,6 +657,12 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/edit.html.haml" timestamp="1558709670156">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558543540577">
         <mark key="[" line="0" column="0" />
@@ -747,33 +760,8 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateScheduledOrder/CustomerInfoSection/index.tsx" timestamp="1558636228271">
-        <mark key="[" line="171" column="63" />
-        <mark key="]" line="171" column="65" />
-        <mark key="^" line="171" column="65" />
-        <mark key="." line="171" column="65" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/.env" />
-      <jump line="259" column="42" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="9" column="12" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="3" column="10" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
-      <jump line="50" column="7" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
-      <jump line="51" column="31" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
-      <jump line="52" column="70" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
-      <jump line="10" column="34" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="42" column="62" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" />
-      <jump line="33" column="8" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" />
-      <jump line="108" column="27" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/expandable_text_modal_spec.rb" />
-      <jump line="255" column="76" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_order_details.haml" />
-      <jump line="7" column="28" filename="$USER_HOME$/code/loadup-web/.env.test" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/loadup-web/spec/rails_helper.rb" />
       <jump line="18" column="10" filename="$USER_HOME$/code/loadup-web/spec/rails_helper.rb" />
       <jump line="19" column="65" filename="$USER_HOME$/code/loadup-web/spec/rails_helper.rb" />
       <jump line="26" column="71" filename="$USER_HOME$/code/loadup-web/spec/rails_helper.rb" />
@@ -855,6 +843,25 @@
       <jump line="82" column="49" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
       <jump line="132" column="58" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
       <jump line="12" column="13" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
+      <jump line="205" column="4" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
+      <jump line="7" column="13" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
+      <jump line="54" column="4" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
+      <jump line="19" column="4" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
+      <jump line="57" column="64" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/spec/factories/order.rb" />
+      <jump line="298" column="6" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
+      <jump line="9" column="23" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/controllers/sys_admin/service_areas_controller.rb" />
+      <jump line="34" column="73" filename="$USER_HOME$/code/loadup-web/app/controllers/sys_admin/service_areas_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/policies/sys_admin_role/service_area_policy.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/index.html.haml" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/index.html.haml" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/index.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/Gemfile.lock" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/edit.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/views/sys_admin/service_areas/new.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/service_areas_spec.rb" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/service_areas_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4523,10 +4530,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, visible: true</text>
+        <text>Random.rand(100)</text>
       </register>
       <register name="/" type="4">
-        <text>special</text>
+        <text>clone</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4571,10 +4578,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NzcygiI3thc3NlbWJseV9pbnN0cnVjdGlvbnNfaWR9IC5tb2RhbCIsIHZpc2libGU6IGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIGFtb3VudCA9IFJhbmRvbS5yYW5kKDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NzcygiI3thc3NlbWJseV9pbnN0cnVjdGlvbnNfaWR9IC5tb2RhbCIsIHZpc2libGU6IGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4767,37 +4774,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS5ub3RfdG8gaGF2ZV90ZXh0KG9yZGVyLnNwZWNpYWxfaW5zdHJ1Y3Rpb25zKQo=</text>
+        <text encoding="base64">ICAgIGNsb25lID0gYW1vdW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGFsID0gZmluZCgiI3tzcGVjaWFsX2luc3RydWN0aW9uc19pZH0gLm1vZGFsLWNvbnRlbnQiLCB2aXNpYmxlOiB0cnVlKS5jbGljawo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChzYXZlZC5zdGF0ZSkudG8gZXEoIkdBIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmQoIiN7YXNzZW1ibHlfaW5zdHJ1Y3Rpb25zX2lkfSAubW9kYWwtY29udGVudCIpLmNsaWNrCg==</text>
+        <text encoding="base64">ICAgIGZpbmQoIiNuZXctc2VydmljZS1hcmVhLXN1Ym1pdCIpLmNsaWNrCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBhZGRyZXNzbGluZTE6IGdldFZhbHVlRnJvbUNvbnRhY3RGb3JtKCdwaWNrdXBBZGRyZXNzJyksCiAgdW5pdE51bWJlcjogZ2V0VmFsdWVGcm9tQ29udGFjdEZvcm0oJ3VuaXROdW1iZXInKSwKICBjaXR5OiBnZXRWYWx1ZUZyb21Db250YWN0Rm9ybSgnY2l0eScpLAogIHN0YXRlOiBnZXRWYWx1ZUZyb21Db250YWN0Rm9ybSgnc3RhdGUnKSwKICB6aXA6IGdldFZhbHVlRnJvbUNvbnRhY3RGb3JtKCd6aXAnKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNsZWVwKDAuNSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbCgiLnBhYy1pdGVtIikuZmlyc3QuY2xpY2sK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFJlbW92ZSB0aGlzIGhhcmRjb2RlZCBBbHRhbnRhIGxvY2F0aW9uCiAgICAvLyBvbmNlIHRoZSBsYXRpdHVkZS9sb25naXR1ZGUgZmllbGRzIGFyZSByZW1vdmVkCiAgICBsYXRpdHVkZTogMzMuODc4OTEyOCwKICAgIGxvbmdpdHVkZTogLTg0LjUxODMyNzUs</text>
+      <register name="7" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHNsZWVwKDAuNSkKICAgIHNsZWVwKDAuNSkKICAgIHNsZWVwKDAuNQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAmOmZvY3VzLCAmOmFjdGl2ZXsK</text>
+        <text encoding="base64">ICAgIGFkZHJlc3Nfbm9kZS5zZW5kX2tleXMoOmRvd24pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5x</text>
       </register>
     </registers>
     <search>
-      <last-search>special</last-search>
+      <last-search>clone</last-search>
       <last-offset />
-      <last-pattern>special</last-pattern>
+      <last-pattern>clone</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -4825,6 +4832,12 @@
         <entry>prop</entry>
         <entry>assembly</entry>
         <entry>special</entry>
+        <entry>auxillar</entry>
+        <entry>Text</entry>
+        <entry>edit</entry>
+        <entry>address</entry>
+        <entry>location</entry>
+        <entry>clone</entry>
       </history-search>
       <history-cmd>
         <entry>set noline</entry>
@@ -4840,13 +4853,13 @@
         <entry>set relativenumbers!</entry>
         <entry>set numbers!</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
         <entry>nohlsearch</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>set multiple-cursors</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
