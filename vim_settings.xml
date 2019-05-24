@@ -20,8 +20,8 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" timestamp="1558120432446">
-        <mark key="'" line="91" column="39" />
+      <file name="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" timestamp="1558706732249">
+        <mark key="'" line="12" column="13" />
         <mark key="[" line="92" column="31" />
         <mark key="]" line="92" column="39" />
         <mark key="." line="92" column="39" />
@@ -102,8 +102,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" timestamp="1558698961357">
+      <file name="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" timestamp="1558706991555">
         <mark key="'" line="254" column="5" />
+        <mark key="[" line="274" column="64" />
+        <mark key="]" line="272" column="74" />
+        <mark key="^" line="272" column="74" />
+        <mark key="." line="274" column="70" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/components/PlaceOrderButton/index.js" timestamp="1557944427623">
         <mark key="'" line="11" column="44" />
@@ -274,7 +278,7 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/ItemsSection/index.js" timestamp="1558036090497">
         <mark key="'" line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/spec/rails_helper.rb" timestamp="1558641298973">
+      <file name="$USER_HOME$/code/loadup-web/spec/rails_helper.rb" timestamp="1558706661054">
         <mark key="'" line="7" column="20" />
         <mark key="[" line="133" column="26" />
         <mark key="]" line="133" column="27" />
@@ -751,10 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="50" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="219" column="24" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="286" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/.env" />
       <jump line="259" column="42" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
       <jump line="9" column="12" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
@@ -851,6 +851,10 @@
       <jump line="122" column="40" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/hocs/withPricingData/index.js" />
       <jump line="241" column="23" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="38" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
+      <jump line="82" column="49" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
+      <jump line="132" column="58" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
+      <jump line="12" column="13" filename="$USER_HOME$/code/loadup-web/spec/features/retail/orders_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4519,10 +4523,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>className</text>
+        <text>, visible: true</text>
       </register>
       <register name="/" type="4">
-        <text>prop</text>
+        <text>special</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4566,11 +4570,11 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LmlucHV0ewogICAgaGVpZ2h0OiA0MHB4OwogICAgcGFkZGluZzogNHB4IDVweDsKICAgIGZvbnQtc2l6ZTogMTRweDsKICAgIHdpZHRoOiAxMDAlOwogICAgZmxleC1iYXNpczogMTAwJTsKICAgIG1heC13aWR0aDogMTAwJTsKICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICBmbGV4OiAwIDAgYXV0bzsKICAgIHBhZGRpbmctcmlnaHQ6IC41cmVtOwogICAgcGFkZGluZy1sZWZ0OiAuNXJlbTsKICAgIGJvcmRlcjogMXB4IHNvbGlkICNkZGQ7CiAgICAmOmZvY3VzLCAmOmFjdGl2ZXsKICAgICAgICBvdXRsaW5lOiBub25lOwogICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNiYmI7CiAgICB9Cn0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NzcygiI3thc3NlbWJseV9pbnN0cnVjdGlvbnNfaWR9IC5tb2RhbCIsIHZpc2libGU6IGZhbHNlKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBhZGRyZXNzbGluZTE6IGdldFZhbHVlRnJvbUNvbnRhY3RGb3JtKCdwaWNrdXBBZGRyZXNzJyksCiAgdW5pdE51bWJlcjogZ2V0VmFsdWVGcm9tQ29udGFjdEZvcm0oJ3VuaXROdW1iZXInKSwKICBjaXR5OiBnZXRWYWx1ZUZyb21Db250YWN0Rm9ybSgnY2l0eScpLAogIHN0YXRlOiBnZXRWYWx1ZUZyb21Db250YWN0Rm9ybSgnc3RhdGUnKSwKICB6aXA6IGdldFZhbHVlRnJvbUNvbnRhY3RGb3JtKCd6aXAnKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX2NzcygiI3thc3NlbWJseV9pbnN0cnVjdGlvbnNfaWR9IC5tb2RhbCIsIHZpc2libGU6IGZhbHNlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4763,41 +4767,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS5ub3RfdG8gaGF2ZV90ZXh0KG9yZGVyLnNwZWNpYWxfaW5zdHJ1Y3Rpb25zKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFJlbW92ZSB0aGlzIGhhcmRjb2RlZCBBbHRhbnRhIGxvY2F0aW9uCiAgICAvLyBvbmNlIHRoZSBsYXRpdHVkZS9sb25naXR1ZGUgZmllbGRzIGFyZSByZW1vdmVkCiAgICBsYXRpdHVkZTogMzMuODc4OTEyOCwKICAgIGxvbmdpdHVkZTogLTg0LjUxODMyNzUs</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1vZGFsID0gZmluZCgiI3tzcGVjaWFsX2luc3RydWN0aW9uc19pZH0gLm1vZGFsLWNvbnRlbnQiLCB2aXNpYmxlOiB0cnVlKS5jbGljawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gICAK</text>
+        <text encoding="base64">ICAgIGZpbmQoIiN7YXNzZW1ibHlfaW5zdHJ1Y3Rpb25zX2lkfSAubW9kYWwtY29udGVudCIpLmNsaWNrCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAmOmZvY3VzLCAmOmFjdGl2ZXsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBhZGRyZXNzbGluZTE6IGdldFZhbHVlRnJvbUNvbnRhY3RGb3JtKCdwaWNrdXBBZGRyZXNzJyksCiAgdW5pdE51bWJlcjogZ2V0VmFsdWVGcm9tQ29udGFjdEZvcm0oJ3VuaXROdW1iZXInKSwKICBjaXR5OiBnZXRWYWx1ZUZyb21Db250YWN0Rm9ybSgnY2l0eScpLAogIHN0YXRlOiBnZXRWYWx1ZUZyb21Db250YWN0Rm9ybSgnc3RhdGUnKSwKICB6aXA6IGdldFZhbHVlRnJvbUNvbnRhY3RGb3JtKCd6aXAnKQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICY6Zm9jdXMsICY6YWN0aXZlewogICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgI2JiYjsKICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBnZXRQYXJzZWRBZGRyZXNzCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8vIFRPRE86IFJlbW92ZSB0aGlzIGhhcmRjb2RlZCBBbHRhbnRhIGxvY2F0aW9uCiAgICAvLyBvbmNlIHRoZSBsYXRpdHVkZS9sb25naXR1ZGUgZmllbGRzIGFyZSByZW1vdmVkCiAgICBsYXRpdHVkZTogMzMuODc4OTEyOCwKICAgIGxvbmdpdHVkZTogLTg0LjUxODMyNzUs</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0gICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAmOmZvY3VzLCAmOmFjdGl2ZXsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prop</last-search>
+      <last-search>special</last-search>
       <last-offset />
-      <last-pattern>prop</last-pattern>
+      <last-pattern>special</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4811,8 +4815,6 @@
         <entry>zip</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>SPRING</entry>
-        <entry>special</entry>
-        <entry>assembly</entry>
         <entry>spec</entry>
         <entry>prot</entry>
         <entry>port</entry>
@@ -4821,6 +4823,8 @@
         <entry>zipisinvalid</entry>
         <entry>propTypes</entry>
         <entry>prop</entry>
+        <entry>assembly</entry>
+        <entry>special</entry>
       </history-search>
       <history-cmd>
         <entry>set noline</entry>
@@ -4837,11 +4841,11 @@
         <entry>set numbers!</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>wq</entry>
         <entry>nohlsearch</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>set multiple-cursors</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
