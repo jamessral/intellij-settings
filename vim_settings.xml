@@ -272,7 +272,7 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558707648774">
+      <file name="/GraphQL.result.json" timestamp="1558710581397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -4808,16 +4808,10 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>authenticate</entry>
-        <entry>name</entry>
-        <entry>error</entry>
-        <entry>external</entry>
-        <entry>return</entry>
-        <entry>isZip</entry>
         <entry>isRequired</entry>
         <entry>zip</entry>
         <entry encoding="base64">PDw8</entry>
