@@ -237,7 +237,7 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558631638332">
+      <file name="/GraphQL.result.json" timestamp="1558698449570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -4728,23 +4728,10 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dmFsdWU6IA==</entry>
-        <entry>&quot;</entry>
-        <entry>'</entry>
-        <entry encoding="base64">XDxsYXRpdHVkZVw+</entry>
-        <entry>lat</entry>
-        <entry encoding="base64">XDxjbGVhclw+</entry>
-        <entry>center</entry>
-        <entry>recenter</entry>
-        <entry>default</entry>
-        <entry>setCenter</entry>
-        <entry>isMiss</entry>
-        <entry>navbar</entry>
-        <entry>badge</entry>
         <entry>tag</entry>
         <entry>modal</entry>
         <entry>action</entry>
@@ -4767,11 +4754,6 @@
         <entry>port</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/value: //g</entry>
-        <entry>%s/&quot;//g</entry>
-        <entry>%s/'/&quot;/g</entry>
-        <entry>set multiple-cursors</entry>
-        <entry>cc</entry>
         <entry>bd</entry>
         <entry>set noline</entry>
         <entry>set numbers = 0</entry>
