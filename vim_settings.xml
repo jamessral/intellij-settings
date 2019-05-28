@@ -283,7 +283,7 @@
         <mark key="." line="61" column="1" />
         <mark key="^" line="61" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558710916892">
+      <file name="/GraphQL.result.json" timestamp="1559045186950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -4847,24 +4847,10 @@
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isRequired</entry>
-        <entry>zip</entry>
-        <entry encoding="base64">PDw8</entry>
-        <entry>SPRING</entry>
-        <entry>spec</entry>
-        <entry>prot</entry>
-        <entry>port</entry>
-        <entry>render</entry>
-        <entry encoding="base64">XDx6aXBJc0ludmFsaWRcPg==</entry>
-        <entry>zipisinvalid</entry>
-        <entry>propTypes</entry>
-        <entry>prop</entry>
-        <entry>assembly</entry>
-        <entry>special</entry>
         <entry>auxillar</entry>
         <entry>Text</entry>
         <entry>edit</entry>
@@ -4887,9 +4873,6 @@
         <entry>getFil</entry>
       </history-search>
       <history-cmd>
-        <entry>set noline</entry>
-        <entry>set numbers = 0</entry>
-        <entry>set nonumbers</entry>
         <entry>set nonu</entry>
         <entry>set nu!</entry>
         <entry>set norelative!</entry>
