@@ -64,11 +64,12 @@
       <file name="$USER_HOME$/code/loadup-web/config/webpacker.yml" timestamp="1555442505307">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/ConfirmNewZipForm.module.css" timestamp="1559068895558">
-        <mark key="'" line="1" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/ConfirmNewZipForm.module.css" timestamp="1559074147128">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Test/app/src/main/java/com/example/test/MainActivity.kt" timestamp="1554670811349">
         <mark key="'" line="11" column="0" />
@@ -79,12 +80,12 @@
       <file name="$USER_HOME$/code/loadup-web/spec/factories/customer_organization.rb" timestamp="1550549144497">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" timestamp="1559071076333">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="17" />
-        <mark key="^" line="49" column="29" />
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" timestamp="1559074399275">
+        <mark key="'" line="54" column="57" />
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="18" />
+        <mark key="." line="75" column="18" />
+        <mark key="^" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin_bootswatch_paper.css" timestamp="1558619681465">
         <mark key="'" line="396" column="0" />
@@ -362,12 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="53" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/index.js" />
-      <jump line="6" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/ui/layout/CenteredModal/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/ui/layout/CenteredModal/index.js" />
-      <jump line="18" column="15" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/index.js" />
-      <jump line="5" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/ui/layout/CenteredModal/index.js" />
-      <jump line="49" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/index.js" />
       <jump line="3" column="15" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/hocs/withModalsData/index.js" />
       <jump line="4" column="34" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/hocs/withFinalServiceLocationData/index.js" />
       <jump line="43" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/store/ducks/finalServiceLocation/index.js" />
@@ -461,7 +456,13 @@
       <jump line="29" column="13" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
       <jump line="50" column="23" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
       <jump line="41" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
-      <jump line="23" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
+      <jump line="23" column="56" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
+      <jump line="53" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
+      <jump line="26" column="44" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
+      <jump line="59" column="15" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
+      <jump line="54" column="57" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/index.tsx" />
+      <jump line="0" column="1" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/ConfirmNewZipForm/ConfirmNewZipForm.module.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -509,7 +510,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text encoding="base64">PHNwYW4+PC9zcGFuPg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -528,10 +529,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, zip</text>
+        <text encoding="base64">ICBmbG9hdDogbGVmdDs=</text>
       </register>
       <register name="/" type="4">
-        <text>ducks</text>
+        <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -565,10 +566,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBbaXNTdWJtaXR0aW5nLCBzZXRJc1N1Ym1pdHRpbmddID0gUmVhY3QudXNlU3RhdGUoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgID8gYGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9wYXJ0bmVyL2FwaS9zZXJ2aWNlX2F2YWlsYWJpbGl0eT96aXA9JHt6aXBDb2RlfWAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17aGFuZGxlWmlwQ2hhbmdlfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -760,42 +761,42 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVaaXBDaGFuZ2UgPSBSZWFjdC51c2VDYWxsYmFjayhhc3luYyAoKSA9PiB7CiAgICBjb25zdCB6aXBJc1ZhbGlkID0gemlwICYmIHppcC5sZW5ndGggPT09IDUKCiAgICBpZiAoemlwSXNWYWxpZCkgewogICAgICBzZXRJc1N1Ym1pdHRpbmcodHJ1ZSkKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCByZXNwb25zZTogSVppcFJlc3BvbnNlID0gYXdhaXQgbWFrZUpzb25SZXF1ZXN0KHsKICAgICAgICAgIHVybDogYGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9wYXJ0bmVyL2FwaS9zZXJ2aWNlX2F2YWlsYWJpbGl0eT96aXA9JHt6aXB9YCwKICAgICAgICAgIG1ldGhvZDogJ0dFVCcKICAgICAgICB9KQoKICAgICAgICBvbkNvbXBsZXRlZCh7IGF2YWlsYWJsZTogcmVzcG9uc2UuYXZhaWxhYmxlIHx8IGZhbHNlLCB6aXAgfSkKICAgICAgICBzZXRJc1N1Ym1pdHRpbmcoZmFsc2UpCiAgICAgIH0gY2F0Y2ggKHsgZXJyb3JTdGF0dXMgPSAnJywgZXJyb3JUZXh0ID0gJycgfSkgewogICAgICAgIGNvbnN0IGVycm9yTWVzc2FnZSA9IGAke2Vycm9yU3RhdHVzfSAtICR7ZXJyb3JUZXh0fWAKICAgICAgICBjb25zb2xlLmVycm9yKGVycm9yTWVzc2FnZSkKICAgICAgICBzZXRJc1N1Ym1pdHRpbmcoZmFsc2UpCiAgICAgIH0KICAgIH0KICB9LCBbb25Db21wbGV0ZWQsIHppcF0p</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHppcCA9IGdldCgndGFyZ2V0LnZhbHVlJywgZXZlbnQpIHx8ICcnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBbZm9ybURpcnR5LCBzZXRGb3JtRGlydHldID0gUmVhY3QudXNlU3RhdGUoZmFsc2UpCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">LmlucHV0R3JvdXAgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkaXNwbGF5Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICA8QmVhdExvYWRlcgogICAgICAgICAgc2l6ZT17MTB9CiAgICAgICAgICBsb2FkaW5nPXtpc1N1Ym1pdHRpbmd9CiAgICAgICAgLz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldFppcElzQXZhaWxhYmxlKG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldFVwZGF0ZWRaaXAsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PHNwYW4+PC9zcGFuPg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldFVwZGF0ZWRaaXAobnVsbCkK</text>
+      <register name="9" type="4">
+        <text>Zip Code</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>ducks</last-search>
+      <last-search encoding="base64">XDxodHRwc1w+</last-search>
       <last-offset />
-      <last-pattern>ducks</last-pattern>
+      <last-pattern encoding="base64">XDxodHRwc1w+</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -826,6 +827,8 @@
         <entry>initialzip</entry>
         <entry>initialZipCode</entry>
         <entry>ducks</entry>
+        <entry>props</entry>
+        <entry encoding="base64">XDxodHRwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>set nonu</entry>
@@ -842,13 +845,13 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>%s/%span.badge/%span.badge.bg-grey</entry>
         <entry>s/-//g</entry>
-        <entry>qa</entry>
         <entry>set surround</entry>
-        <entry>nohlsearch</entry>
         <entry>set multiple-cursors</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
