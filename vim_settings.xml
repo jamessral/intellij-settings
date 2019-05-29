@@ -843,7 +843,7 @@
         <text encoding="base64">ICAgICAgPGltZwogICAgICAgIAogICAgICAgIGFsdD0nQ3JlZGl0IENhcmQnCiAgICAgICAgc3JjPXtDYXJkSW1nfQogICAgICAgIHN0eWxlPXt7CiAgICAgICAgICBtYXhXaWR0aDogJzEwMHB4JywKICAgICAgICAgIG1heEhlaWdodDogJzE1cHgnLAogICAgICAgICAgb2JqZWN0Rml0OiAnY29udGFpbicsCiAgICAgICAgICBtYXJnaW5Ub3A6ICc1cHgnCiAgICAgICAgfX0KICAgICAgLz4=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -905,8 +905,8 @@
         <entry>set surround</entry>
         <entry>set multiple-cursors</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
