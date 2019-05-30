@@ -168,7 +168,7 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559217575112">
+      <file name="/GraphQL.result.json" timestamp="1559231782723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/index.tsx" timestamp="1559227659071">
@@ -865,17 +865,10 @@
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
-        <entry>getFil</entry>
-        <entry>avail</entry>
-        <entry>cahnge</entry>
-        <entry encoding="base64">XDxpbml0aWFsWmlwXD4=</entry>
-        <entry>initialzip</entry>
-        <entry>initialZipCode</entry>
         <entry>ducks</entry>
         <entry>props</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
@@ -898,7 +891,6 @@
         <entry>new</entry>
       </history-search>
       <history-cmd>
-        <entry>set nu!</entry>
         <entry>set norelative!</entry>
         <entry>set norelativenumber!</entry>
         <entry>set nonu!</entry>
