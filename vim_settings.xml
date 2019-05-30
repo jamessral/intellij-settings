@@ -76,10 +76,6 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/FinalServiceLocationUnavailableModal/index.js" timestamp="1559146853405">
         <mark key="'" line="65" column="46" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/.env.example" timestamp="1559220374066">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="90" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/config/webpacker.yml" timestamp="1555442505307">
         <mark key="'" line="0" column="0" />
       </file>
@@ -201,8 +197,14 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/ScheduleRequestConversionForm/components/ScheduleRequestConversionForm.tsx" timestamp="1558018659739">
         <mark key="'" line="175" column="12" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/package.json" timestamp="1559226450357">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/package.json" timestamp="1559237581054">
+        <mark key="'" line="83" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/addresses.js" timestamp="1559238684128">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" timestamp="1558035815648">
         <mark key="'" line="20" column="14" />
@@ -255,6 +257,9 @@
         <mark key="." line="45" column="26" />
         <mark key="^" line="45" column="26" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" timestamp="1559237671140">
+        <mark key="'" line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" timestamp="1559231642186">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="0" />
@@ -270,11 +275,36 @@
       <file name="/JSRegexp Fragment (index.js:343).regexp" timestamp="1558727116453">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1559238806053">
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1559239520791">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="121" column="24" />
+        <mark key="]" line="121" column="25" />
+        <mark key="^" line="131" column="10" />
+        <mark key="." line="121" column="25" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withOrderFormValues/index.js" timestamp="1557941535920">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusLabel.vue" timestamp="1555601959807">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/TimeslotLabel.vue" timestamp="1559233679437">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="47" column="32" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusLabel.vue" timestamp="1559238438017">
         <mark key="'" line="9" column="9" />
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+        <mark key="^" line="22" column="52" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/index.jsx" timestamp="1558525085331">
         <mark key="'" line="10" column="3" />
@@ -337,6 +367,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" timestamp="1559238700056">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/store.js" timestamp="1558558104047">
         <mark key="'" line="2" column="43" />
       </file>
@@ -345,6 +381,12 @@
         <mark key="]" line="36" column="40" />
         <mark key="." line="36" column="40" />
         <mark key="^" line="36" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/filters.js" timestamp="1559238680991">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/CreditCardPaymentForm.module.css" timestamp="1559144650101">
         <mark key="[" line="2" column="1" />
@@ -381,8 +423,11 @@
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_left_nav.haml" timestamp="1558732215229">
         <mark key="'" line="15" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559060209300">
+      <file name="/Dummy.txt" timestamp="1559235926747">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" timestamp="1559228990173">
         <mark key="'" line="71" column="28" />
@@ -397,6 +442,12 @@
         <mark key="]" line="121" column="39" />
         <mark key="^" line="33" column="53" />
         <mark key="." line="121" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1559239434216">
+        <mark key="[" line="96" column="46" />
+        <mark key="]" line="96" column="52" />
+        <mark key="." line="96" column="52" />
+        <mark key="^" line="96" column="52" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/enums/host_source_enums.rb" timestamp="1548792391309">
         <mark key="'" line="3" column="18" />
@@ -430,30 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="25" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="231" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="6" column="36" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="153" column="12" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="147" column="39" filename="$USER_HOME$/code/loadup-web/spec/features/sys_admin/orders_spec.rb" />
-      <jump line="28" column="26" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="88" column="26" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="5" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="136" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="92" column="35" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="7" column="65" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="16" column="36" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
-      <jump line="84" column="16" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="212" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="44" column="4" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="82" column="32" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="254" column="14" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="44" column="39" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="117" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="68" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
-      <jump line="1" column="9" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="11" column="28" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="36" column="1" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
       <jump line="220" column="4" filename="$USER_HOME$/code/loadup-web/web_retail/src/lib/forms/getPricingVariablesFromForm/index.js" />
@@ -530,6 +557,30 @@
       <jump line="111" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
       <jump line="90" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
+      <jump line="190" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="34" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/TimeslotLabel.vue" />
+      <jump line="41" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="195" column="1" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="11" column="33" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="30" column="46" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="43" column="23" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="20" column="16" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="12" column="8" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="42" column="70" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="39" column="12" filename="$USER_HOME$/code/loadup-web/package.json" />
+      <jump line="83" column="11" filename="$USER_HOME$/code/loadup-web/package.json" />
+      <jump line="10" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
+      <jump line="21" column="15" filename="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
+      <jump line="37" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/css/sys_admin.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="25" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="32" column="23" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/addresses.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -577,7 +628,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -596,10 +647,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stable</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>colro</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -633,10 +684,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdjb3JlLWpzL3N0YWJsZScKaW1wb3J0ICdyZWdlbmVyYXRvci1ydW50aW1lL3J1bnRpbWUnCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj57eyBzdHJlZXQgfX0sIHt7IGNpdHkgfX08L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRVcFN0eWxlcyBmcm9tICcuLi8uLi8uLi8uLi9zdHlsZXMnCg==</text>
+        <text encoding="base64">ICAgICAge3sgZnVsbEFkZHJlc3MgfCBmb3JtYXRBZGRyZXNzIH19Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -829,50 +880,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT17eyBtYXJnaW5SaWdodDogJy0ycmVtJyB9fQo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSd0ZXh0LXhzIG1sLTInCiAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICBib3R0b206ICcxLjJyZW0nLAogICAgICAgICAgICAgICAgICByaWdodDogJzIuNWVtJywKICAgICAgICAgICAgICAgICAgY29sb3I6IExvYWRVcFN0eWxlcy5jb2xvcnMucHJpbWFyeUdyZWVuLAogICAgICAgICAgICAgICAgICBXZWJraXRUZXh0RmlsbENvbG9yOiBMb2FkVXBTdHlsZXMuY29sb3JzLnByaW1hcnlHcmVlbiwKICAgICAgICAgICAgICAgICAgcG9zaXRpb246ICdyZWxhdGl2ZScKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgTmV3CiAgICAgICAgICAgICAgPC9zcGFuPg==</text>
+        <text encoding="base64">ICAgIGZ1bGxBZGRyZXNzICgpIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBzdHJlZXQ6IHRoaXMuc3RyZWV0QWRkcmVzcywKICAgICAgICBjaXR5OiB0aGlzLmNpdHksCiAgICAgICAgc3RhdGU6IHRoaXMuc3RhdGUsCiAgICAgICAgemlwOiB0aGlzLnppcAogICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3JtYXRBZGRyZXNzLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgcHVibGljIGhhbmRsZVBhZ2VTaXplQ2hhbmdlID0gKHBhZ2VTaXplOiBudW1iZXIpID0+IHsKICAgIGNvbnN0IHsgcGFnaW5hdGlvbiB9ID0gdGhpcy5wcm9wcwoKICAgIHRoaXMucHJvcHMucmVmZXRjaCh7CiAgICAgIGlucHV0czogeyBwYWdlOiBwYWdpbmF0aW9uLmN1cnJlbnRQYWdlLCBwYWdlU2l6ZSB9CiAgICB9KQogIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">VnVlLmZpbHRlcignZm9ybWF0QWRkcmVzcycsIGZvcm1hdEFkZHJlc3MpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmNvbnN0IGRlZmF1bHRBZGRyZXNzID0geyBzdHJlZXQ6ICcnLCBjaXR5OiAnJywgc3RhdGU6ICcnLCB6aXA6ICcnIH0KZXhwb3J0IGZ1bmN0aW9uIHNwbGl0RnVsbEFkZHJlc3MgKHsgc3RyZWV0LCBjaXR5LCBzdGF0ZSwgemlwIH0pIHsKICBjb25zdCBhZGRyZXNzID0geyAuLi5kZWZhdWx0QWRkcmVzcywgc3RyZWV0LCBjaXR5LCBzdGF0ZSwgemlwIH0KICByZXR1cm4gW2Ake2FkZHJlc3Muc3RyZWV0fSAke2FkZHJlc3MuY2l0eX1dYCwgYCR7YWRkcmVzcy5zdGF0ZX0gJHthZGRyZXNzLnppcH1gXQp9</text>
       </register>
-      <register name="9" type="4">
-        <text>interface ICellProps {
-  row: IRewardTransaction
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY2xhc3M9Im15LTIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>colro</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
-      <last-replace />
-      <last-substitute>-</last-substitute>
+      <last-pattern>colro</last-pattern>
+      <last-replace>\/6</last-replace>
+      <last-substitute>\/5</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>ducks</entry>
         <entry>props</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
-        <entry>icon</entry>
         <entry>order-show</entry>
         <entry>getPricing</entry>
         <entry>attemptSub</entry>
@@ -889,6 +937,12 @@
         <entry>core-js</entry>
         <entry>Column</entry>
         <entry>new</entry>
+        <entry>\/5</entry>
+        <entry>icon</entry>
+        <entry>tw-labeljk</entry>
+        <entry>tw-</entry>
+        <entry>status</entry>
+        <entry>colro</entry>
       </history-search>
       <history-cmd>
         <entry>set norelative!</entry>
@@ -903,14 +957,16 @@
         <entry>%s/%span.badge/%span.badge.bg-grey</entry>
         <entry>s/-//g</entry>
         <entry>set surround</entry>
-        <entry>vs</entry>
         <entry>set multiple-cursors</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>qa</entry>
-        <entry>q</entry>
+        <entry>%s/\/5/\6/g</entry>
+        <entry>%s/\/5/\/6/g</entry>
+        <entry>vs</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
