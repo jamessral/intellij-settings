@@ -255,6 +255,12 @@
         <mark key="." line="45" column="26" />
         <mark key="^" line="45" column="26" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" timestamp="1559231642186">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/components/hocs/withOrderSessionTracking/index.js" timestamp="1558119604649">
         <mark key="'" line="96" column="37" />
       </file>
@@ -424,10 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="67" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/package.json" />
-      <jump line="8" column="18" filename="$USER_HOME$/code/loadup-web/web_retail/package.json" />
-      <jump line="43" column="11" filename="$USER_HOME$/code/loadup-web/web_retail/package.json" />
       <jump line="149" column="25" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="231" column="6" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="6" column="36" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
@@ -524,6 +526,10 @@
       <jump line="79" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/ScheduleRequestsIndex/ScheduleRequestsTable/index.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/ScheduleRequestsIndex/ScheduleRequestsTable/index.tsx" />
       <jump line="1" column="21" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/ScheduleRequestsIndex/ScheduleRequestsTable/index.tsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
+      <jump line="111" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -593,7 +599,7 @@
         <text>stable</text>
       </register>
       <register name="/" type="4">
-        <text>Column</text>
+        <text>new</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -630,7 +636,7 @@
         <text encoding="base64">aW1wb3J0ICdjb3JlLWpzL3N0YWJsZScKaW1wb3J0ICdyZWdlbmVyYXRvci1ydW50aW1lL3J1bnRpbWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvYWRVcFN0eWxlcyBmcm9tICcuLi8uLi8uLi8uLi9zdHlsZXMnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -822,40 +828,40 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgcHVibGljIGhhbmRsZVBhZ2VTaXplQ2hhbmdlID0gKHBhZ2VTaXplOiBudW1iZXIpID0+IHsKICAgIGNvbnN0IHsgcGFnaW5hdGlvbiB9ID0gdGhpcy5wcm9wcwoKICAgIHRoaXMucHJvcHMucmVmZXRjaCh7CiAgICAgIGlucHV0czogeyBwYWdlOiBwYWdpbmF0aW9uLmN1cnJlbnRQYWdlLCBwYWdlU2l6ZSB9CiAgICB9KQogIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT17eyBtYXJnaW5SaWdodDogJy0ycmVtJyB9fQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSd0ZXh0LXhzIG1sLTInCiAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICBib3R0b206ICcxLjJyZW0nLAogICAgICAgICAgICAgICAgICByaWdodDogJzIuNWVtJywKICAgICAgICAgICAgICAgICAgY29sb3I6IExvYWRVcFN0eWxlcy5jb2xvcnMucHJpbWFyeUdyZWVuLAogICAgICAgICAgICAgICAgICBXZWJraXRUZXh0RmlsbENvbG9yOiBMb2FkVXBTdHlsZXMuY29sb3JzLnByaW1hcnlHcmVlbiwKICAgICAgICAgICAgICAgICAgcG9zaXRpb246ICdyZWxhdGl2ZScKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgTmV3CiAgICAgICAgICAgICAgPC9zcGFuPg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
+        <text encoding="base64">CiAgcHVibGljIGhhbmRsZVBhZ2VTaXplQ2hhbmdlID0gKHBhZ2VTaXplOiBudW1iZXIpID0+IHsKICAgIGNvbnN0IHsgcGFnaW5hdGlvbiB9ID0gdGhpcy5wcm9wcwoKICAgIHRoaXMucHJvcHMucmVmZXRjaCh7CiAgICAgIGlucHV0czogeyBwYWdlOiBwYWdpbmF0aW9uLmN1cnJlbnRQYWdlLCBwYWdlU2l6ZSB9CiAgICB9KQogIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>interface ICellProps {
   row: IRewardTransaction
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdjb3JlLWpzL3N0YWJsZScK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdAYmFiZWwvcG9seWZpbGwnCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IGhlbHA7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Column</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>Column</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -889,6 +895,7 @@
         <entry>webpacker</entry>
         <entry>core-js</entry>
         <entry>Column</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>set nu!</entry>
@@ -910,8 +917,8 @@
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
