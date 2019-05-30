@@ -180,7 +180,7 @@
         <mark key="." line="66" column="13" />
         <mark key="^" line="66" column="13" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559130802604">
+      <file name="/GraphQL.result.json" timestamp="1559217575112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
@@ -884,19 +884,10 @@
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>form-group</entry>
-        <entry>form</entry>
-        <entry>group</entry>
-        <entry>place</entry>
-        <entry>timeslo</entry>
-        <entry>normalize</entry>
-        <entry>badg</entry>
-        <entry>%span.badge</entry>
-        <entry>mix of pick</entry>
         <entry>-</entry>
         <entry>getFil</entry>
         <entry>avail</entry>
