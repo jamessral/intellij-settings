@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/store/ducks/finalServiceLocation/index.js" timestamp="1559054760301">
         <mark key="'" line="43" column="2" />
       </file>
+      <file name="$USER_HOME$/code/blog/assets/css/styles.css" timestamp="1559267448887">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/graphql/fragments/order.js" timestamp="1554751085546">
         <mark key="'" line="4" column="4" />
       </file>
@@ -16,8 +22,19 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="/JSRegexp Fragment (index.js:345).regexp" timestamp="1559161457953">
+      <file name="$USER_HOME$/code/blog/_config.yml" timestamp="1559267985316">
+        <mark key="'" line="33" column="0" />
+        <mark key="j" line="21" column="28" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="34" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/blog/_layouts/default.html" timestamp="1559268317900">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/controllers/sys_admin/customer_organizations_controller.rb" timestamp="1559131082106">
         <mark key="'" line="16" column="9" />
@@ -38,14 +55,18 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/code/blog/index.md" timestamp="1559268426808">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/store/ducks/pageNavigation/index.test.js" timestamp="1559070224745">
         <mark key="[" line="20" column="61" />
         <mark key="]" line="20" column="74" />
         <mark key="^" line="20" column="74" />
         <mark key="." line="20" column="74" />
-      </file>
-      <file name="/JSRegexp Fragment (index.js:348).regexp" timestamp="1559161410937">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/services/shared/orders/actions/apply_filters_to_relation.rb" timestamp="1555523301680">
         <mark key="'" line="10" column="28" />
@@ -59,9 +80,6 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/components/PlaceOrderButton/index.js" timestamp="1557944427623">
         <mark key="'" line="11" column="44" />
-      </file>
-      <file name="/GraphQL.variables.json" timestamp="1558711253340">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/.env" timestamp="1559220383250">
         <mark key="'" line="0" column="0" />
@@ -118,6 +136,13 @@
       <file name="$USER_HOME$/code/loadup-web/app/services/sys_admin/refunds/actions/create_refund_record.rb" timestamp="1548344835185">
         <mark key="'" line="20" column="48" />
       </file>
+      <file name="$USER_HOME$/code/blog/assets/css/styles.scss" timestamp="1559267546976">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/components/CreateOrderForm/components/ContactSection/index.js" timestamp="1559159881244">
         <mark key="'" line="7" column="5" />
       </file>
@@ -164,9 +189,6 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559231782723">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/models/driver.rb" timestamp="1555612227594">
         <mark key="'" line="68" column="12" />
       </file>
@@ -201,6 +223,13 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" timestamp="1558035815648">
         <mark key="'" line="20" column="14" />
       </file>
+      <file name="$USER_HOME$/code/blog/_layouts/test.html" timestamp="1559268416424">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/store/ducks/activeItems/index.js" timestamp="1558733103191">
         <mark key="'" line="56" column="28" />
       </file>
@@ -210,9 +239,6 @@
         <mark key="]" line="114" column="45" />
         <mark key="^" line="114" column="45" />
         <mark key="." line="114" column="45" />
-      </file>
-      <file name="/JSRegexp Fragment (index.js:474).regexp" timestamp="1558726887018">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersNav.vue" timestamp="1555609883593">
         <mark key="'" line="41" column="4" />
@@ -263,9 +289,6 @@
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/tailwind.config.js" timestamp="1558016166733">
         <mark key="'" line="96" column="19" />
-      </file>
-      <file name="/JSRegexp Fragment (index.js:343).regexp" timestamp="1558727116453">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1559238806053">
         <mark key="'" line="32" column="23" />
@@ -476,19 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="17" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="1" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="20" column="2" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="10" column="29" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/touchables/DetailNotice/DetailNotice.module.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/package.json" />
-      <jump line="6" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/package.json" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
       <jump line="1" column="21" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
       <jump line="22" column="29" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
       <jump line="71" column="28" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
@@ -576,6 +586,19 @@
       <jump line="22" column="62" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="222" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="86" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/blog/assets/css/styles.scss" />
+      <jump line="5" column="26" filename="$USER_HOME$/code/blog/assets/css/styles.scss" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/blog/_config.yml" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/blog/index.md" />
+      <jump line="6" column="27" filename="$USER_HOME$/code/blog/index.md" />
+      <jump line="4" column="35" filename="$USER_HOME$/code/blog/index.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/blog/_layouts/default.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/blog/_layouts/default.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/blog/_layouts/default.html" />
+      <jump line="4" column="14" filename="$USER_HOME$/code/blog/_layouts/test.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/blog/index.md" />
+      <jump line="14" column="19" filename="$USER_HOME$/code/blog/_layouts/test.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/blog/_layouts/test.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -642,7 +665,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setSubmitting</text>
+        <text>home</text>
       </register>
       <register name="/" type="4">
         <text>submitted</text>
@@ -678,11 +701,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldFN1Ym1pdHRpbmcoKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KICA8aGVhZD4KICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KICAgIDx0aXRsZT57eyBwYWdlLnRpdGxlIH19PC90aXRsZT4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Nzcy9zdHlsZS5jc3MiPgogIDwvaGVhZD4KICA8Ym9keT4KICAgIDxuYXY+CiAgICAgIDxhIGhyZWY9Ii8iPkhvbWU8L2E+CiAgICAgIDxhIGhyZWY9Ii9ibG9nLyI+QmxvZzwvYT4KICAgIDwvbmF2PgogICAgPGgxPnt7IHBhZ2UudGl0bGUgfX08L2gxPgogICAgPHNlY3Rpb24+CiAgICAgIHt7IGNvbnRlbnQgfX0KICAgIDwvc2VjdGlvbj4KICAgIDxmb290ZXI+CiAgICAgICZjb3B5OyB0byBtZQogICAgPC9mb290ZXI+CiAgPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KICA8aGVhZD4KICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KICAgIDx0aXRsZT57eyBwYWdlLnRpdGxlIH19PC90aXRsZT4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Nzcy9zdHlsZS5jc3MiPgogIDwvaGVhZD4KICA8Ym9keT4KICAgIDxuYXY+CiAgICAgIDxhIGhyZWY9Ii8iPkhvbWU8L2E+CiAgICAgIDxhIGhyZWY9Ii9ibG9nLyI+QmxvZzwvYT4KICAgIDwvbmF2PgogICAgPGgxPnt7IHBhZ2UudGl0bGUgfX08L2gxPgogICAgPHNlY3Rpb24+CiAgICAgIFRoaXMgaXMgYSB0ZXN0CiAgICAgIHt7IGNvbnRlbnQgfX0KICAgIDwvc2VjdGlvbj4KICAgIDxmb290ZXI+CiAgICAgICZjb3B5OyB0byBtZQogICAgPC9mb290ZXI+CiAgPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -874,29 +897,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBbc3VibWl0dGluZywgc2V0U3VibWl0dGluZ10gPSBSZWFjdC51c2VTdGF0ZShmYWxzZSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdWJtaXR0aW5nOiBQcm9wVHlwZXMuYm9vbC5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">e3sgdGl0bGUgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBbc3VibWl0dGVkLCBzZXRTdWJtaXR0ZWRdID0gUmVhY3QudXNlU3RhdGUoZmFsc2UpCg==</text>
+        <text encoding="base64">dGl0bGU6IEphbWVzIEEuIFNyYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdHRpbmcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyB7eyB0aXRsZSB9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdHRlbXB0U3VibWl0OiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">c3VidGl0bGU6IERldmVsb3Blcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -909,20 +932,10 @@
       <last-replace>\/6</last-replace>
       <last-substitute>\/5</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ducks</entry>
-        <entry>props</entry>
-        <entry encoding="base64">XDxodHRwc1w+</entry>
-        <entry>order-show</entry>
-        <entry>getPricing</entry>
-        <entry>attemptSub</entry>
-        <entry>handle</entry>
-        <entry>payment</entry>
-        <entry>credit</entry>
-        <entry>formValue</entry>
         <entry>change</entry>
         <entry>[</entry>
         <entry encoding="base64">XDwvXD4=</entry>
@@ -945,8 +958,6 @@
         <entry>submitted</entry>
       </history-search>
       <history-cmd>
-        <entry>set norelative!</entry>
-        <entry>set norelativenumber!</entry>
         <entry>set nonu!</entry>
         <entry>set nonumber!</entry>
         <entry>set nonumbers!</entry>
@@ -964,6 +975,7 @@
         <entry>%s/\/5/\6/g</entry>
         <entry>%s/\/5/\/6/g</entry>
         <entry>vs</entry>
+        <entry>:q</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
