@@ -744,7 +744,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>center</text>
+        <text>idem</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -998,17 +998,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>center</last-search>
+      <last-search>idem</last-search>
       <last-offset />
-      <last-pattern>center</last-pattern>
+      <last-pattern>idem</last-pattern>
       <last-replace>status</last-replace>
       <last-substitute>statusCounts\[i\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1037,6 +1037,7 @@
         <entry>recenter</entry>
         <entry>draw</entry>
         <entry>center</entry>
+        <entry>idem</entry>
       </history-search>
       <history-cmd>
         <entry>set nonumber!</entry>
@@ -1047,7 +1048,6 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>%s/%span.badge/%span.badge.bg-grey</entry>
         <entry>s/-//g</entry>
-        <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>%s/\/5/\6/g</entry>
         <entry>%s/\/5/\/6/g</entry>
@@ -1059,6 +1059,7 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
