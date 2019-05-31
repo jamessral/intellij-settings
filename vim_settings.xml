@@ -22,12 +22,12 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" timestamp="1559313484463">
-        <mark key="'" line="17" column="9" />
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" timestamp="1559314704104">
+        <mark key="'" line="10" column="34" />
+        <mark key="[" line="53" column="61" />
+        <mark key="]" line="53" column="72" />
+        <mark key="." line="53" column="72" />
+        <mark key="^" line="53" column="72" />
       </file>
       <file name="/JSRegexp Fragment (index.js:345).regexp" timestamp="1559161457953">
         <mark key="[" line="0" column="0" />
@@ -185,7 +185,7 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559306002171">
+      <file name="/GraphQL.result.json" timestamp="1559315557189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/BookingConfirmation/index.js" timestamp="1559307777180">
@@ -291,15 +291,15 @@
       <file name="/JSRegexp Fragment (index.js:343).regexp" timestamp="1558727116453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1559238806053">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" timestamp="1559315039370">
         <mark key="'" line="32" column="23" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="13" />
-        <mark key="^" line="33" column="13" />
-        <mark key="." line="33" column="13" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="21" />
+        <mark key="^" line="41" column="21" />
+        <mark key="." line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1559239520791">
-        <mark key="'" line="118" column="0" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" timestamp="1559315088504">
+        <mark key="'" line="93" column="0" />
         <mark key="[" line="121" column="24" />
         <mark key="]" line="121" column="25" />
         <mark key="^" line="131" column="10" />
@@ -376,12 +376,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1559313683721">
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1559314524874">
         <mark key="'" line="11" column="16" />
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="2" column="53" />
-        <mark key="^" line="2" column="67" />
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="55" />
+        <mark key="." line="17" column="55" />
+        <mark key="^" line="17" column="55" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" timestamp="1558115068491">
         <mark key="'" line="6" column="7" />
@@ -429,6 +429,9 @@
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" timestamp="1559314958364">
+        <mark key="'" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/CreateOrder/index.js" timestamp="1558634268727">
         <mark key="'" line="26" column="25" />
@@ -510,9 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="16" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
-      <jump line="12" column="8" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
-      <jump line="42" column="70" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
       <jump line="39" column="12" filename="$USER_HOME$/code/loadup-web/package.json" />
       <jump line="83" column="11" filename="$USER_HOME$/code/loadup-web/package.json" />
       <jump line="10" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" />
@@ -610,6 +610,9 @@
       <jump line="50" column="25" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
       <jump line="53" column="61" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
       <jump line="17" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="10" column="34" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="21" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrdersPane.vue" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -676,7 +679,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anVzdGlmeS1iZXR3ZWVuIA==</text>
+        <text>5/6</text>
       </register>
       <register name="/" type="4">
         <text>statusCounts\[i\]</text>
@@ -933,7 +936,7 @@
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -943,16 +946,10 @@
       <last-replace>status</last-replace>
       <last-substitute>statusCounts\[i\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>change</entry>
-        <entry>[</entry>
-        <entry encoding="base64">XDwvXD4=</entry>
-        <entry>material</entry>
-        <entry>webpacker</entry>
-        <entry>core-js</entry>
         <entry>Column</entry>
         <entry>new</entry>
         <entry>\/5</entry>
@@ -975,7 +972,6 @@
         <entry>statusCounts\[i\]</entry>
       </history-search>
       <history-cmd>
-        <entry>set nonu!</entry>
         <entry>set nonumber!</entry>
         <entry>set nonumbers!</entry>
         <entry>set relativenumbers!</entry>
@@ -994,8 +990,8 @@
         <entry>vs</entry>
         <entry>set multiple-cursors</entry>
         <entry>%s/statusCounts\[i\]/status/g</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
