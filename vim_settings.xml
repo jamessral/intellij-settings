@@ -364,12 +364,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1559241776639">
-        <mark key="'" line="1" column="62" />
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="48" />
-        <mark key="." line="1" column="48" />
-        <mark key="^" line="1" column="48" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1559311183755">
+        <mark key="'" line="52" column="10" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="10" />
+        <mark key="." line="52" column="10" />
+        <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" timestamp="1558115068491">
         <mark key="'" line="6" column="7" />
@@ -453,11 +453,12 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" timestamp="1559307735637">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1559239434216">
-        <mark key="[" line="96" column="46" />
-        <mark key="]" line="96" column="52" />
-        <mark key="." line="96" column="52" />
-        <mark key="^" line="96" column="52" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1559310810614">
+        <mark key="'" line="26" column="10" />
+        <mark key="[" line="87" column="24" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="25" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/graphql/shared/enums/host_source_enums.rb" timestamp="1548792391309">
         <mark key="'" line="3" column="18" />
@@ -497,16 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/package.json" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
-      <jump line="1" column="21" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
-      <jump line="22" column="29" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
-      <jump line="71" column="28" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/RewardsHistory/HistoryTable/HistoryTable.tsx" />
-      <jump line="79" column="6" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/ScheduleRequestsIndex/ScheduleRequestsTable/index.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/ScheduleRequestsIndex/ScheduleRequestsTable/index.tsx" />
-      <jump line="1" column="21" filename="$USER_HOME$/code/loadup-web/web_partner/src/routes/Authenticated/ScheduleRequestsIndex/ScheduleRequestsTable/index.tsx" />
       <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
       <jump line="111" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
       <jump line="90" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
@@ -597,6 +588,16 @@
       <jump line="34" column="14" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/index.js" />
       <jump line="89" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/index.js" />
       <jump line="34" column="20" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/BookingConfirmation/index.js" />
+      <jump line="4" column="45" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="16" column="14" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="91" column="55" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="92" column="50" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="29" column="35" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="39" column="9" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="114" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="26" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
+      <jump line="52" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -644,7 +645,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text>()</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -663,7 +664,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ontent</text>
+        <text encoding="base64">IHctMS8y</text>
       </register>
       <register name="/" type="4">
         <text>Confi</text>
@@ -700,10 +701,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBbc3VibWl0dGluZywgc2V0U3VibWl0dGluZ10gPSBSZWFjdC51c2VTdGF0ZShudWxsKQo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC1yb3cgZmxleC13cmFwIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcHgtMiB0ZXh0LWJhc2Ugdy1mdWxsIj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb25Dbwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktZW5kIHNlbGYtZW5kIG1yLTIiPgogICAgICA8ZGl2CiAgICAgICAgdi1pZj0ic2hvdWxkU2hvd1NwaW5uZXIiCiAgICAgICAgY2xhc3M9InctMTIiCiAgICAgID4KICAgICAgICA8aGFsZi1jaXJjbGUtc3Bpbm5lcgogICAgICAgICAgOmFuaW1hdGlvbi1kdXJhdGlvbj0iMTAwMCIKICAgICAgICAgIDpzaXplPSIxMCIKICAgICAgICAgIGNvbG9yPSIjMjIyMjIyIgogICAgICAgIC8+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IHYtZWxzZT4KICAgICAgICA8c3BhbiBjbGFzcz0iZm9udC1ib2xkIj4KICAgICAgICAgIExhc3QgVXBkYXRlZDoKICAgICAgICA8L3NwYW4+CiAgICAgICAgPHNwYW4+CiAgICAgICAgICB7eyBzdGF0dXNlc0xhc3RVcGRhdGVkIH19CiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -895,29 +896,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgPGRpdgogICAgICAgIHYtZm9yPSJpIGluIHN0YXR1c0NvdW50c1Jvd1R3b0luZGV4ZXMiCiAgICAgICAgOmtleT0ic3RhdHVzQ291bnRzW2ldLmxhYmVsIgogICAgICAgIGNsYXNzPSJmbGV4IGZsZXgtd3JhcCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIgogICAgICAgIEBtb3VzZWVudGVyPSJzZXRTdGF0dXNBY3RpdmUoc3RhdHVzQ291bnRzW2ldLmxhYmVsKSIKICAgICAgICBAbW91c2VsZWF2ZT0icmVzZXRTdGF0dXNBY3RpdmUiCiAgICAgID4KICAgICAgICA8c3BhbgogICAgICAgICAgOmNsYXNzPSJnZXRDb3VudExhYmVsQ2xhc3Moc3RhdHVzQ291bnRzW2ldKSIKICAgICAgICAgIHJvbGU9ImJ1dHRvbiIKICAgICAgICAgIEBjbGljay5wcmV2ZW50PSJzZXRGaWx0ZXJTdGF0dXMoc3RhdHVzQ291bnRzW2ldLmxhYmVsKSIKICAgICAgICA+CiAgICAgICAgICB7eyBzdGF0dXNDb3VudHNbaV0ubGFiZWwgfX0KICAgICAgICA8L3NwYW4+CiAgICAgICAgPHNwYW4+e3sgc3RhdHVzQ291bnRzW2ldLmNvdW50IH19PC9zcGFuPgogICAgICA8L2Rpdj4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdHRpbmcsCg==</text>
+      <register name="3" type="4">
+        <text>()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdHRlZCwK</text>
+      <register name="4" type="4">
+        <text>this.statusCounts.length / 2</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZVN1Ym1pdCwK</text>
+        <text encoding="base64">ICAgICAgb25Dbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF0dGVtcHRTdWJtaXQsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN1Ym1pdHRpbmcsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN1Ym1pdHRlZCwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGhhbmRsZVN1Ym1pdCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
