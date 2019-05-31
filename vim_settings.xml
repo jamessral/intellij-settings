@@ -130,6 +130,9 @@
         <mark key="." line="68" column="51" />
         <mark key="^" line="68" column="51" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" timestamp="1559318619377">
+        <mark key="'" line="36" column="32" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/public/index.html" timestamp="1559143640942">
         <mark key="[" line="25" column="145" />
         <mark key="]" line="25" column="149" />
@@ -216,12 +219,6 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/ScheduleRequestConversionForm/components/ScheduleRequestConversionForm.tsx" timestamp="1558018659739">
         <mark key="'" line="175" column="12" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/addresses.js" timestamp="1559238684128">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/components/NumberInput.tsx" timestamp="1558035815648">
         <mark key="'" line="20" column="14" />
       </file>
@@ -234,6 +231,12 @@
         <mark key="]" line="114" column="45" />
         <mark key="^" line="114" column="45" />
         <mark key="." line="114" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/components/hocs/withPricingData/index.js" timestamp="1559318696199">
+        <mark key="[" line="89" column="49" />
+        <mark key="]" line="89" column="51" />
+        <mark key="." line="89" column="51" />
+        <mark key="^" line="89" column="51" />
       </file>
       <file name="/JSRegexp Fragment (index.js:474).regexp" timestamp="1558726887018">
         <mark key="[" line="0" column="0" />
@@ -276,12 +279,6 @@
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/common/SearchBar.vue" timestamp="1559237671140">
         <mark key="'" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" timestamp="1559231642186">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/components/hocs/withOrderSessionTracking/index.js" timestamp="1558119604649">
         <mark key="'" line="96" column="37" />
       </file>
@@ -304,6 +301,13 @@
         <mark key="]" line="121" column="25" />
         <mark key="^" line="131" column="10" />
         <mark key="." line="121" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/normalizers/index.js" timestamp="1559318536398">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/hocs/withOrderFormValues/index.js" timestamp="1557941535920">
         <mark key="'" line="6" column="6" />
@@ -383,6 +387,13 @@
         <mark key="." line="17" column="55" />
         <mark key="^" line="17" column="55" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" timestamp="1559318511133">
+        <mark key="'" line="7" column="68" />
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="68" />
+        <mark key="^" line="7" column="68" />
+        <mark key="." line="7" column="68" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" timestamp="1558115068491">
         <mark key="'" line="6" column="7" />
       </file>
@@ -392,12 +403,6 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" timestamp="1559238700056">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/vuex/store.js" timestamp="1558558104047">
         <mark key="'" line="2" column="43" />
@@ -468,7 +473,7 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" timestamp="1559307735637">
+      <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" timestamp="1559317841179">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" timestamp="1559310810614">
@@ -508,21 +513,8 @@
       <file name="$USER_HOME$/code/loadup-web/web_retail/node_modules/react-responsive-modal/types/index.d.ts" timestamp="1559053619300">
         <mark key="'" line="110" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/forms/renderItemSelectorInput/components/ItemSelector/ItemSelector.module.scss" timestamp="1559222229603">
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/lib/addresses.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/packs/dispatchMap.js" />
-      <jump line="37" column="2" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="8" column="38" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="32" column="31" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="20" column="62" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
-      <jump line="76" column="48" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/PaypalButtons/index.tsx" />
       <jump line="25" column="13" filename="$USER_HOME$/code/loadup-web/web_retail/src/components/ui/forms/renderCreditCardNumberInput/index.js" />
       <jump line="117" column="12" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="102" column="27" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
@@ -616,6 +608,13 @@
       <jump line="200" column="11" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
       <jump line="147" column="75" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
       <jump line="152" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
+      <jump line="60" column="12" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/normalizers/index.js" />
+      <jump line="7" column="35" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/lib/forms/normalizers/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
+      <jump line="61" column="34" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
+      <jump line="7" column="68" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/OrderDetails/index.js" />
+      <jump line="36" column="32" filename="$USER_HOME$/code/loadup-web/app/javascript/createOrderForm/routes/NewOrder/components/OrderForm/components/FormLayout/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -682,7 +681,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Even</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>bg</text>
@@ -718,11 +717,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>flex flex-col px-6 py-4 order-panel rounded my-2</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYnVpbGRBZGRyZXNzQ29tcG9uZW50cyB9IGZyb20gJy4uLy4uLy4uLy4uLy4uLy4uL2xpYi9hZGRyZXNzZXMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDppbmRleD0iaW5kZXgiCg==</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1TZWN0aW9uIGZyb20gJy4uL0Zvcm1TZWN0aW9uJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -915,28 +914,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHNsb3QgLz4K</text>
+        <text encoding="base64">ICBpZiAoIXZhbHVlIHx8ICF2YWx1ZS5sZW5naHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0ic2hvdWxkU2hvd1NwaW5uZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmb250U2l6ZTogJzEuNnJlbSAhaW1wb3J0YW50JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6bW91c2UtbGVhdmUtaGFuZGxlcj0icmVzZXRTdGF0dXNBY3RpdmUiCiAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDppbmRleD0iaW5kZXgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHNsb3QgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0iZmxleCBpdGVtcy1jZW50ZXIgdy0xLzUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0ic2hvdWxkU2hvd1NwaW5uZXIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXItY2xhc3M9ImZsZXggaXRlbXMtY2VudGVyIHctMS81Igo=</text>
+        <text encoding="base64">ICAgICAgICA6bW91c2UtbGVhdmUtaGFuZGxlcj0icmVzZXRTdGF0dXNBY3RpdmUiCiAgICAgIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJzdGF0dXNDb3VudHNbaV0ubGFiZWwiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -986,7 +985,6 @@
         <entry>s/-//g</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
-        <entry>qa</entry>
         <entry>%s/\/5/\6/g</entry>
         <entry>%s/\/5/\/6/g</entry>
         <entry>wq</entry>
@@ -995,6 +993,7 @@
         <entry>%s/statusCounts\[i\]/status/g</entry>
         <entry>q</entry>
         <entry>set surround</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
