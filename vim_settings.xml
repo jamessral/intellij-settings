@@ -22,6 +22,13 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" timestamp="1559312028999">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="/JSRegexp Fragment (index.js:345).regexp" timestamp="1559161457953">
         <mark key="[" line="0" column="0" />
       </file>
@@ -364,12 +371,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1559311183755">
-        <mark key="'" line="52" column="10" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="10" />
-        <mark key="." line="52" column="10" />
-        <mark key="^" line="49" column="39" />
+      <file name="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" timestamp="1559312154642">
+        <mark key="'" line="72" column="50" />
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="75" />
+        <mark key="." line="17" column="75" />
+        <mark key="^" line="17" column="75" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/RemovalItemsSection/components/RemovalItemsForm/index.js" timestamp="1558115068491">
         <mark key="'" line="6" column="7" />
@@ -498,15 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
-      <jump line="111" column="12" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/web_partner/src/components/ui/layout/Navbar/index.js" />
-      <jump line="190" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
-      <jump line="34" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/TimeslotLabel.vue" />
-      <jump line="41" column="24" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
-      <jump line="195" column="1" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
       <jump line="11" column="33" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
       <jump line="30" column="46" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/OrdersPane/OrderCard.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/DispatchMap.vue" />
@@ -598,6 +596,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
       <jump line="26" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/GoogleMap.vue" />
       <jump line="52" column="10" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="17" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="16" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="28" column="4" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="4" column="6" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="7" column="35" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="40" column="5" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
+      <jump line="82" column="50" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusBar.vue" />
+      <jump line="30" column="17" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/components/StatusRow.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -664,10 +671,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHctMS8y</text>
+        <text>full</text>
       </register>
       <register name="/" type="4">
-        <text>Confi</text>
+        <text>statusCounts\[i\]</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -700,11 +707,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC1yb3cgZmxleC13cmFwIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcHgtMiB0ZXh0LWJhc2Ugdy1mdWxsIj4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHN0YXR1c0NvdW50c1Jvd1R3byAoKSB7CiAgICAgIGNvbnN0IHN0YXJ0Q291bnQgPSAodGhpcy5zdGF0dXNDb3VudHMubGVuZ3RoIC8gMikgKyAxCiAgICAgIHJldHVybiB0aGlzLnN0YXR1c0NvdW50cy5zbGljZShzdGFydENvdW50LCB0aGlzLnN0YXR1c0NvdW50cy5sZW5ndGgpCiAgICB9</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktZW5kIHNlbGYtZW5kIG1yLTIiPgogICAgICA8ZGl2CiAgICAgICAgdi1pZj0ic2hvdWxkU2hvd1NwaW5uZXIiCiAgICAgICAgY2xhc3M9InctMTIiCiAgICAgID4KICAgICAgICA8aGFsZi1jaXJjbGUtc3Bpbm5lcgogICAgICAgICAgOmFuaW1hdGlvbi1kdXJhdGlvbj0iMTAwMCIKICAgICAgICAgIDpzaXplPSIxMCIKICAgICAgICAgIGNvbG9yPSIjMjIyMjIyIgogICAgICAgIC8+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IHYtZWxzZT4KICAgICAgICA8c3BhbiBjbGFzcz0iZm9udC1ib2xkIj4KICAgICAgICAgIExhc3QgVXBkYXRlZDoKICAgICAgICA8L3NwYW4+CiAgICAgICAgPHNwYW4+CiAgICAgICAgICB7eyBzdGF0dXNlc0xhc3RVcGRhdGVkIH19CiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzcz0iZmxleCBpdGVtcy1jZW50ZXIgdy0xLzUiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -896,40 +903,40 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgPGRpdgogICAgICAgIHYtZm9yPSJpIGluIHN0YXR1c0NvdW50c1Jvd1R3b0luZGV4ZXMiCiAgICAgICAgOmtleT0ic3RhdHVzQ291bnRzW2ldLmxhYmVsIgogICAgICAgIGNsYXNzPSJmbGV4IGZsZXgtd3JhcCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIgogICAgICAgIEBtb3VzZWVudGVyPSJzZXRTdGF0dXNBY3RpdmUoc3RhdHVzQ291bnRzW2ldLmxhYmVsKSIKICAgICAgICBAbW91c2VsZWF2ZT0icmVzZXRTdGF0dXNBY3RpdmUiCiAgICAgID4KICAgICAgICA8c3BhbgogICAgICAgICAgOmNsYXNzPSJnZXRDb3VudExhYmVsQ2xhc3Moc3RhdHVzQ291bnRzW2ldKSIKICAgICAgICAgIHJvbGU9ImJ1dHRvbiIKICAgICAgICAgIEBjbGljay5wcmV2ZW50PSJzZXRGaWx0ZXJTdGF0dXMoc3RhdHVzQ291bnRzW2ldLmxhYmVsKSIKICAgICAgICA+CiAgICAgICAgICB7eyBzdGF0dXNDb3VudHNbaV0ubGFiZWwgfX0KICAgICAgICA8L3NwYW4+CiAgICAgICAgPHNwYW4+e3sgc3RhdHVzQ291bnRzW2ldLmNvdW50IH19PC9zcGFuPgogICAgICA8L2Rpdj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb250YWluZXItY2xhc3M9ImZsZXggaXRlbXMtY2VudGVyIHctMS81Igo=</text>
       </register>
-      <register name="3" type="4">
-        <text>()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA6a2V5PSJzdGF0dXNDb3VudHNbaV0ubGFiZWwiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>this.statusCounts.length / 2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb25Dbwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdHRpbmcsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICA8c3BhbgogICAgICAgICAgOmNsYXNzPSJnZXRDb3VudExhYmVsQ2xhc3Moc3RhdHVzQ291bnRzW2ldKSIKICAgICAgICAgIHJvbGU9ImJ1dHRvbiIKICAgICAgICAgIEBjbGljay5wcmV2ZW50PSJzZXRGaWx0ZXJTdGF0dXMoc3RhdHVzQ291bnRzW2ldLmxhYmVsKSIKICAgICAgICA+CiAgICAgICAgICB7eyBzdGF0dXNDb3VudHNbaV0ubGFiZWwgfX0KICAgICAgICA8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3M9InctMS8zIj57eyBzdGF0dXNDb3VudHNbaV0uY291bnQgfX08L3NwYW4+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdHRlZCwK</text>
+      <register name="7" type="4">
+        <text>()</text>
+      </register>
+      <register name="8" type="4">
+        <text>this.statusCounts.length / 2</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZVN1Ym1pdCwK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3RhcnRDb3VudCA9ICh0aGlzLnN0YXR1c0NvdW50cy5sZW5ndGggLyAyKSArIDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Confi</last-search>
+      <last-search>statusCounts\[i\]</last-search>
       <last-offset />
-      <last-pattern>Confi</last-pattern>
-      <last-replace>\/6</last-replace>
-      <last-substitute>\/5</last-substitute>
+      <last-pattern>statusCounts\[i\]</last-pattern>
+      <last-replace>status</last-replace>
+      <last-substitute>statusCounts\[i\]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -959,6 +966,8 @@
         <entry encoding="base64">PDw8PA==</entry>
         <entry>completed</entry>
         <entry>Confi</entry>
+        <entry>statuscounts[i]</entry>
+        <entry>statusCounts\[i\]</entry>
       </history-search>
       <history-cmd>
         <entry>set nonu!</entry>
@@ -971,15 +980,16 @@
         <entry>%s/%span.badge/%span.badge.bg-grey</entry>
         <entry>s/-//g</entry>
         <entry>set surround</entry>
-        <entry>set multiple-cursors</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>qa</entry>
         <entry>%s/\/5/\6/g</entry>
         <entry>%s/\/5/\/6/g</entry>
-        <entry>vs</entry>
         <entry>wq</entry>
+        <entry>vs</entry>
         <entry>q</entry>
+        <entry>set multiple-cursors</entry>
+        <entry>%s/statusCounts\[i\]/status/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
