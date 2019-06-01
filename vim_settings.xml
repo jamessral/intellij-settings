@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/store/ducks/finalServiceLocation/index.js" timestamp="1559054760301">
@@ -1012,12 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Column</entry>
-        <entry>new</entry>
-        <entry>\/5</entry>
-        <entry>icon</entry>
-        <entry>tw-labeljk</entry>
-        <entry>tw-</entry>
         <entry>status</entry>
         <entry>colro</entry>
         <entry>styles</entry>
