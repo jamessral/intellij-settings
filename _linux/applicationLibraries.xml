@@ -1196,6 +1196,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/chartkick-3.1.0/vendor" />
       </SOURCES>
     </library>
+    <library name="chartkick (v3.2.0, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/chartkick-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/chartkick-3.2.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/chartkick-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/chartkick-3.2.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.9.0, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
