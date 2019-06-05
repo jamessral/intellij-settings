@@ -4,7 +4,8 @@
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-17f7f41a:16b1f2342ec:-8000" />
     <option name="version" value="3.10.0" />
   </component>
