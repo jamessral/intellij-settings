@@ -3,7 +3,7 @@
     <property name="created">2019-06-11T13:49:34</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-11T14:01:53</property>
+    <property name="modified">2019-06-11T14:07:57</property>
     <property name="originalScheme">GitHub 3</property>
   </metaInfo>
   <colors>
@@ -182,6 +182,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d73a49" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
