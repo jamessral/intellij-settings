@@ -1,4 +1,4 @@
-<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+<keymap version="1" name="Sublime Text copy">
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
