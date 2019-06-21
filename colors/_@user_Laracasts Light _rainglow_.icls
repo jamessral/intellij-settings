@@ -3,7 +3,7 @@
     <property name="created">2019-06-20T07:47:16</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-20T08:15:24</property>
+    <property name="modified">2019-06-21T14:27:23</property>
     <property name="originalScheme">Laracasts Light (rainglow)</property>
   </metaInfo>
   <colors>
@@ -632,7 +632,7 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="4d545d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -696,7 +696,8 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="98d5d6" />
+        <option name="FOREGROUND" value="76a6a7" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -771,6 +772,7 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="76a6a7" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -2799,8 +2801,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="RUBY_CONSTANT_DECLARATION" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="RUBY_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="4d545d" />
+      </value>
+    </option>
+    <option name="RUBY_CONSTANT_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="4d545d" />
+      </value>
+    </option>
     <option name="RUBY_CVAR">
       <value>
         <option name="FOREGROUND" value="4d545d" />
@@ -2846,6 +2856,12 @@
         <option name="FOREGROUND" value="4d545d" />
       </value>
     </option>
+    <option name="RUBY_INTERPOLATED_STRING">
+      <value>
+        <option name="FOREGROUND" value="76a6a7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
       <value>
         <option name="EFFECT_COLOR" value="722c40" />
@@ -2855,6 +2871,12 @@
     <option name="RUBY_IVAR">
       <value>
         <option name="FOREGROUND" value="4d545d" />
+      </value>
+    </option>
+    <option name="RUBY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b1b3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_LINE_CONTINUATION">
@@ -2887,7 +2909,12 @@
         <option name="FOREGROUND" value="363b41" />
       </value>
     </option>
-    <option name="RUBY_PARAMDEF_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="RUBY_PARAMDEF_CALL">
+      <value>
+        <option name="FOREGROUND" value="e1a965" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
         <option name="FOREGROUND" value="4d545d" />
@@ -2908,18 +2935,30 @@
         <option name="FOREGROUND" value="363b41" />
       </value>
     </option>
-    <option name="RUBY_SPECIFIC_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="RUBY_SPECIFIC_CALL">
+      <value>
+        <option name="FOREGROUND" value="e1a965" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_STRING">
       <value>
         <option name="FOREGROUND" value="98d5d6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="76a6a7" />
+        <option name="FOREGROUND" value="98d5d6" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="RUBY_WORDS" baseAttributes="DEFAULT_STRING" />
+    <option name="RUBY_WORDS">
+      <value>
+        <option name="FOREGROUND" value="98d5d6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ReSharper.ASP_NET_BLOCK_TAG">
       <value>
         <option name="FOREGROUND" value="363b41" />
