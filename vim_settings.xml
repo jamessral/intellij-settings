@@ -19,6 +19,13 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" timestamp="1561486850872">
+        <mark key="'" line="39" column="2" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="2" />
+        <mark key="." line="39" column="2" />
+        <mark key="^" line="39" column="2" />
+      </file>
       <file name="$USER_HOME$/code/loadup-web/web_partner/src/lib/forms/normalizers/index.js" timestamp="1559161471001">
         <mark key="'" line="22" column="38" />
         <mark key="[" line="14" column="4" />
@@ -513,7 +520,7 @@
       <file name="$USER_HOME$/code/loadup-web/app/views/sys_admin/orders/_left_nav.haml" timestamp="1558732215229">
         <mark key="'" line="15" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559235926747">
+      <file name="/Dummy.txt" timestamp="1561486252840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -574,16 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="10" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="38" column="29" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="47" column="32" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="55" column="19" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/utils.ts" />
-      <jump line="61" column="33" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="72" column="4" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="208" column="29" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="166" column="32" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
-      <jump line="59" column="5" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="237" column="2" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="127" column="49" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
       <jump line="137" column="47" filename="$USER_HOME$/code/loadup-web/web_retail/src/routes/NewOrder/components/OrderAccordion/components/BillingSection/components/CreditCardPaymentForm/index.js" />
@@ -674,6 +671,16 @@
       <jump line="7" column="18" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
       <jump line="1" column="49" filename="$USER_HOME$/code/loadup-web/app/javascript/dispatchMap/graphql/queries/orders.js" />
       <jump line="40" column="55" filename="$USER_HOME$/code/loadup-web/app/controllers/sys_admin/service_areas_controller.rb" />
+      <jump line="75" column="0" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="336" column="4" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="383" column="0" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="1" column="32" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="40" column="2" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="41" column="2" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="38" column="10" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
+      <jump line="39" column="2" filename="$USER_HOME$/code/loadup-driver-ionic/src/app/pages/order/order-details/order-details.page.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -740,10 +747,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>idem</text>
+        <text>public</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -780,7 +787,7 @@
         <text encoding="base64">ICAgICAgICAgIGxhdGl0dWRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBwdWJsaWMgaWQ6IElECg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -972,38 +979,38 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>public</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgZHJpdmVyT3JnIHsKICAgICAgICBpZAogICAgICB9</text>
+        <text encoding="base64">cHVibGljIG9yZGVyOiBJT3JkZXIKICA=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBkcml2ZXJMb2NhdGlvbiB7CiAgICAgICAgICBsYXRpdHVkZQogICAgICAgICAgbG9uZ2l0dWRlCiAgICAgICAgICB0aW1lc3RhbXAKICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIE9yZGVyRGV0YWlsc1BhZ2UgaW1wbGVtZW50cyBPbkluaXQgewogIHB1YmxpYyBpZDogSUQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaFBvbGljeTogJ2NhY2hlLWFuZC1uZXR3b3JrJywK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIE9yZGVyRGV0YWlsc1BhZ2UgaW1wbGVtZW50cyBPbkluaXQgewogIA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGFzc2lnbm1lbnQgewogICAgICBpZAogICAgICBkcml2ZXIgewogICAgICAgIGZpcnN0TmFtZQogICAgICAgIGxhc3ROYW1lCiAgICAgIH0KICAgICAgZHJpdmVyT3JnIHsKICAgICAgICBpZAogICAgICAgIGRyaXZlckxvY2F0aW9uIHsKICAgICAgICAgIGxhdGl0dWRlCiAgICAgICAgICBsb25naXR1ZGUKICAgICAgICAgIHRpbWVzdGFtcAogICAgICAgIH0KICAgICAgfQogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">fSkKZXhwb3J0IGNsYXNzIE9yZGVyRGV0YWlsc1BhZ2UgaW1wbGVtZW50cyBPbkluaXQgewo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHVibGljIGlkOiBJRAogIA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgaWYgKG9yZGVyLmlkID09PSAxMCkgewogICAgICAgIGRlYnVnZ2VyCiAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgcHVibGljIGlvblZpZXdXaWxsRW50ZXIoKSB7CiAgICB0aGlzLmlkID0gdGhpcy5yb3V0ZS5zbmFwc2hvdC5wYXJhbU1hcC5nZXQoJ29yZGVySWQnKQogICAgdGhpcy5nZXRPcmRlcigpCiAgfQ==</text>
+      </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>idem</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>idem</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-replace>status</last-replace>
       <last-substitute>statusCounts\[i\]</last-substitute>
       <last-dir>1</last-dir>
@@ -1031,6 +1038,7 @@
         <entry>draw</entry>
         <entry>center</entry>
         <entry>idem</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>set nonumber!</entry>
@@ -1046,13 +1054,14 @@
         <entry>%s/\/5/\/6/g</entry>
         <entry>wq</entry>
         <entry>vs</entry>
-        <entry>set multiple-cursors</entry>
         <entry>%s/statusCounts\[i\]/status/g</entry>
-        <entry>set surround</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry>set multiple-cursors</entry>
+        <entry>noh</entry>
         <entry>nohlsearch</entry>
+        <entry>set surround</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
