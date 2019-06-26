@@ -3,7 +3,7 @@
     <property name="created">2019-05-18T22:28:31</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-22T07:30:06</property>
+    <property name="modified">2019-06-25T08:17:36</property>
     <property name="originalScheme">gruvbox-theme</property>
   </metaInfo>
   <colors>
@@ -281,6 +281,7 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -298,6 +299,7 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d3869b" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -364,6 +366,7 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="fabd2f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -378,6 +381,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="fb4934" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
