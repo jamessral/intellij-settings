@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/store/ducks/finalServiceLocation/index.js" timestamp="1559054760301">
@@ -205,7 +205,7 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1562932067133">
+      <file name="/GraphQL.result.json" timestamp="1562932270232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/loadup-web/web_retail/src/routes/BookingConfirmation/index.js" timestamp="1559307777180">
