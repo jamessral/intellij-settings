@@ -3,12 +3,12 @@
     <property name="created">2019-06-11T13:49:34</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-11T14:07:57</property>
+    <property name="modified">2019-06-24T11:40:16</property>
     <property name="originalScheme">GitHub 3</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="fffbdd" />
-    <option name="GUTTER_BACKGROUND" value="e3eaed" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="LINE_NUMBERS_COLOR" value="babbbd" />
   </colors>
   <attributes>
@@ -128,11 +128,13 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="5cc5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="5cc5" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -171,6 +173,7 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="5cc5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -182,7 +185,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d73a49" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -545,7 +548,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="f2f6f9" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
