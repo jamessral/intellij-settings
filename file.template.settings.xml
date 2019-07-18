@@ -1,0 +1,9 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="Ruby Class.rb" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Ruby File.rb" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Ruby Module.rb" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+  </component>
+</application>
