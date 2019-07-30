@@ -1,9 +1,9 @@
 <scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-07-24T20:36:08</property>
+    <property name="created">2019-07-30T08:48:42</property>
     <property name="ide">Ruby</property>
-    <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-24T20:46:09</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-07-30T14:20:06</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <colors>
@@ -27,7 +27,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_MERGED" value="6c71c4" />
     <option name="FILESTATUS_MODIFIED" value="2aa198" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
@@ -172,9 +171,7 @@
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
@@ -3588,7 +3585,6 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="org.rust.DOC_CODE" baseAttributes="DEFAULT_DOC_MARKUP" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="859900" />
