@@ -1,18 +1,11 @@
 <scheme name="_@user_Arc Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2019-01-29T12:34:13</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-07-31T13:03:50</property>
+    <property name="modified">2019-07-31T14:45:24</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8f9d6a" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
