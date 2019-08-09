@@ -1,6 +1,6 @@
 <application>
   <component name="WebBrowsersConfiguration" default="first">
-    <browser id="7699fa00-9191-490d-843a-47791cbaf04e" name="Chromium" family="CHROME" path="chromium-browser">
+    <browser id="7699fa00-9191-490d-843a-47791cbaf04e" name="Chromium" family="CHROME" path="chromium-browser" active="false">
       <settings>
         <use-custom-profile>true</use-custom-profile>
         <user-data-dir>$USER_HOME$/.config/chromium</user-data-dir>
