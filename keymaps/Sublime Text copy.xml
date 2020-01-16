@@ -1,4 +1,4 @@
-<keymap version="1" name="Sublime Text copy">
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
