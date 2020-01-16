@@ -3,6 +3,15 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -12,6 +21,8 @@
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="android" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="androidx" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="com" withSubpackages="true" static="false" />
         <emptyLine />
@@ -32,36 +43,59 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
-  <Objective-C-extensions>
-    <file>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
-    </file>
-    <class>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
-    </class>
-    <extensions>
-      <pair source="cpp" header="h" fileNamingConvention="NONE" />
-      <pair source="c" header="h" fileNamingConvention="NONE" />
-    </extensions>
-  </Objective-C-extensions>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="GraphQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
@@ -165,5 +199,10 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>

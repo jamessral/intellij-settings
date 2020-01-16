@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="PATH" value="$USER_HOME$/.cargo/bin:/home/jsral/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/jsral/.rbenv/bin:/home/jsral/n/bin" />
+    </envs>
+  </component>
+</application>
