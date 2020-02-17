@@ -3,11 +3,35 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="ConvertJavaToKotlin" />
+  <action id="DecrementWindowHeight" />
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Hg.Commit.And.Push.Executor" />
+  <action id="IncrementWindowHeight" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
