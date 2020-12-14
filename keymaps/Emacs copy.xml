@@ -1,0 +1,9 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="ConvertJavaToKotlin" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
+</keymap>
